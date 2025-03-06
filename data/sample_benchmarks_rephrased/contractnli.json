@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "query": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+      "query": "\"In the Non-Disclosure Agreement between CopAcc and ToP Mentors, is it clearly stated that the Receiving Party has no rights to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt",
@@ -14,7 +14,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between CopAcc and ToP Mentors, does it explicitly state that the Receiving Party is not granted any rights to the Confidential Information?\"",
+      "query": "\"In the Non-Disclosure Agreement between CopAcc and ToP Mentors, does it explicitly state that Confidential Information shall include technical information?\"",
       "snippets": [
         {
           "file_path": "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt",
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+      "query": "\"In the Non-Disclosure Agreement between CopAcc and ToP Mentors, is it clearly stated that the Receiving Party has no rights to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt",
@@ -40,7 +40,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between CopAcc and ToP Mentors, does it expressly state that the Receiving Party is not granted any rights to the Confidential Information?\"",
+      "query": "\"In the Non-Disclosure Agreement between CopAcc and ToP Mentors, is it clearly stated that the Receiving Party has no rights to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt",
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between CopAcc and ToP Mentors, does it explicitly state that the Receiving Party is not granted any rights to the Confidential Information?\"",
+      "query": "\"Reference the Non-Disclosure Agreement between CopAcc and ToP Mentors--is it clear that the Receiving Party does not have any rights to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt",
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+      "query": "\"In the Non-Disclosure Agreement between CopAcc and ToP Mentors Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt",
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between CopAcc and ToP Mentors, does it explicitly state that the Receiving Party is not granted any rights to the Confidential Information?\"",
+      "query": "\"How can the Receiving Party acquire Confidential Information that the Agreement does not grant the Receiving Party? Is it prohibited from doing so?\"",
       "snippets": [
         {
           "file_path": "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between CopAcc and ToP Mentors, does it explicitly state that the Receiving Party is not granted any rights to the Confidential Information?\"",
+      "query": "\"In the Non-Disclosure Agreement between CopAcc and ToP Mentors, can the Receiving Party share some Confidential Information with their employees?\"",
       "snippets": [
         {
           "file_path": "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt",
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between CopAcc and ToP Mentors, does it explicitly state that the Receiving Party is not granted any rights to the Confidential Information?\"",
+      "query": "\"Does the Non-Disclosure Agreement between CopAcc and ToP Mentors restrict the use of Confidential Information to the purposes stated in the Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt",
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "query": "\"Does DBT's Mutual Non-Disclosure Agreement explicitly state that the Receiving Party is not granted any rights to the Confidential Information?\"",
+      "query": "\"In the Non-Disclosure Agreement between DBT and TJX Ventures, is it clearly stated that the Receiving Party has no rights to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/DBT%20Mutual%20NDA.txt",
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "query": "Consider DBT's Mutual Non-Disclosure Agreement; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+      "query": "\"Is DBT's Mutual Non-Disclosure Agreement a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?\"",
       "snippets": [
         {
           "file_path": "contractnli/DBT%20Mutual%20NDA.txt",
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "query": "\"Are the provisions in DBT's Mutual Non-Disclosure Agreement specific to only technical information?",
+      "query": "\"How does DBT's Mutual Non-Disclosure Agreement address the use of Confidential Information for purposes other than technical?",
       "snippets": [
         {
           "file_path": "contractnli/DBT%20Mutual%20NDA.txt",
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "query": "\"Consider DBT's Mutual Non-Disclosure Agreement; Do we need all Confidential Information to be expressly identified by the Disclosing Party?\"",
+      "query": "\"What is the requirements of DBT's Mutual Non-Disclosure Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/DBT%20Mutual%20NDA.txt",
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "query": "\"Consider DBT's Mutual Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?\"",
+      "query": "\"How do DBT's Mutual Non-Disclosure Agreement (MNOA) and the confidentiality agreement between DBT and its employees work?",
       "snippets": [
         {
           "file_path": "contractnli/DBT%20Mutual%20NDA.txt",
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "query": "Consider DBT's Mutual Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+      "query": "\"Do DBT's Mutual Non-Disclosure Agreements permit the Receiving Party to retain some Confidential Information even after its return or destruction?\"",
       "snippets": [
         {
           "file_path": "contractnli/DBT%20Mutual%20NDA.txt",
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "query": "Consider DBT's Mutual Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+      "query": "\"What is the Non-Disclosure Agreement between DBT and DSW? Is it specific as to when I would be required to notify the Disclosing Party of any law, regulation, or judicial process to disclose any Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/DBT%20Mutual%20NDA.txt",
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "query": "Consider DBT's Mutual Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+      "query": "\"How can a Person acquire information similar to the Confidential Information from a third party? And is this covered by DBT's Mutual Non-Disclosure Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/DBT%20Mutual%20NDA.txt",
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "query": "Consider DBT's Mutual Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+      "query": "\"In DBT's Mutual Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?\"",
       "snippets": [
         {
           "file_path": "contractnli/DBT%20Mutual%20NDA.txt",
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "query": "\"How does DBT's Mutual Non-Disclosure Agreement restrict the use of Confidential Information?\"",
+      "query": "\"What is DBT's Mutual Non-Disclosure Agreement? \"",
       "snippets": [
         {
           "file_path": "contractnli/DBT%20Mutual%20NDA.txt",
@@ -296,7 +296,7 @@
       ]
     },
     {
-      "query": "\"In the Data Use Agreement for New York City, does the document specify if the Receiving Party must destroy or return Confidential Information once the Agreement ends?\"",
+      "query": "\"According to the Data Use Agreement in New York City, what happens to Confidential Information when the agreement ends? Is the Receiving Party required to return or destroy it?\"",
       "snippets": [
         {
           "file_path": "contractnli/Data Use Agreement New York City.txt",
@@ -317,7 +317,7 @@
       ]
     },
     {
-      "query": "Consider the Data Use Agreement in New York City; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+      "query": "\"How does the Data Use Agreement in New York City make sense? Does it give the Receiving Party anything rights to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/Data Use Agreement New York City.txt",
@@ -330,7 +330,7 @@
       ]
     },
     {
-      "query": "\"In the Data Use Agreement for New York City, does the document specify if the Receiving Party must destroy or return Confidential Information once the Agreement ends?\"",
+      "query": "\"According to the Data Use Agreement in New York City, does the Agreement state that certain obligations of the Agreement may survive termination?\"",
       "snippets": [
         {
           "file_path": "contractnli/Data Use Agreement New York City.txt",
@@ -351,7 +351,7 @@
       ]
     },
     {
-      "query": "\"In the Data Use Agreement for New York City, does the document specify if the Receiving Party must destroy or return Confidential Information once the Agreement ends?\"",
+      "query": "\"With respect to the Data Use Agreement in New York City, does the agreement specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/Data Use Agreement New York City.txt",
@@ -364,7 +364,7 @@
       ]
     },
     {
-      "query": "\"In the Data Use Agreement for New York City, does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?\"",
+      "query": "\"In the Data Use Agreement in New York City; Does the Data Use Agreement provide for the retention of confidential information, including names, numbers, emails, and passwords?",
       "snippets": [
         {
           "file_path": "contractnli/Data Use Agreement New York City.txt",
@@ -385,7 +385,7 @@
       ]
     },
     {
-      "query": "\"In the Data Use Agreement for New York City, does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?\"",
+      "query": "\"According to the Data Use Agreement in New York City, does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?\"",
       "snippets": [
         {
           "file_path": "contractnli/Data Use Agreement New York City.txt",
@@ -398,7 +398,7 @@
       ]
     },
     {
-      "query": "Consider the Data Use Agreement in New York City; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+      "query": "\"In the Data Use Agreement in New York City; Does the document allow the Receiving Party to share some Confidential Information with their employees?\"",
       "snippets": [
         {
           "file_path": "contractnli/Data Use Agreement New York City.txt",
@@ -411,7 +411,7 @@
       ]
     },
     {
-      "query": "Consider the Data Use Agreement in New York City; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+      "query": "\"In the Data Use Agreement in New York City: Does the Agreement restrict the uses of Confidential Information to the purposes stated in the Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/Data Use Agreement New York City.txt",
@@ -432,7 +432,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+      "query": "\"What happens to Confidential Information when the Non-Disclosure Agreement between DoiT and ICN ends? Is the Receiving Party required to return or destroy it?\"",
       "snippets": [
         {
           "file_path": "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt",
@@ -445,7 +445,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between DoiT and ICN, does it explicitly state that the Receiving Party is not granted any rights to the Confidential Information?\"",
+      "query": "\"Do the Non-Disclosure Agreement between DoiT and ICN give the receiving party any rights to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt",
@@ -458,7 +458,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document state that Confidential Information shall only include technical information?",
+      "query": "\"In the Non-Disclosure Agreement between DoiT and ICN. Does the document state that Confidential Information shall only include technical information?\"",
       "snippets": [
         {
           "file_path": "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt",
@@ -471,7 +471,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+      "query": "\"In the Non-Disclosure Agreement between DoiT and ICN; Does the document specify whether some of the obligations continue in effect even after termination?\"",
       "snippets": [
         {
           "file_path": "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt",
@@ -484,7 +484,7 @@
       ]
     },
     {
-      "query": "\"What is the non-disclosure agreement between DoiT and ICN? Is it enforceable by the Supreme Court of Canada? If so, then I understand why I am asking the question, not the details of the agreement between them.\"",
+      "query": "\"In the Non-Disclosure Agreement between DoiT and ICN, does it state whether the Receiving Party has the right to continue to develop or independently develop information similar to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt",
@@ -497,7 +497,7 @@
       ]
     },
     {
-      "query": "\"What about the Non-Disclosure Agreement between DoiT and ICN? Does the receiving party have a right to share some Confidential Information with third parties, including consultants, agents, and professional advisors?\"",
+      "query": "\"Is the Non-Disclosure Agreement between DoiT and ICN enforceable against the Receiving Party? Is the document enforceable against third parties, including consultants, agents, and professional advisors?\"",
       "snippets": [
         {
           "file_path": "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt",
@@ -510,7 +510,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+      "query": "\"What is the Non-Disclosure Agreement between DoiT and ICN about? Is it written so that a third party is not allowed to acquire information similar to the Confidential Information from a third party?\"",
       "snippets": [
         {
           "file_path": "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt",
@@ -523,7 +523,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+      "query": "\"Do the Non Disclosure Agreement between DoiT and ICN include any provisions relating to the right of the Receiving Party to share some Confidential Information with their employees?\"",
       "snippets": [
         {
           "file_path": "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt",
@@ -536,7 +536,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+      "query": "\"What does the \"NDA\" between DoiT and ICN mean? Is the Confidential Information only used for the purposes stated in the NDA?\"",
       "snippets": [
         {
           "file_path": "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt",
@@ -549,7 +549,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between EFCA and CopAcc, does it explicitly state that the Receiving Party is not granted any rights to the Confidential Information?\"",
+      "query": "\"In the Non-Disclosure Agreement between EFCA and ToP Mentors, does it clearly state that the Receiving Party has no rights to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/EFCAConfidentialityAgreement.txt",
@@ -562,7 +562,7 @@
       ]
     },
     {
-      "query": "\"What is the main clause of EFCA's Non-Disclosure Agreement and what is it?\"",
+      "query": "\"Is EFCA's Non-Disclosure Agreement a clause that prevents the Receiving Party to disclose that the Agreement was agreed upon or negotiated?\"",
       "snippets": [
         {
           "file_path": "contractnli/EFCAConfidentialityAgreement.txt",
@@ -575,7 +575,7 @@
       ]
     },
     {
-      "query": "Consider EFCA's Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+      "query": "\"Is EFCA's Non-Disclosure Agreement that the Confidential Information shall include all technological information?\"",
       "snippets": [
         {
           "file_path": "contractnli/EFCAConfidentialityAgreement.txt",
@@ -596,7 +596,7 @@
       ]
     },
     {
-      "query": "\"Does EFCA's Non-Disclosure Agreement mention whether certain obligations continue even after the Agreement is terminated?\"",
+      "query": "\"EFCA\u2019s Non-Disclosure Agreement outlines various obligations\u2014does it specify whether any of them remain in effect even after termination?\"",
       "snippets": [
         {
           "file_path": "contractnli/EFCAConfidentialityAgreement.txt",
@@ -617,7 +617,7 @@
       ]
     },
     {
-      "query": "Consider EFCA's Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+      "query": "\"According to the NDA between EFCA and EFLA, does it allow the Receiving Party to independently develop information that is similar to Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/EFCAConfidentialityAgreement.txt",
@@ -646,7 +646,7 @@
       ]
     },
     {
-      "query": "Consider EFCA's Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+      "query": "\"In EFCA's Non-Disclosure Agreement; Does the document specify whether some obligations of the Agreement may survive the termination of the Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/EFCAConfidentialityAgreement.txt",
@@ -659,7 +659,7 @@
       ]
     },
     {
-      "query": "Consider EFCA's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+      "query": "\"Is EFCA's Non-Disclosure Agreement enforceable by a third party? Can the Receiving Party share some Confidential Information with non-affiliated or third-party consultants, agents, and professionals?\"",
       "snippets": [
         {
           "file_path": "contractnli/EFCAConfidentialityAgreement.txt",
@@ -680,7 +680,7 @@
       ]
     },
     {
-      "query": "Consider EFCA's Non-Disclosure Agreement; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+      "query": "\"In EFCA\u2019s Non-Disclosure Agreement; Does the document mention that certain obligations of the Agreement may survive the termination of the Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/EFCAConfidentialityAgreement.txt",
@@ -693,7 +693,7 @@
       ]
     },
     {
-      "query": "Consider EFCA's Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+      "query": "\"In EFCA's Non-Disclosure Agreement; Does the document provide for the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/EFCAConfidentialityAgreement.txt",
@@ -706,7 +706,7 @@
       ]
     },
     {
-      "query": "Consider EFCA's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+      "query": "\"In the Non-Disclosure Agreement between EFCA and ToP Mentors; Does the Agreement grant the Receiving Party any rights to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/EFCAConfidentialityAgreement.txt",
@@ -719,7 +719,7 @@
       ]
     },
     {
-      "query": "Consider EFCA's Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+      "query": "\"Regarding the EFCA's Non-Disclosure Agreement, is the use of Confidential Information limited to the purposes stated in the Agreement,\"",
       "snippets": [
         {
           "file_path": "contractnli/EFCAConfidentialityAgreement.txt",
@@ -740,7 +740,7 @@
       ]
     },
     {
-      "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+      "query": "\"In the Confidentiality and Non-Disclosure Agreement between Eskom and NetWorks, is it clearly stated that the Receiving Party has no rights to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
@@ -761,7 +761,7 @@
       ]
     },
     {
-      "query": "\"Does Eskom's Confidentiality and Non-Disclosure Agreement include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?\"",
+      "query": "\"What is the clause in Eskom's Confidentiality and Non-Disclosure Agreement that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?\"",
       "snippets": [
         {
           "file_path": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
@@ -782,7 +782,7 @@
       ]
     },
     {
-      "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+      "query": "\"What is the Confidentiality and Non-Disclosure Agreement between Eskom and NDP? Was it stated that Confidential Information shall only include technical information?\"",
       "snippets": [
         {
           "file_path": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
@@ -803,7 +803,7 @@
       ]
     },
     {
-      "query": "\"Consider Eskom's Confidentiality and Non-Disclosure Agreement; does the document require that all Confidential Information be expressly identified by the Disclosing Party?\"",
+      "query": "\"What is the requirement of Eskom's Confidentiality and Non-Disclosure Agreement?",
       "snippets": [
         {
           "file_path": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
@@ -816,7 +816,7 @@
       ]
     },
     {
-      "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+      "query": "\"Eskom's Confidentiality and Non-Disclosure Agreement\" is an agreement that has no obligations to keep confidential information when the Agreement is terminated. Is it possible for any of these obligations to remain in effect even after termination?",
       "snippets": [
         {
           "file_path": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
@@ -837,7 +837,7 @@
       ]
     },
     {
-      "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+      "query": "\"In Eskom's Confidentiality and Non-Disclosure Agreement, does the document allow the Receiving Party to independently develop any information that is similar to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
@@ -858,7 +858,7 @@
       ]
     },
     {
-      "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+      "query": "\"What is the reason why the Confidentiality and Non-Disclosure Agreement between Eskom and Tshwane is annexed to this document? Does it permit the receiving party to retain some of their confidential information even after it is returned or destroyed?",
       "snippets": [
         {
           "file_path": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
@@ -871,7 +871,7 @@
       ]
     },
     {
-      "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+      "query": "\"Does Eskom's Confidentiality and Non-Disclosure Agreement allow verbally conveyed information to be considered as Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
@@ -892,7 +892,7 @@
       ]
     },
     {
-      "query": "\"Does Eskom's Confidentiality and Non-Disclosure Agreement allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?\"",
+      "query": "\"Is Eskom's Confidentiality and Non-Disclosure Agreement governed by the US federal law? Is it obligated to protect the confidentiality of information in the manner described in the US federal law??\"",
       "snippets": [
         {
           "file_path": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
@@ -905,7 +905,7 @@
       ]
     },
     {
-      "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+      "query": "\"What is the requirement regarding Eskom's Confidentiality and Non-Disclosure Agreement? Is the receiving party required to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
@@ -926,7 +926,7 @@
       ]
     },
     {
-      "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+      "query": "\"Does Eskom's Confidentiality and Non-Disclosure Agreement let the Receiving Party acquire information similar to the Confidential Information from a third party?\"",
       "snippets": [
         {
           "file_path": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
@@ -947,7 +947,7 @@
       ]
     },
     {
-      "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+      "query": "\"Is the Confidentiality and Non-Disclosure Agreement between Eskom and their employees in force? Do they have the right to share with their employees some of the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
@@ -960,7 +960,7 @@
       ]
     },
     {
-      "query": "\"What are the purposes of Eskom's Confidentiality and Non-Disclosure Agreement?\"",
+      "query": "\"What are the provisions in Eskom's Confidentiality and Non-Disclosure Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
@@ -989,7 +989,7 @@
       ]
     },
     {
-      "query": "Consider Epsteen's Non-Disclosure Agreement; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+      "query": "\"Are the terms of Epsteen's Non-Disclosure Agreement clear? Is there an obligation for the Receiving Party to destroy or return Confidential Information upon the termination of the Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/epsteen_nda.txt",
@@ -1002,7 +1002,7 @@
       ]
     },
     {
-      "query": "\"Consider Epsteen's Non-Disclosure Agreement; does this stipulate that the Confidential Information shall only include technical information?\"",
+      "query": "\"What are the terms of Epsteen's Non-Disclosure Agreement? Is the Confidential Information to be limited to technical information only?",
       "snippets": [
         {
           "file_path": "contractnli/epsteen_nda.txt",
@@ -1015,7 +1015,7 @@
       ]
     },
     {
-      "query": "\"In Epsteen's Non-Disclosure Agreement, does the document include a clause that prohibits the Receiving Party from soliciting some of the Disclosing Parties representatives?\"",
+      "query": "\"What clause is not included in the NDA between Epsteen and EDITECH? Could it be one that prohibits the receiving party from soliciting some of the Disclosing party's representatives?\"",
       "snippets": [
         {
           "file_path": "contractnli/epsteen_nda.txt",
@@ -1028,7 +1028,7 @@
       ]
     },
     {
-      "query": "Consider Epsteen's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+      "query": "\"Does the Non-Disclosure Agreement between Epsteen and Emerson, NJ allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?\"",
       "snippets": [
         {
           "file_path": "contractnli/epsteen_nda.txt",
@@ -1041,7 +1041,7 @@
       ]
     },
     {
-      "query": "\"How does Epsteen's Non-Disclosure Agreement treat employees?",
+      "query": "\"How does Epsteen's Non-Disclosure Agreement work? May the Receiving Party share some Confidential Information with their employees without consent?\"",
       "snippets": [
         {
           "file_path": "contractnli/epsteen_nda.txt",
@@ -1054,7 +1054,7 @@
       ]
     },
     {
-      "query": "\"Consider Epsteen's Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?\"",
+      "query": "\"In Epsteen's Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/epsteen_nda.txt",
@@ -1067,7 +1067,7 @@
       ]
     },
     {
-      "query": "Consider Evelozcity's Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+      "query": "\"Today I am about to consider Evelozcity's Non-Disclosure Agreement. Is the information in the Agreement clear that the Receiving Party has no rights to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/Evelozcity%20OESA%20NDA.txt",
@@ -1080,7 +1080,7 @@
       ]
     },
     {
-      "query": "\"What does the Privacy Policy that Evelozcity's NDAA cover? Is it the same as the Privacy Policy that other companies have?\"",
+      "query": "\"When was Evelozcity's Non-Disclosure Agreement finalized? Do I have to sign again to terminate it?\"",
       "snippets": [
         {
           "file_path": "contractnli/Evelozcity%20OESA%20NDA.txt",
@@ -1101,7 +1101,7 @@
       ]
     },
     {
-      "query": "Consider Evelozcity's Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+      "query": "\"What are the main requirements of Evelozcity's Non-Disclosure Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/Evelozcity%20OESA%20NDA.txt",
@@ -1114,7 +1114,7 @@
       ]
     },
     {
-      "query": "\"What do you mean with the Non-Disclosure Agreement of Evelozcity? Do we have to pay in full or may we just agree on non-disclosure for now?\"",
+      "query": "\"In Evelozcity's Non-Disclosure Agreement; Does the document indicate that some obligations of the Agreement may survive the termination of the Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/Evelozcity%20OESA%20NDA.txt",
@@ -1127,7 +1127,7 @@
       ]
     },
     {
-      "query": "Consider Evelozcity's Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+      "query": "\"Does the Non-Disclosure Agreement between Evelozcity and InnovateX allow the Receiving Party to separately develop information that is similar to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/Evelozcity%20OESA%20NDA.txt",
@@ -1148,7 +1148,7 @@
       ]
     },
     {
-      "query": "Consider Evelozcity's Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+      "query": "\"Is the verbal presentation of information on a non-disclosure agreement considered Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/Evelozcity%20OESA%20NDA.txt",
@@ -1161,7 +1161,7 @@
       ]
     },
     {
-      "query": "\"Consider Evelozcity's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?\"",
+      "query": "\"What does the nDiffusion clause in the Evelozcity Non-Disclosure Agreement state?\"",
       "snippets": [
         {
           "file_path": "contractnli/Evelozcity%20OESA%20NDA.txt",
@@ -1174,7 +1174,7 @@
       ]
     },
     {
-      "query": "Consider Evelozcity's Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+      "query": "\"Does Evelozcity's Non-Disclosure Agreement require the Receiving Party to notify the Disclosing Party when it is required by law, regulation, or judicial process to disclose any Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/Evelozcity%20OESA%20NDA.txt",
@@ -1187,7 +1187,7 @@
       ]
     },
     {
-      "query": "\"In the case of Evelozcity's Non-Disclosure Agreement, does it allow the Receiving Party to acquire information similar to the Confidential Information from a third party?\"",
+      "query": "\"Is Evelozcity's Non-Disclosure Agreement governed by federal or state law?\"",
       "snippets": [
         {
           "file_path": "contractnli/Evelozcity%20OESA%20NDA.txt",
@@ -1208,7 +1208,7 @@
       ]
     },
     {
-      "query": "\"Consider Evelozcity's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?\"",
+      "query": "\"Should Evelozcity's non-disclosure agreement allow the Receiving Party to share some Confidential Information with their employees?",
       "snippets": [
         {
           "file_path": "contractnli/Evelozcity%20OESA%20NDA.txt",
@@ -1221,7 +1221,7 @@
       ]
     },
     {
-      "query": "\"In Evelozcity's Non-Disclosure Agreement, does the document restrict the use of Confidential Information to the purposes stated in the Agreement?\"",
+      "query": "\"What are the purposes of Evelozcity's Non-Disclosure Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/Evelozcity%20OESA%20NDA.txt",
@@ -1242,7 +1242,7 @@
       ]
     },
     {
-      "query": "\"In Excelerate's Non-Disclosure Agreement, does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?\"",
+      "query": "\"In the Non-Disclosure Agreement between Excelerate and Oracle, are there provisions that specifie the Receiving Party is required to destroy the Confidential Information or return it upon the termination of the Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/ExcelerateStandardNDAFormat.txt",
@@ -1255,7 +1255,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between Excelerate and CopAcc, does it explicitly state that the Receiving Party is not granted any rights to the Confidential Information?\"",
+      "query": "\"In Excelerate's Non-Disclosure Agreement; Is the clause clearly stated that the receiving party has no rights to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/ExcelerateStandardNDAFormat.txt",
@@ -1268,7 +1268,7 @@
       ]
     },
     {
-      "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+      "query": "\"Ining Excelerate's Non-Disclosure Agreement, is there any requirement that Confidential Information include only technical information?",
       "snippets": [
         {
           "file_path": "contractnli/ExcelerateStandardNDAFormat.txt",
@@ -1281,7 +1281,7 @@
       ]
     },
     {
-      "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+      "query": "\"What is the requirement for Excelerate's Non-Disclosure Agreement, and does it require that all Confidential Information be explicitly identified by the Disclosing Party?\"",
       "snippets": [
         {
           "file_path": "contractnli/ExcelerateStandardNDAFormat.txt",
@@ -1294,7 +1294,7 @@
       ]
     },
     {
-      "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+      "query": "\"The Non-Disclosure Agreement with Excelerate is a non-exclusive agreement. Is the document able to survive termination?\"",
       "snippets": [
         {
           "file_path": "contractnli/ExcelerateStandardNDAFormat.txt",
@@ -1307,7 +1307,7 @@
       ]
     },
     {
-      "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+      "query": "\"In Excelerate's Non-Disclosure Agreement, Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/ExcelerateStandardNDAFormat.txt",
@@ -1336,7 +1336,7 @@
       ]
     },
     {
-      "query": "\"Consider Excelerate's Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?\"",
+      "query": "\"In Excelerate's Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?\"",
       "snippets": [
         {
           "file_path": "contractnli/ExcelerateStandardNDAFormat.txt",
@@ -1357,7 +1357,7 @@
       ]
     },
     {
-      "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+      "query": "\"Is Excelerate's Non-Disclosure Agreement a non-disclosure agreement or an assignment of rights? If not, is the language unclear?\"",
       "snippets": [
         {
           "file_path": "contractnli/ExcelerateStandardNDAFormat.txt",
@@ -1370,7 +1370,7 @@
       ]
     },
     {
-      "query": "\"What is the difference between Excelerate's non-disclosure and confidentiality agreement?\"",
+      "query": "\"In Excelerate's Non-Disclosure Agreement; Does the document allow the receiving party to disclose certain Confidential Information with third parties, including consultants?",
       "snippets": [
         {
           "file_path": "contractnli/ExcelerateStandardNDAFormat.txt",
@@ -1383,7 +1383,7 @@
       ]
     },
     {
-      "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+      "query": "\"Is Excelerate's Non-Disclosure Agreement a requirement of certain confidentiality conditions?",
       "snippets": [
         {
           "file_path": "contractnli/ExcelerateStandardNDAFormat.txt",
@@ -1404,7 +1404,7 @@
       ]
     },
     {
-      "query": "\"Excelerate's Non-Disclosure Agreement clearly states that confidentiality will not be waived in the event the Receiving Party is required by law, regulation, or judicial process to disclose any Confidential Information. Do we have any other non-disclosure agreements?\"",
+      "query": "\"What does Excelerate's Non-Disclosure Agreement require?",
       "snippets": [
         {
           "file_path": "contractnli/ExcelerateStandardNDAFormat.txt",
@@ -1417,7 +1417,7 @@
       ]
     },
     {
-      "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+      "query": "\"In Excelerate's Non-Disclosure Agreement, Does the document permit the Receiving Party to acquire information similar to the Confidential Information from a third party?\"",
       "snippets": [
         {
           "file_path": "contractnli/ExcelerateStandardNDAFormat.txt",
@@ -1446,7 +1446,7 @@
       ]
     },
     {
-      "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+      "query": "\"Is Excelerate's Non-Disclosure Agreement a non-disclosure agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/ExcelerateStandardNDAFormat.txt",
@@ -1459,7 +1459,7 @@
       ]
     },
     {
-      "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+      "query": "\"What are the purposes of Excelerate's Non-Disclosure Agreement?",
       "snippets": [
         {
           "file_path": "contractnli/ExcelerateStandardNDAFormat.txt",
@@ -1480,7 +1480,7 @@
       ]
     },
     {
-      "query": "\"Consider FNHA's Non-Disclosure Agreement; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?\"",
+      "query": "\"In FNHA's Non-Disclosure Agreement, Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
@@ -1493,7 +1493,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between FNHA and the Receiving Party, does it explicitly state that the Receiving Party is not granted any rights to the Confidential Information?\"",
+      "query": "\"In FNHA's Non-Disclosure Agreement, does the agreement indicate that the Receiving Party has no rights to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
@@ -1514,7 +1514,7 @@
       ]
     },
     {
-      "query": "Consider FNHA's Non-Disclosure Agreement; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+      "query": "\"In FNHA's Non-Disclosure Agreement, does it include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed on or negotiated?\"",
       "snippets": [
         {
           "file_path": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
@@ -1527,7 +1527,7 @@
       ]
     },
     {
-      "query": "\"Consider FNHA's Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?\"",
+      "query": "\"What is FNHA's Non-Disclosure Agreement? Does it specify what constitutes Disclosure in the agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
@@ -1540,7 +1540,7 @@
       ]
     },
     {
-      "query": "Consider FNHA's Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+      "query": "\"What is the Non-Disclosure Agreement between FNHA and the FNHA Oil and Gas Company called? Does the agreement allow verbally conveyed information to be considered as Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
@@ -1553,7 +1553,7 @@
       ]
     },
     {
-      "query": "Consider FNHA's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+      "query": "\"Does FNHA's Non-Disclosure Agreement allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?\"",
       "snippets": [
         {
           "file_path": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
@@ -1566,7 +1566,7 @@
       ]
     },
     {
-      "query": "Consider FNHA's Non-Disclosure Agreement; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+      "query": "\"In the Non-Disclosure Agreement between FNH and the Receiving Party; Does the document allow the Receiving Party to create a copy of some Confidential Information under certain circumstances?\"",
       "snippets": [
         {
           "file_path": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
@@ -1579,7 +1579,7 @@
       ]
     },
     {
-      "query": "Consider FNHA's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+      "query": "\"In FNHA's Non-Disclosure Agreement, Does it allow the Receiving Party to share some Confidential Information with their employees?\"",
       "snippets": [
         {
           "file_path": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
@@ -1592,7 +1592,7 @@
       ]
     },
     {
-      "query": "\"Consider FNHA's Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?\"",
+      "query": "\"In FNHA's Non-Disclosure Agreement, does the document restrict the use of Confidential Information to the purposes stated in the Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
@@ -1605,7 +1605,7 @@
       ]
     },
     {
-      "query": "Consider APIC's Confidentiality Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+      "query": "\"Is APIC's Confidentiality Agreement clear that the Receiving Party has no rights to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt",
@@ -1618,7 +1618,7 @@
       ]
     },
     {
-      "query": "Consider APIC's Confidentiality Agreement; Does the document state that Confidential Information shall only include technical information?",
+      "query": "\"In APIC's Confidentiality Agreement; Does the document state that Confidential Information shall only include technical information?\"",
       "snippets": [
         {
           "file_path": "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt",
@@ -1631,7 +1631,7 @@
       ]
     },
     {
-      "query": "\"What is the scope of APIC's Confidentiality Agreement? Is there any mention of the sharing of some or all of the Confidential Information with third parties, including consultants, agents, and professional advisors?\"",
+      "query": "\"What is the requirement of APIC's Confidentiality Agreement? Do they permit the Receiving Party to share some Confidential Information with third parties?",
       "snippets": [
         {
           "file_path": "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt",
@@ -1652,7 +1652,7 @@
       ]
     },
     {
-      "query": "\"Considering APIC's Confidentiality Agreement; does the document restrict the use of Confidential Information to the purposes stated in the Agreement?\"",
+      "query": "\"What is the purpose of the Confidentiality Agreement between APIC and Xerox Corp.?\"",
       "snippets": [
         {
           "file_path": "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt",
@@ -1665,7 +1665,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants, does it explicitly state that the Receiving Party is not granted any rights to the Confidential Information?\"",
+      "query": "\"In the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants, is it clearly stated that the receiving party has no rights to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt",
@@ -1678,7 +1678,7 @@
       ]
     },
     {
-      "query": "\"Does the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants state that Confidential Information shall only include technical information??\"",
+      "query": "\"What is the terms of the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants? Is it clear?",
       "snippets": [
         {
           "file_path": "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt",
@@ -1699,7 +1699,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants, does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?\"",
+      "query": "\"How is the Confidential Information communicated between Hochschule Furtwangen University and Thesis Participants in the Non-Disclosure Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt",
@@ -1720,7 +1720,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+      "query": "\"In the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants, Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?\"",
       "snippets": [
         {
           "file_path": "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt",
@@ -1733,7 +1733,7 @@
       ]
     },
     {
-      "query": "\"How would you describe the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants?\"",
+      "query": "\"In the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants. Does the document give the Receiving Party the right to acquire other than Confidential Information from a third party?",
       "snippets": [
         {
           "file_path": "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt",
@@ -1754,7 +1754,7 @@
       ]
     },
     {
-      "query": "\"For GreenStorm, do I have rights to the Confidential Information under GreenStorm's Non-Disclosure Agreement?\"",
+      "query": "\"In the Non-Disclosure Agreement between GreenStorm and ToP Mentors, is it clearly stated that the Receiving Party has no rights to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/GreenStorm%20NDCSC.txt",
@@ -1767,7 +1767,7 @@
       ]
     },
     {
-      "query": "Consider GreenStorm's Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+      "query": "\"What is the general rule of the Non-Disclosure Agreement between GreenStorm and the Receiving Party? Is it only technical information?",
       "snippets": [
         {
           "file_path": "contractnli/GreenStorm%20NDCSC.txt",
@@ -1780,7 +1780,7 @@
       ]
     },
     {
-      "query": "Consider GreenStorm's Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+      "query": "\"Question the GreenStorm Non-Disclosure Agreement. Does the non-disclosure agreement require that all Confidential Information be expressly identified by the Disclosing Party?\"",
       "snippets": [
         {
           "file_path": "contractnli/GreenStorm%20NDCSC.txt",
@@ -1801,7 +1801,7 @@
       ]
     },
     {
-      "query": "\"What is the purpose of the \"Receiving Party\" section of GreenStorm's Non-Disclosure Agreement?\"",
+      "query": "What is the clause that prohibits a Party from soliciting some of the Disclosing Party's representatives in the GreenStorm Non-Disclosure Agreement?",
       "snippets": [
         {
           "file_path": "contractnli/GreenStorm%20NDCSC.txt",
@@ -1814,7 +1814,7 @@
       ]
     },
     {
-      "query": "\"Consider GreenStorm's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors??\"",
+      "query": "\"How does GreenStorm's Non-Disclosure Agreement define non-disclosure? Is it conditional? Is it unambiguous about what is considered non-disclosure?\"",
       "snippets": [
         {
           "file_path": "contractnli/GreenStorm%20NDCSC.txt",
@@ -1827,7 +1827,7 @@
       ]
     },
     {
-      "query": "\"What part of Grindrod SA's Non-Disclosure Agreement does it state that Confidential Information shall only include technical information?\"",
+      "query": "\"What is the purpose of the Non-Disclosure Agreement between Grindrod SA and Enel? Is it to protect information from the Receiving Party only? \"",
       "snippets": [
         {
           "file_path": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
@@ -1840,7 +1840,7 @@
       ]
     },
     {
-      "query": "Consider Grindrod SA's Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+      "query": "\"What happens to Confidential Information after the Disclosing Party has been identified in a Non-Disclosure Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
@@ -1853,7 +1853,7 @@
       ]
     },
     {
-      "query": "Consider Grindrod SA's Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+      "query": "\"In Grindrod SA's Non-Disclosure Agreement, Does the document list any obligations that may survive the termination of the Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
@@ -1874,7 +1874,7 @@
       ]
     },
     {
-      "query": "Consider Grindrod SA's Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+      "query": "\"What is the Non-Disclosure Agreement between Grindrod SA and its customers? Is it a stipulation that the Receiving Party or the Receiving Party's counterparty cannot independently develop or produce information that is similar to the confidential information?\"",
       "snippets": [
         {
           "file_path": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
@@ -1887,7 +1887,7 @@
       ]
     },
     {
-      "query": "\"Consider Grindrod SA's Non-Disclosure Agreement; does the document allow verbally conveyed information to be considered as Confidential Information?\"",
+      "query": "\"Does the Non-Disclosure Agreement between Grindrod SA and ESA allow verbally conveyed information to be considered as Confidential Information??\"",
       "snippets": [
         {
           "file_path": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
@@ -1900,7 +1900,7 @@
       ]
     },
     {
-      "query": "Consider Grindrod SA's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+      "query": "\"In Grindrod SA's Non-Disclosure Agreement, Does the document allow the Receiving Party to share some of the Confidential Information with third parties, including consultants, agents, and professional advisors?",
       "snippets": [
         {
           "file_path": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
@@ -1921,7 +1921,7 @@
       ]
     },
     {
-      "query": "\"Does the Non-Disclosure Agreement between Grindrod SA and the Receiving Party allow the Receiving Party to share some Confidential Information with their employees?\"",
+      "query": "\"Does Grindrod SA's Non-Disclosure Agreement exclude sharing Confidential Information with its employees?\"",
       "snippets": [
         {
           "file_path": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
@@ -1942,7 +1942,7 @@
       ]
     },
     {
-      "query": "\"What is the purpose of Grindrod SA's Non-Disclosure Agreement? Is the purpose of the Agreement limited to the purpose stated in the Agreement?\"",
+      "query": "\"What is the purpose of Grindrod SA's Non-Disclosure Agreement's use of Confidential Information?",
       "snippets": [
         {
           "file_path": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
@@ -1963,7 +1963,7 @@
       ]
     },
     {
-      "query": "Consider Euler Hermes's Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+      "query": "\"In the Non-Disclosure Agreement between Euler Hermes and the Receiving Party, is it clear that the Receiving Party has no rights to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/eulerhermes-nda.txt",
@@ -1976,7 +1976,7 @@
       ]
     },
     {
-      "query": "\"Does Euler Hermes's Non-Disclosure Agreement only include technical information?",
+      "query": "\"What are the terms of Euler Hermes' contract with Euler Hermes? Do they state that Confidential Information shall contain only technical information?\"",
       "snippets": [
         {
           "file_path": "contractnli/eulerhermes-nda.txt",
@@ -1989,7 +1989,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between Euler Hermes and a Confidential Information Provider, does the Disclosing Party have to expressly identify all Confidential Information?\"",
+      "query": "\"Are the terms of Euler Hermes's Non-Disclosure Agreement clearly listed on the document? Is it mandatory to give sufficient notice to the Disclosing Party to protect all Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/eulerhermes-nda.txt",
@@ -2002,7 +2002,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between Euler Hermes and CopAcc, does it explicitly state that the Receiving Party is not granted any rights to the Confidential Information?\"",
+      "query": "\"In Euler Hermes\u2019s Non-Disclosure Agreement, does it mention whether some of the obligations of the Agreement may survive termination?\"",
       "snippets": [
         {
           "file_path": "contractnli/eulerhermes-nda.txt",
@@ -2015,7 +2015,7 @@
       ]
     },
     {
-      "query": "Consider Euler Hermes's Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+      "query": "\"According to Euler Hermes's Non-Disclosure Agreement, can verbally conveyed information be considered Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/eulerhermes-nda.txt",
@@ -2028,7 +2028,7 @@
       ]
     },
     {
-      "query": "\"Does Euler Hermes's Non-Disclosure Agreement allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?\"",
+      "query": "\"In Euler Hermes's Non-Disclosure Agreement, Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?\"",
       "snippets": [
         {
           "file_path": "contractnli/eulerhermes-nda.txt",
@@ -2049,7 +2049,7 @@
       ]
     },
     {
-      "query": "Consider Euler Hermes's Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+      "query": "\"In the Non-Disclosure Agreement between Euler Hermes and ToP Mentors, does it say anything about the Receiving Party having to notify the Disclosing Party if they are required to disclose the Confidential Information??\"",
       "snippets": [
         {
           "file_path": "contractnli/eulerhermes-nda.txt",
@@ -2070,7 +2070,7 @@
       ]
     },
     {
-      "query": "Consider Euler Hermes's Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+      "query": "\"What are the provisions of the NDA between Euler Hermes and the Receiving Party?\"",
       "snippets": [
         {
           "file_path": "contractnli/eulerhermes-nda.txt",
@@ -2091,7 +2091,7 @@
       ]
     },
     {
-      "query": "\"How does the Euler Hermes Non-Disclosure Agreement relate to the sharing of Confidential Information with employees?\"",
+      "query": "\"Does Euler Hermes's Non-Disclosure Agreement permit the Receiving Party to share some Confidential Information with their employees?\"",
       "snippets": [
         {
           "file_path": "contractnli/eulerhermes-nda.txt",
@@ -2104,7 +2104,7 @@
       ]
     },
     {
-      "query": "\"Consider Euler Hermes's Non-Disclosure Agreement; does the document restrict the use of Confidential Information to the purposes stated in the Agreement?\"",
+      "query": "\"In Euler Hermes' Non-Disclosure Agreement, does the Agreement restrict the use of Confidential Information to the purposes stated in the Agreement?",
       "snippets": [
         {
           "file_path": "contractnli/eulerhermes-nda.txt",
@@ -2117,7 +2117,7 @@
       ]
     },
     {
-      "query": "\"In HNBA's Confidentiality Agreement, does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?\"",
+      "query": "\"In HNBA's Confidentiality Agreement, Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
@@ -2130,7 +2130,7 @@
       ]
     },
     {
-      "query": "\"In the Confidentiality Agreement between HNBA and its affiliates, does it explicitly state that the Receiving Party is not granted any rights to the Confidential Information?\"",
+      "query": "\"HNBA's Confidentiality Agreement provides for a specific confidentiality term, is there any mention of any non-participation rights by the receiving party in the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
@@ -2151,7 +2151,7 @@
       ]
     },
     {
-      "query": "\"Consider HNBA's Confidentiality Agreement; Does the document state that Confidential Information shall only include technical information?\"",
+      "query": "\"What was the specific language of the Confidentiality Agreement between HNBA and the Privacy Commissioner regarding Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
@@ -2172,7 +2172,7 @@
       ]
     },
     {
-      "query": "Consider HNBA's Confidentiality Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+      "query": "\"What is the requirement for HNBA's Confidentiality Agreement?",
       "snippets": [
         {
           "file_path": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
@@ -2185,7 +2185,7 @@
       ]
     },
     {
-      "query": "\"How does the Confidentiality Agreement between HNBA and the Contracting Party cover the obligations of both parties?",
+      "query": "\"EXCEPT HNBA's Confidentiality Agreement, does it specify whether certain obligations may survive the termination of the Agreement?",
       "snippets": [
         {
           "file_path": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
@@ -2198,7 +2198,7 @@
       ]
     },
     {
-      "query": "Consider HNBA's Confidentiality Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+      "query": "\"In HNBA's Confidentiality Agreement, Is the document restricted to the Receiving Party from independently developing Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
@@ -2219,7 +2219,7 @@
       ]
     },
     {
-      "query": "\"Consider HNBA's Confidentiality Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?\"",
+      "query": "\"In HNBA's Confidentiality Agreement, Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?\"",
       "snippets": [
         {
           "file_path": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
@@ -2232,7 +2232,7 @@
       ]
     },
     {
-      "query": "\"Is the HNBA's Confidentiality Agreement a legal document? What is the definition of Confidential??\"",
+      "query": "\"If the Confidentiality Agreement of HNBA are being used for information in a conference, can the information be considered Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
@@ -2253,7 +2253,7 @@
       ]
     },
     {
-      "query": "\"What are the requirements for privacy laws in Canada? Is there a requirement that all Confidential Information be protected?\"",
+      "query": "\"In HNBA's Confidentiality Agreement, Does the agreement provide that a third-party may collect, use, and disclose Confidential Information?",
       "snippets": [
         {
           "file_path": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
@@ -2266,7 +2266,7 @@
       ]
     },
     {
-      "query": "\"What is the requirement of a Confidentiality Agreement between HNBA and its client? Is it the same as an NDA?\"",
+      "query": "\"What does the Confidentiality Agreement between HNBA and Xenon Energy mean? Does it require the Receiving Party to notify the Disclosing Party of any law, regulation, or judicial process requiring the disclosure of Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
@@ -2279,7 +2279,7 @@
       ]
     },
     {
-      "query": "Consider HNBA's Confidentiality Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+      "query": "\"What is the scope of a Confidentiality Agreement between HNBA and the Receiving Party? Can the Receiver acquire information similar to the Confidential Information from a third party?\"",
       "snippets": [
         {
           "file_path": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
@@ -2300,7 +2300,7 @@
       ]
     },
     {
-      "query": "Consider HNBA's Confidentiality Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+      "query": "\"Is the Confidentiality Agreement between HNBA and their employees ambiguous on sharing Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
@@ -2313,7 +2313,7 @@
       ]
     },
     {
-      "query": "\"How does HNBA's Confidentiality Agreement provide for the use of Confidential Information?",
+      "query": "\"Does the confidentiality agreement between HNBA and the alleged owner, John Moore, limit the use of Confidential Information to the purposes stated in the Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
@@ -2326,7 +2326,7 @@
       ]
     },
     {
-      "query": "\"Is there any provision in the Non-Disclosure Agreement between IBC and PMS that specifically forbids the Receiving Party from reverse engineering any objects which embody the Disclosing Party's Confidential Information?\"",
+      "query": "\"IBC's Confidentiality Agreements with IBC and PMS are between an entity that provides services in the fields of financial services, and a customer of PMS's. Is the Confidentiality Agreement between IBC and PMS a written agreement that outlines how the Receiving Party will receive confidential information from the Disclosing Party?\"",
       "snippets": [
         {
           "file_path": "contractnli/IBC-PMS-NDA-agreement.txt",
@@ -2347,7 +2347,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between IBC and PMS, does it explicitly state that the Receiving Party is not granted any rights to the Confidential Information?\"",
+      "query": "\"In the Non-Disclosure Agreement between IBC and PMS, is it clearly stated that the Receiving Party has no rights to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/IBC-PMS-NDA-agreement.txt",
@@ -2360,7 +2360,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document state that Confidential Information shall only include technical information?",
+      "query": "\"What are the terms of Confidential Information in the Non-Disclosure Agreement between IBC and PMS?\"",
       "snippets": [
         {
           "file_path": "contractnli/IBC-PMS-NDA-agreement.txt",
@@ -2389,7 +2389,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+      "query": "\"In the Non-Disclosure Agreement between IBC and PMS, does it specify whether any of them remain in effect even after termination?\"",
       "snippets": [
         {
           "file_path": "contractnli/IBC-PMS-NDA-agreement.txt",
@@ -2410,7 +2410,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+      "query": "\"Does the Non-Disclosure Agreement between IBC and PMS allows the Receiving Party to independently develop information that is similar to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/IBC-PMS-NDA-agreement.txt",
@@ -2431,7 +2431,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+      "query": "\"What is the non-disclosure agreement between IBC and PMS regarding? Can some Confidential Information be retained after return or destruction?\"",
       "snippets": [
         {
           "file_path": "contractnli/IBC-PMS-NDA-agreement.txt",
@@ -2444,7 +2444,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between IBC and PMS, does the document allow verbally conveyed information to be considered as Confidential Information?\"",
+      "query": "\"Does the Non-Disclosure Agreement between IBC and PMS allow verbally conveyed information to be considered as Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/IBC-PMS-NDA-agreement.txt",
@@ -2465,7 +2465,7 @@
       ]
     },
     {
-      "query": "\"Consider the Non-Disclosure Agreement between PMS and IBC; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?\"",
+      "query": "\"Does the Non-Disclosure Agreement between IBC and PMS permit the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?\"",
       "snippets": [
         {
           "file_path": "contractnli/IBC-PMS-NDA-agreement.txt",
@@ -2478,7 +2478,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between IBC and PMS, does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?\"",
+      "query": "\"In the Non-Disclosure Agreement between IBC and PMS; Can the receiving party create a copy of certain Confidential Information under certain circumstances?\"",
       "snippets": [
         {
           "file_path": "contractnli/IBC-PMS-NDA-agreement.txt",
@@ -2499,7 +2499,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+      "query": "\"What are the terms and stipulations of the Non-Disclosure Agreement between IBC and PMS? Is there a requirement that the receiving party notify the Disclosing party if they are required by law to disclose any Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/IBC-PMS-NDA-agreement.txt",
@@ -2512,7 +2512,7 @@
       ]
     },
     {
-      "query": "\"In consideration of the Non-Disclosure Agreement between IBC and PMS, does the document provide that the Receiving Party can acquire information similar to the Confidential Information from a third party?\"",
+      "query": "\"By the Non-Disclosure Agreement between IBC and PMS, does the Receiving Party have the right to acquire information similar to the Confidential Information from a third party?\"",
       "snippets": [
         {
           "file_path": "contractnli/IBC-PMS-NDA-agreement.txt",
@@ -2533,7 +2533,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+      "query": "\"What is the content of the Non-Disclosure Agreement between PMS and IBC?\"",
       "snippets": [
         {
           "file_path": "contractnli/IBC-PMS-NDA-agreement.txt",
@@ -2546,7 +2546,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between IBC and PMS, does the document restrict the use of Confidential Information to the purposes stated in the Agreement?\"",
+      "query": "\"What is the NDA between IBC and PMS? Is it limited to the specific purposes of making and using Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/IBC-PMS-NDA-agreement.txt",
@@ -2575,7 +2575,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between IGC and LSE, does it explicitly state that the Receiving Party is not granted any rights to the Confidential Information?\"",
+      "query": "\"Is the Non-Disclosure Agreement between IGC and LSE clear that receiving party is not allowed to access Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
@@ -2588,7 +2588,7 @@
       ]
     },
     {
-      "query": "\"What is the clause in an NDA that prevents a party from disclosing the fact that the agreement was agreed upon or negotiated?\"",
+      "query": "\"Is there an agreement contained in the Non-disclosely Agreement between IGC and LSE that prohibits the Receiving Party from disclosing that the Agreement was agreed upon or negotiated?\"",
       "snippets": [
         {
           "file_path": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
@@ -2609,7 +2609,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between IGC and LSE, does it state that Confidential Information shall only include technical information?\"",
+      "query": "\"In the Non-Disclosure Agreement between LSE and IGC; Does the document state that Confidential Information shall only include technical information?",
       "snippets": [
         {
           "file_path": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
@@ -2630,7 +2630,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+      "query": "\"How is the Confidential Information to be identified in the Non-Disclosure Agreement between IGC and LSE?\"",
       "snippets": [
         {
           "file_path": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
@@ -2651,7 +2651,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+      "query": "\"What concerns the Non-Disclosure Agreement between IGC and LSE about what can and cannot be disclosed in the event of a breach of the Agreement?",
       "snippets": [
         {
           "file_path": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
@@ -2672,7 +2672,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+      "query": "\"In the Non-Disclosure Agreement between IGC and LSE, does it permit the Receiving Party to retain some of the Confidential Information even after its return or destruction?\"",
       "snippets": [
         {
           "file_path": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
@@ -2693,7 +2693,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+      "query": "\"What is the Non-Disclosure Agreement between IGC and LSE, and can it be considered Confidential Information?",
       "snippets": [
         {
           "file_path": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
@@ -2706,7 +2706,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+      "query": "\"In the Non-Disclosure Agreement between IGC and LSE; does the term allow the Receiving Party to share some Confidential Information with third parties?",
       "snippets": [
         {
           "file_path": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
@@ -2727,7 +2727,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between IGC and LSE, does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?\"",
+      "query": "\"What are the specifics to the Non-Disclosure Agreement between IGC and LSE?\"",
       "snippets": [
         {
           "file_path": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
@@ -2740,7 +2740,7 @@
       ]
     },
     {
-      "query": "\"Consider the Non-Disclosure Agreement between IGC and LSE; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?\"",
+      "query": "IGC and LSE signed a Non-Disclosure Agreement, and as the Receiving Party, is it required to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
       "snippets": [
         {
           "file_path": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
@@ -2753,7 +2753,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between IGC and LSE, does it state that the Receiving Party may keep Confidential Information confidential??\"",
+      "query": "\"What is in the Non-Disclosure Agreement between IGC and LSE? Does it permit the receiving party to share some Confidential Information with their employees?\"",
       "snippets": [
         {
           "file_path": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
@@ -2774,7 +2774,7 @@
       ]
     },
     {
-      "query": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+      "query": "\"In the Non-Disclosure Agreement between IGC and LSE, does the document restrict the use of Confidential Information to the purposes stated in the Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
@@ -2803,7 +2803,7 @@
       ]
     },
     {
-      "query": "\"Does INFOMAGNET's Non-Disclosure Agreement explicitly state that the Receiving Party must not reverse engineer any objects which embody the Disclosing Party's Confidential Information?\"",
+      "query": "\"Is the INFOMAGNET's Non-Disclosure Agreement clear on the fact that the Receiving Party is not allowed to reverse engineer any object embodied in the Disclosing Party's Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/INFOMAGNET%20NDA.txt",
@@ -2816,7 +2816,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement between INFOMAGNET and the Receiving Party, does it expressly state that the Receiving Party is not granted any rights to the Confidential Information?\"",
+      "query": "\"What are the terms of INFOMAGNET's Non-Disclosure Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/INFOMAGNET%20NDA.txt",
@@ -2829,7 +2829,7 @@
       ]
     },
     {
-      "query": "\"In INFOMAGNET's Non-Disclosure Agreement, does it state that Confidential Information shall only include technical information?\"",
+      "query": "\"Does the INFOMAGNET Non-Disclosure Agreement specify that Confidential Information shall only include technical information?\"",
       "snippets": [
         {
           "file_path": "contractnli/INFOMAGNET%20NDA.txt",
@@ -2858,7 +2858,7 @@
       ]
     },
     {
-      "query": "\"Since INFOMAGNET's Non-Disclosure Agreement is not a formal contract, is there any requirement that the Confidential Information be identified by the Disclosing Party?\"",
+      "query": "\"Does INFOMAGNET's non-disclosure agreement require confidentiality on all Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/INFOMAGNET%20NDA.txt",
@@ -2871,7 +2871,7 @@
       ]
     },
     {
-      "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+      "query": "\"Is the Confidential Information outlined in INFOMAGNET's Non-Disclosure Agreement considered confidential? Does it contain any provisions exempting the Receiving Party from confidentiality in its conduct under the Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/INFOMAGNET%20NDA.txt",
@@ -2892,7 +2892,7 @@
       ]
     },
     {
-      "query": "\"In the Non-Disclosure Agreement of INFOMAGNET, does the Receiving Party agree not to independently develop information that is similar to the Confidential Information?\"",
+      "query": "\"What are the terms of INFOMAGNET's Non-Disclosure Agreement? Is it implied that the Receiving Party would be able to independently develop information that was similar to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/INFOMAGNET%20NDA.txt",
@@ -2913,7 +2913,7 @@
       ]
     },
     {
-      "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+      "query": "\"In INFOMAGNET's Non-Disclosure Agreement, can their retain some Confidential Information after their return or destruction?\"",
       "snippets": [
         {
           "file_path": "contractnli/INFOMAGNET%20NDA.txt",
@@ -2926,7 +2926,7 @@
       ]
     },
     {
-      "query": "\"Consider INFOMAGNET's Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?\"",
+      "query": "\"What are the specific provisions of INFOMAGNET's Non-Disclosure Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/INFOMAGNET%20NDA.txt",
@@ -2947,7 +2947,7 @@
       ]
     },
     {
-      "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+      "query": "\"Meanwhile, what is the scope of INFOMAGNET's Non-Disclosure Agreement? Are there any restrictions on the Receiving Party's ability to share some Confidential Information with third parties, including consultants, agents, and professional advisors?\"",
       "snippets": [
         {
           "file_path": "contractnli/INFOMAGNET%20NDA.txt",
@@ -2960,7 +2960,7 @@
       ]
     },
     {
-      "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+      "query": "\"In INFOMAGNET's Non-Disclosure Agreement; does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?\"",
       "snippets": [
         {
           "file_path": "contractnli/INFOMAGNET%20NDA.txt",
@@ -2973,7 +2973,7 @@
       ]
     },
     {
-      "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+      "query": "\"In INFOMAGNET's Non-Disclosure Agreement is it required that the receiving party notify the Disclosing party if they are required to disclose any Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/INFOMAGNET%20NDA.txt",
@@ -2986,7 +2986,7 @@
       ]
     },
     {
-      "query": "\"Consider INFOMAGNET's Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?\"",
+      "query": "\"Since the INFOMAGNET Non-Disclosure Agreement was formed, does it allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
       "snippets": [
         {
           "file_path": "contractnli/INFOMAGNET%20NDA.txt",
@@ -3007,7 +3007,7 @@
       ]
     },
     {
-      "query": "\"In the INFOMAGNET's Non-Disclosure Agreement, does the Receiving Party have the option to share some Confidential Information with their employees?",
+      "query": "\"According to the INFOMAGNET's Non-Disclosure Agreement, can the Receiving Party share some Confidential Information with their employees?\"",
       "snippets": [
         {
           "file_path": "contractnli/INFOMAGNET%20NDA.txt",
@@ -3020,7 +3020,7 @@
       ]
     },
     {
-      "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+      "query": "\"How does the INFOMAGNET Non-Disclosure Agreement relate to Confidential Information?",
       "snippets": [
         {
           "file_path": "contractnli/INFOMAGNET%20NDA.txt",
@@ -3033,7 +3033,7 @@
       ]
     },
     {
-      "query": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+      "query": "\"In the Non-Disclosure Agreement between IPTK and CO, is it clearly stated that the Receiving Party has no rights to the Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
@@ -3054,7 +3054,7 @@
       ]
     },
     {
-      "query": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document state that Confidential Information shall only include technical information?",
+      "query": "What is the meaning of the Confidential Information in the Mutual Non-Disclosure Agreement between IPTK and CO?",
       "snippets": [
         {
           "file_path": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
@@ -3067,7 +3067,7 @@
       ]
     },
     {
-      "query": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+      "query": "\"In the Mutual Non-Disclosure Agreement between IPTK and CO, does it require that all Confidential Information be explicitly identified by the Disclosing Party?\"",
       "snippets": [
         {
           "file_path": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
@@ -3088,7 +3088,7 @@
       ]
     },
     {
-      "query": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+      "query": "\"What is the Mutual Non-Disclosure Agreement between IPTK and CO? Do the obligations of the Agreement still come into effect after the termination of the Agreement?\"",
       "snippets": [
         {
           "file_path": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
@@ -3101,7 +3101,7 @@
       ]
     },
     {
-      "query": "\"What is the Mutual Non-Disclosure Agreement between IPTK and co. in regards to the Confidential Information?",
+      "query": "\"There is an IPTK/Co Mutual Non-Disclosure Agreement between them. I have not read that it allows the Receiving Party to independently develop information that is similar to the Confidential Information.\"",
       "snippets": [
         {
           "file_path": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
@@ -3122,7 +3122,7 @@
       ]
     },
     {
-      "query": "\"In the Mutual Non-Disclosure Agreement between IPTK and CO, does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?\"",
+      "query": "\"Is the Mutual Non-Disclosure Agreement between IPTK and CO permitted to retain some Confidential Information even after its return or destruction?\"",
       "snippets": [
         {
           "file_path": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
@@ -3135,7 +3135,7 @@
       ]
     },
     {
-      "query": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+      "query": "\"Are verbally conveyed discussions considered Confidential Information under the Mutual Non-Disclosure Agreement between CO and IPTK?\"",
       "snippets": [
         {
           "file_path": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
@@ -3156,7 +3156,7 @@
       ]
     },
     {
-      "query": "\"In the Mutual Non-Disclosure Agreement between IPTK and CO, does it allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?\"",
+      "query": "\"What is the scope of the Mutual Non-Disclosure Agreement between IPTK and CO? Is there an obligation for the Receiving Party to provide the Confidential Information to consultants, agents, and professional advisors? Is there a restriction on sharing the Confidential Information with third parties?",
       "snippets": [
         {
           "file_path": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
@@ -3169,7 +3169,7 @@
       ]
     },
     {
-      "query": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+      "query": "\"Is the Mutual Non-Disclosure Agreement between IPTK and CO required to notify a Disclosing Party of any requirement that they disclose any Confidential Information?\"",
       "snippets": [
         {
           "file_path": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
@@ -3182,7 +3182,7 @@
       ]
     },
     {
-      "query": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+      "query": "\"How does the Mutual Non-Disclosure Agreement between IPTK and CO differ from the Privacy Policy? Does the Receiving Party have the right to acquire similar information from a third party?\"",
       "snippets": [
         {
           "file_path": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
