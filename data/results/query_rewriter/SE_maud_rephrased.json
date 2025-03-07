@@ -1,0 +1,1942 @@
+[
+  {
+    "query": "What is the main reason that parent \"Magic AcquireCo, Inc.\" and Target \"The Michaels Companies, Inc.\" are buying each other?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What information about the closing condition to the Acquisition Agreement between the parent and target companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Do the parent and Target have a Representation & Warranty of No Material Adverse Effect,\" and what is the Target's Representation & Warranty of No Material Adverse Effect, as regards to some specific date?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the definitions of \"Material Adverse Effect\" in the Acquisition Agreement between \"Magic AcquireCo, Inc.\" and Target \"The Michaels Companies, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Definition of \"Knowledge\" in the Acquisition Agreement between \"Magic AcquireCo, Inc.\" and Target \"The Michaels Companies, Inc.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of clause is the Fiduciary exception to the No-Shop Clause in the Acquisition Agreement between Target \"The Michaels Companies, Inc.\" and Parent \"Magic AcquireCo, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of \"Superior Proposal\" of the Acquisition Agreement between Parent \"Magic AcquireCo\" and Target \"The Michaels\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the terms of the Acquisition Agreement between Parent \"Magic AcquireCo, Inc.\" and Target \"The Michaels Companies, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Tail provision in the Acquisition Agreement between Parent \"Magic AcquireCo, Inc.\" and Target \"The Michaels Companies, Inc.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the Ordinary course of business covenants in the Acquisition Agreement between Parent \"Magic AcquireCo, Inc.\" and Target \"The Michaels Companies, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the Acquisition Agreement between \"Magic AcquireCo, Inc.\" and \"The Michaels Companies, Inc.\" include a specific performance clause?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What information about the Closing Condition is in the Acquisition Agreement between Parent \"LVMH Mot Hennessy-Louis Vuitton SE\" and Target \"Tiffany & Co.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the \"Representation and Warranty of No Material Adverse Effect\" of Target, Tiffany & Co.\" with respect to a certain date and its parent company?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of \"knowledge\" in the Acquisition Agreement between Target \"Tiffany & Co.\" and Parent \"LVMH Mot Hennessy-Louis Vuitton SE\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What clause does the Acquisition Agreement between \"LVMH Mot Hennessy-Louis Vuitton SE\" and Target \"Tiffany & Co.\" have?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Acquisition Agreement between Target and Parent \"LVMH Mot Hennessy-Louis Vuitton SE\"? What is the Definition of a Superior Proposal?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What are the requirements for a \"Interveining Event\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the main terms of the Acquisition Agreement between Parent \"LVMH Mot Hennessy-Louis Vuitton SE\" and Target \"Tiffany & Co.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the scope of the Acquisition Agreement between Parent LVMH Mot Hennessy-Louis Vuitton SE and Target \"Tiffany & Co.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the Ordinary course of business covenants in the Acquisition Agreement between Target \"Tiffany & Company\" and Parent \"LVMH Mot Hennessy-Louis Vuitton SE\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the specific performance clause that lays down what the Purchase Agreement between Target \"Tiffany & Co.\" and Parent \"LVMH\" Mot Hennessy-Louis Vuitton SE\" will do?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the closing condition of the Acquisition Agreement between Ocala Bidco , Inc. and Inovalon Holdings, Inc?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What does the Parent's Representation & Warranty of No Material Adverse Effect in the Acquisition Agreement entail with respect to some specified date?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of \"knowledge\" in the Acquisition Agreement between Ocala Bidco, Inc. and Inovalon Holdings, Inc.?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Consider the Acquisition Agreement between Parent \"Ocala Bidco, Inc.\" and Target \"Inovalon Holdings, Inc.\"; Where is the \"No-Shop Clause\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is there a tail provisions for acquisition proposals in the Acquisition Agreement between Parent \"Ocala Bidco, Inc.\" and Target \"Inovalon Holdings, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Why does the Acquisition Agreement between Ocala Bidco and Inovalon Holdings, Inc. have a termination condition?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Specific Performance clause in the Acquisition Agreement between Ocala Bidco, Inc. and Inovalon Holdings, Inc.?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the details of the merger agreement between Atlas CC Acquisition Corp. and Cubic Corporation?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of \"knowledge\" in the Merger Agreement between Atlas CC Acquisition Corp. and Cubic Corporation?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Where is the No-Shop Clause in the Merger Agreement between Atlas CC Acquisition Corp. and Cubic Corporation?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How does the Fiduciary exception to the No-Shop Clause in the merger agreement between Atlas CC Acquisition Corp.\" and Cubic Corporation apply?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In the Merger Agreement between Atlas CC Acquisition Corp. and Cubic Corporation, what is the definition of \"Interveining Event\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What was the Fiduciary Termination Right that was described in the Merger Agreement between Atlas CC Acquisition Corp and Cubic Corporation?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Atlas CC Acquisition Corp.\" and Cubic Corporation have a Merger Agreement, what is a Tail provision?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the Ordinary course of business covenants in the Merger agreement between Atlas CC Acquisition Corp. and Cubic Corporation?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the specific performance clause in the Merger Agreement between Atlas CC Acquisition Corp. and Cubic Corporation?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the type of consideration in the Acquisition Agreement between Parent Gainwell Acquisition Corp. and target HMS Holdings Corp.?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Could you help me with the acquisition agreement between \"HMS Holdings Corp.\" and \"Gainwell Acquisition Corp.\"? \"Apache Acquisition Corp.\" is also a parent company of \"Gainwell Acquisition Corp.\"; what is the closing condition of the acquisition agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Representation & Warranty of No Material Adverse Effect, with regards to some specified date in the Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of \"material adverse effect\"? in the Acquisition Agreement between parent \"Gainwell Acquisition Corp.\" and target \"HMS Holdings Corp.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of knowledge according to the Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does \"HMS Holdings Corp.\" have a No-Shop Clause in the Acquisition Agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What about the Fiduciary exception to the No-Shop Clause in the Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of \"Superior Proposal\" in the Acquisition Agreement between \"Gainwell Acquisition Corp.\" and \"HMS Holdings Corp.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of an \"Interveining Event\" within the SEC's Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\",\" which is the largest \"acquisition\" in SEC history?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the terms of the Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\"? \"What information about the Fiduciary Termination Right Triggers for termination?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is there a tail provision in the Acquisition Agreement between HMS Holdings Corp. and Parent \"Gainwell Acquisition Corp.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Ordinary course of business covenants of the Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the specific performance clause in the Acquisition Agreement between \"Gainwell Acquisition Corp.\" and \"HMS Holdings Corp.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of consideration is provided in the \"guilty\" notice in the Acquisition Agreement between \"Gibraltar Acquisition Holdings LLC\" and \"W. R. Grace & Co.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the \"Closing Condition\" of an acquisition between Giraltar Acquisition Holdings LLC and Target W.R. Grace & Co.?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What information does the Acquisition Agreement contain about the closing condition of the transaction between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to particular date?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of \"Material Adverse Effect\" in the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of \"knowledge\" in the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the No-Shop Clause in the Acquisition agreement between \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What are the terms of the Fiduciary exception to the No-Shop Clause in the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Definition of \"Superior Proposal\" in the Acquisition Agreement between parent \"Gibraltar Acquisition Holdings LLC\" and target \"W. R. Grace & Co.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the term for the \"Interveining Event\" in the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the scope of the Fiduciary Termination Right in the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is there a tail provision in the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the Ordinary course of business covenants?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"With respect to the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\", can you pinpoint the Closing Conditions: Regulatory Approvals clause?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the specific performance clause in the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the type of consideration in the Acquisition Agreement between IRC Superman Midco, LLC and American Renal Associates Holdings, Inc.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the closing conditions of the Acquisition Agreement between Parent \"IRC Superman Midco, LLC\" and Target \"American Renal Associates Holdings, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the closing condition for the purchase of \"IRC Superman Midco, LLC\" by American Renal Associates Holdings, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date\" in the Acquisition Agreement between IRC Superman Midco, LLC and Target \"American Renal Associates Holdings, Inc.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What is the definition of \"material adverse effect\" in the Acquisition Agreement between the parent company \"IRC Superman Midco, LLC\" and the target company \"American Renal Associates Holdings, Inc.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of \"Knowledge\" in the Acquisition Agreement between \"IRC Superman Midco, LLC\" and \"American Renal Associates Holdings, Inc.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In the Acquisition Agreement between Parent \"IRC Superman Midco, LLC\" and Target \"American Renal Associates Holdings, Inc.\", is there a No-Shop Clause?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"The Acquisition Agreement between Parent \"IRC Superman Midco, LLC\" and Target \"American Renal Associates Holdings, Inc.\" includes a definition of what is called a \"Superior Proposal\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of \"interveining event\" in the Acquisition Agreement between IRC Superman Midco, LLC and American Renal Associates Holdings, Inc?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the information about the Fiduciary Termination Right that triggers a termination in the Acquisition Agreement between \"IRC Superman Midco, LLC\" and \"American Renal Associates Holdings, Inc.?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"According to the Acquisition Agreement between Parent & Target \"American Renal Associates Holdings, Inc.\", does it include a \"Tail Provision\" for acquisition proposals?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the Ordinary course of business covenants? Are there any in the Acquisition Agreement between IRC Superman Midco, LLC and American Renal Associates Holdings, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How do I determine how much specific performance clause is in the Acquisition Agreement between American Renal Associates Holdings, Inc. and IRC Superman Midco, LLC?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Type of Consideration in the Acquisition Agreement between Parent \"Razorback Technology Intermediate Holdings, Inc.\" and Target \"Endurance International Group Holdings, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the name of the entity that is the parent company of RodaCorp Technology Intermediate Holdings, Inc., and the entity that is the target of the Acquisition Agreement between RodaCorp and Endurance International Group Holdings, Inc.? Does it have a specific name or is it generally known as part of its name?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"As part of the Acquisition Agreement between \"Razorback Technology Intermediate Holdings, Inc.\" and \"Endurance International Group Holdings, Inc.\", what is the definition of the term \"Knowledge\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Fiduciary exception to the No-Shop Clause in the Acquisition Agreement between Parent \"Razorback Technology Intermediate Holdings, Inc.\" and Target \"Endurance International Group Holdings, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the terms of the Acquisition Agreement between Parent \"Razorback Technology Intermediate Holdings, Inc.\" and Target \"Endurance International Group Holdings, Inc.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Where does \"Investiguration Event\" occur?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How are the Fiduciary Termination Rights created and what trigger events would a termination of the contract be? What are they like?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"The Master Agreement between Parent \"Razorback Technology Intermediate Holdings, Inc.\" and Target \"Endurance International Group Holdings, Inc.\" specifies the existence of a \"Tail\" provision for acquisition proposals.\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the Ordinary course of business covenants\" in the Acquisition Agreement between Parent \"Razorback Technology Intermediate Holdings, Inc.\" and Target \"Endurance International Group Holdings, Inc.\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the type of consideration for the Acquisition Agreement between \"AstraZeneca PLC\" and \"Alexion Pharmaceuticals, Inc.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Consider the acquisition between astrazeneca plc and lexisnord Pharmaceuticals,inc.; information about the closing condition: compliance with covenants?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of \"material adverse effect\"? \"material adverse effect\" is the term used in the Acquisition Agreement between \"AstraZeneca PLC\" and \"Alexion Pharmaceuticals, Inc.\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of \"knowledge\" in the Acquisition Agreement between Parent \"AstraZeneca PLC\" and Target \"Alexion Pharmaceuticals, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Where is the No-Shop Clause in the Acquisition Agreement between Parent \"AstraZeneca PLC\" and Target \"Alexion Pharmaceuticals, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Fiduciary exception to the No-Shop Clause in the Acquisition Agreement between Parent, \"AstraZeneca PLC\" and Target, \"Alexion Pharmaceuticals, Inc.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of a superior proposal in the Acquisition Agreement between \"AstraZeneca PLC\" and Target \"Alexion Pharmaceuticals\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of \"Interveining Event\" in the Acquisition Agreement between AstraZeneca PLC and Alexion Pharmaceuticals, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Fiduciary Termination Right in the Acquisition Agreement between \"AstraZeneca PLC\" and Target \"Alexion Pharmaceuticals, Inc.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the major provisions of the Acquisition Agreement between AstraZeneca PLC and Target \"Alexion Pharmaceuticals, Inc.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What happens during a breach of No-Shop clause in an Acquisition Agreement between parent and target?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What happens during a Breach of Shareholder Meeting Covenant in an Acquisition Agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the usual course of business covenants in the Acquisition Agreement between Parent AstraZeneca and Target Alexion Pharmaceuticals, Inc.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In the Acquisition Agreement between the parent company \"AstraZeneca PLC\" and the target company \"Alexion Pharmaceuticals, Inc.\" what is the Specific Performance clause?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of consideration is detailed in the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the closing condition of the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Representation & Warranty of No Material Adverse Effect in the Acquisition Agreement between Parent The Progressive Corporation and Target \"Protective Insurance Corporation\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What is the Definition of \"material adverse effect\" in the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of \"Knowledge\" in the Acquisition Agreement between \"The Progressive Corporation\" and \"Protective Insurance Corporation\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How is the No-Shop Clause defined in the Aquisition Agreement between \"The Progressive Corporation\" and \"Protective Insurance Corporation\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Consider the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"; What about the Fiduciary exception to the No-Shop Clause?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the difference between \"Superior Proposal\" and \"Acquisition Agreement\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of \"Interveining Event\" in the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Fiduciary Termination Right? I have recently been laid off so I am looking for the information and what triggers it?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is a tail provision in the Acquisition Agreement between The Progressive Corporation and the Target \"Protective Insurance Corporation\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How is the Breach of No-Shop clause in an Acquisition Agreement involving The Progressive Corporation?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the Ordinary course of business covenants in the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Closing Conditions: Regulatory Approvals clause in the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the names of the two parties to the Acquisition Agreement between \"parent\" The Progressive Corporation and target \"Protective Insurance Corporation\"? \"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Specific Performance clause in the Acquisition Agreement between parent The Progressive Corporation and target The Protective Insurance Corporation?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Which of the following are the types of considerations in the Acquisition Agreement between \"Columbia Banking System, Inc.\" and \"Bank of Commerce Holdings\" in the United States?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the \"Closing Condition\" of the \"Acquisition Agreement\" between \"Columbia Banking System, Inc.\" and \"Bank of Commerce Holdings\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of \"Material Adverse Effect\" for the \"Purchase Agreement\"? \"Credit Approval\" or \"Default\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"CopAcc is an entity under the ownership of Columbia Bank System, Inc., which is also referred to as \"Columbia Banking System, Inc.\"\"; What is the definition of \"Knowledge\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What does the \"No-Shop Clause\" clause in the Acquisition Agreement between \"Columbia Banking System, Inc.\" and \"Bank of Commerce Holdings\" mean?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Fiduciary exception to the No-Shop Clause of the Acquisition Agreement between \"Columbia Banking System, Inc.\" and \"Tapco Bank of Commerce Holdings\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is there a definition of \"Superior Proposal\" in the \"Acquisition Agreement between Columbia Banking System, Inc.\" and \"Bank of Commerce Holdings, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the name of the FAA and what is included in the document that governs the acquisition of Columbia Banking System and Bank of Commerce Holdings? \"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Tail Provision in the Acqusion Agreement between Columbia Banking System, Inc. and Bank of Commerce Holdings?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In the Acquisition Agreement between Parent \"Columbia Banking System, Inc.\" and Target \"Bank of Commerce Holdings\", what happens during a breach of No-Shop clause?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the Ordinary course of business covenants of the Acquirement Agreement between Parent 'Columbia Banking System, Inc.' and Target 'Bank of Commerce Holdings'?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Where is the Closing Conditions: Regulatory Approvals clause in the Acquisition Agreement between \"Columbia Banking System, Inc.\" and \"Bank of Commerce Holdings\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Acquisition Agreement between \"Columbia Banking System, Inc.\" and Target \"Bank of Commerce Holdings\" called?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the specific performance clause in the Acquisition Agreement between \"Columbia Banking System, Inc.\" and Target \"Bank of Commerce Holdings\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the type of consideration in a Merger Agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Did Glenda Calimer, a member of \"Glacier Bancorp-altabancorp,\" ever agree or disagree to the terms of the Merger Agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the closing conditions of the merger of Glencore and Altabancorp?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Glacier Bancorp, Inc.\" is the parent company of Altabancorp. What is the term Material Adverse Effect? \"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Altabancorp\" is a merger between Glacier Bancorp, Inc. and Altabancorp. What are the Merger Agreement provisions?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What is the No-Shop Clause in the \"Glacier Bancorp, Inc.\" and \"Altabancorp\" Merger Agreement?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What about the Fiduciary exception to the No-Shop Clause in the Merger Agreement between Glacier Bancorp, Inc.\" and Altabancorp?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Glacier Bancorp, Inc.\" and \"Altabancorp\" formed a \"merger\" deal; does the Merger Agreement define what the Superior Proposal is?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Is there any information about the Fiduciary Termination Right in the Merger Agreement between Glacier Bancorp and Altabancorp?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Glacier Bancorp, Inc.\" and Altabancorp\" Merger Agreement - Is there a tail provision for acquisition proposals?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the Ordinary course of business covenants?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What clause is contained in the Merger Agreement between Glacier Bancorp, Inc. and Altabancorp?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How does the merger of Glacier Bancorp and Altabancorp affect the law of the State of California? \"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the specific performance clause in the Merger Agreement between Glacier Bancorp, Inc. and Alstabancorp?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of consideration is required for the acquisition of \"Electronic Arts Inc.\" by Target \"Glu Mobile Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How many agreements are there between Electronic Arts Inc. and Target Glu Mobile Inc.?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the parent and subsidiary names for \"Electronic Arts Inc.\" and \"Glu Mobile Inc.\", and what their relationship to each other is?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In the Acquisition Agreement between Electronic Arts Inc. and Target \"Glu Mobile Inc.\", what is the definition of the Material Adverse Effect?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In the Acquisition Agreement between Electronic Arts Inc. and Target Glu Mobile Inc., what is \"knowledge\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the terms of the Fiduciary exception to the No-Shop Clause in the Acquisition Agreement between Electronic Arts Inc. and Target \"Glu Mobile Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Consider the Acquisition Agreement between Parent \"Electronic Arts Inc.\" and Target \"Glu Mobile Inc.\" - what is the definition of \"Superior Proposal\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"what is the definition of \"interveining event\" in the Acquisition Agreement between Electronic Arts Inc and Glu Mobile Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is the Fiduciary Termination Right a clause in the Acquisition Agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Tail Provision and what is it used for?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How long do you need to remain the guarantor? \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\" \"\"\"\"\"\"\"\"\"\"\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the usual course of business covenants contained in the Acquisition Agreement between Electronic Arts Inc. and Target \"Glu Mobile Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Where is the closing conditions for the acquisition of Electronic Arts Inc.\" and Glu Mobile Inc.?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the effects if the purchase of Electronic Arts by Glu Mobile by the Parent, Electronic Arts Inc.?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Where is the Specific Performance clause in the Acquisition Agreement between Electronic Arts Inc. and Target Glu Mobile Inc.?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the type of consideration in the Merger Agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of \"material adverse effect\" in the merger agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"what is the definition of knowledge in the merger agreement between Amryt Pharma plc and Chiasma, Inc.\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How does the Fiduciary exception to the No-Shop Clause in the Merger Agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\" relate to the Merger? \"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of a \"Superior Proposal\" in the Merger Agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In the Merger Agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\", what is the definition of the term \"Interveining Event\" in the Merger Agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Merger Agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the usual course of business covenants in a Merger Agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the closing conditions: regulatory approvals clause in the Merger Agreement between Amryt Pharma plc and Chiasma, Inc.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "I want to know about the Limitations on Antitrust Efforts in the Merger Agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Specific Performance clause in the merger agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of consideration is in the Acquisition Agreement between Target \"Telenav\", Inc. and Parent \"V99, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What information about the Closing Condition for the Acquisition between Parent \"V99, Inc\" and Target \"Telenav, Inc.\" can you provide?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of \"Knowledge\" in the Acquisition Agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of a \"Superior Proposal\" in the Acquisition Agreement between \"V99, Inc.\" and \"Telenav, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of \"Intervening Event\" in the Acquisition Agreement between V99, Inc. and Telenav, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In the Acquisition Agreement between Parent \"V99, Inc.\" and Target \"Telenav, Inc.\", does information about the Fiduciary Termination Right Trigger for termination?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the details of the Acquisition Agreement between Parent \"V99, Inc.\" and Target \"Telenav, Inc.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the Ordinary course of business covenants in the Acquisition Agreement between Parent \"V99, Inc.\" and Target \"Telenav, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Where is the Closing Conditions: Regulatory Approvals clause in the Acquisition Agreement between Parent V99 Inc and Target Telenav, Inc?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the Limitations on Antitrust Efforts of the Acquisition Agreement between \"V99\" and \"Telenav\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the specific performance clause in the Acquisition Agreement between \"V99, Inc.\" and Target \"Telenav, Inc.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the types of considerations in the Acquisition Agreement between ELI LILLY AND COMPANY and Target \"PREVAIL THERAPEUTICS INC.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Reference the Acquisition Agreement between Parent ELI LILLY AND COMPANY and Target PREVAIL THERAPEUTICS INC.\"; What information does the Closing Condition have to do with?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Representation & Warranty of No Material Adverse Effect (R&W) of Target \"PREVAIL THERAPEUTICS INC.\", with regards to some specified date?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Where is the No-Shop Clause?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What's the Fiduciary exception to the No-Shop Clause in the Acquisition Agreement between Parent, Alilly and Target?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the definition of a Superior Proposal in the Acquisition Agreement between PREVAIL THERAPEUTICS INC. and Parent \"ELI LILLY AND COMPANY\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What is the definition of \"Interveining Event\" in the Acquisition Agreement between ELI LILLY AND COMPANY and Target PREVAIL THERAPEUTICS INC?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the Fiduciary Termination Right of the Acquisition Agreement between ELI LILLY AND COMPANY and Target PREVAIL THERAPEUTICS INC.?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the tail provision in the Acquisition Agreement between ELI LILLY AND COMPANY and Target PREVAIL THERAPEUTICS INC.\"?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the Ordinary course of business covenants? \"In the Acquisition Agreement between Parent \"ELI LILLY AND COMPANY\" and Target \"PREVAIL THERAPEUTICS INC.\"?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  }
+]

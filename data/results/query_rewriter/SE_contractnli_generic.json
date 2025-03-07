@@ -1,0 +1,1942 @@
+[
+  {
+    "query": "\"In standard Non-Disclosure Agreements, do they typically specify whether the Receiving Party is restricted from using the Confidential Information disclosed?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical Non-Disclosure Agreement define Confidential Information to encompass only technical details?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are there typically clauses in legal agreements that outline obligations continuing beyond the termination of the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can a Non-Disclosure Agreement allow the Receiving Party to keep certain Confidential Information even after it has been returned or destroyed?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Non-Disclosure Agreements typically designed to permit the Receiving Party to disclose Confidential Information to third parties like consultants, agents, and professional advisors?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Is it typical for Non-Disclosure Agreements to outline obligations regarding notifying the Disclosing Party in the event the Receiving Party is legally compelled to disclose Confidential Information?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can a Receiving Party under a typical Non-Disclosure Agreement obtain information similar to the Confidential Information from an outside source?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Non-Disclosure Agreements typically designed to permit the sharing of Confidential Information by the Receiving Party with their employees?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are restrictions typically placed on the use of Confidential Information in agreements to ensure it is only used for specified purposes?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Typically, do Mutual Non-Disclosure Agreements specify that the Receiving Party does not acquire rights to the Confidential Information shared under the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/DBT%20Mutual%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can a Mutual Non-Disclosure Agreement typically contain provisions that restrict the Receiving Party from disclosing details about the agreement's formation or negotiation process?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/DBT%20Mutual%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Does a Mutual Non-Disclosure Agreement typically define the scope of Confidential Information to specifically include technical details?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/DBT%20Mutual%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are disclosures of Confidential Information typically required to be explicitly identified by the Disclosing Party in Mutual Non-Disclosure Agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/DBT%20Mutual%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is it typical for Mutual Non-Disclosure Agreements to address the Receiving Party's ability to develop similar information independently?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/DBT%20Mutual%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Under Mutual Non-Disclosure Agreements, is it typical for the Receiving Party to be allowed to keep certain Confidential Information even after it has been returned or destroyed?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/DBT%20Mutual%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is it typical for Mutual Non-Disclosure Agreements to include provisions regarding the notification of the Disclosing Party in case the Receiving Party is legally compelled to disclose Confidential Information?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/DBT%20Mutual%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Does a Mutual Non-Disclosure Agreement typically permit the Receiving Party to obtain information resembling the Confidential Information from external sources?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/DBT%20Mutual%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Does a Mutual Non-Disclosure Agreement typically permit sharing some Confidential Information with employees of the Receiving Party?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/DBT%20Mutual%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Does a Mutual Non-Disclosure Agreement typically limit the use of Confidential Information to the specified purposes outlined in the agreement?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/DBT%20Mutual%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a standard data use agreement typically outline the protocol regarding the handling of confidential information by the receiving party upon agreement termination?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Data Use Agreement New York City.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can a Data Use Agreement typically restrict the rights of the Receiving Party regarding Confidential Information?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Data Use Agreement New York City.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In legal agreements, do obligations often continue beyond the termination of the agreement?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Data Use Agreement New York City.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is it typical for agreements to allow the Receiving Party to keep certain Confidential Information even after it has been returned or destroyed?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Data Use Agreement New York City.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Does a typical data use agreement permit the sharing of certain confidential information with third parties such as consultants, agents, and professional advisors?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Data Use Agreement New York City.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is it typically allowed for the Receiving Party to make copies of Confidential Information in legal agreements under specific conditions?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Data Use Agreement New York City.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In legal or contractual agreements, is it typically permissible for the Receiving Party to disclose certain Confidential Information to their employees?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Data Use Agreement New York City.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical Data Use Agreement outline specific restrictions on how Confidential Information can be used, aligned with the purposes defined within the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Data Use Agreement New York City.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are provisions typically included in agreements to address the handling of Confidential Information by the Receiving Party once the agreement ends?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Typically, do Non-Disclosure Agreements specify that the Receiving Party does not acquire rights to the Confidential Information covered by the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical Non-Disclosure Agreement outline specific criteria for what constitutes Confidential Information, such as limiting it to technical information?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are there clauses in typical agreements that indicate certain obligations continue even after the agreement is terminated?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Does a typical Non-Disclosure Agreement permit the Receiving Party to create similar information independently of the Confidential Information disclosed?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Non-Disclosure Agreements typically structured to permit the Receiving Party to disclose Confidential Information to third parties such as consultants, agents, and professional advisors?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can a recipient of confidential information under a non-disclosure agreement obtain similar information from a third party as per the terms of the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a standard Non-Disclosure Agreement typically permit the Receiving Party to disclose certain Confidential Information to their employees?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Non-Disclosure Agreements typically designed to limit the usage of Confidential Information to specific purposes outlined in the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Typically, do Non-Disclosure Agreements specify that the Receiving Party does not have rights to the Confidential Information covered under the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/EFCAConfidentialityAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are clauses in Non-Disclosure Agreements generally designed to prevent the Receiving Party from disclosing details about the agreement's formation or negotiation process?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/EFCAConfidentialityAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can Non-Disclosure Agreements typically define the scope of Confidential Information to specifically include technical details only?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/EFCAConfidentialityAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In legal agreements, do obligations typically persist even after the agreement has ended?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/EFCAConfidentialityAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can a recipient of confidential information under a non-disclosure agreement create similar information independently according to the agreement's terms?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/EFCAConfidentialityAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can a Non-Disclosure Agreement allow the Receiving Party to keep certain Confidential Information even after it has been returned or destroyed?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/EFCAConfidentialityAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within confidentiality agreements, is it typical for provisions to address the sharing of Confidential Information with third parties such as consultants, agents, and professional advisors by the Receiving Party?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/EFCAConfidentialityAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can a Receiving Party be allowed to make copies of certain Confidential Information in specific situations according to the terms of a typical Non-Disclosure Agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/EFCAConfidentialityAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are provisions typically included in agreements to address circumstances where the Receiving Party must disclose Confidential Information due to legal or regulatory requirements?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/EFCAConfidentialityAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Would a standard Non-Disclosure Agreement typically permit the sharing of certain Confidential Information with employees by the Receiving Party?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/EFCAConfidentialityAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is it typical for agreements to specify limitations on the use of Confidential Information to the purposes outlined in the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/EFCAConfidentialityAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is it typical for confidentiality agreements to clarify the rights of the Receiving Party regarding Confidential Information?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are clauses typically included in confidentiality agreements to prevent the disclosing party from revealing the details of the agreement's negotiation or execution?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within confidentiality agreements, do provisions typically define the scope of what constitutes Confidential Information, such as limiting it to technical details?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is it a standard practice in confidentiality agreements for the Disclosing Party to explicitly identify all Confidential Information shared within the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are there typically provisions in confidentiality agreements that outline obligations continuing beyond the agreement's termination?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are recipients typically permitted to create similar information independently in confidentiality agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are there situations where a Confidentiality and Non-Disclosure Agreement allows the Receiving Party to keep certain Confidential Information despite returning or destroying it?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are verbal communications typically treated as Confidential Information in Non-Disclosure Agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within confidentiality agreements, are there provisions that permit the sharing of certain confidential information with third parties such as consultants, agents, and professional advisors?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within confidentiality agreements, is it typically stipulated that the Receiving Party must inform the Disclosing Party if legally compelled to disclose Confidential Information by law, regulation, or court order?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can a party under a Confidentiality and Non-Disclosure Agreement obtain information similar to the confidential information from an external source?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within confidentiality agreements, is it typical for the Receiving Party to be permitted to disclose certain Confidential Information to their employees?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is it typical for Confidentiality and Non-Disclosure Agreements to limit the usage of Confidential Information to the specified purposes outlined in the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is it standard practice for a Non-Disclosure Agreement to outline the obligations regarding the handling of Confidential Information by the Receiving Party upon the conclusion of the Agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/epsteen_nda.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a Non-Disclosure Agreement typically specify the scope of information classified as Confidential, such as limiting it to technical details?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/epsteen_nda.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Non-Disclosure Agreements generally designed to restrict the Receiving Party from soliciting representatives of the Disclosing Party?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/epsteen_nda.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Non-Disclosure Agreements typically structured in a way that permits the Receiving Party to disclose Confidential Information to third parties like consultants, agents, and professional advisors?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/epsteen_nda.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within typical non-disclosure agreements, is there usually provision for the sharing of certain confidential information by the Receiving Party with their employees?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/epsteen_nda.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Non-Disclosure Agreements typically designed to limit the use of Confidential Information to specific purposes outlined within the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/epsteen_nda.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Typically, do Non-Disclosure Agreements specify that the Receiving Party is not granted rights to the Confidential Information shared under the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Evelozcity%20OESA%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can Non-Disclosure Agreements specify that Confidential Information is limited to technical details?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Evelozcity%20OESA%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is it a standard practice in Non-Disclosure Agreements for the Disclosing Party to specifically identify all Confidential Information that needs protection?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Evelozcity%20OESA%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are obligations typically expected to continue beyond the termination of a non-disclosure agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Evelozcity%20OESA%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is it typical for Non-Disclosure Agreements to address the Receiving Party's ability to develop similar information independently?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Evelozcity%20OESA%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can Non-Disclosure Agreements typically include provisions regarding the treatment of verbally communicated information as Confidential Information?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Evelozcity%20OESA%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Non-Disclosure Agreements typically drafted to permit the Receiving Party to disclose Confidential Information to third parties such as consultants, agents, and professional advisors?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Evelozcity%20OESA%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical Non-Disclosure Agreement include provisions regarding the Receiving Party's obligation to inform the Disclosing Party in case of legal requirements to disclose Confidential Information?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Evelozcity%20OESA%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Receiving Parties typically permitted to obtain information similar to Confidential Information from third parties under Non-Disclosure Agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Evelozcity%20OESA%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within Non-Disclosure Agreements, is it typically permitted for the Receiving Party to disclose certain Confidential Information to their employees?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Evelozcity%20OESA%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical Non-Disclosure Agreement specify the permitted uses of Confidential Information as outlined within the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Evelozcity%20OESA%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Non-Disclosure Agreements typically clear on the obligations regarding Confidential Information when the agreement concludes?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/ExcelerateStandardNDAFormat.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Generally, do Non-Disclosure Agreements outline that the Receiving Party does not acquire rights to the Confidential Information disclosed?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/ExcelerateStandardNDAFormat.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Would a typical Non-Disclosure Agreement specify that the definition of Confidential Information is limited to technical details only?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/ExcelerateStandardNDAFormat.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is it typical for Non-Disclosure Agreements to include provisions specifying how the Disclosing Party should identify Confidential Information?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/ExcelerateStandardNDAFormat.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In legal agreements, do provisions typically address whether certain obligations continue beyond the termination of the agreement?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/ExcelerateStandardNDAFormat.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within Non-Disclosure Agreements, is it typical for provisions to address the Receiving Party's ability to create similar information independently to the Confidential Information disclosed?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/ExcelerateStandardNDAFormat.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical Non-Disclosure Agreement allow the Receiving Party to maintain certain Confidential Information post its return or disposal?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/ExcelerateStandardNDAFormat.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can verbal information be classified as Confidential Information in typical Non-Disclosure Agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/ExcelerateStandardNDAFormat.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Typically, do Non-Disclosure Agreements permit the Receiving Party to disclose certain Confidential Information to third parties such as consultants, agents, and professional advisors?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/ExcelerateStandardNDAFormat.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is it typical for Non-Disclosure Agreements to allow the Receiving Party to duplicate Confidential Information in specific situations?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/ExcelerateStandardNDAFormat.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are parties typically obligated to inform each other if they are legally compelled to disclose Confidential Information in various legal contexts within Non-Disclosure Agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/ExcelerateStandardNDAFormat.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can a Receiving Party under a Non-Disclosure Agreement typically access information similar to the Confidential Information from external sources?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/ExcelerateStandardNDAFormat.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Receiving Parties usually permitted to disclose certain Confidential Information to their employees under Non-Disclosure Agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/ExcelerateStandardNDAFormat.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are restrictions placed on the use of Confidential Information in agreements typically limited to the specified purposes outlined in the document?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/ExcelerateStandardNDAFormat.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are provisions typically included in Non-Disclosure Agreements regarding the treatment of Confidential Information by the Receiving Party after the Agreement ends?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/FNHA-2019RFP-02-NDA-form.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Typically, do Non-Disclosure Agreements specify that the Receiving Party is not granted rights to Confidential Information covered by the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/FNHA-2019RFP-02-NDA-form.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Non-Disclosure Agreements generally designed to restrict the Receiving Party from disclosing details about the agreement's formation or negotiation process?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/FNHA-2019RFP-02-NDA-form.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical Non-Disclosure Agreement outline the requirement for the Disclosing Party to explicitly identify all Confidential Information shared under the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/FNHA-2019RFP-02-NDA-form.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within the context of confidentiality agreements, is there typically provision for verbally communicated information to be treated as confidential?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/FNHA-2019RFP-02-NDA-form.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within the context of non-disclosure agreements, do provisions typically allow the sharing of certain Confidential Information with third parties such as consultants, agents, and professional advisors?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/FNHA-2019RFP-02-NDA-form.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Under what circumstances might a Non-Disclosure Agreement allow the Receiving Party to make copies of Confidential Information?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/FNHA-2019RFP-02-NDA-form.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within the context of Non-Disclosure Agreements, do provisions typically permit the sharing of certain Confidential Information with employees by the Receiving Party?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/FNHA-2019RFP-02-NDA-form.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within Non-Disclosure Agreements, is it typically outlined that the use of Confidential Information is limited to specific purposes as defined within the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/FNHA-2019RFP-02-NDA-form.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Typically, do Confidentiality Agreements specify that the Receiving Party does not acquire any rights to the Confidential Information covered by the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Does a typical Confidentiality Agreement specify that the definition of Confidential Information is limited to technical details?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Are Confidentiality Agreements typically designed to permit the Receiving Party to disclose Confidential Information to third parties, such as consultants, agents, and professional advisors?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical Confidentiality Agreement specify the permitted uses of Confidential Information based on the purposes outlined in the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Typically, do Non-Disclosure Agreements clarify that the Receiving Party does not acquire rights to the Confidential Information exchanged?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical Non-Disclosure Agreement specify the scope of Confidential Information, such as limiting it to technical information?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical Non-Disclosure Agreement permit the Receiving Party to create similar information independently to the Confidential Information shared?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical Non-Disclosure Agreement permit the Receiving Party to disclose Confidential Information to third parties such as consultants, agents, or professional advisors?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can a recipient of confidential information under a non-disclosure agreement obtain similar information from a third party according to the agreement's terms?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Typically, in Non-Disclosure Agreements, do clauses exist that address the rights of the Receiving Party regarding Confidential Information?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/GreenStorm%20NDCSC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Non-Disclosure Agreements typically specific about the types of information that fall under the category of Confidential Information?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/GreenStorm%20NDCSC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Would a typical Non-Disclosure Agreement stipulate that the Disclosing Party must specifically identify all Confidential Information included in the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/GreenStorm%20NDCSC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are clauses typically included in Non-Disclosure Agreements to restrict the Receiving Party from soliciting representatives of the Disclosing Party?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/GreenStorm%20NDCSC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can Non-Disclosure Agreements typically permit the Receiving Party to disclose Confidential Information to third parties such as consultants, agents, and professional advisors?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/GreenStorm%20NDCSC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can Non-Disclosure Agreements typically define the scope of Confidential Information to be limited to technical details?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Does a typical Non-Disclosure Agreement typically specify that the Disclosing Party must explicitly identify all Confidential Information shared under the agreement?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In legal agreements, is it typical for certain obligations to continue even after the agreement has been terminated?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Would a typical Non-Disclosure Agreement permit the Receiving Party to create similar information independently of the Confidential Information disclosed?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can Non-Disclosure Agreements typically include provisions that define verbally conveyed information as Confidential Information?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within Non-Disclosure Agreements, do provisions exist that permit the Receiving Party to disclose Confidential Information to third parties such as consultants, agents, and professional advisors?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can a typical Non-Disclosure Agreement permit the sharing of certain Confidential Information with employees by the Receiving Party?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Generally, do Non-Disclosure Agreements typically limit the use of Confidential Information to specific purposes outlined in the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Typically, do Non-Disclosure Agreements specify that the Receiving Party does not acquire rights to the Confidential Information covered by the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/eulerhermes-nda.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Would a typical Non-Disclosure Agreement define Confidential Information to specifically encompass technical details only?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/eulerhermes-nda.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is it typical in Non-Disclosure Agreements for the Disclosing Party to explicitly identify all Confidential Information to be protected?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/eulerhermes-nda.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In legal agreements, do provisions often exist that outline which obligations persist even after the agreement has been terminated?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/eulerhermes-nda.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Could a Non-Disclosure Agreement typically include provisions that classify verbally conveyed information as Confidential Information?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/eulerhermes-nda.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can Non-Disclosure Agreements typically permit the sharing of Confidential Information with third parties such as consultants, agents, and professional advisors?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/eulerhermes-nda.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In legal agreements, is it typically outlined whether the Receiving Party must inform the Disclosing Party if they are legally obligated to disclose any Confidential Information?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/eulerhermes-nda.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Non-Disclosure Agreements typically designed to prevent the Receiving Party from obtaining information similar to the Confidential Information through third-party sources?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/eulerhermes-nda.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Receiving Parties typically permitted to disclose certain Confidential Information to their employees in Non-Disclosure Agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/eulerhermes-nda.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are restrictions typically placed on the use of Confidential Information in agreements to ensure it is only used for specified purposes?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/eulerhermes-nda.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In Confidentiality Agreements, is it typically outlined whether the Receiving Party must dispose of or return Confidential Information when the agreement concludes?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Typically, do Confidentiality Agreements restrict the Receiving Party from obtaining rights to the Confidential Information shared under the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a Confidentiality Agreement typically define Confidential Information to be limited to technical details only?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does it typically fall under the responsibility of the Disclosing Party in a confidentiality agreement to expressly identify all Confidential Information?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Does Confidentiality Agreements typically include provisions outlining whether certain obligations persist beyond the agreement's termination?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Under typical confidentiality agreements, is the Receiving Party permitted to create similar information independently of the Confidential Information provided?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Under typical Confidentiality Agreements, are Receiving Parties allowed to retain certain Confidential Information following its return or destruction?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Would a typical Confidentiality Agreement include provisions regarding the treatment of verbally communicated information as Confidential Information?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Confidentiality Agreements typically structured to permit the Receiving Party to disclose certain Confidential Information to third parties like consultants, agents, and professional advisors?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In confidentiality agreements, is it typically specified whether the Receiving Party must inform the Disclosing Party if legal or regulatory obligations necessitate the disclosure of Confidential Information?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Confidentiality Agreements typically designed to address whether the Receiving Party can obtain similar information from external sources?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can a Receiving Party typically disclose certain Confidential Information to their employees based on the terms of such agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical confidentiality agreement limit the use of confidential information to specific purposes outlined in the document?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a Non-Disclosure Agreement typically address the issue of whether the Receiving Party is permitted to reverse engineer objects containing the Disclosing Party's Confidential Information?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IBC-PMS-NDA-agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Does a typical Non-Disclosure Agreement specify that the Receiving Party does not receive any rights to the Confidential Information shared under the agreement?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IBC-PMS-NDA-agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a standard Non-Disclosure Agreement typically define the scope of Confidential Information to specifically include technical details?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IBC-PMS-NDA-agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are there typically provisions in agreements indicating that certain obligations may persist even after the agreement has ended?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IBC-PMS-NDA-agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical non-disclosure agreement permit the recipient to create similar information independently to the confidential information disclosed?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IBC-PMS-NDA-agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical confidentiality agreement allow the recipient to keep certain confidential information even after it has been returned or destroyed?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IBC-PMS-NDA-agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within the context of confidentiality agreements, is there typically a provision addressing the treatment of verbally communicated information as confidential?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IBC-PMS-NDA-agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Could a typical Non-Disclosure Agreement permit the Receiving Party to disclose certain Confidential Information to third parties such as consultants, agents, or professional advisors?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IBC-PMS-NDA-agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Would a typical confidentiality agreement allow the recipient to duplicate certain confidential information in specific situations?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IBC-PMS-NDA-agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are parties usually obligated to inform each other in legal situations where disclosure of Confidential Information is mandated by law in Non-Disclosure Agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IBC-PMS-NDA-agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical Non-Disclosure Agreement permit the Receiving Party to obtain information resembling the Confidential Information from an external source?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IBC-PMS-NDA-agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Receiving Parties typically permitted to disclose certain Confidential Information to their employees in Non-Disclosure Agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IBC-PMS-NDA-agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical Non-Disclosure Agreement limit the use of Confidential Information to the specified purposes outlined in the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IBC-PMS-NDA-agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In standard agreements involving confidentiality provisions, is it typically specified that the Receiving Party does not acquire rights to the Confidential Information disclosed?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within legal contracts, is it typical for clauses to be included that restrict the Receiving Party from disclosing details about the negotiation or agreement process?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within typical legal agreements, is it specified that Confidential Information is limited to technical details?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Non-Disclosure Agreements typically designed to specify how Confidential Information should be identified by the parties involved?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are provisions typically included in agreements to address whether certain obligations remain in effect after the agreement ends?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can a typical agreement like a Non-Disclosure Agreement allow the Receiving Party to keep certain Confidential Information even after it has been returned or destroyed?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical Non-Disclosure Agreement recognize verbally communicated information as Confidential Information?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within typical legal agreements, do provisions exist that permit the Receiving Party to disclose Confidential Information to third parties, such as consultants and professional advisors?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within typical legal agreements, do provisions allow the Receiving Party to duplicate Confidential Information in specific situations?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Receiving Parties typically obligated to inform Disclosing Parties if compelled by legal or regulatory requirements to disclose Confidential Information in agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Under typical Non-Disclosure Agreements, are Receiving Parties generally permitted to disclose certain Confidential Information to their employees?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical Non-Disclosure Agreement limit the use of Confidential Information to the purposes outlined in the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within Non-Disclosure Agreements, is there typically clarification on whether the Receiving Party has permission to reverse engineer any items containing the Disclosing Party's Confidential Information?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/INFOMAGNET%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Typically, do Non-Disclosure Agreements specify that the Receiving Party does not acquire rights to the Confidential Information covered by the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/INFOMAGNET%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Non-Disclosure Agreements typically limited to technical information when defining Confidential Information?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/INFOMAGNET%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is it a standard practice in Non-Disclosure Agreements for the Disclosing Party to explicitly identify all Confidential Information disclosed?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/INFOMAGNET%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Non-Disclosure Agreements typically structured to address whether obligations persist beyond the end of the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/INFOMAGNET%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Receiving Parties typically permitted to develop similar information independently in Non-Disclosure Agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/INFOMAGNET%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Does a typical Non-Disclosure Agreement allow the Receiving Party to keep certain Confidential Information even after it has been returned or destroyed as per the agreement's terms?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/INFOMAGNET%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can verbal disclosures be classified as Confidential Information in Non-Disclosure Agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/INFOMAGNET%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can a typical Non-Disclosure Agreement enable the Receiving Party to disclose Confidential Information to third parties such as consultants, agents, and professional advisors?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/INFOMAGNET%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Receiving Parties typically allowed to make copies of Confidential Information in specific situations as outlined in Non-Disclosure Agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/INFOMAGNET%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Non-Disclosure Agreements typically structured to address situations where the Receiving Party is legally obligated to disclose Confidential Information to external entities?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/INFOMAGNET%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Would a typical Non-Disclosure Agreement permit the Receiving Party to obtain information resembling the Confidential Information from an external source?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/INFOMAGNET%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Receiving Parties typically permitted to disclose certain Confidential Information to their employees in Non-Disclosure Agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/INFOMAGNET%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Do Non-Disclosure Agreements typically outline specific restrictions on the use of Confidential Information to align with the specified purposes?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/INFOMAGNET%20NDA.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In general legal practice, do Non-Disclosure Agreements typically state that the Receiving Party does not acquire any rights to the Confidential Information shared under the agreement?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a Mutual Non-Disclosure Agreement typically specify the scope of Confidential Information, such as limiting it to technical information?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Typically, in mutual non-disclosure agreements, is it a standard practice for the disclosing party to explicitly identify all confidential information shared within the agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are there provisions in Mutual Non-Disclosure Agreements that address the continuation of certain obligations after the agreement ends?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a Mutual Non-Disclosure Agreement typically address the Receiving Party's ability to develop confidential information independently?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can a Mutual Non-Disclosure Agreement allow the Receiving Party to keep certain Confidential Information even after it has been returned or destroyed?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can verbal information be classified as Confidential Information in Mutual Non-Disclosure Agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In mutual non-disclosure agreements, is it typical for the receiving party to be permitted to disclose certain confidential information to third parties such as consultants, agents, and professional advisors?",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are provisions typically included in Non-Disclosure Agreements to address situations where the Receiving Party is obligated by law, regulation, or court order to disclose Confidential Information to the Disclosing Party?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Is it permissible in Mutual Non-Disclosure Agreements for the Receiving Party to obtain information similar to the Confidential Information from external sources?\"",
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
+    "actual_files": [
+      "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
+    ],
+    "score": 0
+  }
+]
