@@ -1,0 +1,1942 @@
+[
+  {
+    "query": "Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; What is the expiration date of this contract?",
+    "targeted_corpus": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
+    "best_file": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+    "similarity": 0.5086194276809692,
+    "actual_files": [
+      "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; What is the renewal term for this contract?",
+    "targeted_corpus": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
+    "best_file": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+    "similarity": 0.5086194276809692,
+    "actual_files": [
+      "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; What is the notice period required to terminate the renewal?",
+    "targeted_corpus": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
+    "best_file": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+    "similarity": 0.5086194276809692,
+    "actual_files": [
+      "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; What is the governing law for this contract?",
+    "targeted_corpus": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
+    "best_file": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+    "similarity": 0.5086194276809692,
+    "actual_files": [
+      "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; Is there an anti-assignment clause in this contract?",
+    "targeted_corpus": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
+    "best_file": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+    "similarity": 0.5086194276809692,
+    "actual_files": [
+      "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; Is there a minimum commitment required under this contract?",
+    "targeted_corpus": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
+    "best_file": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+    "similarity": 0.5086194276809692,
+    "actual_files": [
+      "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; What licenses are granted under this contract?",
+    "targeted_corpus": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
+    "best_file": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+    "similarity": 0.5086194276809692,
+    "actual_files": [
+      "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; What are the audit rights under this contract?",
+    "targeted_corpus": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
+    "best_file": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+    "similarity": 0.5086194276809692,
+    "actual_files": [
+      "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; Is there a cap on liability under this contract?",
+    "targeted_corpus": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
+    "best_file": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+    "similarity": 0.5086194276809692,
+    "actual_files": [
+      "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; What is the duration of any warranties provided in this contract?",
+    "targeted_corpus": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
+    "best_file": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+    "similarity": 0.5086194276809692,
+    "actual_files": [
+      "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; What is the expiration date of this contract?",
+    "targeted_corpus": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.5382912755012512,
+    "actual_files": [
+      "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; What is the renewal term for this contract?",
+    "targeted_corpus": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.5382912755012512,
+    "actual_files": [
+      "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; What is the notice period required to terminate the renewal?",
+    "targeted_corpus": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.5382912755012512,
+    "actual_files": [
+      "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; What is the governing law for this contract?",
+    "targeted_corpus": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.5382912755012512,
+    "actual_files": [
+      "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; Is there a most favored nation clause in this contract?",
+    "targeted_corpus": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.5382912755012512,
+    "actual_files": [
+      "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; Can this contract be terminated for convenience, and under what conditions?",
+    "targeted_corpus": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.5382912755012512,
+    "actual_files": [
+      "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; Is there an anti-assignment clause in this contract?",
+    "targeted_corpus": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.5382912755012512,
+    "actual_files": [
+      "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; Does this contract include any revenue or profit-sharing arrangements?",
+    "targeted_corpus": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.5382912755012512,
+    "actual_files": [
+      "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; Is there a minimum commitment required under this contract?",
+    "targeted_corpus": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.5382912755012512,
+    "actual_files": [
+      "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; What licenses are granted under this contract?",
+    "targeted_corpus": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.5382912755012512,
+    "actual_files": [
+      "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; Does this contract include an unlimited or all-you-can-eat license?",
+    "targeted_corpus": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.5382912755012512,
+    "actual_files": [
+      "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; What are the audit rights under this contract?",
+    "targeted_corpus": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.5382912755012512,
+    "actual_files": [
+      "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; Is there uncapped liability under this contract?",
+    "targeted_corpus": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.5382912755012512,
+    "actual_files": [
+      "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; Is there a cap on liability under this contract?",
+    "targeted_corpus": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.5382912755012512,
+    "actual_files": [
+      "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content Distribution and License Agreement between ConvergTV, Inc. and Fulucai Productions Ltd.; What is the renewal term for this contract?",
+    "targeted_corpus": "Content Distribution License Agreement ConvergTV, Inc. Fulucai Productions Ltd.",
+    "best_file": "cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt",
+    "similarity": 0.6785076856613159,
+    "actual_files": [
+      "cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Content Distribution and License Agreement between ConvergTV, Inc. and Fulucai Productions Ltd.; What is the governing law for this contract?",
+    "targeted_corpus": "Content Distribution License Agreement ConvergTV, Inc. Fulucai Productions Ltd.",
+    "best_file": "cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt",
+    "similarity": 0.6785076856613159,
+    "actual_files": [
+      "cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Content Distribution and License Agreement between ConvergTV, Inc. and Fulucai Productions Ltd.; Does this contract include an exclusivity agreement?",
+    "targeted_corpus": "Content Distribution License Agreement ConvergTV, Inc. Fulucai Productions Ltd.",
+    "best_file": "cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt",
+    "similarity": 0.6785076856613159,
+    "actual_files": [
+      "cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Content Distribution and License Agreement between ConvergTV, Inc. and Fulucai Productions Ltd.; Does this contract include any revenue or profit-sharing arrangements?",
+    "targeted_corpus": "Content Distribution License Agreement ConvergTV, Inc. Fulucai Productions Ltd.",
+    "best_file": "cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt",
+    "similarity": 0.6785076856613159,
+    "actual_files": [
+      "cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Content Distribution and License Agreement between ConvergTV, Inc. and Fulucai Productions Ltd.; Does the licensee's affiliates have any licensing rights under this contract?",
+    "targeted_corpus": "Content Distribution License Agreement ConvergTV, Inc. Fulucai Productions Ltd.",
+    "best_file": "cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt",
+    "similarity": 0.6785076856613159,
+    "actual_files": [
+      "cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Content Distribution and License Agreement between ConvergTV, Inc. and Fulucai Productions Ltd.; What are the audit rights under this contract?",
+    "targeted_corpus": "Content Distribution License Agreement ConvergTV, Inc. Fulucai Productions Ltd.",
+    "best_file": "cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt",
+    "similarity": 0.6785076856613159,
+    "actual_files": [
+      "cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; What is the expiration date of this contract?",
+    "targeted_corpus": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
+    "best_file": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+    "similarity": 0.5177726149559021,
+    "actual_files": [
+      "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; What is the renewal term for this contract?",
+    "targeted_corpus": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
+    "best_file": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+    "similarity": 0.5177726149559021,
+    "actual_files": [
+      "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; What is the notice period required to terminate the renewal?",
+    "targeted_corpus": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
+    "best_file": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+    "similarity": 0.5177726149559021,
+    "actual_files": [
+      "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; What is the governing law for this contract?",
+    "targeted_corpus": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
+    "best_file": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+    "similarity": 0.5177726149559021,
+    "actual_files": [
+      "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; Does this contract include an exclusivity agreement?",
+    "targeted_corpus": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
+    "best_file": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+    "similarity": 0.5177726149559021,
+    "actual_files": [
+      "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; What happens in the event of a change of control of one of the parties in this contract?",
+    "targeted_corpus": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
+    "best_file": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+    "similarity": 0.5177726149559021,
+    "actual_files": [
+      "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; Is there an anti-assignment clause in this contract?",
+    "targeted_corpus": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
+    "best_file": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+    "similarity": 0.5177726149559021,
+    "actual_files": [
+      "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; Does this contract include any revenue or profit-sharing arrangements?",
+    "targeted_corpus": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
+    "best_file": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+    "similarity": 0.5177726149559021,
+    "actual_files": [
+      "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; What licenses are granted under this contract?",
+    "targeted_corpus": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
+    "best_file": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+    "similarity": 0.5177726149559021,
+    "actual_files": [
+      "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; Are the licenses granted under this contract non-transferable?",
+    "targeted_corpus": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
+    "best_file": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+    "similarity": 0.5177726149559021,
+    "actual_files": [
+      "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; What are the audit rights under this contract?",
+    "targeted_corpus": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
+    "best_file": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+    "similarity": 0.5177726149559021,
+    "actual_files": [
+      "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; Is there uncapped liability under this contract?",
+    "targeted_corpus": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
+    "best_file": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+    "similarity": 0.5177726149559021,
+    "actual_files": [
+      "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; Is there a cap on liability under this contract?",
+    "targeted_corpus": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
+    "best_file": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+    "similarity": 0.5177726149559021,
+    "actual_files": [
+      "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between Beijing Sun Seven Stars Culture Development Limited and You On Demand Holdings, Inc.; What is the expiration date of this contract?",
+    "targeted_corpus": "Content License Agreement Beijing Sun Seven Stars Culture Development Limited Demand Holdings, Inc.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.4318065941333771,
+    "actual_files": [
+      "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between Beijing Sun Seven Stars Culture Development Limited and You On Demand Holdings, Inc.; What is the governing law for this contract?",
+    "targeted_corpus": "Content License Agreement Beijing Sun Seven Stars Culture Development Limited Demand Holdings, Inc.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.4318065941333771,
+    "actual_files": [
+      "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between Beijing Sun Seven Stars Culture Development Limited and You On Demand Holdings, Inc.; Does this contract include any right of first refusal, right of first offer, or right of first negotiation?",
+    "targeted_corpus": "Content License Agreement Beijing Sun Seven Stars Culture Development Limited Demand Holdings, Inc.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.4318065941333771,
+    "actual_files": [
+      "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between Beijing Sun Seven Stars Culture Development Limited and You On Demand Holdings, Inc.; Is there an anti-assignment clause in this contract?",
+    "targeted_corpus": "Content License Agreement Beijing Sun Seven Stars Culture Development Limited Demand Holdings, Inc.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.4318065941333771,
+    "actual_files": [
+      "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between Beijing Sun Seven Stars Culture Development Limited and You On Demand Holdings, Inc.; Does this contract include any revenue or profit-sharing arrangements?",
+    "targeted_corpus": "Content License Agreement Beijing Sun Seven Stars Culture Development Limited Demand Holdings, Inc.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.4318065941333771,
+    "actual_files": [
+      "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between Beijing Sun Seven Stars Culture Development Limited and You On Demand Holdings, Inc.; What are the audit rights under this contract?",
+    "targeted_corpus": "Content License Agreement Beijing Sun Seven Stars Culture Development Limited Demand Holdings, Inc.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.4318065941333771,
+    "actual_files": [
+      "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between Beijing Sun Seven Stars Culture Development Limited and You On Demand Holdings, Inc.; Is there uncapped liability under this contract?",
+    "targeted_corpus": "Content License Agreement Beijing Sun Seven Stars Culture Development Limited Demand Holdings, Inc.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.4318065941333771,
+    "actual_files": [
+      "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Content License Agreement between Beijing Sun Seven Stars Culture Development Limited and You On Demand Holdings, Inc.; Is there a cap on liability under this contract?",
+    "targeted_corpus": "Content License Agreement Beijing Sun Seven Stars Culture Development Limited Demand Holdings, Inc.",
+    "best_file": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+    "similarity": 0.4318065941333771,
+    "actual_files": [
+      "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Co-Branding and Services Agreement between RSL COM PrimeCall, Inc. and deltathree.com, Inc.; What is the expiration date of this contract?",
+    "targeted_corpus": "Co-Branding Services Agreement RSL COM PrimeCall, Inc. deltathree.com, Inc.",
+    "best_file": "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt",
+    "similarity": 0.6111589670181274,
+    "actual_files": [
+      "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Services Agreement between RSL COM PrimeCall, Inc. and deltathree.com, Inc.; What is the governing law for this contract?",
+    "targeted_corpus": "Co-Branding Services Agreement RSL COM PrimeCall, Inc. deltathree.com, Inc.",
+    "best_file": "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt",
+    "similarity": 0.6111589670181274,
+    "actual_files": [
+      "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Services Agreement between RSL COM PrimeCall, Inc. and deltathree.com, Inc.; What happens in the event of a change of control of one of the parties in this contract?",
+    "targeted_corpus": "Co-Branding Services Agreement RSL COM PrimeCall, Inc. deltathree.com, Inc.",
+    "best_file": "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt",
+    "similarity": 0.6111589670181274,
+    "actual_files": [
+      "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Services Agreement between RSL COM PrimeCall, Inc. and deltathree.com, Inc.; Is there an anti-assignment clause in this contract?",
+    "targeted_corpus": "Co-Branding Services Agreement RSL COM PrimeCall, Inc. deltathree.com, Inc.",
+    "best_file": "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt",
+    "similarity": 0.6111589670181274,
+    "actual_files": [
+      "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Services Agreement between RSL COM PrimeCall, Inc. and deltathree.com, Inc.; What licenses are granted under this contract?",
+    "targeted_corpus": "Co-Branding Services Agreement RSL COM PrimeCall, Inc. deltathree.com, Inc.",
+    "best_file": "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt",
+    "similarity": 0.6111589670181274,
+    "actual_files": [
+      "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Services Agreement between RSL COM PrimeCall, Inc. and deltathree.com, Inc.; Is there a cap on liability under this contract?",
+    "targeted_corpus": "Co-Branding Services Agreement RSL COM PrimeCall, Inc. deltathree.com, Inc.",
+    "best_file": "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt",
+    "similarity": 0.6111589670181274,
+    "actual_files": [
+      "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Women.com Networks, Inc. and eDiets.com, Inc. for the Establishment of a Diet Center; What is the renewal term for this contract?",
+    "targeted_corpus": "Co-Branding Agreement Women.com Networks, Inc. eDiets.com, Inc. Establishment Diet Center",
+    "best_file": "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt",
+    "similarity": 0.5564807653427124,
+    "actual_files": [
+      "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Women.com Networks, Inc. and eDiets.com, Inc. for the Establishment of a Diet Center; What is the notice period required to terminate the renewal?",
+    "targeted_corpus": "Co-Branding Agreement Women.com Networks, Inc. eDiets.com, Inc. Establishment Diet Center",
+    "best_file": "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt",
+    "similarity": 0.5564807653427124,
+    "actual_files": [
+      "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Women.com Networks, Inc. and eDiets.com, Inc. for the Establishment of a Diet Center; What is the governing law for this contract?",
+    "targeted_corpus": "Co-Branding Agreement Women.com Networks, Inc. eDiets.com, Inc. Establishment Diet Center",
+    "best_file": "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt",
+    "similarity": 0.5564807653427124,
+    "actual_files": [
+      "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Women.com Networks, Inc. and eDiets.com, Inc. for the Establishment of a Diet Center; Are there any exceptions to competitive restrictions in this contract?",
+    "targeted_corpus": "Co-Branding Agreement Women.com Networks, Inc. eDiets.com, Inc. Establishment Diet Center",
+    "best_file": "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt",
+    "similarity": 0.5564807653427124,
+    "actual_files": [
+      "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Women.com Networks, Inc. and eDiets.com, Inc. for the Establishment of a Diet Center; Does this contract include any right of first refusal, right of first offer, or right of first negotiation?",
+    "targeted_corpus": "Co-Branding Agreement Women.com Networks, Inc. eDiets.com, Inc. Establishment Diet Center",
+    "best_file": "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt",
+    "similarity": 0.5564807653427124,
+    "actual_files": [
+      "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Women.com Networks, Inc. and eDiets.com, Inc. for the Establishment of a Diet Center; What happens in the event of a change of control of one of the parties in this contract?",
+    "targeted_corpus": "Co-Branding Agreement Women.com Networks, Inc. eDiets.com, Inc. Establishment Diet Center",
+    "best_file": "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt",
+    "similarity": 0.5564807653427124,
+    "actual_files": [
+      "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Women.com Networks, Inc. and eDiets.com, Inc. for the Establishment of a Diet Center; Are there any price restrictions or controls specified in this contract?",
+    "targeted_corpus": "Co-Branding Agreement Women.com Networks, Inc. eDiets.com, Inc. Establishment Diet Center",
+    "best_file": "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt",
+    "similarity": 0.5564807653427124,
+    "actual_files": [
+      "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Women.com Networks, Inc. and eDiets.com, Inc. for the Establishment of a Diet Center; Is there a minimum commitment required under this contract?",
+    "targeted_corpus": "Co-Branding Agreement Women.com Networks, Inc. eDiets.com, Inc. Establishment Diet Center",
+    "best_file": "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt",
+    "similarity": 0.5564807653427124,
+    "actual_files": [
+      "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Women.com Networks, Inc. and eDiets.com, Inc. for the Establishment of a Diet Center; What licenses are granted under this contract?",
+    "targeted_corpus": "Co-Branding Agreement Women.com Networks, Inc. eDiets.com, Inc. Establishment Diet Center",
+    "best_file": "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt",
+    "similarity": 0.5564807653427124,
+    "actual_files": [
+      "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Women.com Networks, Inc. and eDiets.com, Inc. for the Establishment of a Diet Center; Are the licenses granted under this contract non-transferable?",
+    "targeted_corpus": "Co-Branding Agreement Women.com Networks, Inc. eDiets.com, Inc. Establishment Diet Center",
+    "best_file": "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt",
+    "similarity": 0.5564807653427124,
+    "actual_files": [
+      "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Women.com Networks, Inc. and eDiets.com, Inc. for the Establishment of a Diet Center; Is there uncapped liability under this contract?",
+    "targeted_corpus": "Co-Branding Agreement Women.com Networks, Inc. eDiets.com, Inc. Establishment Diet Center",
+    "best_file": "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt",
+    "similarity": 0.5564807653427124,
+    "actual_files": [
+      "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Women.com Networks, Inc. and eDiets.com, Inc. for the Establishment of a Diet Center; Is there a cap on liability under this contract?",
+    "targeted_corpus": "Co-Branding Agreement Women.com Networks, Inc. eDiets.com, Inc. Establishment Diet Center",
+    "best_file": "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt",
+    "similarity": 0.5564807653427124,
+    "actual_files": [
+      "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Women.com Networks, Inc. and eDiets.com, Inc. for the Establishment of a Diet Center; Is there a covenant not to sue included in this contract?",
+    "targeted_corpus": "Co-Branding Agreement Women.com Networks, Inc. eDiets.com, Inc. Establishment Diet Center",
+    "best_file": "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt",
+    "similarity": 0.5564807653427124,
+    "actual_files": [
+      "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Product Development and Co-Branding Agreement between Integrity Incorporated and Time Life, Inc. for 'Songs 4 Worship' Series; What is the expiration date of this contract?",
+    "targeted_corpus": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
+    "best_file": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+    "similarity": 0.45198339223861694,
+    "actual_files": [
+      "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Product Development and Co-Branding Agreement between Integrity Incorporated and Time Life, Inc. for 'Songs 4 Worship' Series; What is the governing law for this contract?",
+    "targeted_corpus": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
+    "best_file": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+    "similarity": 0.45198339223861694,
+    "actual_files": [
+      "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Product Development and Co-Branding Agreement between Integrity Incorporated and Time Life, Inc. for 'Songs 4 Worship' Series; Is there a most favored nation clause in this contract?",
+    "targeted_corpus": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
+    "best_file": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+    "similarity": 0.45198339223861694,
+    "actual_files": [
+      "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Product Development and Co-Branding Agreement between Integrity Incorporated and Time Life, Inc. for 'Songs 4 Worship' Series; Does this contract include an exclusivity agreement?",
+    "targeted_corpus": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
+    "best_file": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+    "similarity": 0.45198339223861694,
+    "actual_files": [
+      "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Product Development and Co-Branding Agreement between Integrity Incorporated and Time Life, Inc. for 'Songs 4 Worship' Series; Does this contract include any revenue or profit-sharing arrangements?",
+    "targeted_corpus": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
+    "best_file": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+    "similarity": 0.45198339223861694,
+    "actual_files": [
+      "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Product Development and Co-Branding Agreement between Integrity Incorporated and Time Life, Inc. for 'Songs 4 Worship' Series; Is there a minimum commitment required under this contract?",
+    "targeted_corpus": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
+    "best_file": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+    "similarity": 0.45198339223861694,
+    "actual_files": [
+      "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Product Development and Co-Branding Agreement between Integrity Incorporated and Time Life, Inc. for 'Songs 4 Worship' Series; Does this contract include any volume restrictions?",
+    "targeted_corpus": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
+    "best_file": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+    "similarity": 0.45198339223861694,
+    "actual_files": [
+      "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Product Development and Co-Branding Agreement between Integrity Incorporated and Time Life, Inc. for 'Songs 4 Worship' Series; Does this contract provide for joint intellectual property ownership?",
+    "targeted_corpus": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
+    "best_file": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+    "similarity": 0.45198339223861694,
+    "actual_files": [
+      "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Product Development and Co-Branding Agreement between Integrity Incorporated and Time Life, Inc. for 'Songs 4 Worship' Series; What licenses are granted under this contract?",
+    "targeted_corpus": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
+    "best_file": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+    "similarity": 0.45198339223861694,
+    "actual_files": [
+      "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Product Development and Co-Branding Agreement between Integrity Incorporated and Time Life, Inc. for 'Songs 4 Worship' Series; What are the audit rights under this contract?",
+    "targeted_corpus": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
+    "best_file": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+    "similarity": 0.45198339223861694,
+    "actual_files": [
+      "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Product Development and Co-Branding Agreement between Integrity Incorporated and Time Life, Inc. for 'Songs 4 Worship' Series; Is there a covenant not to sue included in this contract?",
+    "targeted_corpus": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
+    "best_file": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+    "similarity": 0.45198339223861694,
+    "actual_files": [
+      "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.; What is the expiration date of this contract?",
+    "targeted_corpus": "Co-Branding Endorsement Licensing Agreement MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, Fitness Publications, Inc.",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.6481006741523743,
+    "actual_files": [
+      "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.; What is the renewal term for this contract?",
+    "targeted_corpus": "Co-Branding Endorsement Licensing Agreement MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, Fitness Publications, Inc.",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.6481006741523743,
+    "actual_files": [
+      "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.; What is the governing law for this contract?",
+    "targeted_corpus": "Co-Branding Endorsement Licensing Agreement MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, Fitness Publications, Inc.",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.6481006741523743,
+    "actual_files": [
+      "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.; Are there any exceptions to competitive restrictions in this contract?",
+    "targeted_corpus": "Co-Branding Endorsement Licensing Agreement MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, Fitness Publications, Inc.",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.6481006741523743,
+    "actual_files": [
+      "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.; Is there a non-compete clause in this contract?",
+    "targeted_corpus": "Co-Branding Endorsement Licensing Agreement MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, Fitness Publications, Inc.",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.6481006741523743,
+    "actual_files": [
+      "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.; Does this contract include an exclusivity agreement?",
+    "targeted_corpus": "Co-Branding Endorsement Licensing Agreement MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, Fitness Publications, Inc.",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.6481006741523743,
+    "actual_files": [
+      "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.; Does this contract include any right of first refusal, right of first offer, or right of first negotiation?",
+    "targeted_corpus": "Co-Branding Endorsement Licensing Agreement MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, Fitness Publications, Inc.",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.6481006741523743,
+    "actual_files": [
+      "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.; What happens in the event of a change of control of one of the parties in this contract?",
+    "targeted_corpus": "Co-Branding Endorsement Licensing Agreement MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, Fitness Publications, Inc.",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.6481006741523743,
+    "actual_files": [
+      "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.; Is there an anti-assignment clause in this contract?",
+    "targeted_corpus": "Co-Branding Endorsement Licensing Agreement MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, Fitness Publications, Inc.",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.6481006741523743,
+    "actual_files": [
+      "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.; Does this contract include any revenue or profit-sharing arrangements?",
+    "targeted_corpus": "Co-Branding Endorsement Licensing Agreement MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, Fitness Publications, Inc.",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.6481006741523743,
+    "actual_files": [
+      "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.; Is there a minimum commitment required under this contract?",
+    "targeted_corpus": "Co-Branding Endorsement Licensing Agreement MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, Fitness Publications, Inc.",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.6481006741523743,
+    "actual_files": [
+      "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.; Does this contract include any volume restrictions?",
+    "targeted_corpus": "Co-Branding Endorsement Licensing Agreement MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, Fitness Publications, Inc.",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.6481006741523743,
+    "actual_files": [
+      "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.; How is intellectual property ownership assigned in this contract?",
+    "targeted_corpus": "Co-Branding Endorsement Licensing Agreement MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, Fitness Publications, Inc.",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.6481006741523743,
+    "actual_files": [
+      "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.; What licenses are granted under this contract?",
+    "targeted_corpus": "Co-Branding Endorsement Licensing Agreement MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, Fitness Publications, Inc.",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.6481006741523743,
+    "actual_files": [
+      "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.; Are there any services to be provided after the termination of this contract?",
+    "targeted_corpus": "Co-Branding Endorsement Licensing Agreement MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, Fitness Publications, Inc.",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.6481006741523743,
+    "actual_files": [
+      "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.; What are the audit rights under this contract?",
+    "targeted_corpus": "Co-Branding Endorsement Licensing Agreement MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, Fitness Publications, Inc.",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.6481006741523743,
+    "actual_files": [
+      "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.; Is there a cap on liability under this contract?",
+    "targeted_corpus": "Co-Branding Endorsement Licensing Agreement MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, Fitness Publications, Inc.",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.6481006741523743,
+    "actual_files": [
+      "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.; What are the insurance requirements under this contract?",
+    "targeted_corpus": "Co-Branding Endorsement Licensing Agreement MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, Fitness Publications, Inc.",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.6481006741523743,
+    "actual_files": [
+      "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.; Is there a covenant not to sue included in this contract?",
+    "targeted_corpus": "Co-Branding Endorsement Licensing Agreement MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, Fitness Publications, Inc.",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.6481006741523743,
+    "actual_files": [
+      "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited; What is the expiration date of this contract?",
+    "targeted_corpus": "Co-Branding Agreement Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., Tel-Online Limited",
+    "best_file": "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+    "similarity": 0.570210337638855,
+    "actual_files": [
+      "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited; What is the renewal term for this contract?",
+    "targeted_corpus": "Co-Branding Agreement Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., Tel-Online Limited",
+    "best_file": "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+    "similarity": 0.570210337638855,
+    "actual_files": [
+      "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited; What is the notice period required to terminate the renewal?",
+    "targeted_corpus": "Co-Branding Agreement Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., Tel-Online Limited",
+    "best_file": "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+    "similarity": 0.570210337638855,
+    "actual_files": [
+      "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited; What is the governing law for this contract?",
+    "targeted_corpus": "Co-Branding Agreement Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., Tel-Online Limited",
+    "best_file": "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+    "similarity": 0.570210337638855,
+    "actual_files": [
+      "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited; Is there a most favored nation clause in this contract?",
+    "targeted_corpus": "Co-Branding Agreement Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., Tel-Online Limited",
+    "best_file": "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+    "similarity": 0.570210337638855,
+    "actual_files": [
+      "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited; Are there any exceptions to competitive restrictions in this contract?",
+    "targeted_corpus": "Co-Branding Agreement Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., Tel-Online Limited",
+    "best_file": "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+    "similarity": 0.570210337638855,
+    "actual_files": [
+      "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited; Is there a non-compete clause in this contract?",
+    "targeted_corpus": "Co-Branding Agreement Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., Tel-Online Limited",
+    "best_file": "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+    "similarity": 0.570210337638855,
+    "actual_files": [
+      "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited; What happens in the event of a change of control of one of the parties in this contract?",
+    "targeted_corpus": "Co-Branding Agreement Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., Tel-Online Limited",
+    "best_file": "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+    "similarity": 0.570210337638855,
+    "actual_files": [
+      "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited; Is there an anti-assignment clause in this contract?",
+    "targeted_corpus": "Co-Branding Agreement Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., Tel-Online Limited",
+    "best_file": "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+    "similarity": 0.570210337638855,
+    "actual_files": [
+      "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited; Does this contract include any revenue or profit-sharing arrangements?",
+    "targeted_corpus": "Co-Branding Agreement Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., Tel-Online Limited",
+    "best_file": "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+    "similarity": 0.570210337638855,
+    "actual_files": [
+      "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited; How is intellectual property ownership assigned in this contract?",
+    "targeted_corpus": "Co-Branding Agreement Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., Tel-Online Limited",
+    "best_file": "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+    "similarity": 0.570210337638855,
+    "actual_files": [
+      "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited; Does this contract provide for joint intellectual property ownership?",
+    "targeted_corpus": "Co-Branding Agreement Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., Tel-Online Limited",
+    "best_file": "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+    "similarity": 0.570210337638855,
+    "actual_files": [
+      "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited; What licenses are granted under this contract?",
+    "targeted_corpus": "Co-Branding Agreement Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., Tel-Online Limited",
+    "best_file": "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+    "similarity": 0.570210337638855,
+    "actual_files": [
+      "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited; Does the licensor's affiliates have any licensing rights under this contract?",
+    "targeted_corpus": "Co-Branding Agreement Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., Tel-Online Limited",
+    "best_file": "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+    "similarity": 0.570210337638855,
+    "actual_files": [
+      "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited; Does the licensee's affiliates have any licensing rights under this contract?",
+    "targeted_corpus": "Co-Branding Agreement Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., Tel-Online Limited",
+    "best_file": "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+    "similarity": 0.570210337638855,
+    "actual_files": [
+      "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited; Are there any services to be provided after the termination of this contract?",
+    "targeted_corpus": "Co-Branding Agreement Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., Tel-Online Limited",
+    "best_file": "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+    "similarity": 0.570210337638855,
+    "actual_files": [
+      "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited; What are the audit rights under this contract?",
+    "targeted_corpus": "Co-Branding Agreement Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., Tel-Online Limited",
+    "best_file": "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+    "similarity": 0.570210337638855,
+    "actual_files": [
+      "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited; Is there uncapped liability under this contract?",
+    "targeted_corpus": "Co-Branding Agreement Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., Tel-Online Limited",
+    "best_file": "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+    "similarity": 0.570210337638855,
+    "actual_files": [
+      "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited; Is there a cap on liability under this contract?",
+    "targeted_corpus": "Co-Branding Agreement Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., Tel-Online Limited",
+    "best_file": "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt",
+    "similarity": 0.570210337638855,
+    "actual_files": [
+      "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Development Agreement between Howmedica Osteonics Corp. (Stryker) and Conformis, Inc. for Patient-Specific Instrumentation; What is the expiration date of this contract?",
+    "targeted_corpus": "Development Agreement Howmedica Osteonics Corp. (Stryker) Conformis, Inc. Patient-Specific Instrumentation",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.252250611782074,
+    "actual_files": [
+      "cuad/ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Development Agreement between Howmedica Osteonics Corp. (Stryker) and Conformis, Inc. for Patient-Specific Instrumentation; What is the governing law for this contract?",
+    "targeted_corpus": "Development Agreement Howmedica Osteonics Corp. (Stryker) Conformis, Inc. Patient-Specific Instrumentation",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.252250611782074,
+    "actual_files": [
+      "cuad/ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Development Agreement between Howmedica Osteonics Corp. (Stryker) and Conformis, Inc. for Patient-Specific Instrumentation; Are there any exceptions to competitive restrictions in this contract?",
+    "targeted_corpus": "Development Agreement Howmedica Osteonics Corp. (Stryker) Conformis, Inc. Patient-Specific Instrumentation",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.252250611782074,
+    "actual_files": [
+      "cuad/ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Development Agreement between Howmedica Osteonics Corp. (Stryker) and Conformis, Inc. for Patient-Specific Instrumentation; Does this contract include an exclusivity agreement?",
+    "targeted_corpus": "Development Agreement Howmedica Osteonics Corp. (Stryker) Conformis, Inc. Patient-Specific Instrumentation",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.252250611782074,
+    "actual_files": [
+      "cuad/ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Development Agreement between Howmedica Osteonics Corp. (Stryker) and Conformis, Inc. for Patient-Specific Instrumentation; Does this contract include any right of first refusal, right of first offer, or right of first negotiation?",
+    "targeted_corpus": "Development Agreement Howmedica Osteonics Corp. (Stryker) Conformis, Inc. Patient-Specific Instrumentation",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.252250611782074,
+    "actual_files": [
+      "cuad/ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Development Agreement between Howmedica Osteonics Corp. (Stryker) and Conformis, Inc. for Patient-Specific Instrumentation; Does this contract provide for joint intellectual property ownership?",
+    "targeted_corpus": "Development Agreement Howmedica Osteonics Corp. (Stryker) Conformis, Inc. Patient-Specific Instrumentation",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.252250611782074,
+    "actual_files": [
+      "cuad/ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Development Agreement between Howmedica Osteonics Corp. (Stryker) and Conformis, Inc. for Patient-Specific Instrumentation; What licenses are granted under this contract?",
+    "targeted_corpus": "Development Agreement Howmedica Osteonics Corp. (Stryker) Conformis, Inc. Patient-Specific Instrumentation",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.252250611782074,
+    "actual_files": [
+      "cuad/ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Development Agreement between Howmedica Osteonics Corp. (Stryker) and Conformis, Inc. for Patient-Specific Instrumentation; Does the licensee's affiliates have any licensing rights under this contract?",
+    "targeted_corpus": "Development Agreement Howmedica Osteonics Corp. (Stryker) Conformis, Inc. Patient-Specific Instrumentation",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.252250611782074,
+    "actual_files": [
+      "cuad/ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Development Agreement between Howmedica Osteonics Corp. (Stryker) and Conformis, Inc. for Patient-Specific Instrumentation; Is there uncapped liability under this contract?",
+    "targeted_corpus": "Development Agreement Howmedica Osteonics Corp. (Stryker) Conformis, Inc. Patient-Specific Instrumentation",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.252250611782074,
+    "actual_files": [
+      "cuad/ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Development Agreement between Howmedica Osteonics Corp. (Stryker) and Conformis, Inc. for Patient-Specific Instrumentation; Is there a cap on liability under this contract?",
+    "targeted_corpus": "Development Agreement Howmedica Osteonics Corp. (Stryker) Conformis, Inc. Patient-Specific Instrumentation",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.252250611782074,
+    "actual_files": [
+      "cuad/ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.; What is the expiration date of this contract?",
+    "targeted_corpus": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
+    "best_file": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+    "similarity": 0.5097159147262573,
+    "actual_files": [
+      "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.; What is the governing law for this contract?",
+    "targeted_corpus": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
+    "best_file": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+    "similarity": 0.5097159147262573,
+    "actual_files": [
+      "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.; Is there a non-compete clause in this contract?",
+    "targeted_corpus": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
+    "best_file": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+    "similarity": 0.5097159147262573,
+    "actual_files": [
+      "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.; Does this contract include an exclusivity agreement?",
+    "targeted_corpus": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
+    "best_file": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+    "similarity": 0.5097159147262573,
+    "actual_files": [
+      "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.; Can this contract be terminated for convenience, and under what conditions?",
+    "targeted_corpus": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
+    "best_file": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+    "similarity": 0.5097159147262573,
+    "actual_files": [
+      "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.; What happens in the event of a change of control of one of the parties in this contract?",
+    "targeted_corpus": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
+    "best_file": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+    "similarity": 0.5097159147262573,
+    "actual_files": [
+      "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.; Is there an anti-assignment clause in this contract?",
+    "targeted_corpus": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
+    "best_file": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+    "similarity": 0.5097159147262573,
+    "actual_files": [
+      "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.; Does this contract include any revenue or profit-sharing arrangements?",
+    "targeted_corpus": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
+    "best_file": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+    "similarity": 0.5097159147262573,
+    "actual_files": [
+      "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.; Is there a minimum commitment required under this contract?",
+    "targeted_corpus": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
+    "best_file": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+    "similarity": 0.5097159147262573,
+    "actual_files": [
+      "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.; Does this contract include any volume restrictions?",
+    "targeted_corpus": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
+    "best_file": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+    "similarity": 0.5097159147262573,
+    "actual_files": [
+      "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.; What licenses are granted under this contract?",
+    "targeted_corpus": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
+    "best_file": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+    "similarity": 0.5097159147262573,
+    "actual_files": [
+      "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.; Are there any services to be provided after the termination of this contract?",
+    "targeted_corpus": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
+    "best_file": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+    "similarity": 0.5097159147262573,
+    "actual_files": [
+      "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.; What are the audit rights under this contract?",
+    "targeted_corpus": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
+    "best_file": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+    "similarity": 0.5097159147262573,
+    "actual_files": [
+      "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.; Is there a cap on liability under this contract?",
+    "targeted_corpus": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
+    "best_file": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+    "similarity": 0.5097159147262573,
+    "actual_files": [
+      "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.; What are the insurance requirements under this contract?",
+    "targeted_corpus": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
+    "best_file": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+    "similarity": 0.5097159147262573,
+    "actual_files": [
+      "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Joint Development Agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells; What is the expiration date of this contract?",
+    "targeted_corpus": "Joint Development Agreement FuelCell Energy, Inc. ExxonMobil Research Engineering Company Molten Carbonate Fuel Cells",
+    "best_file": "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+    "similarity": 0.6406280994415283,
+    "actual_files": [
+      "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Joint Development Agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells; What is the governing law for this contract?",
+    "targeted_corpus": "Joint Development Agreement FuelCell Energy, Inc. ExxonMobil Research Engineering Company Molten Carbonate Fuel Cells",
+    "best_file": "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+    "similarity": 0.6406280994415283,
+    "actual_files": [
+      "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Joint Development Agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells; Are there any exceptions to competitive restrictions in this contract?",
+    "targeted_corpus": "Joint Development Agreement FuelCell Energy, Inc. ExxonMobil Research Engineering Company Molten Carbonate Fuel Cells",
+    "best_file": "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+    "similarity": 0.6406280994415283,
+    "actual_files": [
+      "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Joint Development Agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells; Is there a non-compete clause in this contract?",
+    "targeted_corpus": "Joint Development Agreement FuelCell Energy, Inc. ExxonMobil Research Engineering Company Molten Carbonate Fuel Cells",
+    "best_file": "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+    "similarity": 0.6406280994415283,
+    "actual_files": [
+      "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Joint Development Agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells; Can this contract be terminated for convenience, and under what conditions?",
+    "targeted_corpus": "Joint Development Agreement FuelCell Energy, Inc. ExxonMobil Research Engineering Company Molten Carbonate Fuel Cells",
+    "best_file": "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+    "similarity": 0.6406280994415283,
+    "actual_files": [
+      "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Joint Development Agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells; Does this contract include any right of first refusal, right of first offer, or right of first negotiation?",
+    "targeted_corpus": "Joint Development Agreement FuelCell Energy, Inc. ExxonMobil Research Engineering Company Molten Carbonate Fuel Cells",
+    "best_file": "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+    "similarity": 0.6406280994415283,
+    "actual_files": [
+      "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Joint Development Agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells; What happens in the event of a change of control of one of the parties in this contract?",
+    "targeted_corpus": "Joint Development Agreement FuelCell Energy, Inc. ExxonMobil Research Engineering Company Molten Carbonate Fuel Cells",
+    "best_file": "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+    "similarity": 0.6406280994415283,
+    "actual_files": [
+      "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Joint Development Agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells; Is there an anti-assignment clause in this contract?",
+    "targeted_corpus": "Joint Development Agreement FuelCell Energy, Inc. ExxonMobil Research Engineering Company Molten Carbonate Fuel Cells",
+    "best_file": "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+    "similarity": 0.6406280994415283,
+    "actual_files": [
+      "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Joint Development Agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells; How is intellectual property ownership assigned in this contract?",
+    "targeted_corpus": "Joint Development Agreement FuelCell Energy, Inc. ExxonMobil Research Engineering Company Molten Carbonate Fuel Cells",
+    "best_file": "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+    "similarity": 0.6406280994415283,
+    "actual_files": [
+      "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Joint Development Agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells; What licenses are granted under this contract?",
+    "targeted_corpus": "Joint Development Agreement FuelCell Energy, Inc. ExxonMobil Research Engineering Company Molten Carbonate Fuel Cells",
+    "best_file": "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+    "similarity": 0.6406280994415283,
+    "actual_files": [
+      "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Joint Development Agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells; Are the licenses granted under this contract non-transferable?",
+    "targeted_corpus": "Joint Development Agreement FuelCell Energy, Inc. ExxonMobil Research Engineering Company Molten Carbonate Fuel Cells",
+    "best_file": "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+    "similarity": 0.6406280994415283,
+    "actual_files": [
+      "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Joint Development Agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells; Does the licensee's affiliates have any licensing rights under this contract?",
+    "targeted_corpus": "Joint Development Agreement FuelCell Energy, Inc. ExxonMobil Research Engineering Company Molten Carbonate Fuel Cells",
+    "best_file": "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+    "similarity": 0.6406280994415283,
+    "actual_files": [
+      "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Joint Development Agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells; Are any of the licenses granted under this contract irrevocable or perpetual?",
+    "targeted_corpus": "Joint Development Agreement FuelCell Energy, Inc. ExxonMobil Research Engineering Company Molten Carbonate Fuel Cells",
+    "best_file": "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+    "similarity": 0.6406280994415283,
+    "actual_files": [
+      "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Joint Development Agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells; Are there any services to be provided after the termination of this contract?",
+    "targeted_corpus": "Joint Development Agreement FuelCell Energy, Inc. ExxonMobil Research Engineering Company Molten Carbonate Fuel Cells",
+    "best_file": "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+    "similarity": 0.6406280994415283,
+    "actual_files": [
+      "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Joint Development Agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells; What are the audit rights under this contract?",
+    "targeted_corpus": "Joint Development Agreement FuelCell Energy, Inc. ExxonMobil Research Engineering Company Molten Carbonate Fuel Cells",
+    "best_file": "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+    "similarity": 0.6406280994415283,
+    "actual_files": [
+      "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Joint Development Agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells; Is there uncapped liability under this contract?",
+    "targeted_corpus": "Joint Development Agreement FuelCell Energy, Inc. ExxonMobil Research Engineering Company Molten Carbonate Fuel Cells",
+    "best_file": "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+    "similarity": 0.6406280994415283,
+    "actual_files": [
+      "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Joint Development Agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells; Is there a cap on liability under this contract?",
+    "targeted_corpus": "Joint Development Agreement FuelCell Energy, Inc. ExxonMobil Research Engineering Company Molten Carbonate Fuel Cells",
+    "best_file": "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+    "similarity": 0.6406280994415283,
+    "actual_files": [
+      "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "Consider the Recipe Development Agreement between Reed's, Inc. and B C Marketing Concepts Inc. for Ginger-Based Alcohol Beverages; What is the expiration date of this contract?",
+    "targeted_corpus": "Recipe Development Agreement Reed's, Inc. B C Marketing Concepts Inc. Ginger-Based Alcohol Beverages",
+    "best_file": "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt",
+    "similarity": 0.3078541159629822,
+    "actual_files": [
+      "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Recipe Development Agreement between Reed's, Inc. and B C Marketing Concepts Inc. for Ginger-Based Alcohol Beverages; What is the governing law for this contract?",
+    "targeted_corpus": "Recipe Development Agreement Reed's, Inc. B C Marketing Concepts Inc. Ginger-Based Alcohol Beverages",
+    "best_file": "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt",
+    "similarity": 0.3078541159629822,
+    "actual_files": [
+      "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Recipe Development Agreement between Reed's, Inc. and B C Marketing Concepts Inc. for Ginger-Based Alcohol Beverages; Does this contract include an exclusivity agreement?",
+    "targeted_corpus": "Recipe Development Agreement Reed's, Inc. B C Marketing Concepts Inc. Ginger-Based Alcohol Beverages",
+    "best_file": "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt",
+    "similarity": 0.3078541159629822,
+    "actual_files": [
+      "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Recipe Development Agreement between Reed's, Inc. and B C Marketing Concepts Inc. for Ginger-Based Alcohol Beverages; Is there an anti-assignment clause in this contract?",
+    "targeted_corpus": "Recipe Development Agreement Reed's, Inc. B C Marketing Concepts Inc. Ginger-Based Alcohol Beverages",
+    "best_file": "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt",
+    "similarity": 0.3078541159629822,
+    "actual_files": [
+      "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Recipe Development Agreement between Reed's, Inc. and B C Marketing Concepts Inc. for Ginger-Based Alcohol Beverages; How is intellectual property ownership assigned in this contract?",
+    "targeted_corpus": "Recipe Development Agreement Reed's, Inc. B C Marketing Concepts Inc. Ginger-Based Alcohol Beverages",
+    "best_file": "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt",
+    "similarity": 0.3078541159629822,
+    "actual_files": [
+      "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Recipe Development Agreement between Reed's, Inc. and B C Marketing Concepts Inc. for Ginger-Based Alcohol Beverages; Is there uncapped liability under this contract?",
+    "targeted_corpus": "Recipe Development Agreement Reed's, Inc. B C Marketing Concepts Inc. Ginger-Based Alcohol Beverages",
+    "best_file": "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt",
+    "similarity": 0.3078541159629822,
+    "actual_files": [
+      "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Recipe Development Agreement between Reed's, Inc. and B C Marketing Concepts Inc. for Ginger-Based Alcohol Beverages; Is there a cap on liability under this contract?",
+    "targeted_corpus": "Recipe Development Agreement Reed's, Inc. B C Marketing Concepts Inc. Ginger-Based Alcohol Beverages",
+    "best_file": "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt",
+    "similarity": 0.3078541159629822,
+    "actual_files": [
+      "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Recipe Development Agreement between Reed's, Inc. and B C Marketing Concepts Inc. for Ginger-Based Alcohol Beverages; Is there a covenant not to sue included in this contract?",
+    "targeted_corpus": "Recipe Development Agreement Reed's, Inc. B C Marketing Concepts Inc. Ginger-Based Alcohol Beverages",
+    "best_file": "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt",
+    "similarity": 0.3078541159629822,
+    "actual_files": [
+      "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributorship Agreement between Signature Orthopaedics Pty Ltd and CPM Medical Consultants LLC for Medical Products; What is the expiration date of this contract?",
+    "targeted_corpus": "Distributorship Agreement Signature Orthopaedics Pty Ltd CPM Medical Consultants LLC Medical Products",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.5468978881835938,
+    "actual_files": [
+      "cuad/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributorship Agreement between Signature Orthopaedics Pty Ltd and CPM Medical Consultants LLC for Medical Products; What is the renewal term for this contract?",
+    "targeted_corpus": "Distributorship Agreement Signature Orthopaedics Pty Ltd CPM Medical Consultants LLC Medical Products",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.5468978881835938,
+    "actual_files": [
+      "cuad/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributorship Agreement between Signature Orthopaedics Pty Ltd and CPM Medical Consultants LLC for Medical Products; What is the notice period required to terminate the renewal?",
+    "targeted_corpus": "Distributorship Agreement Signature Orthopaedics Pty Ltd CPM Medical Consultants LLC Medical Products",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.5468978881835938,
+    "actual_files": [
+      "cuad/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributorship Agreement between Signature Orthopaedics Pty Ltd and CPM Medical Consultants LLC for Medical Products; What is the governing law for this contract?",
+    "targeted_corpus": "Distributorship Agreement Signature Orthopaedics Pty Ltd CPM Medical Consultants LLC Medical Products",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.5468978881835938,
+    "actual_files": [
+      "cuad/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributorship Agreement between Signature Orthopaedics Pty Ltd and CPM Medical Consultants LLC for Medical Products; Is there an anti-assignment clause in this contract?",
+    "targeted_corpus": "Distributorship Agreement Signature Orthopaedics Pty Ltd CPM Medical Consultants LLC Medical Products",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.5468978881835938,
+    "actual_files": [
+      "cuad/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributorship Agreement between Signature Orthopaedics Pty Ltd and CPM Medical Consultants LLC for Medical Products; What licenses are granted under this contract?",
+    "targeted_corpus": "Distributorship Agreement Signature Orthopaedics Pty Ltd CPM Medical Consultants LLC Medical Products",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.5468978881835938,
+    "actual_files": [
+      "cuad/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributorship Agreement between Signature Orthopaedics Pty Ltd and CPM Medical Consultants LLC for Medical Products; Are there any services to be provided after the termination of this contract?",
+    "targeted_corpus": "Distributorship Agreement Signature Orthopaedics Pty Ltd CPM Medical Consultants LLC Medical Products",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.5468978881835938,
+    "actual_files": [
+      "cuad/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributorship Agreement between Signature Orthopaedics Pty Ltd and CPM Medical Consultants LLC for Medical Products; What are the insurance requirements under this contract?",
+    "targeted_corpus": "Distributorship Agreement Signature Orthopaedics Pty Ltd CPM Medical Consultants LLC Medical Products",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.5468978881835938,
+    "actual_files": [
+      "cuad/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributorship Agreement between Signature Orthopaedics Pty Ltd and CPM Medical Consultants LLC for Medical Products; Is there a covenant not to sue included in this contract?",
+    "targeted_corpus": "Distributorship Agreement Signature Orthopaedics Pty Ltd CPM Medical Consultants LLC Medical Products",
+    "best_file": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+    "similarity": 0.5468978881835938,
+    "actual_files": [
+      "cuad/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products; What is the expiration date of this contract?",
+    "targeted_corpus": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
+    "best_file": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+    "similarity": 0.46982359886169434,
+    "actual_files": [
+      "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products; What is the renewal term for this contract?",
+    "targeted_corpus": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
+    "best_file": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+    "similarity": 0.46982359886169434,
+    "actual_files": [
+      "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products; What is the governing law for this contract?",
+    "targeted_corpus": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
+    "best_file": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+    "similarity": 0.46982359886169434,
+    "actual_files": [
+      "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products; Is there a most favored nation clause in this contract?",
+    "targeted_corpus": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
+    "best_file": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+    "similarity": 0.46982359886169434,
+    "actual_files": [
+      "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products; Does this contract include an exclusivity agreement?",
+    "targeted_corpus": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
+    "best_file": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+    "similarity": 0.46982359886169434,
+    "actual_files": [
+      "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products; Is there a clause preventing the solicitation of customers in this contract?",
+    "targeted_corpus": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
+    "best_file": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+    "similarity": 0.46982359886169434,
+    "actual_files": [
+      "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products; Is there an anti-assignment clause in this contract?",
+    "targeted_corpus": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
+    "best_file": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+    "similarity": 0.46982359886169434,
+    "actual_files": [
+      "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products; Are there any price restrictions or controls specified in this contract?",
+    "targeted_corpus": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
+    "best_file": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+    "similarity": 0.46982359886169434,
+    "actual_files": [
+      "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products; Does this contract include any volume restrictions?",
+    "targeted_corpus": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
+    "best_file": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+    "similarity": 0.46982359886169434,
+    "actual_files": [
+      "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products; How is intellectual property ownership assigned in this contract?",
+    "targeted_corpus": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
+    "best_file": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+    "similarity": 0.46982359886169434,
+    "actual_files": [
+      "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products; Are there any services to be provided after the termination of this contract?",
+    "targeted_corpus": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
+    "best_file": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+    "similarity": 0.46982359886169434,
+    "actual_files": [
+      "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products; Is there a cap on liability under this contract?",
+    "targeted_corpus": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
+    "best_file": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+    "similarity": 0.46982359886169434,
+    "actual_files": [
+      "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products; What is the duration of any warranties provided in this contract?",
+    "targeted_corpus": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
+    "best_file": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+    "similarity": 0.46982359886169434,
+    "actual_files": [
+      "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products; Is there a covenant not to sue included in this contract?",
+    "targeted_corpus": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
+    "best_file": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+    "similarity": 0.46982359886169434,
+    "actual_files": [
+      "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Non-Exclusive Distributor Agreement between iMine Corporation and Sunwai Technology for Cryptocurrency Mining Rigs; What is the expiration date of this contract?",
+    "targeted_corpus": "Non-Exclusive Distributor Agreement iMine Corporation Sunwai Technology Cryptocurrency Mining Rigs",
+    "best_file": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+    "similarity": 0.5170678496360779,
+    "actual_files": [
+      "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Consider the Non-Exclusive Distributor Agreement between iMine Corporation and Sunwai Technology for Cryptocurrency Mining Rigs; What is the governing law for this contract?",
+    "targeted_corpus": "Non-Exclusive Distributor Agreement iMine Corporation Sunwai Technology Cryptocurrency Mining Rigs",
+    "best_file": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+    "similarity": 0.5170678496360779,
+    "actual_files": [
+      "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt"
+    ],
+    "score": 0
+  }
+]

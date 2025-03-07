@@ -1,0 +1,1942 @@
+[
+  {
+    "query": "\"What type of consideration is typically involved in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the Acquisition Agreement typically contain provisions regarding the fulfillment of covenants as a condition for closing the deal?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In acquisition agreements, how do parties typically address representations and warranties related to a material adverse effect on a specified date?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is typically defined as a 'Material Adverse Effect' in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What does the term \"Knowledge\" typically refer to in acquisition agreements between two companies?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In business agreements, how is the fiduciary exception typically addressed in relation to clauses restricting the parties from seeking other potential deals?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What criteria typically define a 'Superior Proposal' in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within acquisition agreements, how are fiduciary termination rights typically defined and what triggers are commonly associated with termination?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Tail provisions addressing acquisition proposals typically included in Acquisition Agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What are the typical provisions regarding ordinary business operations in an Acquisition Agreement between two companies?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within acquisition agreements, where can one typically find clauses related to specific performance?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In acquisition agreements, is it typically required for the parties to ensure compliance with covenants as a closing condition?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In legal agreements, what is typically meant by a representation and warranty of no material adverse effect by one party towards another, concerning a specific date mentioned in the agreement?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What does the term \"Knowledge\" typically refer to in acquisition agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does an Acquisition Agreement typically contain provisions that restrict the Target from seeking alternative offers during the negotiation process?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What criteria typically define a \"Superior Proposal\" in acquisition agreements between companies?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What does the term \"Interveining Event\" typically refer to in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are there standard provisions in acquisition agreements that outline triggers for termination related to fiduciary duties?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Are Acquisition Agreements typically structured to include provisions related to acquisition proposals after the agreement is finalized?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the typical provisions regarding ordinary course of business covenants in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In general, how are Specific Performance clauses typically addressed in acquisition agreements between two parties?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In a typical Acquisition Agreement, is it customary to include provisions regarding compliance with covenants as part of the closing conditions?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In an Acquisition Agreement, what does the Target typically represent and warrant about the absence of any Material Adverse Effect up to a specific date?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is typically defined as 'Knowledge' in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Where in acquisition agreements is the provision typically found that restricts the selling party from seeking other offers during the negotiation process?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does an Acquisition Agreement typically include provisions related to acquisition proposals even after the agreement is finalized?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What kind of covenants related to ordinary business practices are typically included in acquisition agreements between different entities?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Where in a typical Acquisition Agreement would one find the provision related to Specific Performance?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In a merger agreement, is it typically required for the parties to comply with specific covenants as a closing condition?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In merger agreements, how do representations and warranties typically address the absence of material adverse effects on the target company up to a specified date?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In legal agreements involving parties, how is the term \"Knowledge\" typically defined?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical Merger Agreement include a provision that restricts one party from seeking other potential buyers during the negotiation period?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the Fiduciary exception often play a role in agreements involving mergers and acquisitions when considering restrictions on shopping for alternative deals?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is typically defined as an 'Intervening Event' in a Merger Agreement between two entities involved in a business combination?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In a merger agreement, what factors typically trigger the right for either party to terminate the agreement based on fiduciary obligations?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within typical merger agreements, do they often include provisions that address acquisition proposals made after the agreement is in effect?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In typical merger agreements, what are the provisions related to covenants regarding the ordinary course of business?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the Merger Agreement typically contain provisions related to Specific Performance?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of consideration is typically involved in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In an Acquisition Agreement between two parties, how is compliance with covenants typically addressed as a closing condition?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What does the representation and warranty of no material adverse effect typically entail in acquisition agreements, particularly concerning a specified date?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What typically constitutes a 'Material Adverse Effect' in an Acquisition Agreement between two parties?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What does the term 'Knowledge' typically refer to in acquisition agreements between two parties?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In acquisition agreements, where is the provision typically found that restricts the target company from seeking other potential buyers during the negotiation period?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In general, how do Acquisition Agreements typically address the Fiduciary exception to clauses regarding restrictions on shopping the deal to other potential buyers?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Original: \"Consider the Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\"; What is the Definition of \"Superior Proposal\"?\n\nRephrased: \"In acquisition agreements, how is a \"Superior Proposal\" typically defined and what implications does it have for the parties involved?\"",
+    "targeted_corpus": "gainwell  corp hms holdings corp",
+    "best_file": "maud/HMS Holdings Corp._Veritas Capital.txt",
+    "similarity": 0.5131536722183228,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"What does the term \"Interveining Event\" typically refer to in acquisition agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In contract agreements involving acquisitions, how is the termination process typically triggered regarding fiduciary rights?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Does a typical Acquisition Agreement incorporate a provision related to acquisition proposals even after the agreement is finalized?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In typical acquisition agreements, what provisions are usually included regarding covenants related to the ordinary course of business?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In acquisition agreements, where can one typically find clauses pertaining to specific performance?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/HMS Holdings Corp._Veritas Capital.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within acquisition agreements, how is the type of consideration typically addressed between the involved parties?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In a typical acquisition agreement, how is the accuracy of the target's representations and warranties addressed as a closing condition?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In acquisition agreements, how is compliance with covenants typically addressed in relation to closing conditions?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In acquisition agreements, how do representations and warranties typically address the absence of material adverse effects as of a specific date?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What does the term 'Material Adverse Effect' typically refer to in acquisition agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What does the term 'Knowledge' typically refer to in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are restrictions on shopping provisions typically included in acquisition agreements, and if so, where can they usually be found?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Regarding acquisition agreements, how do fiduciary responsibilities impact clauses that restrict parties from seeking other offers?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is typically defined as a 'Superior Proposal' in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What does the term 'Interveining Event' typically refer to in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In acquisition agreements, how is the triggering of fiduciary termination rights typically addressed in the event of termination?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Tail provisions typically included in Acquisition Agreements to address potential acquisition proposals post-termination?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the typical covenants related to the ordinary course of business found in acquisition agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In an acquisition agreement, where would one typically find the clause outlining the regulatory approvals required for the deal to close?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are clauses related to Specific Performance typically included in Acquisition Agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of consideration is typically involved in an Acquisition Agreement between two parties?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In a typical acquisition agreement, how is the accuracy of the target company's representations and warranties typically addressed as a closing condition?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "How are compliance with covenants typically addressed in acquisition agreements between two parties?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What does a typical Acquisition Agreement entail regarding a Target's Representation & Warranty of No Material Adverse Effect concerning a specific date?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What does the term 'Material Adverse Effect' typically refer to in acquisition agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is typically meant by the term 'Knowledge' in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the typical Acquisition Agreement include provisions related to restricting the Target company from engaging in discussions with other potential buyers?\"",
+    "targeted_corpus": "target",
+    "best_file": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+    "similarity": 0.2622113525867462,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What criteria are typically used to define a 'Superior Proposal' in acquisition agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What does the term \"Interveining Event\" typically refer to in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In acquisition agreements, how are fiduciary termination rights typically triggered for termination?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does an Acquisition Agreement typically include a provision regarding the consideration of acquisition proposals after the agreement is finalized?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In standard business agreements, what are the typical provisions regarding actions to be taken in the ordinary course of business?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does an Acquisition Agreement typically include provisions related to Specific Performance, and where would such a clause be commonly found in the document?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of consideration is typically exchanged in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In an acquisition agreement, how is compliance with covenants typically addressed in relation to the closing condition?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is typically meant by the term 'Knowledge' in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In the context of acquisition agreements, how do fiduciary exceptions typically interact with clauses related to restricting the Target company from seeking other buyers?\"",
+    "targeted_corpus": "target",
+    "best_file": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+    "similarity": 0.2622113525867462,
+    "actual_files": [
+      "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What criteria typically define a 'Superior Proposal' in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What does the term \"Interveining Event\" typically refer to in acquisition agreements between companies?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In a typical business acquisition agreement, how is the right to terminate the agreement based on fiduciary considerations generally defined?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are there typically provisions in acquisition agreements that address the consideration of acquisition proposals after the agreement is in place?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In standard business agreements, what are the typical covenants related to ordinary course of business activities?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of consideration is typically involved in an acquisition agreement between two companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In acquisition agreements, how do parties typically address the requirement for compliance with covenants as a closing condition?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What does the term \"Material Adverse Effect\" typically encompass in acquisition agreements between companies?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What is typically defined as \"Knowledge\" in acquisition agreements between companies?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can you provide information on the presence and location of a No-Shop Clause in typical Acquisition Agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the Fiduciary exception typically apply to the No-Shop Clause in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within acquisition agreements, how is a 'Superior Proposal' typically defined and addressed?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What does the term 'Interveining Event' typically refer to in an Acquisition Agreement between two parties?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In a typical acquisition agreement, what factors typically trigger the right for either party to terminate the agreement based on fiduciary considerations?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within acquisition agreements, do provisions typically exist regarding tail obligations related to acquisition proposals?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the typical consequences of breaching a No-Shop clause in an Acquisition Agreement between two parties?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the typical consequences of breaching a covenant related to shareholder meetings in an acquisition agreement between two companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are there typically provisions in acquisition agreements that outline the covenants related to the parties' ordinary course of business activities?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Specific Performance clauses typically included in Acquisition Agreements between parties in business transactions?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of consideration is typically involved in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In legal agreements involving acquisitions, how is compliance with covenants typically addressed in relation to closing conditions?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In a typical Acquisition Agreement, what does the Target company typically represent in terms of any Material Adverse Effect as of a specific date?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What does the term \"Material Adverse Effect\" typically refer to in acquisition agreements between different parties?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is typically defined as 'Knowledge' in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does an Acquisition Agreement typically contain provisions that restrict the Target company from seeking other potential buyers during the negotiation process?\"",
+    "targeted_corpus": "target",
+    "best_file": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+    "similarity": 0.2622113525867462,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "How does the concept of the fiduciary exception apply to the restrictions on shopping agreements in business acquisitions?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What criteria typically define a \"Superior Proposal\" in acquisition agreements between different parties?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What does the term \"Interveining Event\" typically refer to in Acquisition Agreements between companies?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In the context of acquisition agreements, how are Fiduciary Termination Rights typically triggered for termination?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are Tail provisions typically included in acquisition agreements to address potential acquisition proposals after the initial agreement is terminated?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In the context of acquisition agreements, what consequences typically arise when there is a breach of a No-Shop clause?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In typical business agreements, what kind of covenants are usually included regarding the ordinary course of business?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Where in an Acquisition Agreement would you typically find information regarding the conditions that must be met for the deal to close, particularly concerning regulatory approvals?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In acquisition agreements, how are limitations on antitrust efforts typically addressed between the parties involved?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Where can the Specific Performance clause typically be found in acquisition agreements between different parties?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In acquisition agreements, how is the type of consideration typically determined between the parent company and the target company involved?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In acquisition agreements, is it typically required that both parties comply with certain conditions, such as covenants, before the deal can be finalized?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What does the term \"Material Adverse Effect\" typically refer to in acquisition agreements between companies?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is typically defined as 'Knowledge' in acquisition agreements between companies involved in a merger or acquisition?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the Acquisition Agreement between a Parent Company and its Target typically include a provision that restricts the Target from seeking other potential buyers?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In acquisition agreements, how is the fiduciary exception typically addressed in relation to clauses restricting the target company from seeking other potential buyers?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What criteria typically define a 'Superior Proposal' in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In acquisition agreements, how are fiduciary termination rights typically triggered for termination?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are there typically provisions in acquisition agreements that address potential acquisition proposals after the initial agreement has been made?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In the context of acquisition agreements, what typically occurs when a party breaches a No-Shop clause?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within acquisition agreements, what are the typical covenants related to conducting business as usual?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In acquisition agreements between companies, where can one typically find the clause outlining the conditions necessary for the deal to close, such as regulatory approvals?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Regarding Acquisition Agreements, what are the usual provisions related to limiting antitrust activities?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within acquisition agreements, how are clauses related to Specific Performance typically addressed?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of consideration is typically involved in merger agreements between two companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does a typical Merger Agreement address the requirement for compliance with covenants as a closing condition?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In typical merger agreements, is there usually a provision related to the absence of litigation as a closing condition?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What constitutes a 'Material Adverse Effect' in merger agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What typically constitutes the definition of the term \"Knowledge\" in a merger agreement between companies?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within merger agreements, where can one typically locate clauses that restrict the parties from seeking other potential merger or acquisition opportunities?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In the context of merger agreements, how do fiduciary exceptions typically interact with clauses restricting parties from seeking other offers?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What criteria typically define a \"Superior Proposal\" in a Merger Agreement between companies?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Regarding merger agreements, how do parties typically determine the conditions that trigger termination rights related to fiduciary obligations?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Does typical merger agreements include provisions related to handling acquisition proposals even after the agreement is finalized?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the typical clauses related to the ordinary course of business in merger agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Where in a typical Merger Agreement would one find the clause outlining the conditions that must be met before the transaction can be finalized?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What restrictions or limitations typically exist around antitrust efforts in merger agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within merger agreements, in what sections are clauses related to Specific Performance typically included?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Altabancorp_Glacier Bancorp, Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of consideration is typically involved in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In acquisition agreements, do parties typically include provisions related to ensuring compliance with specific requirements before the deal is finalized?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In acquisition agreements, how do targets generally represent and warrant the absence of any material adverse effects as of a specified date?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What does the term 'Material Adverse Effect' typically refer to in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the typical definition of the term 'Knowledge' in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the concept of the Fiduciary exception often apply to clauses such as the No-Shop Clause in acquisition agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What criteria typically define a 'Superior Proposal' in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is typically defined as an 'Intervening Event' in Acquisition Agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In legal agreements involving acquisitions, are there specific provisions that outline conditions or triggers for the termination of the agreement, such as fiduciary termination rights?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within acquisition agreements, do provisions typically address the handling of acquisition proposals made after the initial agreement?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In the context of business agreements, what are the typical consequences when a party breaches a No-Shop clause?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the typical covenants related to the ordinary course of business in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within acquisition agreements, where can one expect to find clauses detailing the conditions required for the completion of the transaction, particularly in terms of regulatory approvals?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In the context of an acquisition agreement, what are the typical provisions regarding limitations on antitrust activities between the involved parties?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within acquisition agreements, where can one typically find clauses related to specific performance?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of consideration is typically involved in merger agreements between two companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In merger agreements, what does the Target typically represent and warrant regarding the absence of any material adverse effects as of a specified date?",
+    "targeted_corpus": "target",
+    "best_file": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+    "similarity": 0.2622113525867462,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What typically constitutes a 'Material Adverse Effect' as defined in merger agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What is typically defined as \"Knowledge\" in merger agreements between companies?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Regarding merger agreements and fiduciary duties, how does the fiduciary exception typically interact with provisions like the No-Shop Clause?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What criteria typically define a \"Superior Proposal\" in merger agreements between companies?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What is the typical definition of an \"Intervening Event\" in merger agreements between companies?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In a merger agreement between two parties, how are fiduciary termination right triggers typically addressed in relation to termination?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What do typical business covenants in merger agreements cover regarding day-to-day operations?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Where in a typical Merger Agreement would you find information about the conditions required for the completion of the merger, particularly related to regulatory approvals?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Regarding merger agreements, what are the usual provisions related to restrictions on antitrust activities between the involved parties?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within merger agreements, how are clauses related to Specific Performance typically addressed?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Chiasma, Inc._Amryt Pharma plc.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of consideration is typically involved in an Acquisition Agreement between two parties?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does an Acquisition Agreement typically include details about compliance with covenants as a closing condition?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is the typical definition of 'Knowledge' as used in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In the context of business acquisitions, how is a 'Superior Proposal' typically defined in agreements between acquiring and target companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What typically constitutes an 'Interveining Event' in legal agreements like Acquisition Agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In the context of a business acquisition agreement, how are fiduciary termination rights typically triggered for contract termination?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are acquisition agreements generally structured to include provisions for addressing acquisition proposals after the initial agreement is signed?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "What are the typical covenants related to conducting business as usual in acquisition agreements between companies?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Where can the clause regarding Closing Conditions related to Regulatory Approvals typically be found in acquisition agreements?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are there typically provisions in acquisition agreements that impose restrictions on antitrust activities?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In acquisition agreements, how is the Specific Performance clause typically addressed?",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In business agreements involving acquisitions, what type of consideration is typically exchanged between the parent company and the target company?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does an Acquisition Agreement typically outline requirements related to compliance with covenants as a closing condition?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In acquisition agreements, how do parties typically address representations and warranties regarding the absence of material adverse effects as of a specified date?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within acquisition agreements, where can one typically find provisions related to restricting the target company from seeking other potential buyers?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In acquisition agreements, how do fiduciary duties typically interact with clauses restricting the seller from seeking other offers?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What criteria typically determine a 'Superior Proposal' in Acquisition Agreements between different parties?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What is typically defined as an 'Intervening Event' in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In legal agreements involving acquisitions, do provisions typically exist that outline the circumstances triggering termination rights related to fiduciary duties?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are acquisition agreements typically structured to include provisions that address future acquisition proposals after the initial agreement is in place?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What types of covenants related to standard business practices are typically included in acquisition agreements between companies?\"",
+    "targeted_corpus": "",
+    "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
+    "similarity": 0.1542927771806717,
+    "actual_files": [
+      "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
+    ],
+    "score": 0
+  }
+]

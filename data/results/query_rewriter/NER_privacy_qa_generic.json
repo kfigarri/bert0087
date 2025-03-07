@@ -1,0 +1,1922 @@
+[
+  {
+    "query": "\"Within online platforms' privacy policies, how is visibility determined regarding the tasks contracted to workers?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Fiverr.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In privacy policies related to online platforms, what level of visibility is typically granted to the jobs posted by users?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Fiverr.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What kind of personally identifiable information is typically exchanged between users on online platforms?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Fiverr.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How are personal information typically safeguarded against unauthorized access in online platforms' privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Fiverr.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Regarding privacy policies in general, what entities typically have access to personal information shared by users?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Fiverr.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of information do companies typically store about users in their privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Fiverr.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In privacy policies, what details are typically visible to others?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Fiverr.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How do companies typically safeguard the personal information of individuals, such as freelancers, in their privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Fiverr.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How do platforms typically ensure the security of payments to freelancers in online transactions?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Fiverr.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within the scope of privacy policies, does the handling of user information involve sharing with third parties?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Fiverr.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does Fiverr's privacy policy involve continuous tracking of user locations?\"",
+    "targeted_corpus": "fiverr",
+    "best_file": "privacy_qa/Fiverr.txt",
+    "similarity": 0.42292261123657227,
+    "actual_files": [
+      "privacy_qa/Fiverr.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Can individuals accessing a platform's privacy policy determine if their address may be disclosed to potential employers?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Fiverr.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How much control do individuals typically have over the information shared with potential employers through online platforms?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Fiverr.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are third parties able to access my information based on the privacy policy in place?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Fiverr.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of online platforms typically address issues related to the visibility of users' financial information to others?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Fiverr.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of information is typically collected under privacy policies for online platforms like Fiverr?\"",
+    "targeted_corpus": "fiverr",
+    "best_file": "privacy_qa/Fiverr.txt",
+    "similarity": 0.42292261123657227,
+    "actual_files": [
+      "privacy_qa/Fiverr.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Does the privacy policy of a typical platform address the sharing of user information with third parties?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Fiverr.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Regarding privacy policies, how can one ensure the use of a secure payment service in online transactions?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Fiverr.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Regarding privacy policies in general, what is the typical usage of information collected?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Fiverr.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within the framework of privacy policies, how is access to personal workout plans typically managed?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Will a fitness coach typically disclose my information to third parties according to privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In privacy policies, is user consent typically required before sharing progress on social media platforms?",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of \"Keep\" address whether photos taken by users may be accessed by external parties?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In the privacy policies of companies, do they typically disclose whether personal information will be shared with third parties for marketing purposes?",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In general, do privacy policies typically outline whether an app will utilize user data for marketing purposes?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can applications typically access information from other apps, such as social media platforms like Twitter and Instagram, according to their privacy policies?\"",
+    "targeted_corpus": "twitter instagram",
+    "best_file": "privacy_qa/23andMe.txt",
+    "similarity": 0.1979428380727768,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In terms of privacy and security, how does this app protect user account information according to its policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of the service \"Keep\" ensure that user statistics are kept confidential?\"",
+    "targeted_corpus": "keep",
+    "best_file": "privacy_qa/Keep.txt",
+    "similarity": 0.3088216483592987,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"In terms of data privacy policies, what entities typically have access to user data?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of the \"Keep\" app disclose whether it has access to users' contact lists?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of \"Keep\" provide adequate protection for user data?\"",
+    "targeted_corpus": "keep",
+    "best_file": "privacy_qa/Keep.txt",
+    "similarity": 0.3088216483592987,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Does the privacy policy for the service you are referring to outline how user information is handled, including details on data storage practices?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of the platform you are using address the access to contact information?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of the \"Keep\" service address the storage of sensitive health information?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of the \"Keep\" app mention whether the app has access to users' location information?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Does the privacy policy of \"Keep\" disclose whether any information is shared with third parties?",
+    "targeted_corpus": "keep",
+    "best_file": "privacy_qa/Keep.txt",
+    "similarity": 0.3088216483592987,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Does the privacy policy for the \"Keep\" platform mention whether it has access to users' other social media accounts?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What types of personal information are typically accessed by apps in relation to their privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of \"Keep\" specify whether personal information provided during sign-up may be shared with third parties or other entities?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of \"Keep\" specify whether workout data is shared with third parties, such as insurance companies?\"",
+    "targeted_corpus": "keep",
+    "best_file": "privacy_qa/Keep.txt",
+    "similarity": 0.3088216483592987,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"How effectively does the privacy policy of a company safeguard user data and what measures are typically outlined to ensure data protection?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are individuals typically able to view the specific workout lists being used by others based on the privacy policies of various platforms or services?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of \"Keep\" allow individuals to access their workout log?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of \"Keep\" address the sharing of user information with third parties?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In \"Keep\"'s privacy policy, does it outline any provisions regarding the monitoring and sharing of user location information?",
+    "targeted_corpus": "keep",
+    "best_file": "privacy_qa/Keep.txt",
+    "similarity": 0.3088216483592987,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"How does the privacy policy of \"Keep\" outline the protection of personal information?\"",
+    "targeted_corpus": "keep",
+    "best_file": "privacy_qa/Keep.txt",
+    "similarity": 0.3088216483592987,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Does the privacy policy of \"Keep\" address the potential sale of user information?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of \"Keep\" address the collection of location information?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In privacy policies, is user activity typically stored and uploaded to the service provider's database?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of the app \"Keep\" involve the usage of user data for app modifications?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Regarding privacy policies, how do companies typically handle the sale of user data?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In privacy policies, is it typical to disclose whether location information is shared with third parties?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of \"Keep\" involve sharing my objectives with third parties?\"",
+    "targeted_corpus": "keep",
+    "best_file": "privacy_qa/Keep.txt",
+    "similarity": 0.3088216483592987,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "In privacy policies, is it typical for companies to collect and store physical measurements such as height and weight?",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of the \"Keep\" service mention whether it has access to GPS information?\"",
+    "targeted_corpus": "gps",
+    "best_file": "privacy_qa/Viber Messenger.txt",
+    "similarity": 0.12815487384796143,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Does the privacy policy for the \"Keep\" app detail the collection of biometric data such as heart rate and blood pressure?",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Keep.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What measures are typically implemented to ensure the security of personal information in mobile applications like those covered by privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In the event of a compromised account, what are the typical actions or procedures outlined in privacy policies to address such situations?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does Groupon's privacy policy allow for the retention of user information after a single use of their services?\"",
+    "targeted_corpus": "groupon",
+    "best_file": "privacy_qa/Groupon.txt",
+    "similarity": 0.49369752407073975,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Regarding privacy policies in general, what entities typically have access to personal information provided by users?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In privacy policies, is it typically required to disclose one's location information?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are companies typically allowed to sell personal information collected from users under their privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How does typical privacy policies address the duration for which personal information is retained?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of data are companies typically known to collect as part of their privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the typical practices regarding collected data in privacy policies, such as sharing with third parties, as seen in various organizations?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In general, what types of permissions are typically required to be granted in a company's privacy policy?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What security measures are typically employed by companies to safeguard the data and privacy of their users as outlined in their privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "If I stop using a service, how long is my data typically retained by the company according to their privacy policy?",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of personal information do companies typically collect about their users in their privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In general, do companies like Groupon typically sell customers' personal information according to their privacy policies?\"",
+    "targeted_corpus": "groupon",
+    "best_file": "privacy_qa/Groupon.txt",
+    "similarity": 0.49369752407073975,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Does the privacy policy of a company typically address its ability to access a user's location information?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of platforms typically address concerns about the visibility of personal information to other users?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In privacy agreements like those used by online platforms, do vendors typically have access to user information?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of mobile applications typically involve tracking location data of users?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of online platforms typically involve sharing user search and purchase history with advertisers?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What kind of permissions are typically required for an app to function as per its privacy policy?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can privacy policies typically request access to location services even when they are not actively being used?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are users typically required to provide personal information when using online services with privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does Groupon's privacy policy include provisions related to tracking a user's location?\"",
+    "targeted_corpus": "groupon",
+    "best_file": "privacy_qa/Groupon.txt",
+    "similarity": 0.49369752407073975,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Within the context of privacy policies, do organizations typically disclose the sharing of personal information with third parties?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within the privacy policies of various services, do they typically disclose or share customers' purchase information with third parties?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How do privacy policies typically outline the permissions they require from users' devices?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can a company's privacy policy require constant access to my location, or is it sufficient for me to input it only when seeking a discount or offer?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In the privacy policies of companies, do they typically disclose if they share customer data with third parties for marketing or other purposes?",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within typical privacy policies, do companies generally retain information about users even after their accounts are deleted?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How is personal data typically handled or stored in privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What types of protections are typically included in the privacy policies of companies like 'Groupon'?\"",
+    "targeted_corpus": "groupon",
+    "best_file": "privacy_qa/Groupon.txt",
+    "similarity": 0.49369752407073975,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Does \"Groupon\"'s privacy policy provide sufficient safeguards for protecting personal data?\"",
+    "targeted_corpus": "groupon",
+    "best_file": "privacy_qa/Groupon.txt",
+    "similarity": 0.49369752407073975,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Does the privacy policy of digital platforms typically request personal information such as credit card details?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Groupon.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of personal information do privacy policies typically access?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of information is typically collected by the privacy policies of online platforms like \"Wordscapes\"?\"",
+    "targeted_corpus": "wordscapes",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.49355044960975647,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Does the privacy policy of \"Wordscapes\" address the potential sale of user information?\"",
+    "targeted_corpus": "wordscapes",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.49355044960975647,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Does the privacy policy of a typical service ensure the security of user information?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within privacy policies for online services, do they typically gather contact information from users?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of apps typically address the selling of customer information?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In general, do mobile applications typically track users' GPS locations as outlined in their privacy policies?\"",
+    "targeted_corpus": "gps",
+    "best_file": "privacy_qa/Viber Messenger.txt",
+    "similarity": 0.12815487384796143,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of a typical app involve selling user information to third parties?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are mobile applications typically designed to request access to users' social media accounts as outlined in their privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of information do companies typically collect in their privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of \"Wordscapes\" include provisions about monitoring user location?\"",
+    "targeted_corpus": "wordscapes",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.49355044960975647,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Does the privacy policy of \"Wordscapes\" involve accessing information about my contacts?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of \"Wordscapes\" provide adequate protection for my personal information?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within privacy policies, do companies typically collect location information from users?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within privacy policies for apps, is it typical for them to track users' location?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within the privacy policies of various applications, do they typically disclose the presence of third-party advertisements?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of 'Wordscapes' address the usage of data from sources outside the app on a user's device?\"",
+    "targeted_corpus": "wordscapes",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.49355044960975647,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Regarding app privacy policies, does the app typically require access to the user's location?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of \"Wordscapes\" mention the presence of any advertisements in the app that may direct users to external websites?\"",
+    "targeted_corpus": "wordscapes",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.49355044960975647,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Within the privacy policies of various apps, do they typically gather and store personally identifiable information such as names and email addresses?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are privacy policies typically associated with apps designed to display targeted advertisements?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are privacy policies typically designed to access user contacts?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In terms of app privacy policies, do they typically disclose whether personal information is sold by the app provider?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of \"Wordscapes\" typically involve collecting users' location information?\"",
+    "targeted_corpus": "wordscapes",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.49355044960975647,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"What type of data is typically collected in the privacy policies of online platforms like \"Wordscapes\"?\"",
+    "targeted_corpus": "wordscapes",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.49355044960975647,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Within privacy policies for various services, do they typically disclose how data is shared with third parties?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within privacy policies, do organizations typically gather payment details?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within privacy policies, do companies typically collect user location information?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within the context of privacy policies, do companies typically engage in the sale of user data?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Wordscapes.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of task management applications typically address the storage of reminder data?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of a task management app typically involve tracking users' task schedules?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of a task management application typically have access to users' real names?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Regarding privacy policies for online services, is it typically possible for users to delete their personally identifying information?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of information is typically collected from users under privacy policies for task management apps like 'TickTick: To Do List with Reminder, Day Planner'?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of a service typically outline how user data is handled in terms of sharing with third parties?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can users typically access information about the data collection practices outlined in a company's privacy policy?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Regarding privacy policies for apps, are there disclosures about sharing user information with third parties?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of a typical service provider include provisions regarding the sharing of user data with third parties?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of a task management application address whether user-generated content is stored on external servers?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In typical privacy policies for task management applications, what entities are typically granted access to the information provided by users?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of the TickTick application address how user information is used for financial purposes?\"",
+    "targeted_corpus": "ticktick",
+    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+    "similarity": 0.42786991596221924,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Within the privacy policies of productivity tools, how is ownership and access to user-generated content typically addressed?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are third parties typically granted access to user data in the privacy policies of task management applications?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In typical privacy policies for task management apps, which entities are granted access to user data?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Can you provide information on whether apps generally capture users' IP addresses in their privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What kind of data is typically collected by companies in their privacy policies, like those found in the \"TickTick: To Do List with Reminder, Day Planner\" app?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In terms of privacy policies for digital services, what types of information are typically disclosed to users?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In privacy policies for digital platforms, how is user data typically handled in terms of who has access to it?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of the TickTick app provide an option for users to choose not to share their data?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of companies typically address the sharing of personal information with third parties?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/23andMe.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within privacy policies of various services, is it usual for them to retain information about the shipping address for products or services?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/23andMe.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within privacy policies, is it customary for companies to engage in the sale of genetic data?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/23andMe.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of companies typically ensure that personal data is anonymized to protect user privacy?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/23andMe.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Do privacy policies typically involve accessing information from a user's device without explicit consent?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/23andMe.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What are the typical practices regarding the handling of DNA information as outlined in privacy policies?\"",
+    "targeted_corpus": "dna",
+    "best_file": "privacy_qa/23andMe.txt",
+    "similarity": 0.1454026997089386,
+    "actual_files": [
+      "privacy_qa/23andMe.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policies of companies typically address the handling of personal data samples once they are no longer needed?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/23andMe.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Do privacy policies typically involve the use of personal data for medical research purposes?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/23andMe.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Does privacy policies typically involve the recording of any information?",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/23andMe.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In privacy policies, where is personal information typically stored or retained?",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/23andMe.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of a company typically address whether the information shared is encrypted?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/23andMe.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of genetic testing companies typically address the sharing of test results with third parties?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/23andMe.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are individuals typically allowed to delete their personally identifying information as per privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/23andMe.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are messaging apps typically known to retain logs of user messages as detailed in their privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "Does the privacy policy of messaging apps typically address whether call logs are recorded?",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Regarding privacy policies for messaging apps, do they typically mention if video calls are recorded?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are users typically required to provide identifying information when using messaging apps with privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of user information is typically collected in privacy policies of messaging apps?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How does the data collected by companies typically get utilized in their privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What types of data are typically retained by companies in their privacy policies and for what duration?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Regarding privacy policies for messaging apps, is there typically a provision about the storage of text messages by the service provider?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within the context of privacy policies, is there typically a practice of storing records of text messages by service providers like Viber Messenger?\"",
+    "targeted_corpus": "viber messenger",
+    "best_file": "privacy_qa/Viber Messenger.txt",
+    "similarity": 0.6716922521591187,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Are phone calls typically recorded by companies as part of their privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Do privacy policies typically allow app controllers to access messages deemed inappropriate or offensive?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Would a typical privacy policy for a messaging app like Viber involve the sharing or selling of user information to advertisers and marketers?\"",
+    "targeted_corpus": "viber",
+    "best_file": "privacy_qa/Viber Messenger.txt",
+    "similarity": 0.5352071523666382,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Within Viber Messenger's privacy policy, is there any indication of connections to the advertising industry?\"",
+    "targeted_corpus": "viber messenger",
+    "best_file": "privacy_qa/Viber Messenger.txt",
+    "similarity": 0.6716922521591187,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "In privacy policies, are there provisions that address who can access user information in general?",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How is user information typically shared with third parties according to most privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of Viber Messenger address the sharing of user data with third-party websites?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of messaging apps typically address whether personal information is shared with third-party entities?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Under typical privacy policies for messaging apps, is it possible for third parties to access conversations?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within the privacy policies of messaging apps, is there a provision that addresses the potential sale of user data?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How does the privacy policy of messaging services typically address the storage of user contacts?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within the context of privacy policies, is it typically possible to request the deletion of personal data?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"In terms of privacy policies, what is the typical protocol for deleting stored data?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"How is the retention period for meta data typically addressed in privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of messaging apps typically address the encryption of user messages?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are communications typically encrypted in messaging platforms in relation to privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of \"Viber Messenger\" ensure the confidentiality of contact information provided by users?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of messaging platforms address the security of messages transmitted through their services?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are photos and videos shared on messaging platforms typically treated as confidential according to their privacy policies?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does the privacy policy of messaging apps typically outline who can access user accounts?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "How is user data typically stored according to privacy policies in messaging applications?",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within privacy policies, do apps typically have measures in place to safeguard user account details from unauthorized access?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are there typically security measures, such as password protection, in place for accessing messaging apps to ensure user privacy?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Does Viber Messenger's privacy policy address how the company responds to government information requests?\"",
+    "targeted_corpus": "viber messenger",
+    "best_file": "privacy_qa/Viber Messenger.txt",
+    "similarity": 0.6716922521591187,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 1
+  },
+  {
+    "query": "\"Are call logs subject to subpoena under privacy policies of messaging services?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Regarding free messaging apps, do they typically generate revenue from users in some manner through their operations?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are messaging apps typically designed to ensure the privacy and security of the messages sent by users to contacts?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "In the privacy policies of messaging apps, is there a provision regarding the sharing of user information with third parties?",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"What type of personal information is typically needed to create an account based on a platform's privacy policy?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Are personal information sales to third parties addressed in privacy policies of messaging platforms?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Regarding privacy policies for messaging apps, what measures are typically in place to safeguard user information when using the app on wi-fi networks?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  },
+  {
+    "query": "\"Within privacy policies for messaging services, how is the visibility of user information and messages typically addressed?\"",
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
+    "actual_files": [
+      "privacy_qa/Viber Messenger.txt"
+    ],
+    "score": 0
+  }
+]
