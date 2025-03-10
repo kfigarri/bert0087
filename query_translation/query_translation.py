@@ -8,6 +8,7 @@ from collections import Counter
 from datetime import datetime
 from typing import List, Tuple, Callable, Dict, Optional
 
+import textstat
 import nltk
 from nltk.corpus import stopwords
 from pydantic import BaseModel
@@ -55,15 +56,16 @@ def load_groundtruth(json_file_path: str) -> List[QAGroundTruth]:
         groundtruth_tests.append(QAGroundTruth(query=test["query"], snippets=snippets, file_set=file_set))
     return groundtruth_tests
 
-def compute_query_complexity() -> Tuple[str, int]:
+def calculate_readability(query: str) -> str:
     """
-    Randomly returns one of the following pairs:
-      - ("simple", 1)
-      - ("intermediate", 3)
-      - ("complex", 5)
+    Calculate different readability scores based on Dale Chall and categories into expert and non-expert based on a specific treshold
     """
-    options = [("simple", 1), ("intermediate", 3), ("complex", 5)]
-    return random.choice(options)
+    dale_chall = textstat.dale_chall_readability_score(query)
+
+    if dale_chall < 8.0 :
+        return "non-expert", dale_chall
+    else:
+        return "expert", dale_chall
 
 def split_question_ner(query: str, ner_model) -> Tuple[str, str]:
     """
@@ -153,6 +155,7 @@ def query_rewriter(
                 "similarity_score": similarity,
                 "only_question": only_question
             }
+            readability, readability_score = calculate_readability(only_question)
         else:
             query_rewriter_value = {
                 "best_file_path": "",
@@ -160,9 +163,7 @@ def query_rewriter(
                 "similarity_score": similarity,
                 "only_question": ""
             }
-        
-        # Compute query complexity based on the full query (or you may choose only_question).
-        complexity, retrieved_k = compute_query_complexity()
+            readability, readability_score = calculate_readability(gt.query)
         
         result = {
             "query": gt.query,
@@ -171,8 +172,9 @@ def query_rewriter(
             "query_rewriter": [query_rewriter_value],
             "feature_extraction": [
                 {
-                    "query_complexity": complexity,
-                    "retrieved_k": retrieved_k
+                    "complexity": "",
+                    "readability": readability,
+                    "readability_score": readability_score
                 }
             ],
         }
