@@ -24,8 +24,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.23
       }
     ]
   },
@@ -54,8 +55,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.81
       }
     ]
   },
@@ -84,8 +86,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.05
       }
     ]
   },
@@ -122,8 +125,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -152,8 +156,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.2
       }
     ]
   },
@@ -182,8 +187,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.99
       }
     ]
   },
@@ -220,8 +226,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.57
       }
     ]
   },
@@ -250,8 +257,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.64
       }
     ]
   },
@@ -280,8 +288,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.34
       }
     ]
   },
@@ -310,8 +319,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.23
       }
     ]
   },
@@ -340,8 +350,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.96
       }
     ]
   },
@@ -370,8 +381,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.81
       }
     ]
   },
@@ -400,8 +412,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.75
       }
     ]
   },
@@ -438,8 +451,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -468,8 +482,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -506,8 +521,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.99
       }
     ]
   },
@@ -552,8 +568,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.57
       }
     ]
   },
@@ -582,8 +599,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.64
       }
     ]
   },
@@ -612,8 +630,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.34
       }
     ]
   },
@@ -650,8 +669,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.19
       }
     ]
   },
@@ -680,8 +700,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.23
       }
     ]
   },
@@ -718,8 +739,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.05
       }
     ]
   },
@@ -748,8 +770,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -786,8 +809,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.2
       }
     ]
   },
@@ -816,8 +840,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -846,8 +871,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.64
       }
     ]
   },
@@ -884,8 +910,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.34
       }
     ]
   },
@@ -914,8 +941,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.19
       }
     ]
   },
@@ -944,8 +972,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.23
       }
     ]
   },
@@ -974,8 +1003,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.81
       }
     ]
   },
@@ -1004,8 +1034,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.05
       }
     ]
   },
@@ -1034,8 +1065,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -1064,8 +1096,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.2
       }
     ]
   },
@@ -1094,8 +1127,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.57
       }
     ]
   },
@@ -1124,8 +1158,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.64
       }
     ]
   },
@@ -1154,8 +1189,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.34
       }
     ]
   },
@@ -1184,8 +1220,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.23
       }
     ]
   },
@@ -1214,8 +1251,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.96
       }
     ]
   },
@@ -1252,8 +1290,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.81
       }
     ]
   },
@@ -1290,8 +1329,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.05
       }
     ]
   },
@@ -1336,8 +1376,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -1366,8 +1407,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -1404,8 +1446,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.2
       }
     ]
   },
@@ -1434,8 +1477,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -1464,8 +1508,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.99
       }
     ]
   },
@@ -1494,8 +1539,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.64
       }
     ]
   },
@@ -1532,8 +1578,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.34
       }
     ]
   },
@@ -1570,8 +1617,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.23
       }
     ]
   },
@@ -1608,8 +1656,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.96
       }
     ]
   },
@@ -1646,8 +1695,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.81
       }
     ]
   },
@@ -1676,8 +1726,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.75
       }
     ]
   },
@@ -1714,8 +1765,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.05
       }
     ]
   },
@@ -1752,8 +1804,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -1782,8 +1835,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -1820,8 +1874,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.57
       }
     ]
   },
@@ -1850,8 +1905,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.2
       }
     ]
   },
@@ -1888,8 +1944,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.99
       }
     ]
   },
@@ -1926,8 +1983,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.57
       }
     ]
   },
@@ -1956,8 +2014,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.64
       }
     ]
   },
@@ -2002,8 +2061,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.34
       }
     ]
   },
@@ -2032,8 +2092,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.19
       }
     ]
   },
@@ -2062,8 +2123,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.81
       }
     ]
   },
@@ -2092,8 +2154,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.06
       }
     ]
   },
@@ -2122,8 +2185,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.2
       }
     ]
   },
@@ -2152,8 +2216,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.64
       }
     ]
   },
@@ -2182,8 +2247,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.34
       }
     ]
   },
@@ -2212,8 +2278,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.23
       }
     ]
   },
@@ -2250,8 +2317,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.81
       }
     ]
   },
@@ -2280,8 +2348,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.75
       }
     ]
   },
@@ -2310,8 +2379,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.05
       }
     ]
   },
@@ -2348,8 +2418,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -2378,8 +2449,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.57
       }
     ]
   },
@@ -2408,8 +2480,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.2
       }
     ]
   },
@@ -2438,8 +2511,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.99
       }
     ]
   },
@@ -2476,8 +2550,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.57
       }
     ]
   },
@@ -2506,8 +2581,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.64
       }
     ]
   },
@@ -2544,8 +2620,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.34
       }
     ]
   },
@@ -2574,8 +2651,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.19
       }
     ]
   },
@@ -2604,8 +2682,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.23
       }
     ]
   },
@@ -2634,8 +2713,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.81
       }
     ]
   },
@@ -2664,8 +2744,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.75
       }
     ]
   },
@@ -2694,8 +2775,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.05
       }
     ]
   },
@@ -2740,8 +2822,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -2778,8 +2861,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -2808,8 +2892,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.57
       }
     ]
   },
@@ -2838,8 +2923,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.2
       }
     ]
   },
@@ -2876,8 +2962,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -2906,8 +2993,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.99
       }
     ]
   },
@@ -2952,8 +3040,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.57
       }
     ]
   },
@@ -2982,8 +3071,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.64
       }
     ]
   },
@@ -3020,8 +3110,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.34
       }
     ]
   },
@@ -3050,8 +3141,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.19
       }
     ]
   },
@@ -3088,8 +3180,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.23
       }
     ]
   },
@@ -3118,8 +3211,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.96
       }
     ]
   },
@@ -3148,8 +3242,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.75
       }
     ]
   },
@@ -3178,8 +3273,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.57
       }
     ]
   },
@@ -3208,8 +3304,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.2
       }
     ]
   },
@@ -3238,8 +3335,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -3268,8 +3366,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.64
       }
     ]
   },
@@ -3298,8 +3397,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.34
       }
     ]
   },
@@ -3328,8 +3428,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.23
       }
     ]
   },
@@ -3358,8 +3459,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.81
       }
     ]
   },
@@ -3396,8 +3498,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.2
       }
     ]
   },
@@ -3426,8 +3529,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.34
       }
     ]
   },
@@ -3456,8 +3560,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.55
       }
     ]
   },
@@ -3494,8 +3599,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.39
       }
     ]
   },
@@ -3532,8 +3638,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.79
       }
     ]
   },
@@ -3562,8 +3669,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.6
       }
     ]
   },
@@ -3600,8 +3708,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.02
       }
     ]
   },
@@ -3630,8 +3739,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.23
       }
     ]
   },
@@ -3660,8 +3770,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.81
       }
     ]
   },
@@ -3698,8 +3809,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.75
       }
     ]
   },
@@ -3728,8 +3840,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.06
       }
     ]
   },
@@ -3758,8 +3871,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.2
       }
     ]
   },
@@ -3788,8 +3902,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.81
       }
     ]
   },
@@ -3818,8 +3933,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.75
       }
     ]
   },
@@ -3856,8 +3972,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.05
       }
     ]
   },
@@ -3886,8 +4003,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -3916,8 +4034,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.57
       }
     ]
   },
@@ -3954,8 +4073,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.2
       }
     ]
   },
@@ -3992,8 +4112,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.64
       }
     ]
   },
@@ -4030,8 +4151,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.34
       }
     ]
   },
@@ -4060,8 +4182,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.38
       }
     ]
   },
@@ -4090,8 +4213,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.7
       }
     ]
   },
@@ -4120,8 +4244,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.89
       }
     ]
   },
@@ -4150,8 +4275,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.62
       }
     ]
   },
@@ -4180,8 +4306,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 15.06
       }
     ]
   },
@@ -4218,8 +4345,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.64
       }
     ]
   },
@@ -4256,8 +4384,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.11
       }
     ]
   },
@@ -4294,8 +4423,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.72
       }
     ]
   },
@@ -4324,8 +4454,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.31
       }
     ]
   },
@@ -4354,8 +4485,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.7
       }
     ]
   },
@@ -4384,8 +4516,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.19
       }
     ]
   },
@@ -4422,8 +4555,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.23
       }
     ]
   },
@@ -4460,8 +4594,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.81
       }
     ]
   },
@@ -4490,8 +4625,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.75
       }
     ]
   },
@@ -4520,8 +4656,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.05
       }
     ]
   },
@@ -4558,8 +4695,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -4588,8 +4726,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -4626,8 +4765,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.57
       }
     ]
   },
@@ -4656,8 +4796,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.2
       }
     ]
   },
@@ -4686,8 +4827,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.99
       }
     ]
   },
@@ -4724,8 +4866,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.57
       }
     ]
   },
@@ -4754,8 +4897,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.64
       }
     ]
   },
@@ -4784,8 +4928,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.34
       }
     ]
   },
@@ -4822,8 +4967,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.72
       }
     ]
   },
@@ -4852,8 +4998,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.23
       }
     ]
   },
@@ -4898,8 +5045,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.81
       }
     ]
   },
@@ -4936,8 +5084,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.05
       }
     ]
   },
@@ -4974,8 +5123,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -5004,8 +5154,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -5042,8 +5193,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.57
       }
     ]
   },
@@ -5072,8 +5224,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.2
       }
     ]
   },
@@ -5110,8 +5263,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -5140,8 +5294,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.99
       }
     ]
   },
@@ -5178,8 +5333,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.57
       }
     ]
   },
@@ -5208,8 +5364,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.64
       }
     ]
   },
@@ -5254,8 +5411,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.34
       }
     ]
   },
@@ -5284,8 +5442,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.23
       }
     ]
   },
@@ -5322,8 +5481,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.96
       }
     ]
   },
@@ -5360,8 +5520,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.81
       }
     ]
   },
@@ -5398,8 +5559,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.75
       }
     ]
   },
@@ -5436,8 +5598,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.05
       }
     ]
   },
@@ -5474,8 +5637,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -5504,8 +5668,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.57
       }
     ]
   },
@@ -5542,8 +5707,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.2
       }
     ]
   },
@@ -5572,8 +5738,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -5602,8 +5769,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.99
       }
     ]
   },
@@ -5640,8 +5808,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.64
       }
     ]
   },
@@ -5686,8 +5855,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.34
       }
     ]
   },
@@ -5716,8 +5886,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.72
       }
     ]
   },
@@ -5746,8 +5917,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.23
       }
     ]
   },
@@ -5792,8 +5964,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.81
       }
     ]
   },
@@ -5822,8 +5995,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.75
       }
     ]
   },
@@ -5860,8 +6034,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.05
       }
     ]
   },
@@ -5898,8 +6073,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -5928,8 +6104,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -5966,8 +6143,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.57
       }
     ]
   },
@@ -5996,8 +6174,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.2
       }
     ]
   },
@@ -6026,8 +6205,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -6056,8 +6236,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.99
       }
     ]
   },
@@ -6094,8 +6275,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.57
       }
     ]
   },
@@ -6124,8 +6306,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.64
       }
     ]
   },
@@ -6154,8 +6337,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.34
       }
     ]
   },
@@ -6192,8 +6376,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.23
       }
     ]
   },
@@ -6222,8 +6407,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.81
       }
     ]
   },
@@ -6260,8 +6446,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.75
       }
     ]
   },
@@ -6290,8 +6477,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.05
       }
     ]
   },
@@ -6328,8 +6516,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -6358,8 +6547,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.67
       }
     ]
   },
@@ -6396,8 +6586,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.57
       }
     ]
   },
@@ -6426,8 +6617,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.2
       }
     ]
   },
@@ -6456,8 +6648,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.99
       }
     ]
   },
@@ -6494,8 +6687,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.57
       }
     ]
   }
