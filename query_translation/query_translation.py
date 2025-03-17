@@ -213,6 +213,8 @@ def main(args):
 
     if dataset_name == "cuad":
         threshold = 0.55
+    elif dataset_name == "maud":
+        threshold = 0.38
     else:
         threshold = 0.3
     
