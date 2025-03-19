@@ -7,7 +7,7 @@
     "actual_files": [
       "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What is the renewal term for the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.?\"",
@@ -17,7 +17,7 @@
     "actual_files": [
       "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What is the notice period required to terminate the Marketing Affiliate Agreement between Birch First Global Investments Inc and Mount Knowledge Holdings Inc.?\"",
@@ -27,7 +27,7 @@
     "actual_files": [
       "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What is the governing law for the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.?\"",
@@ -37,7 +37,7 @@
     "actual_files": [
       "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What is the anti-assignment clause in the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.?\"",
@@ -47,7 +47,7 @@
     "actual_files": [
       "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"In the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc., is there a minimum commitment required?",
@@ -77,7 +77,7 @@
     "actual_files": [
       "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"Can you please explain the \"Marketing Affiliate Agreement\" between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.?\"",
@@ -87,7 +87,7 @@
     "actual_files": [
       "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What is the duration of any warranties that are included in the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.?\"",
@@ -97,7 +97,7 @@
     "actual_files": [
       "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What is the purpose of Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.?\"",
@@ -107,7 +107,7 @@
     "actual_files": [
       "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the renewal term for the Video on Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.?\"",
@@ -117,7 +117,7 @@
     "actual_files": [
       "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the notice period required to terminate the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.?\"",
@@ -127,7 +127,7 @@
     "actual_files": [
       "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the governing law for the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.?\"",
@@ -137,7 +137,7 @@
     "actual_files": [
       "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the most favored nation clause in the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp?",
@@ -147,7 +147,7 @@
     "actual_files": [
       "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"How can a contract between Rogers Cable Communications Inc. and EuroMedia Holdings Corp. be terminated for convenience? And what conditions would need to be met for a same to be done?\"",
@@ -157,7 +157,7 @@
     "actual_files": [
       "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What are the specific clauses in the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.?\"",
@@ -167,7 +167,7 @@
     "actual_files": [
       "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What revenue is shared by Rogers Cable Communications Inc. and EuroMedia Holdings Corp. in the Video-on-Demand Content License Agreement?",
@@ -177,7 +177,7 @@
     "actual_files": [
       "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "Can I talk to a representative from Rogers Cable and EuroMedia Holdings about the Video-on-Demand Content License Agreement?",
@@ -187,7 +187,7 @@
     "actual_files": [
       "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp. a contract for?\"",
@@ -197,7 +197,7 @@
     "actual_files": [
       "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp. if the only thing it does is give you one unlimited license?",
@@ -207,7 +207,7 @@
     "actual_files": [
       "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the audit right that Rogers Cable Communications Inc. and EuroMedia Holdings Corp. can have with regard to the Video-on-Demand Content License Agreement?",
@@ -217,7 +217,7 @@
     "actual_files": [
       "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.? Is there any uncapped liability?\"",
@@ -227,7 +227,7 @@
     "actual_files": [
       "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "The Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp. outlines the liability limits for each party. Can you comment on each of these?",
@@ -237,7 +237,7 @@
     "actual_files": [
       "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the renewal term for the Content Distribution and License Agreement between ConvergTV and Fulucai Productions Ltd.\"?",
@@ -247,7 +247,7 @@
     "actual_files": [
       "cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What country has the governing law for the Content Distribution and License Agreement between ConvergTV, Inc. and Fulucai Productions Ltd.\"?",
@@ -257,7 +257,7 @@
     "actual_files": [
       "cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"In the Content Distribution and License Agreement between ConvergTV, Inc. and Fulucai Productions Ltd., does this contract include an exclusivity agreement?\"",
@@ -267,7 +267,7 @@
     "actual_files": [
       "cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What revenue or profit sharing terms are outlined in the Content Distribution and License Agreement between ConvergTV, Inc. and Fulucai Productions Ltd.??\"",
@@ -277,7 +277,7 @@
     "actual_files": [
       "cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"In the Content Distribution and License Agreement between ConvergTV, Inc. and Fulucai Productions Ltd., Does the licensee's affiliate have any rights under this contract?\"",
@@ -287,7 +287,7 @@
     "actual_files": [
       "cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"How are the audit rights granted under the Content Distribution and License Agreement between ConvergTV, Inc. and Fulucai Productions Ltd.?\"",
@@ -297,7 +297,7 @@
     "actual_files": [
       "cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the expiration date for the Content License Agreement between Empirical Ventures, Inc. and PSiTech Corporation?\"",
@@ -307,7 +307,7 @@
     "actual_files": [
       "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "What is the renewal term for this Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.?",
@@ -317,7 +317,7 @@
     "actual_files": [
       "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What is the amount of notice required to terminate the Content License Agreement between Empirical Ventures, Inc. and PSiTech Corporation?\"",
@@ -327,7 +327,7 @@
     "actual_files": [
       "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"In the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc., What is the governing law for this contract?\"",
@@ -337,7 +337,7 @@
     "actual_files": [
       "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What are some specific terms in the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.?\"",
@@ -347,7 +347,7 @@
     "actual_files": [
       "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What happens if one of the parties to the contract changes control? Is this contract governed by the terms of the new entity?\"",
@@ -367,7 +367,7 @@
     "actual_files": [
       "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What are the revenue and profit-sharing arrangements between PSiTech Corporation and Empirical Ventures, Inc.\"?",
@@ -377,7 +377,7 @@
     "actual_files": [
       "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What types of licenses are granted under the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.?\"",
@@ -387,7 +387,7 @@
     "actual_files": [
       "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"In the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc., Are the licenses granted under this contract non-transferable?\"",
@@ -397,7 +397,7 @@
     "actual_files": [
       "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What are the audit rights under the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.?\"",
@@ -407,7 +407,7 @@
     "actual_files": [
       "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What is the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.'s uncapped liability?",
@@ -417,7 +417,7 @@
     "actual_files": [
       "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"Is there a cap on liability in the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.\"?",
@@ -427,7 +427,7 @@
     "actual_files": [
       "cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What is the expiration date of the Content License Agreement between Beijing Sun Seven Stars Culture Development Limited and You On Demand Holdings, Inc.?\"",
@@ -517,7 +517,7 @@
     "actual_files": [
       "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "Are there any laws governing the Co-Branding and Services Agreement between RSL COM PrimeCall, Inc. and deltathree.com?",
@@ -527,7 +527,7 @@
     "actual_files": [
       "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What happens in the event of a change of control of one of the parties in the Co-Branding and Services Agreement between RSL COM PrimeCall, Inc. and deltathree.com, Inc?\"",
@@ -537,7 +537,7 @@
     "actual_files": [
       "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"Is the Co-Branding and Services Agreement between RSL COM PrimeCall, Inc. and deltathree.com, Inc. an anti-assignment clause?\"",
@@ -547,7 +547,7 @@
     "actual_files": [
       "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What licenses are granted under the Co-Branding and Services Agreement between RSL COM PrimeCall, Inc. and deltathree.com, Inc.\"?",
@@ -557,7 +557,7 @@
     "actual_files": [
       "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What are the details of the Co-Branding and Services Agreement between RSL COM PrimeCall, Inc. and deltathree.com, Inc.?\"",
@@ -567,7 +567,7 @@
     "actual_files": [
       "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the renewal term for the Co-Branding Agreement between Women.com Networks, Inc. and eDiets.com, Inc. for the Establishment of a Diet Center?\"",
@@ -627,7 +627,7 @@
     "actual_files": [
       "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"Regarding the Co-Branding Agreement between Women.com Networks and eDiets.com, is there any price restrictions or controls specified in this contract?\"",
@@ -687,7 +687,7 @@
     "actual_files": [
       "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What are the Co Branding Agreement provisions of the Agreement between Women.com Networks, Inc. and eDiets.com, Inc.: are any covenants to not sue included?\"",
@@ -697,7 +697,7 @@
     "actual_files": [
       "cuad/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What is the contract date for the Product Development and Co-Branding Agreement between Integrity Incorporated and Time Life, Inc. for 'Songs 4 Worship' Series?\"",
@@ -707,7 +707,7 @@
     "actual_files": [
       "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the governing law in the Product Development and Co Branding Agreement between Integrity Incorporated and Time Life, Inc. for 'Songs 4 Worship' Series?\"",
@@ -717,7 +717,7 @@
     "actual_files": [
       "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What language is in the Product Development and Co-Branding Agreement between Integrity Incorporated and Time Life, Inc. for Songs 4 Worship Series? Is it a most favored nation clause?\"",
@@ -737,7 +737,7 @@
     "actual_files": [
       "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the agreement on which Integrity Incorporated and Time Life, Inc. are incumbered with in case of an increase in revenue, profit or loss?\"",
@@ -747,7 +747,7 @@
     "actual_files": [
       "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"In the Product Development and Co-Branding Agreement between Integrity Incorporated and Time Life, Inc. for 'Songs 4 Worship' Series, Is there a minimum commitment required under this contract?\"",
@@ -757,7 +757,7 @@
     "actual_files": [
       "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What are the limits of the Product Development Agreement between Integrity Incorporated and Time Life, Inc. for the 'Songs 4 Worship' Series?\"",
@@ -767,7 +767,7 @@
     "actual_files": [
       "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What are the specific facts regarding the Product Development and Co-Branding Agreement between Integrity Incorporated and Time Life, Inc. for \"Songs 4 Worship\" Series, and if they provide for joint intellectual property ownership?\"",
@@ -777,7 +777,7 @@
     "actual_files": [
       "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What are the licenses granted under the Product Development and Co-Branding Agreement between Integrity Incorporated and Time Life, Inc. for Songs 4 Worship\" Series?",
@@ -787,7 +787,7 @@
     "actual_files": [
       "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What audit rights does the Product Development and Co-Branding Agreement between Integrity Incorporated and Time Life, Inc. ('Songs 4 Worship' Series)?\"",
@@ -797,7 +797,7 @@
     "actual_files": [
       "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the Product Development and Co-Branding Agreement between Integrity Incorporated and Time Life, Inc. for 'Songs 4 Worship' Series? And is it in the covenant not to sue?\"",
@@ -807,7 +807,7 @@
     "actual_files": [
       "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "What is the expiration date of the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.?",
@@ -817,7 +817,7 @@
     "actual_files": [
       "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"Is there a renewal term to the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.?\"",
@@ -827,7 +827,7 @@
     "actual_files": [
       "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the name of the contract between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc. and is the governing law in the State of California?\"",
@@ -837,7 +837,7 @@
     "actual_files": [
       "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "Do the terms of the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc. mention any exceptions to competitive restrictions?",
@@ -847,7 +847,7 @@
     "actual_files": [
       "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"Is there any non-compete clause in the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc?\"",
@@ -857,7 +857,7 @@
     "actual_files": [
       "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"Do the two Co-Branding and Endorsement Licensing Agreements include exclusivity agreements? ?",
@@ -877,7 +877,7 @@
     "actual_files": [
       "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What happens to the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corp, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc; when there is a change of control of one of the parties in this contract?\"",
@@ -887,7 +887,7 @@
     "actual_files": [
       "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"Do the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc. contain an anti-assignment clause?\"",
@@ -897,7 +897,7 @@
     "actual_files": [
       "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the revenue or profit-sharing arrangement in the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.?\"",
@@ -907,7 +907,7 @@
     "actual_files": [
       "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"The Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc. specifies the minimum commitment required. Is this agreement a written contract or an electronic document?\"",
@@ -917,7 +917,7 @@
     "actual_files": [
       "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What are the limitations of the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.?\"",
@@ -927,7 +927,7 @@
     "actual_files": [
       "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"How is intellectual property ownership assigned in the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.\"?",
@@ -937,7 +937,7 @@
     "actual_files": [
       "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.?",
@@ -947,7 +947,7 @@
     "actual_files": [
       "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"Critical thinking is required regarding the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc. Is there any service to be provided after the termination of this contract?\"",
@@ -957,7 +957,7 @@
     "actual_files": [
       "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What are the audit rights under the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc?\"",
@@ -967,7 +967,7 @@
     "actual_files": [
       "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"Is the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc. a single consolidated contract, or is there a limit on liability?\"",
@@ -977,7 +977,7 @@
     "actual_files": [
       "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What are the insurance requirements for the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.?\"",
@@ -987,7 +987,7 @@
     "actual_files": [
       "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"Are there any covenants not to sue, or any other provisions, in the Co-Branding and Endorsement Licensing Agreement between MusclePharm Corporation, Arnold Schwarzenegger, Marine MP, LLC, and Fitness Publications, Inc.\"",
@@ -997,7 +997,7 @@
     "actual_files": [
       "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the date of termination of this Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited?\"",
@@ -1007,7 +1007,7 @@
     "actual_files": [
       "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What was the renewal term for the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited?\"",
@@ -1017,7 +1017,7 @@
     "actual_files": [
       "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the notice period required to terminate the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited?\"",
@@ -1027,7 +1027,7 @@
     "actual_files": [
       "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the governing law for the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited?\"",
@@ -1037,7 +1037,7 @@
     "actual_files": [
       "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the name of the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited? Is it identical to the previous example??",
@@ -1047,7 +1047,7 @@
     "actual_files": [
       "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What are the exceptions to competitive restrictions in this contract?\"",
@@ -1087,7 +1087,7 @@
     "actual_files": [
       "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited?\"",
@@ -1097,7 +1097,7 @@
     "actual_files": [
       "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"How is intellectual property ownership assigned in the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited?\"",
@@ -1107,7 +1107,7 @@
     "actual_files": [
       "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What are the legal provisions of the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited?",
@@ -1117,7 +1117,7 @@
     "actual_files": [
       "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What licenses are granted under the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited?\"",
@@ -1127,7 +1127,7 @@
     "actual_files": [
       "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What are the characteristics of the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited? Is the licensor's affiliates obligated to enforce this contract?\"",
@@ -1137,7 +1137,7 @@
     "actual_files": [
       "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"Does the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited provide any licensees with any rights to the Co-Branding Agreement?",
@@ -1147,7 +1147,7 @@
     "actual_files": [
       "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"How are Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited different companies in this Co-Branding Agreement?\"",
@@ -1157,7 +1157,7 @@
     "actual_files": [
       "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What are the audit rights under the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited?\"",
@@ -1167,7 +1167,7 @@
     "actual_files": [
       "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"How does the Co-Branding Agreement between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited relate to Uncapped Liability?",
@@ -1177,7 +1177,7 @@
     "actual_files": [
       "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What are the Co-Branding Agreements between Skype Communications, Skype Technologies, TOM Online (BVI) Limited, TOM Online Inc., and Tel-Online Limited?\"",
@@ -1187,7 +1187,7 @@
     "actual_files": [
       "cuad/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the expiration date of the agreement between Howmedica Osteonics Corp. (\"Stryker\") and Conformis, Inc. for Patient-Specific Instrumentation?\"",
@@ -1197,7 +1197,7 @@
     "actual_files": [
       "cuad/ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What legal entity is Stryker's Development Agreement with Conformis?",
@@ -1237,7 +1237,7 @@
     "actual_files": [
       "cuad/ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"How the development agreement between Stryker and Conformis, Inc. for Patient-Specific Instrumentation is structured?",
@@ -1247,7 +1247,7 @@
     "actual_files": [
       "cuad/ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What licenses are granted under the development agreement between Howmedica Osteonics Corp. (Stryker) and Conformis, Inc. for Patient-Specific Instrumentation?\"",
@@ -1257,7 +1257,7 @@
     "actual_files": [
       "cuad/ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"Does the development agreement between Stryker and Conformis for Patient-Specific Instrumentation give any rights to the licensee's affiliates?",
@@ -1287,7 +1287,7 @@
     "actual_files": [
       "cuad/ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What is the date of termination of the Exclusive License and Product Development Agreement between Aucta Pharmaceuticals, Inc. and Eton Pharmaceuticals, Inc.?\"",
@@ -1297,7 +1297,7 @@
     "actual_files": [
       "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the governing law for the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.?\"",
@@ -1307,7 +1307,7 @@
     "actual_files": [
       "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the non-compete clause established in the Exclusive License and Product Development Agreement between Aucta Pharmaceuticals, Inc. and Eton Pharmaceuticals, Inc.?\"",
@@ -1317,7 +1317,7 @@
     "actual_files": [
       "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"Which clauses are included in the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.?\"",
@@ -1327,7 +1327,7 @@
     "actual_files": [
       "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"Can this exclusive license and product development agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc. be terminated for convenience? and what conditions?\"",
@@ -1337,7 +1337,7 @@
     "actual_files": [
       "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What happens in the event of a change of control of one of the parties in this agreement??\"",
@@ -1357,7 +1357,7 @@
     "actual_files": [
       "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is included in the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.?\"",
@@ -1367,7 +1367,7 @@
     "actual_files": [
       "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the minimum commitment required under the exclusive license and product development agreement that was drawn between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.?\"",
@@ -1377,7 +1377,7 @@
     "actual_files": [
       "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "Is the contract between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc. in jeopardy for any volume restrictions?",
@@ -1387,7 +1387,7 @@
     "actual_files": [
       "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"How many patents are granted under the exclusive license and product development agreement between Eton Pharmaceuticals Inc. and Aucta Pharmaceuticals, Inc.?\"",
@@ -1397,7 +1397,7 @@
     "actual_files": [
       "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"How much time do Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc. have together? Are there any services that the two companies agreed to provide when the agreement is terminated?\"",
@@ -1407,7 +1407,7 @@
     "actual_files": [
       "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"In the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc., What are the audit rights under this contract?\"",
@@ -1417,7 +1417,7 @@
     "actual_files": [
       "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the extent of liability under the two-party, exclusive licensing and product development agreement between Eton Pharmaceuticals and Aucta Pharmaceuticals?",
@@ -1427,7 +1427,7 @@
     "actual_files": [
       "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What are the insurance requirements for the Exclusive License and Product Development Agreement between Eton Pharmaceuticals, Inc. and Aucta Pharmaceuticals, Inc.\"",
@@ -1437,7 +1437,7 @@
     "actual_files": [
       "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the expiration date of the joint development agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells?\"",
@@ -1457,7 +1457,7 @@
     "actual_files": [
       "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"Is the Joint Development Agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells competitive?",
@@ -1487,7 +1487,7 @@
     "actual_files": [
       "cuad/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"Is the Molten Carbonate Fuel Cell Joint Development Agreement between FuelCell Energy, Inc. and ExxonMobil Research and Engineering Company for Molten Carbonate Fuel Cells included in any of these rights?\"",
@@ -1617,7 +1617,7 @@
     "actual_files": [
       "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the legality of the recipe development agreement between Reed's, Inc. and B C Marketing Concepts, Inc. for Ginger-Based Alcohol Beverages?\".",
@@ -1627,7 +1627,7 @@
     "actual_files": [
       "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the approximate length of the Recipe Development Agreement between Reed's, Inc. and B C Marketing Concepts Inc. for Ginger-Based Alcohol Beverages?\"",
@@ -1637,7 +1637,7 @@
     "actual_files": [
       "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What if Reed's, Inc. is merged into B C Marketing Concepts, Inc.? Is there any possibility that Reed's, Inc. could be absorbed into B C Marketing Concepts, Inc.?\"",
@@ -1647,7 +1647,7 @@
     "actual_files": [
       "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the intellectual property ownership assignment in the recipe development agreement between Reed's, Inc. and B C Marketing Concepts Inc. for Ginger-based Alcohol Beverages?",
@@ -1667,7 +1667,7 @@
     "actual_files": [
       "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the liability limitation for Ginger-Based Alcohol Beverages between Reed's, Inc. and B C Marketing Concepts Inc.\"?",
@@ -1677,7 +1677,7 @@
     "actual_files": [
       "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the covenant not to sue clause included in the Recipe Development Agreement between Reed's, Inc. and B C Marketing Concepts Inc. for Ginger-Based Alcohol Beverages?\"",
@@ -1687,7 +1687,7 @@
     "actual_files": [
       "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the current expiration date of the Distributorship Agreement between Signature Orthopaedics Pty Ltd and CPM Medical Consultants LLC for Medical Products?",
@@ -1697,7 +1697,7 @@
     "actual_files": [
       "cuad/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What is the renewal term for the manufacturer contract between Signature Orthopaedics Pty Ltd and CPM Medical Consultants LLC for Medical Products?\"",
@@ -1707,7 +1707,7 @@
     "actual_files": [
       "cuad/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What is the notice period required to terminate the Distributorship Agreement between Signature Orthopaedics Pty Ltd and CPM Medical Consultants LLC for Medical Products?\"",
@@ -1717,7 +1717,7 @@
     "actual_files": [
       "cuad/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"Is the Distributorship Agreement between Signature Orthopaedics Pty Ltd and CPM Medical Consultants LLC for Medical Products the governing law of any jurisdiction?",
@@ -1727,7 +1727,7 @@
     "actual_files": [
       "cuad/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"Is the Distributorship Agreement between Signature Orthopaedics Pty Ltd and CPM Medical Consultants LLC for Medical Products an anti-assignment clause?",
@@ -1737,7 +1737,7 @@
     "actual_files": [
       "cuad/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What licenses are granted under the Distributorship Agreement between Signature Orthopaedics Pty Ltd and CPM Medical Consultants LLC for Medical Products?",
@@ -1747,7 +1747,7 @@
     "actual_files": [
       "cuad/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"Do the provisions of the Distributorship Agreement between Signature Orthopaedics Pty Ltd and CPM Medical Consultants LLC for Medical Products remain in effect following termination?\"",
@@ -1757,7 +1757,7 @@
     "actual_files": [
       "cuad/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What are the insurance requirements in this Distributorship Agreement between Signature Orthopaedics Pty Ltd and CPM Medical Consultants LLC for Medical Products?\"",
@@ -1767,7 +1767,7 @@
     "actual_files": [
       "cuad/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"Once the Distributorship Agreement is in effect, is there a covenant not to sue clause and if so, does this clause extend to Signature Orthopaedics Pty Ltd and CPM Medical Consultants LLC?\"",
@@ -1777,7 +1777,7 @@
     "actual_files": [
       "cuad/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "What is the expiration date of the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products?",
@@ -1787,7 +1787,7 @@
     "actual_files": [
       "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What is the renewal term for the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products?\"",
@@ -1797,7 +1797,7 @@
     "actual_files": [
       "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"Considering the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products, what is the governing law of the contract?\"",
@@ -1807,7 +1807,7 @@
     "actual_files": [
       "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What is the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products? Is there a most favored nation clause there?",
@@ -1817,7 +1817,7 @@
     "actual_files": [
       "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What is the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products?",
@@ -1827,7 +1827,7 @@
     "actual_files": [
       "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"In the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products, Is there a clause preventing the solicitation of clients in this contract?\"",
@@ -1837,7 +1837,7 @@
     "actual_files": [
       "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"How does the Distributor Agreement in the B & C General Warehouse Corporation LLC and Distributor for Coffee Products relate to anti-assignment clauses?\"",
@@ -1847,7 +1847,7 @@
     "actual_files": [
       "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"Is there any restriction in the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products?\"",
@@ -1857,7 +1857,7 @@
     "actual_files": [
       "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"How many volumes are allowed from the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products?",
@@ -1867,7 +1867,7 @@
     "actual_files": [
       "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What is the meaning of the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products?\"",
@@ -1877,7 +1877,7 @@
     "actual_files": [
       "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What are the services that are to be provided after the termination of the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products?\"",
@@ -1887,7 +1887,7 @@
     "actual_files": [
       "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"Do the B & C General Warehouse Corporation LLC and Distributor for Coffee Products have a limitation of liability in their Distributor Agreement?\"",
@@ -1897,7 +1897,7 @@
     "actual_files": [
       "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"Is the Distributor Agreement between B & C General Warehouse Corporation and Distributor for Coffee Products a written contract or an implied contract? What is the duration of any warranties on the agreement?",
@@ -1907,7 +1907,7 @@
     "actual_files": [
       "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"Is there a covenant not to sue clause in the Distributor Agreement between B & C General Warehouse Corporation LLC and Distributor for Coffee Products?\"",
@@ -1917,7 +1917,7 @@
     "actual_files": [
       "cuad/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "\"What is the expiration date for the non-exclusive distributor agreement between iMine Corporation and Sunwai Technology for Cryptocurrency Mining Rigs?\"",
@@ -1927,7 +1927,7 @@
     "actual_files": [
       "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   },
   {
     "query": "\"What is the governing law for the Non-Exclusive Distributor Agreement between iMine Corporation and Sunwai Technology for Cryptocurrency Mining Rigs?\"",
@@ -1937,6 +1937,6 @@
     "actual_files": [
       "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt"
     ],
-    "score": 0
+    "score": 1
   }
 ]

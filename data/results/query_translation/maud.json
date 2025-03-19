@@ -40,8 +40,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -78,8 +79,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -116,8 +118,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.91
       }
     ]
   },
@@ -146,8 +149,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -176,8 +180,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -214,8 +219,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.35
       }
     ]
   },
@@ -244,8 +250,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -282,8 +289,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -344,8 +352,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -382,8 +391,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -412,8 +422,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.83
       }
     ]
   },
@@ -442,7 +453,7 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
         "file_locator": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
         "similarity_score": 0.6071484088897705,
         "only_question": "Information about the Closing Condition: Compliance with Covenants"
@@ -450,8 +461,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -480,7 +492,7 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
         "file_locator": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
         "similarity_score": 0.6071484088897705,
         "only_question": "What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date"
@@ -488,8 +500,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.91
       }
     ]
   },
@@ -510,7 +523,7 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
         "file_locator": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
         "similarity_score": 0.6071484088897705,
         "only_question": "What is the Definition of \"Knowledge\""
@@ -518,8 +531,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -556,7 +570,7 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
         "file_locator": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
         "similarity_score": 0.6071484088897705,
         "only_question": "Where is the No-Shop Clause"
@@ -564,8 +578,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.04
       }
     ]
   },
@@ -594,7 +609,7 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
         "file_locator": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
         "similarity_score": 0.6071484088897705,
         "only_question": "What is the Definition of \"Superior Proposal\""
@@ -602,8 +617,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -624,7 +640,7 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
         "file_locator": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
         "similarity_score": 0.6071484088897705,
         "only_question": "What is the Definition of \"Interveining Event\""
@@ -632,8 +648,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -662,7 +679,7 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
         "file_locator": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
         "similarity_score": 0.6071484088897705,
         "only_question": "Information about the Fiduciary Termination Right Triggers for termination"
@@ -670,8 +687,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -700,7 +718,7 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
         "file_locator": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
         "similarity_score": 0.6071484088897705,
         "only_question": "Is there a Tail provision for acquisition proposals"
@@ -708,8 +726,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -738,7 +757,7 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
         "file_locator": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
         "similarity_score": 0.6071484088897705,
         "only_question": "What are the Ordinary course of business covenants"
@@ -746,8 +765,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -768,7 +788,7 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+        "best_file_path": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
         "file_locator": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
         "similarity_score": 0.6071484088897705,
         "only_question": "Where is the Specific Performance clause"
@@ -776,8 +796,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.83
       }
     ]
   },
@@ -806,16 +827,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
+        "best_file_path": "",
         "file_locator": "Acquisition Agreement Parent \"Ocala Bidco, Inc.\" Target \"Inovalon Holdings, Inc.\"",
         "similarity_score": 0.3747612237930298,
-        "only_question": "Information about the Closing Condition: Compliance with Covenants"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.05
       }
     ]
   },
@@ -836,16 +858,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
+        "best_file_path": "",
         "file_locator": "Acquisition Agreement Parent \"Ocala Bidco, Inc.\" Target \"Inovalon Holdings, Inc.\"",
         "similarity_score": 0.3747612237930298,
-        "only_question": "What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.81
       }
     ]
   },
@@ -866,16 +889,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
+        "best_file_path": "",
         "file_locator": "Acquisition Agreement Parent \"Ocala Bidco, Inc.\" Target \"Inovalon Holdings, Inc.\"",
         "similarity_score": 0.3747612237930298,
-        "only_question": "What is the Definition of \"Knowledge\""
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.65
       }
     ]
   },
@@ -920,16 +944,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
+        "best_file_path": "",
         "file_locator": "Acquisition Agreement Parent \"Ocala Bidco, Inc.\" Target \"Inovalon Holdings, Inc.\"",
         "similarity_score": 0.3747612237930298,
-        "only_question": "Where is the No-Shop Clause"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.26
       }
     ]
   },
@@ -958,16 +983,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
+        "best_file_path": "",
         "file_locator": "Acquisition Agreement Parent \"Ocala Bidco, Inc.\" Target \"Inovalon Holdings, Inc.\"",
         "similarity_score": 0.3747612237930298,
-        "only_question": "Is there a Tail provision for acquisition proposals"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.89
       }
     ]
   },
@@ -988,16 +1014,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
+        "best_file_path": "",
         "file_locator": "Acquisition Agreement Parent \"Ocala Bidco, Inc.\" Target \"Inovalon Holdings, Inc.\"",
         "similarity_score": 0.3747612237930298,
-        "only_question": "What are the Ordinary course of business covenants"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.89
       }
     ]
   },
@@ -1018,16 +1045,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
+        "best_file_path": "",
         "file_locator": "Acquisition Agreement Parent \"Ocala Bidco, Inc.\" Target \"Inovalon Holdings, Inc.\"",
         "similarity_score": 0.3747612237930298,
-        "only_question": "Where is the Specific Performance clause"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.44
       }
     ]
   },
@@ -1064,8 +1092,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -1102,8 +1131,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.91
       }
     ]
   },
@@ -1132,8 +1162,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -1162,8 +1193,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.04
       }
     ]
   },
@@ -1200,8 +1232,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.35
       }
     ]
   },
@@ -1230,8 +1263,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -1268,8 +1302,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -1314,8 +1349,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -1344,8 +1380,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -1374,8 +1411,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.83
       }
     ]
   },
@@ -1404,8 +1442,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -1442,8 +1481,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -1472,8 +1512,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.91
       }
     ]
   },
@@ -1502,8 +1543,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -1532,8 +1574,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -1570,8 +1613,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.04
       }
     ]
   },
@@ -1608,8 +1652,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.35
       }
     ]
   },
@@ -1638,8 +1683,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -1668,8 +1714,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -1706,8 +1753,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -1752,8 +1800,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -1782,8 +1831,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -1812,8 +1862,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.83
       }
     ]
   },
@@ -1858,8 +1909,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -1944,8 +1996,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.23
       }
     ]
   },
@@ -1982,8 +2035,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -2012,8 +2066,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.91
       }
     ]
   },
@@ -2042,8 +2097,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -2072,8 +2128,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -2102,8 +2159,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.04
       }
     ]
   },
@@ -2140,8 +2198,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.35
       }
     ]
   },
@@ -2170,8 +2229,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -2200,8 +2260,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -2238,8 +2299,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -2284,8 +2346,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -2314,8 +2377,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -2344,8 +2408,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -2374,8 +2439,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.83
       }
     ]
   },
@@ -2404,8 +2470,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -2474,8 +2541,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.23
       }
     ]
   },
@@ -2512,8 +2580,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -2542,8 +2611,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.91
       }
     ]
   },
@@ -2572,8 +2642,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -2602,8 +2673,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -2648,8 +2720,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.04
       }
     ]
   },
@@ -2686,8 +2759,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -2716,8 +2790,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -2762,8 +2837,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -2808,8 +2884,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -2846,8 +2923,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -2876,8 +2954,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.83
       }
     ]
   },
@@ -2906,8 +2985,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -2944,8 +3024,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -2974,8 +3055,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -3020,8 +3102,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.35
       }
     ]
   },
@@ -3050,8 +3133,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -3080,8 +3164,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -3118,8 +3203,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -3164,8 +3250,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -3202,8 +3289,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -3232,8 +3320,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -3262,8 +3351,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -3292,8 +3382,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -3322,8 +3413,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -3352,8 +3444,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.04
       }
     ]
   },
@@ -3390,8 +3483,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.35
       }
     ]
   },
@@ -3420,8 +3514,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -3450,8 +3545,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -3496,8 +3592,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -3542,8 +3639,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -3596,8 +3694,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -3650,8 +3749,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -3680,8 +3780,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -3710,8 +3811,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.83
       }
     ]
   },
@@ -3740,8 +3842,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -3778,8 +3881,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -3816,8 +3920,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.91
       }
     ]
   },
@@ -3846,8 +3951,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -3884,8 +3990,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -3914,8 +4021,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.04
       }
     ]
   },
@@ -3952,8 +4060,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.35
       }
     ]
   },
@@ -3982,8 +4091,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -4012,8 +4122,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -4050,8 +4161,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -4096,8 +4208,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -4166,8 +4279,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -4204,8 +4318,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -4234,8 +4349,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -4272,8 +4388,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -4302,8 +4419,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.83
       }
     ]
   },
@@ -4332,8 +4450,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -4370,8 +4489,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -4400,8 +4520,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -4430,8 +4551,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -4460,8 +4582,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.04
       }
     ]
   },
@@ -4498,8 +4621,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.35
       }
     ]
   },
@@ -4528,8 +4652,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -4566,8 +4691,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -4604,8 +4730,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -4666,8 +4793,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -4696,8 +4824,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -4734,8 +4863,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -4772,8 +4902,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -4802,8 +4933,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.83
       }
     ]
   },
@@ -4840,8 +4972,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -4878,8 +5011,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -4916,8 +5050,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -4946,8 +5081,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -4976,8 +5112,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -5006,8 +5143,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.04
       }
     ]
   },
@@ -5044,8 +5182,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.35
       }
     ]
   },
@@ -5082,8 +5221,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -5120,8 +5260,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -5158,8 +5299,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -5196,8 +5338,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -5226,8 +5369,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -5256,8 +5400,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -5286,8 +5431,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.83
       }
     ]
   },
@@ -5316,8 +5462,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -5354,8 +5501,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -5384,8 +5532,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.91
       }
     ]
   },
@@ -5414,8 +5563,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -5444,8 +5594,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -5482,8 +5633,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.35
       }
     ]
   },
@@ -5512,8 +5664,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -5542,8 +5695,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -5580,8 +5734,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -5634,8 +5789,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -5704,8 +5860,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -5734,8 +5891,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -5764,8 +5922,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -5794,8 +5953,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -5824,8 +5984,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.83
       }
     ]
   },
@@ -5854,8 +6015,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -5892,8 +6054,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.91
       }
     ]
   },
@@ -5922,8 +6085,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -5952,8 +6116,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -5990,8 +6155,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.35
       }
     ]
   },
@@ -6020,8 +6186,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -6050,8 +6217,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -6096,8 +6264,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -6126,8 +6295,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -6156,8 +6326,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -6186,8 +6357,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -6216,8 +6388,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.83
       }
     ]
   },
@@ -6246,8 +6419,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -6284,8 +6458,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -6314,8 +6489,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -6344,8 +6520,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -6374,8 +6551,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -6420,8 +6598,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -6466,8 +6645,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -6496,8 +6676,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -6526,8 +6707,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -6556,8 +6738,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -6586,8 +6769,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.83
       }
     ]
   },
@@ -6624,8 +6808,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.2
       }
     ]
   },
@@ -6670,8 +6855,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -6700,8 +6886,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.91
       }
     ]
   },
@@ -6730,8 +6917,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.04
       }
     ]
   },
@@ -6768,8 +6956,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.35
       }
     ]
   },
@@ -6798,8 +6987,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -6828,8 +7018,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -6866,8 +7057,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -6920,8 +7112,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -6950,8 +7143,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   }
