@@ -16,16 +16,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
         "similarity_score": 0.5086194276809692,
-        "only_question": "What is the expiration date of this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -46,16 +47,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
         "similarity_score": 0.5086194276809692,
-        "only_question": "What is the renewal term for this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -76,16 +78,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
         "similarity_score": 0.5086194276809692,
-        "only_question": "What is the notice period required to terminate the renewal?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.57
       }
     ]
   },
@@ -106,16 +109,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
         "similarity_score": 0.5086194276809692,
-        "only_question": "What is the governing law for this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -136,16 +140,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
         "similarity_score": 0.5086194276809692,
-        "only_question": "Is there an anti-assignment clause in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.24
       }
     ]
   },
@@ -166,16 +171,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
         "similarity_score": 0.5086194276809692,
-        "only_question": "Is there a minimum commitment required under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.89
       }
     ]
   },
@@ -212,16 +218,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
         "similarity_score": 0.5086194276809692,
-        "only_question": "What licenses are granted under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.94
       }
     ]
   },
@@ -242,16 +249,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
         "similarity_score": 0.5086194276809692,
-        "only_question": "What are the audit rights under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.59
       }
     ]
   },
@@ -296,16 +304,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
         "similarity_score": 0.5086194276809692,
-        "only_question": "Is there a cap on liability under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.63
       }
     ]
   },
@@ -326,16 +335,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Marketing Affiliate Agreement Birch First Global Investments Inc. Mount Knowledge Holdings Inc.",
         "similarity_score": 0.5086194276809692,
-        "only_question": "What is the duration of any warranties provided in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.27
       }
     ]
   },
@@ -356,16 +366,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
         "similarity_score": 0.5382912755012512,
-        "only_question": "What is the expiration date of this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.32
       }
     ]
   },
@@ -386,16 +397,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
         "similarity_score": 0.5382912755012512,
-        "only_question": "What is the renewal term for this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.32
       }
     ]
   },
@@ -416,16 +428,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
         "similarity_score": 0.5382912755012512,
-        "only_question": "What is the notice period required to terminate the renewal?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.79
       }
     ]
   },
@@ -454,16 +467,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
         "similarity_score": 0.5382912755012512,
-        "only_question": "What is the governing law for this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.32
       }
     ]
   },
@@ -492,16 +506,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
         "similarity_score": 0.5382912755012512,
-        "only_question": "Is there a most favored nation clause in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.79
       }
     ]
   },
@@ -522,16 +537,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
         "similarity_score": 0.5382912755012512,
-        "only_question": "Can this contract be terminated for convenience, and under what conditions?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.39
       }
     ]
   },
@@ -552,16 +568,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
         "similarity_score": 0.5382912755012512,
-        "only_question": "Is there an anti-assignment clause in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 15.69
       }
     ]
   },
@@ -606,16 +623,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
         "similarity_score": 0.5382912755012512,
-        "only_question": "Does this contract include any revenue or profit-sharing arrangements?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 16.53
       }
     ]
   },
@@ -636,16 +654,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
         "similarity_score": 0.5382912755012512,
-        "only_question": "Is there a minimum commitment required under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 15.22
       }
     ]
   },
@@ -674,16 +693,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
         "similarity_score": 0.5382912755012512,
-        "only_question": "What licenses are granted under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 15.48
       }
     ]
   },
@@ -704,16 +724,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
         "similarity_score": 0.5382912755012512,
-        "only_question": "Does this contract include an unlimited or all-you-can-eat license?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.56
       }
     ]
   },
@@ -734,16 +755,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
         "similarity_score": 0.5382912755012512,
-        "only_question": "What are the audit rights under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 15.0
       }
     ]
   },
@@ -764,16 +786,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
         "similarity_score": 0.5382912755012512,
-        "only_question": "Is there uncapped liability under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 15.48
       }
     ]
   },
@@ -794,16 +817,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Video-on-Demand Content License Agreement Rogers Cable Communications Inc. EuroMedia Holdings Corp.",
         "similarity_score": 0.5382912755012512,
-        "only_question": "Is there a cap on liability under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -832,8 +856,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -862,8 +887,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -892,8 +918,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.01
       }
     ]
   },
@@ -930,8 +957,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.61
       }
     ]
   },
@@ -960,8 +988,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.36
       }
     ]
   },
@@ -990,8 +1019,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -1012,16 +1042,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
         "similarity_score": 0.5177726149559021,
-        "only_question": "What is the expiration date of this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.82
       }
     ]
   },
@@ -1042,16 +1073,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
         "similarity_score": 0.5177726149559021,
-        "only_question": "What is the renewal term for this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.82
       }
     ]
   },
@@ -1072,16 +1104,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
         "similarity_score": 0.5177726149559021,
-        "only_question": "What is the notice period required to terminate the renewal?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.51
       }
     ]
   },
@@ -1102,16 +1135,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
         "similarity_score": 0.5177726149559021,
-        "only_question": "What is the governing law for this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.82
       }
     ]
   },
@@ -1132,16 +1166,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
         "similarity_score": 0.5177726149559021,
-        "only_question": "Does this contract include an exclusivity agreement?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.08
       }
     ]
   },
@@ -1162,16 +1197,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
         "similarity_score": 0.5177726149559021,
-        "only_question": "What happens in the event of a change of control of one of the parties in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.75
       }
     ]
   },
@@ -1200,16 +1236,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
         "similarity_score": 0.5177726149559021,
-        "only_question": "Is there an anti-assignment clause in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.4
       }
     ]
   },
@@ -1230,16 +1267,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
         "similarity_score": 0.5177726149559021,
-        "only_question": "Does this contract include any revenue or profit-sharing arrangements?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 15.44
       }
     ]
   },
@@ -1268,16 +1306,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
         "similarity_score": 0.5177726149559021,
-        "only_question": "What licenses are granted under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.08
       }
     ]
   },
@@ -1306,16 +1345,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
         "similarity_score": 0.5177726149559021,
-        "only_question": "Are the licenses granted under this contract non-transferable?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 15.19
       }
     ]
   },
@@ -1344,16 +1384,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
         "similarity_score": 0.5177726149559021,
-        "only_question": "What are the audit rights under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.61
       }
     ]
   },
@@ -1374,16 +1415,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
         "similarity_score": 0.5177726149559021,
-        "only_question": "Is there uncapped liability under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.08
       }
     ]
   },
@@ -1412,16 +1454,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement PSiTech Corporation Empirical Ventures, Inc.",
         "similarity_score": 0.5177726149559021,
-        "only_question": "Is there a cap on liability under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.43
       }
     ]
   },
@@ -1442,16 +1485,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement Beijing Sun Seven Stars Culture Development Limited Demand Holdings, Inc.",
         "similarity_score": 0.4318065941333771,
-        "only_question": "What is the expiration date of this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.49
       }
     ]
   },
@@ -1472,16 +1516,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement Beijing Sun Seven Stars Culture Development Limited Demand Holdings, Inc.",
         "similarity_score": 0.4318065941333771,
-        "only_question": "What is the governing law for this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.49
       }
     ]
   },
@@ -1502,16 +1547,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement Beijing Sun Seven Stars Culture Development Limited Demand Holdings, Inc.",
         "similarity_score": 0.4318065941333771,
-        "only_question": "Does this contract include any right of first refusal, right of first offer, or right of first negotiation?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.38
       }
     ]
   },
@@ -1548,16 +1594,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement Beijing Sun Seven Stars Culture Development Limited Demand Holdings, Inc.",
         "similarity_score": 0.4318065941333771,
-        "only_question": "Is there an anti-assignment clause in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.66
       }
     ]
   },
@@ -1586,16 +1633,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement Beijing Sun Seven Stars Culture Development Limited Demand Holdings, Inc.",
         "similarity_score": 0.4318065941333771,
-        "only_question": "Does this contract include any revenue or profit-sharing arrangements?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.48
       }
     ]
   },
@@ -1616,16 +1664,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement Beijing Sun Seven Stars Culture Development Limited Demand Holdings, Inc.",
         "similarity_score": 0.4318065941333771,
-        "only_question": "What are the audit rights under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.08
       }
     ]
   },
@@ -1646,16 +1695,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement Beijing Sun Seven Stars Culture Development Limited Demand Holdings, Inc.",
         "similarity_score": 0.4318065941333771,
-        "only_question": "Is there uncapped liability under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.39
       }
     ]
   },
@@ -1676,16 +1726,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Content License Agreement Beijing Sun Seven Stars Culture Development Limited Demand Holdings, Inc.",
         "similarity_score": 0.4318065941333771,
-        "only_question": "Is there a cap on liability under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.23
       }
     ]
   },
@@ -1714,8 +1765,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -1744,8 +1796,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -1774,8 +1827,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 8.92
       }
     ]
   },
@@ -1812,8 +1866,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -1842,8 +1897,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -1880,8 +1936,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.59
       }
     ]
   },
@@ -1910,8 +1967,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -1940,8 +1998,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.45
       }
     ]
   },
@@ -1970,8 +2029,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -2000,8 +2060,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.45
       }
     ]
   },
@@ -2038,8 +2099,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 8.04
       }
     ]
   },
@@ -2068,8 +2130,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 8.92
       }
     ]
   },
@@ -2098,8 +2161,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.92
       }
     ]
   },
@@ -2144,8 +2208,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -2190,8 +2255,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -2236,8 +2302,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -2266,8 +2333,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -2304,8 +2372,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.59
       }
     ]
   },
@@ -2342,8 +2411,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.92
       }
     ]
   },
@@ -2364,16 +2434,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
         "similarity_score": 0.45198339223861694,
-        "only_question": "What is the expiration date of this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.08
       }
     ]
   },
@@ -2394,16 +2465,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
         "similarity_score": 0.45198339223861694,
-        "only_question": "What is the governing law for this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.08
       }
     ]
   },
@@ -2424,16 +2496,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
         "similarity_score": 0.45198339223861694,
-        "only_question": "Is there a most favored nation clause in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.61
       }
     ]
   },
@@ -2462,16 +2535,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
         "similarity_score": 0.45198339223861694,
-        "only_question": "Does this contract include an exclusivity agreement?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.0
       }
     ]
   },
@@ -2508,16 +2582,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
         "similarity_score": 0.45198339223861694,
-        "only_question": "Does this contract include any revenue or profit-sharing arrangements?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 15.05
       }
     ]
   },
@@ -2538,16 +2613,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
         "similarity_score": 0.45198339223861694,
-        "only_question": "Is there a minimum commitment required under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.92
       }
     ]
   },
@@ -2568,16 +2644,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
         "similarity_score": 0.45198339223861694,
-        "only_question": "Does this contract include any volume restrictions?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.61
       }
     ]
   },
@@ -2606,16 +2683,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
         "similarity_score": 0.45198339223861694,
-        "only_question": "Does this contract provide for joint intellectual property ownership?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 15.05
       }
     ]
   },
@@ -2652,16 +2730,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
         "similarity_score": 0.45198339223861694,
-        "only_question": "What licenses are granted under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.0
       }
     ]
   },
@@ -2682,16 +2761,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
         "similarity_score": 0.45198339223861694,
-        "only_question": "What are the audit rights under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.66
       }
     ]
   },
@@ -2720,16 +2800,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Product Development Co-Branding Agreement Integrity Incorporated Time Life, Inc. 'Songs 4 Worship' Series",
         "similarity_score": 0.45198339223861694,
-        "only_question": "Is there a covenant not to sue included in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.33
       }
     ]
   },
@@ -2758,8 +2839,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -2796,8 +2878,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -2826,8 +2909,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -2864,8 +2948,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.45
       }
     ]
   },
@@ -2894,8 +2979,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -2924,8 +3010,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.01
       }
     ]
   },
@@ -2954,8 +3041,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 8.04
       }
     ]
   },
@@ -2992,8 +3080,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 8.92
       }
     ]
   },
@@ -3030,8 +3119,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -3076,8 +3166,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.61
       }
     ]
   },
@@ -3138,8 +3229,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.1
       }
     ]
   },
@@ -3168,8 +3260,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.01
       }
     ]
   },
@@ -3206,8 +3299,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.86
       }
     ]
   },
@@ -3284,8 +3378,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -3346,8 +3441,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.14
       }
     ]
   },
@@ -3400,8 +3496,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -3438,8 +3535,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.59
       }
     ]
   },
@@ -3476,8 +3574,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -3506,8 +3605,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.92
       }
     ]
   },
@@ -3536,8 +3636,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -3566,8 +3667,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -3596,8 +3698,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.45
       }
     ]
   },
@@ -3626,8 +3729,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -3656,8 +3760,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.45
       }
     ]
   },
@@ -3686,8 +3791,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.45
       }
     ]
   },
@@ -3732,8 +3838,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -3762,8 +3869,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 8.92
       }
     ]
   },
@@ -3800,8 +3908,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -3846,8 +3955,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.61
       }
     ]
   },
@@ -3900,8 +4010,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.86
       }
     ]
   },
@@ -3930,8 +4041,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.61
       }
     ]
   },
@@ -3968,8 +4080,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -3998,8 +4111,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.36
       }
     ]
   },
@@ -4036,8 +4150,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.36
       }
     ]
   },
@@ -4082,8 +4197,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.14
       }
     ]
   },
@@ -4144,8 +4260,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -4174,8 +4291,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -4212,8 +4330,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.59
       }
     ]
   },
@@ -4242,8 +4361,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.63
       }
     ]
   },
@@ -4272,8 +4392,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.63
       }
     ]
   },
@@ -4302,8 +4423,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.15
       }
     ]
   },
@@ -4332,8 +4454,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.76
       }
     ]
   },
@@ -4362,8 +4485,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.84
       }
     ]
   },
@@ -4392,8 +4516,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 15.88
       }
     ]
   },
@@ -4422,8 +4547,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.76
       }
     ]
   },
@@ -4452,8 +4578,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.39
       }
     ]
   },
@@ -4482,8 +4609,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.76
       }
     ]
   },
@@ -4528,8 +4656,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.24
       }
     ]
   },
@@ -4550,16 +4679,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
         "similarity_score": 0.5097159147262573,
-        "only_question": "What is the expiration date of this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -4580,16 +4710,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
         "similarity_score": 0.5097159147262573,
-        "only_question": "What is the governing law for this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -4610,16 +4741,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
         "similarity_score": 0.5097159147262573,
-        "only_question": "Is there a non-compete clause in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.24
       }
     ]
   },
@@ -4640,16 +4772,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
         "similarity_score": 0.5097159147262573,
-        "only_question": "Does this contract include an exclusivity agreement?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.94
       }
     ]
   },
@@ -4670,16 +4803,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
         "similarity_score": 0.5097159147262573,
-        "only_question": "Can this contract be terminated for convenience, and under what conditions?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.27
       }
     ]
   },
@@ -4700,16 +4834,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
         "similarity_score": 0.5097159147262573,
-        "only_question": "What happens in the event of a change of control of one of the parties in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.16
       }
     ]
   },
@@ -4730,16 +4865,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
         "similarity_score": 0.5097159147262573,
-        "only_question": "Is there an anti-assignment clause in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.24
       }
     ]
   },
@@ -4768,16 +4904,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
         "similarity_score": 0.5097159147262573,
-        "only_question": "Does this contract include any revenue or profit-sharing arrangements?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.15
       }
     ]
   },
@@ -4798,16 +4935,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
         "similarity_score": 0.5097159147262573,
-        "only_question": "Is there a minimum commitment required under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.89
       }
     ]
   },
@@ -4828,16 +4966,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
         "similarity_score": 0.5097159147262573,
-        "only_question": "Does this contract include any volume restrictions?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.63
       }
     ]
   },
@@ -4866,16 +5005,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
         "similarity_score": 0.5097159147262573,
-        "only_question": "What licenses are granted under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.94
       }
     ]
   },
@@ -4912,16 +5052,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
         "similarity_score": 0.5097159147262573,
-        "only_question": "Are there any services to be provided after the termination of this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.74
       }
     ]
   },
@@ -4942,16 +5083,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
         "similarity_score": 0.5097159147262573,
-        "only_question": "What are the audit rights under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.59
       }
     ]
   },
@@ -4972,16 +5114,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
         "similarity_score": 0.5097159147262573,
-        "only_question": "Is there a cap on liability under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.63
       }
     ]
   },
@@ -5002,16 +5145,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Exclusive License Product Development Agreement Eton Pharmaceuticals, Inc. Aucta Pharmaceuticals, Inc.",
         "similarity_score": 0.5097159147262573,
-        "only_question": "What are the insurance requirements under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.59
       }
     ]
   },
@@ -5040,8 +5184,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -5070,8 +5215,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.98
       }
     ]
   },
@@ -5100,8 +5246,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.45
       }
     ]
   },
@@ -5130,8 +5277,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -5160,8 +5308,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.92
       }
     ]
   },
@@ -5198,8 +5347,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 8.04
       }
     ]
   },
@@ -5228,8 +5378,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 8.92
       }
     ]
   },
@@ -5266,8 +5417,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.93
       }
     ]
   },
@@ -5304,8 +5456,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.86
       }
     ]
   },
@@ -5406,8 +5559,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -5524,8 +5678,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.9
       }
     ]
   },
@@ -5554,8 +5709,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.36
       }
     ]
   },
@@ -5616,8 +5772,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.81
       }
     ]
   },
@@ -5646,8 +5803,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.14
       }
     ]
   },
@@ -5684,8 +5842,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 9.95
       }
     ]
   },
@@ -5714,8 +5873,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 10.75
       }
     ]
   },
@@ -5744,8 +5904,9 @@
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "non-expert",
+        "readability_score": 7.59
       }
     ]
   },
@@ -5766,16 +5927,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Recipe Development Agreement Reed's, Inc. B C Marketing Concepts Inc. Ginger-Based Alcohol Beverages",
         "similarity_score": 0.3078541159629822,
-        "only_question": "What is the expiration date of this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.78
       }
     ]
   },
@@ -5796,16 +5958,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Recipe Development Agreement Reed's, Inc. B C Marketing Concepts Inc. Ginger-Based Alcohol Beverages",
         "similarity_score": 0.3078541159629822,
-        "only_question": "What is the governing law for this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.78
       }
     ]
   },
@@ -5826,16 +5989,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Recipe Development Agreement Reed's, Inc. B C Marketing Concepts Inc. Ginger-Based Alcohol Beverages",
         "similarity_score": 0.3078541159629822,
-        "only_question": "Does this contract include an exclusivity agreement?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.79
       }
     ]
   },
@@ -5856,16 +6020,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Recipe Development Agreement Reed's, Inc. B C Marketing Concepts Inc. Ginger-Based Alcohol Beverages",
         "similarity_score": 0.3078541159629822,
-        "only_question": "Is there an anti-assignment clause in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 15.0
       }
     ]
   },
@@ -5902,16 +6067,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Recipe Development Agreement Reed's, Inc. B C Marketing Concepts Inc. Ginger-Based Alcohol Beverages",
         "similarity_score": 0.3078541159629822,
-        "only_question": "How is intellectual property ownership assigned in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 15.19
       }
     ]
   },
@@ -5932,16 +6098,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Recipe Development Agreement Reed's, Inc. B C Marketing Concepts Inc. Ginger-Based Alcohol Beverages",
         "similarity_score": 0.3078541159629822,
-        "only_question": "Is there uncapped liability under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.79
       }
     ]
   },
@@ -5962,16 +6129,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Recipe Development Agreement Reed's, Inc. B C Marketing Concepts Inc. Ginger-Based Alcohol Beverages",
         "similarity_score": 0.3078541159629822,
-        "only_question": "Is there a cap on liability under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.44
       }
     ]
   },
@@ -6000,16 +6168,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Recipe Development Agreement Reed's, Inc. B C Marketing Concepts Inc. Ginger-Based Alcohol Beverages",
         "similarity_score": 0.3078541159629822,
-        "only_question": "Is there a covenant not to sue included in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.92
       }
     ]
   },
@@ -6030,16 +6199,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributorship Agreement Signature Orthopaedics Pty Ltd CPM Medical Consultants LLC Medical Products",
         "similarity_score": 0.5468978881835938,
-        "only_question": "What is the expiration date of this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.72
       }
     ]
   },
@@ -6060,16 +6230,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributorship Agreement Signature Orthopaedics Pty Ltd CPM Medical Consultants LLC Medical Products",
         "similarity_score": 0.5468978881835938,
-        "only_question": "What is the renewal term for this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.72
       }
     ]
   },
@@ -6090,16 +6261,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributorship Agreement Signature Orthopaedics Pty Ltd CPM Medical Consultants LLC Medical Products",
         "similarity_score": 0.5468978881835938,
-        "only_question": "What is the notice period required to terminate the renewal?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.33
       }
     ]
   },
@@ -6120,16 +6292,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributorship Agreement Signature Orthopaedics Pty Ltd CPM Medical Consultants LLC Medical Products",
         "similarity_score": 0.5468978881835938,
-        "only_question": "What is the governing law for this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.72
       }
     ]
   },
@@ -6166,16 +6339,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributorship Agreement Signature Orthopaedics Pty Ltd CPM Medical Consultants LLC Medical Products",
         "similarity_score": 0.5468978881835938,
-        "only_question": "Is there an anti-assignment clause in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.98
       }
     ]
   },
@@ -6196,16 +6370,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributorship Agreement Signature Orthopaedics Pty Ltd CPM Medical Consultants LLC Medical Products",
         "similarity_score": 0.5468978881835938,
-        "only_question": "What licenses are granted under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.7
       }
     ]
   },
@@ -6226,16 +6401,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributorship Agreement Signature Orthopaedics Pty Ltd CPM Medical Consultants LLC Medical Products",
         "similarity_score": 0.5468978881835938,
-        "only_question": "Are there any services to be provided after the termination of this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.55
       }
     ]
   },
@@ -6264,16 +6440,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributorship Agreement Signature Orthopaedics Pty Ltd CPM Medical Consultants LLC Medical Products",
         "similarity_score": 0.5468978881835938,
-        "only_question": "What are the insurance requirements under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.35
       }
     ]
   },
@@ -6294,16 +6471,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributorship Agreement Signature Orthopaedics Pty Ltd CPM Medical Consultants LLC Medical Products",
         "similarity_score": 0.5468978881835938,
-        "only_question": "Is there a covenant not to sue included in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.05
       }
     ]
   },
@@ -6324,16 +6502,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
         "similarity_score": 0.46982359886169434,
-        "only_question": "What is the expiration date of this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.06
       }
     ]
   },
@@ -6354,16 +6533,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
         "similarity_score": 0.46982359886169434,
-        "only_question": "What is the renewal term for this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.06
       }
     ]
   },
@@ -6384,16 +6564,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
         "similarity_score": 0.46982359886169434,
-        "only_question": "What is the governing law for this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.06
       }
     ]
   },
@@ -6414,16 +6595,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
         "similarity_score": 0.46982359886169434,
-        "only_question": "Is there a most favored nation clause in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.82
       }
     ]
   },
@@ -6452,16 +6634,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
         "similarity_score": 0.46982359886169434,
-        "only_question": "Does this contract include an exclusivity agreement?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.02
       }
     ]
   },
@@ -6482,16 +6665,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
         "similarity_score": 0.46982359886169434,
-        "only_question": "Is there a clause preventing the solicitation of customers in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.92
       }
     ]
   },
@@ -6512,16 +6696,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
         "similarity_score": 0.46982359886169434,
-        "only_question": "Is there an anti-assignment clause in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.38
       }
     ]
   },
@@ -6550,16 +6735,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
         "similarity_score": 0.46982359886169434,
-        "only_question": "Are there any price restrictions or controls specified in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.58
       }
     ]
   },
@@ -6580,16 +6766,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
         "similarity_score": 0.46982359886169434,
-        "only_question": "Does this contract include any volume restrictions?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.7
       }
     ]
   },
@@ -6610,16 +6797,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
         "similarity_score": 0.46982359886169434,
-        "only_question": "How is intellectual property ownership assigned in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 13.72
       }
     ]
   },
@@ -6640,16 +6828,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
         "similarity_score": 0.46982359886169434,
-        "only_question": "Are there any services to be provided after the termination of this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.15
       }
     ]
   },
@@ -6670,16 +6859,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
         "similarity_score": 0.46982359886169434,
-        "only_question": "Is there a cap on liability under this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 11.82
       }
     ]
   },
@@ -6700,16 +6890,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
         "similarity_score": 0.46982359886169434,
-        "only_question": "What is the duration of any warranties provided in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "intermediate",
-        "retrieved_k": 3
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.58
       }
     ]
   },
@@ -6738,16 +6929,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Distributor Agreement B & C General Warehouse Corporation LLC Distributor Coffee Products",
         "similarity_score": 0.46982359886169434,
-        "only_question": "Is there a covenant not to sue included in this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 12.58
       }
     ]
   },
@@ -6768,16 +6960,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Non-Exclusive Distributor Agreement iMine Corporation Sunwai Technology Cryptocurrency Mining Rigs",
         "similarity_score": 0.5170678496360779,
-        "only_question": "What is the expiration date of this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "complex",
-        "retrieved_k": 5
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.39
       }
     ]
   },
@@ -6798,16 +6991,17 @@
     ],
     "query_rewriter": [
       {
-        "best_file_path": "cuad/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+        "best_file_path": "",
         "file_locator": "Non-Exclusive Distributor Agreement iMine Corporation Sunwai Technology Cryptocurrency Mining Rigs",
         "similarity_score": 0.5170678496360779,
-        "only_question": "What is the governing law for this contract?"
+        "only_question": ""
       }
     ],
     "feature_extraction": [
       {
-        "query_complexity": "simple",
-        "retrieved_k": 1
+        "complexity": "",
+        "readability": "expert",
+        "readability_score": 14.39
       }
     ]
   }

@@ -22,7 +22,7 @@
   {
     "query": "\"Do the parent and Target have a Representation & Warranty of No Material Adverse Effect,\" and what is the Target's Representation & Warranty of No Material Adverse Effect, as regards to some specific date?",
     "targeted_corpus": "target target",
-    "best_file": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+    "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
     "similarity": 0.20713989436626434,
     "actual_files": [
       "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
@@ -112,52 +112,52 @@
   {
     "query": "\"What information about the Closing Condition is in the Acquisition Agreement between Parent \"LVMH Mot Hennessy-Louis Vuitton SE\" and Target \"Tiffany & Co.\"?\"",
     "targeted_corpus": "lvmh mot hennessy-louis vuitton se tiffany & co.\"",
-    "best_file": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+    "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
     "similarity": 0.7223457098007202,
     "actual_files": [
       "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
     ],
-    "score": -1
+    "score": 1
   },
   {
     "query": "\"What is the \"Representation and Warranty of No Material Adverse Effect\" of Target, Tiffany & Co.\" with respect to a certain date and its parent company?",
     "targeted_corpus": "target, tiffany & co",
-    "best_file": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+    "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
     "similarity": 0.5947657823562622,
     "actual_files": [
       "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
     ],
-    "score": -1
+    "score": 1
   },
   {
     "query": "\"What is the definition of \"knowledge\" in the Acquisition Agreement between Target \"Tiffany & Co.\" and Parent \"LVMH Mot Hennessy-Louis Vuitton SE\"?",
     "targeted_corpus": "tiffany & co lvmh mot hennessy-louis vuitton se",
-    "best_file": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+    "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
     "similarity": 0.7536534070968628,
     "actual_files": [
       "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
     ],
-    "score": -1
+    "score": 1
   },
   {
     "query": "\"What clause does the Acquisition Agreement between \"LVMH Mot Hennessy-Louis Vuitton SE\" and Target \"Tiffany & Co.\" have?",
     "targeted_corpus": "lvmh mot hennessy-louis vuitton se target tiffany & co.\"",
-    "best_file": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+    "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
     "similarity": 0.7224792242050171,
     "actual_files": [
       "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
     ],
-    "score": -1
+    "score": 1
   },
   {
     "query": "\"What is the Acquisition Agreement between Target and Parent \"LVMH Mot Hennessy-Louis Vuitton SE\"? What is the Definition of a Superior Proposal?\"",
     "targeted_corpus": "target lvmh mot hennessy-louis vuitton se",
-    "best_file": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+    "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
     "similarity": 0.5594205856323242,
     "actual_files": [
       "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
     ],
-    "score": -1
+    "score": 1
   },
   {
     "query": "What are the requirements for a \"Interveining Event\"?",
@@ -172,42 +172,42 @@
   {
     "query": "\"What are the main terms of the Acquisition Agreement between Parent \"LVMH Mot Hennessy-Louis Vuitton SE\" and Target \"Tiffany & Co.\"?",
     "targeted_corpus": "lvmh mot hennessy-louis vuitton se tiffany & co",
-    "best_file": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+    "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
     "similarity": 0.7369439601898193,
     "actual_files": [
       "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
     ],
-    "score": -1
+    "score": 1
   },
   {
     "query": "\"What is the scope of the Acquisition Agreement between Parent LVMH Mot Hennessy-Louis Vuitton SE and Target \"Tiffany & Co.\"?\"",
     "targeted_corpus": "lvmh mot hennessy-louis vuitton se tiffany & co",
-    "best_file": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+    "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
     "similarity": 0.7369439601898193,
     "actual_files": [
       "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
     ],
-    "score": -1
+    "score": 1
   },
   {
     "query": "\"What are the Ordinary course of business covenants in the Acquisition Agreement between Target \"Tiffany & Company\" and Parent \"LVMH Mot Hennessy-Louis Vuitton SE\"?\"",
     "targeted_corpus": "tiffany & company lvmh mot hennessy-louis vuitton se",
-    "best_file": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+    "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
     "similarity": 0.7632615566253662,
     "actual_files": [
       "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
     ],
-    "score": -1
+    "score": 1
   },
   {
     "query": "\"What is the specific performance clause that lays down what the Purchase Agreement between Target \"Tiffany & Co.\" and Parent \"LVMH\" Mot Hennessy-Louis Vuitton SE\" will do?",
     "targeted_corpus": "target tiffany & co lvmh mot hennessy-louis vuitton se",
-    "best_file": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+    "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
     "similarity": 0.7073979377746582,
     "actual_files": [
       "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
     ],
-    "score": -1
+    "score": 1
   },
   {
     "query": "\"What is the closing condition of the Acquisition Agreement between Ocala Bidco , Inc. and Inovalon Holdings, Inc?\"",
@@ -1827,7 +1827,7 @@
     "actual_files": [
       "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "\"What is the specific performance clause in the Acquisition Agreement between \"V99, Inc.\" and Target \"Telenav, Inc.\"?\"",
@@ -1882,7 +1882,7 @@
   {
     "query": "\"What's the Fiduciary exception to the No-Shop Clause in the Acquisition Agreement between Parent, Alilly and Target?\"",
     "targeted_corpus": "parent, alilly target",
-    "best_file": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+    "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
     "similarity": 0.284017413854599,
     "actual_files": [
       "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"

@@ -722,7 +722,7 @@
   {
     "query": "\"Does the typical Acquisition Agreement include provisions related to restricting the Target company from engaging in discussions with other potential buyers?\"",
     "targeted_corpus": "target",
-    "best_file": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+    "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
     "similarity": 0.2622113525867462,
     "actual_files": [
       "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
@@ -822,7 +822,7 @@
   {
     "query": "\"In the context of acquisition agreements, how do fiduciary exceptions typically interact with clauses related to restricting the Target company from seeking other buyers?\"",
     "targeted_corpus": "target",
-    "best_file": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+    "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
     "similarity": 0.2622113525867462,
     "actual_files": [
       "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
@@ -1072,7 +1072,7 @@
   {
     "query": "\"Does an Acquisition Agreement typically contain provisions that restrict the Target company from seeking other potential buyers during the negotiation process?\"",
     "targeted_corpus": "target",
-    "best_file": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+    "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
     "similarity": 0.2622113525867462,
     "actual_files": [
       "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
@@ -1622,7 +1622,7 @@
   {
     "query": "In merger agreements, what does the Target typically represent and warrant regarding the absence of any material adverse effects as of a specified date?",
     "targeted_corpus": "target",
-    "best_file": "maud/TIFFANY_&_CO._LVMH_MOE\u0308T_HENNESSY-LOUIS_VUITTON.txt",
+    "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
     "similarity": 0.2622113525867462,
     "actual_files": [
       "maud/Chiasma, Inc._Amryt Pharma plc.txt"
