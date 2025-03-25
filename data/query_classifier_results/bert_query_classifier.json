@@ -1,0 +1,4646 @@
+[
+  {
+    "query": "Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "Does the document state that Confidential Information shall only include technical information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.7262
+  },
+  {
+    "query": "Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.6762
+  },
+  {
+    "query": "Does the document state that Confidential Information shall only include technical information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9768
+  },
+  {
+    "query": "Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.7262
+  },
+  {
+    "query": "Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9768
+  },
+  {
+    "query": "Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "Does the document state that Confidential Information shall only include technical information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.7262
+  },
+  {
+    "query": "Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.6762
+  },
+  {
+    "query": "Does the document state that Confidential Information shall only include technical information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.7262
+  },
+  {
+    "query": "Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.6762
+  },
+  {
+    "query": "Does the document state that Confidential Information shall only include technical information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow verbally conveyed information to be considered as Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.7262
+  },
+  {
+    "query": "Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9768
+  },
+  {
+    "query": "Does the document state that Confidential Information shall only include technical information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document include a clause that prohibits the Receiving Party from soliciting some of the Disclosing Party's representatives?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.985
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.7262
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "Does the document state that Confidential Information shall only include technical information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow verbally conveyed information to be considered as Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.7262
+  },
+  {
+    "query": "Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9768
+  },
+  {
+    "query": "Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "Does the document state that Confidential Information shall only include technical information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow verbally conveyed information to be considered as Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.7262
+  },
+  {
+    "query": "Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9768
+  },
+  {
+    "query": "Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.6762
+  },
+  {
+    "query": "Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document allow verbally conveyed information to be considered as Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.7262
+  },
+  {
+    "query": "Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "Does the document state that Confidential Information shall only include technical information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.7262
+  },
+  {
+    "query": "Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "Does the document state that Confidential Information shall only include technical information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document include a clause that prohibits the Receiving Party from soliciting some of the Disclosing Party's representatives?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.985
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.7262
+  },
+  {
+    "query": "Does the document state that Confidential Information shall only include technical information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow verbally conveyed information to be considered as Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.7262
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9768
+  },
+  {
+    "query": "Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "Does the document state that Confidential Information shall only include technical information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow verbally conveyed information to be considered as Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.7262
+  },
+  {
+    "query": "Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document mention whether or not the Receiving Party is allowed to reverse engineer any objects which embody the Disclosing Party's Confidential Information?",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.903
+  },
+  {
+    "query": "Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "Does the document state that Confidential Information shall only include technical information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow verbally conveyed information to be considered as Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.7262
+  },
+  {
+    "query": "Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.6762
+  },
+  {
+    "query": "Does the document state that Confidential Information shall only include technical information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow verbally conveyed information to be considered as Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.7262
+  },
+  {
+    "query": "Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document mention whether or not the Receiving Party is allowed to reverse engineer any objects which embody the Disclosing Party's Confidential Information?",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.903
+  },
+  {
+    "query": "Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "Does the document state that Confidential Information shall only include technical information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow verbally conveyed information to be considered as Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.7262
+  },
+  {
+    "query": "Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "Does the document state that Confidential Information shall only include technical information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow verbally conveyed information to be considered as Confidential Information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.7262
+  },
+  {
+    "query": "Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "What is the renewal term for this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the governing law for this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does this contract include an exclusivity agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does this contract include any revenue or profit-sharing arrangements?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the licensee's affiliates have any licensing rights under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What are the audit rights under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "What is the expiration date of this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the governing law for this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What happens in the event of a change of control of one of the parties in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there an anti-assignment clause in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What licenses are granted under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there a cap on liability under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the renewal term for this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the notice period required to terminate the renewal?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the governing law for this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Are there any exceptions to competitive restrictions in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does this contract include any right of first refusal, right of first offer, or right of first negotiation?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9993
+  },
+  {
+    "query": "What happens in the event of a change of control of one of the parties in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Are there any price restrictions or controls specified in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there a minimum commitment required under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What licenses are granted under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Are the licenses granted under this contract non-transferable?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there uncapped liability under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there a cap on liability under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there a covenant not to sue included in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "What is the expiration date of this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the renewal term for this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the governing law for this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Are there any exceptions to competitive restrictions in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there a non-compete clause in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does this contract include an exclusivity agreement?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does this contract include any right of first refusal, right of first offer, or right of first negotiation?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9993
+  },
+  {
+    "query": "What happens in the event of a change of control of one of the parties in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there an anti-assignment clause in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does this contract include any revenue or profit-sharing arrangements?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there a minimum commitment required under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does this contract include any volume restrictions?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "How is intellectual property ownership assigned in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What licenses are granted under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Are there any services to be provided after the termination of this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What are the audit rights under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there a cap on liability under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What are the insurance requirements under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there a covenant not to sue included in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the expiration date of this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the renewal term for this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the notice period required to terminate the renewal?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the governing law for this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there a most favored nation clause in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Are there any exceptions to competitive restrictions in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there a non-compete clause in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What happens in the event of a change of control of one of the parties in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there an anti-assignment clause in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does this contract include any revenue or profit-sharing arrangements?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "How is intellectual property ownership assigned in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does this contract provide for joint intellectual property ownership?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What licenses are granted under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the licensor's affiliates have any licensing rights under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does the licensee's affiliates have any licensing rights under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Are there any services to be provided after the termination of this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What are the audit rights under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there uncapped liability under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there a cap on liability under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "What is the expiration date of this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the governing law for this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Are there any exceptions to competitive restrictions in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there a non-compete clause in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Can this contract be terminated for convenience, and under what conditions?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Does this contract include any right of first refusal, right of first offer, or right of first negotiation?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9993
+  },
+  {
+    "query": "What happens in the event of a change of control of one of the parties in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there an anti-assignment clause in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "How is intellectual property ownership assigned in this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What licenses are granted under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Are the licenses granted under this contract non-transferable?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Does the licensee's affiliates have any licensing rights under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Are any of the licenses granted under this contract irrevocable or perpetual?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Are there any services to be provided after the termination of this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What are the audit rights under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there uncapped liability under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Is there a cap on liability under this contract?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "What is the Type of Consideration",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Closing Condition: Compliance with Covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9287
+  },
+  {
+    "query": "What is the Definition of \"Material Adverse Effect\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Knowledge\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What about the Fiduciary exception to the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Superior Proposal\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Information about the Fiduciary Termination Right Triggers for termination",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Is there a Tail provision for acquisition proposals",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What are the Ordinary course of business covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Where is the Specific Performance clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9993
+  },
+  {
+    "query": "Information about the Closing Condition: Compliance with Covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9287
+  },
+  {
+    "query": "What is the Definition of \"Knowledge\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Where is the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9994
+  },
+  {
+    "query": "What is the Definition of \"Superior Proposal\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the Definition of \"Interveining Event\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Fiduciary Termination Right Triggers for termination",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Is there a Tail provision for acquisition proposals",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What are the Ordinary course of business covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Where is the Specific Performance clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9993
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "Information about the Closing Condition: Compliance with Covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9287
+  },
+  {
+    "query": "What is the Definition of \"Knowledge\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Where is the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9994
+  },
+  {
+    "query": "What about the Fiduciary exception to the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Interveining Event\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Fiduciary Termination Right Triggers for termination",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Is there a Tail provision for acquisition proposals",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What are the Ordinary course of business covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Where is the Specific Performance clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9993
+  },
+  {
+    "query": "What is the Type of Consideration",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Closing Condition: Compliance with Covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9287
+  },
+  {
+    "query": "What is the Definition of \"Material Adverse Effect\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Knowledge\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Where is the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9994
+  },
+  {
+    "query": "What about the Fiduciary exception to the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Superior Proposal\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the Definition of \"Interveining Event\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Fiduciary Termination Right Triggers for termination",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Is there a Tail provision for acquisition proposals",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What are the Ordinary course of business covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Where is the Specific Performance clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9993
+  },
+  {
+    "query": "What is the Type of Consideration",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Closing Condition: Accuracy of Target's Representations and Warranties",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9993
+  },
+  {
+    "query": "Information about the Closing Condition: Compliance with Covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9287
+  },
+  {
+    "query": "What is the Definition of \"Material Adverse Effect\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Knowledge\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Where is the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9994
+  },
+  {
+    "query": "What about the Fiduciary exception to the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Superior Proposal\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the Definition of \"Interveining Event\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Fiduciary Termination Right Triggers for termination",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Is there a Tail provision for acquisition proposals",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What are the Ordinary course of business covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Where is the Closing Conditions: Regulatory Approvals clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Where is the Specific Performance clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9993
+  },
+  {
+    "query": "What is the Type of Consideration",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Closing Condition: Accuracy of Target's Representations and Warranties",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9993
+  },
+  {
+    "query": "Information about the Closing Condition: Compliance with Covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9287
+  },
+  {
+    "query": "What is the Definition of \"Material Adverse Effect\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Knowledge\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Where is the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9994
+  },
+  {
+    "query": "What is the Definition of \"Superior Proposal\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the Definition of \"Interveining Event\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Fiduciary Termination Right Triggers for termination",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Is there a Tail provision for acquisition proposals",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What are the Ordinary course of business covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Where is the Specific Performance clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9993
+  },
+  {
+    "query": "What is the Type of Consideration",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Closing Condition: Compliance with Covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Knowledge\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What about the Fiduciary exception to the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Superior Proposal\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the Definition of \"Interveining Event\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Fiduciary Termination Right Triggers for termination",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Is there a Tail provision for acquisition proposals",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What are the Ordinary course of business covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the Type of Consideration",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Closing Condition: Compliance with Covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Material Adverse Effect\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Knowledge\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Where is the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9994
+  },
+  {
+    "query": "What about the Fiduciary exception to the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Superior Proposal\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the Definition of \"Interveining Event\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Fiduciary Termination Right Triggers for termination",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Is there a Tail provision for acquisition proposals",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What happens during a Breach of No-Shop clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What happens during a Breach of Shareholder Meeting Covenant",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What are the Ordinary course of business covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Where is the Specific Performance clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9993
+  },
+  {
+    "query": "What is the Type of Consideration",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Closing Condition: Compliance with Covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9287
+  },
+  {
+    "query": "What is the Definition of \"Material Adverse Effect\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Knowledge\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Where is the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9994
+  },
+  {
+    "query": "What about the Fiduciary exception to the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Superior Proposal\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the Definition of \"Interveining Event\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Fiduciary Termination Right Triggers for termination",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Is there a Tail provision for acquisition proposals",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What happens during a Breach of No-Shop clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What are the Ordinary course of business covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Where is the Closing Conditions: Regulatory Approvals clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "I want information about the Limitations on Antitrust Efforts",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Where is the Specific Performance clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9993
+  },
+  {
+    "query": "What is the Type of Consideration",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Closing Condition: Compliance with Covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Material Adverse Effect\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Knowledge\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Where is the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9994
+  },
+  {
+    "query": "What about the Fiduciary exception to the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Superior Proposal\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Information about the Fiduciary Termination Right Triggers for termination",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Is there a Tail provision for acquisition proposals",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What happens during a Breach of No-Shop clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What are the Ordinary course of business covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Where is the Closing Conditions: Regulatory Approvals clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "I want information about the Limitations on Antitrust Efforts",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Where is the Specific Performance clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9993
+  },
+  {
+    "query": "What is the Type of Consideration",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Closing Condition: Compliance with Covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Closing Condition: No Litigation clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Material Adverse Effect\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Knowledge\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Where is the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9994
+  },
+  {
+    "query": "What about the Fiduciary exception to the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Superior Proposal\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Information about the Fiduciary Termination Right Triggers for termination",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Is there a Tail provision for acquisition proposals",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What are the Ordinary course of business covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Where is the Closing Conditions: Regulatory Approvals clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "I want information about the Limitations on Antitrust Efforts",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Where is the Specific Performance clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9993
+  },
+  {
+    "query": "What is the Type of Consideration",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Closing Condition: Compliance with Covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9287
+  },
+  {
+    "query": "What is the Definition of \"Material Adverse Effect\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Knowledge\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What about the Fiduciary exception to the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Superior Proposal\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the Definition of \"Interveining Event\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Fiduciary Termination Right Triggers for termination",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Is there a Tail provision for acquisition proposals",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What happens during a Breach of No-Shop clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What are the Ordinary course of business covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Where is the Closing Conditions: Regulatory Approvals clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "I want information about the Limitations on Antitrust Efforts",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Where is the Specific Performance clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9993
+  },
+  {
+    "query": "What is the Type of Consideration",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9287
+  },
+  {
+    "query": "What is the Definition of \"Material Adverse Effect\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Knowledge\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What about the Fiduciary exception to the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Superior Proposal\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the Definition of \"Interveining Event\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Fiduciary Termination Right Triggers for termination",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What are the Ordinary course of business covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Where is the Closing Conditions: Regulatory Approvals clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "I want information about the Limitations on Antitrust Efforts",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Where is the Specific Performance clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9993
+  },
+  {
+    "query": "What is the Type of Consideration",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Closing Condition: Compliance with Covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Knowledge\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Superior Proposal\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the Definition of \"Interveining Event\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Fiduciary Termination Right Triggers for termination",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Is there a Tail provision for acquisition proposals",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What are the Ordinary course of business covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "Where is the Closing Conditions: Regulatory Approvals clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "I want information about the Limitations on Antitrust Efforts",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Where is the Specific Performance clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9993
+  },
+  {
+    "query": "What is the Type of Consideration",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Closing Condition: Compliance with Covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
+    "class": "Verbose",
+    "label": "LABEL_0",
+    "confidence": 0.9287
+  },
+  {
+    "query": "Where is the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9994
+  },
+  {
+    "query": "What about the Fiduciary exception to the No-Shop Clause",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "What is the Definition of \"Superior Proposal\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What is the Definition of \"Interveining Event\"",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Information about the Fiduciary Termination Right Triggers for termination",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "Is there a Tail provision for acquisition proposals",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "What are the Ordinary course of business covenants",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "who can see which tasks i hire workers for?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "who can see the jobs that i post?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "what type of identifiable information is passed between users on the platform",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "how is my info protected from hackers?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "who can see my information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "what information does the company store about me?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "what information can other people see?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "how does fiverr protect freelancers' personal information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "how does fiverr ensure payments to freelancers are secure?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "is my information sold to any third parties?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "will my location be constantly tracked?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "will potential employers be able to obtain my address?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "can i control the information that is presented to potential employers?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "can other parties see my information",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "can other people see my financial information",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "what information do you collect?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "do you sell my information to third parties?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "do you use a secure payment service?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "how is information used?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "who has access to my workout plans?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "will my fitness coach share my information with others?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "will my progress only be posted to social media if i want it to?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "will any photos i take be accessed by outside parties?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "will my information be shared with other companies for marketing?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "will the app use my data for marketing purposes?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does this app get access to my other apps like twitter and instagram?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "how safe is my account information on this app?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "are my statistics kept private?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "who can see my data?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does the app access my contact list?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "is my data safe?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "are you storing any of my information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "do you access any of my contact's information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does it save any of my health data?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "can the app access my location?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "is any information shared with third parties?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "can it access my other social media accounts?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "what information will this app have access to of mine?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "will the personal info i share with this app to sign up be shared with other companies, etc?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "will my workout data be given to anyone else or shared with anyone (i.e. insurance companies)?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9994
+  },
+  {
+    "query": "how well does keep protect my data and how do they do that?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "can people see what workout list i'm using?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "can people see my workout log?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "will they share my information with anyone?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "will my location be monitored and shared?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "how is my information protected?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "will any of my information be sold?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "do you know my location",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "do you keep and upload my activity to your database",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9991
+  },
+  {
+    "query": "do you use my data to modify the app",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "do you sell my data",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "do you share my location with other people",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "are my goals shared with third parties?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "do you keep track of my physical measurements like height and weight?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does it have access to my gps information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "will biological data like heart rate, blood pressure, etc. be collected via the app?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9993
+  },
+  {
+    "query": "what security system do you have in place for the app?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "what happen if my account get compromise?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "will my information be saved after i use groupon once?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "who will have access to my information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "do i have to tell you my location?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "will you ever sell my information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "how long will you have my information for?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "what kind of data does groupon collect?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "what does groupon do with collected data? (eg, does it sell it to third parties?)",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "what kind of permissions do i have to grant it?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "what kind of security protocol does groupon use to protect data and privacy of its users?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "if i decide to discontinue using groupon, how long does it keep my data?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "what kind of personal info does groupon have on me?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "does groupon sell my personal information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "can groupon see where i am located?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "can other users see any of my personal info if i use groupon?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "do vendors get my information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "do the app keep track of my location data?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "is my search and purchase history shared with advertisers?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "what type of permissions does the app need to operate?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "does it need location services while not using it?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "do i need to enter any personal information to use it?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does it keep track of where i am?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does it share my personal information with others?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does it share my purchase information with others?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "what permissions does it request on my phone?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "does it need my location at all times, or can i just type in it whenever i'm looking for a coupon?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9994
+  },
+  {
+    "query": "does it sell my data to anyone?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does it save all info on me if i delete my acct?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "how will my data be stored",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "what protections are used",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "is my data safe",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "this app ask any kind personal details like credit card details?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "what information of mine does it access",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "what information of mine does it collect",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "is my information sold",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "is my information secure",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does it collect any of my contact's information",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "does this app sell customer information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "does this app track my gps location?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "will this app sell my information to any 3rd parties?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does this app need access to any of my social media accounts?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "what information are they collecting?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "is it monitoring my location?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "does it read my contacts?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "is my privacy secured?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does it record my location information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does the app track my location?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does the app contain third party ads?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does this app use data on my phone not within the app?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does the wordscapes app have access to my location?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "are there any advertisements within the wordscapes app that could lead me to third party sites?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does the wordscapes app collect any personally identifiable information like my name or email?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does the app show targeted advertisements?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "does it have access to my contacts?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does the app sell any personal information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "does it collect my location?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "what data does it collect",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does it share data with others",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does it collect payment information",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does it collect location",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "does it sell data",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "is my reminder data saved anywhere?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "is my task schedule being tracked?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "can it view my real name?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "can i delete my personally identifying information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "what information do you take from me.",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "is my data shared with others?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "would there be a way to see what data you collect?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does the app share information with any third parties?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "will my data be shared with third party entities?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "are my ideas uploaded to any servers?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "who will have access to the info i enter into the application?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "will the application make money off of the info i enter in the app?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "who has access to whatever i create using this?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "do third parties have access to my data?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "who all has access to my data?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does this app capture my ip address?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "what data do they take",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "what information is shared",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "who sees my data",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9994
+  },
+  {
+    "query": "is there a way to opt out of data sharing",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "is my information shared with any third parties?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does the app save the address that my kit is shipped to?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "do you sell my genetic data?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "is my data anonymized?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "are you accessing and information about me from my phone?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "what will you do with my dna?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "will you destroy my dna sample when you are finished?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "do you use my data to do medical research",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "is any information recorded",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "where is the information saved",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9994
+  },
+  {
+    "query": "is the information encrypted",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9995
+  },
+  {
+    "query": "will my test results be shared with any third party entities?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "can i delete my personally identifying information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does viber log messages?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "are my call logs recorded?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "are my video calls recorded?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "do you require me to submit identifying information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "what information is collected about users?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "how is my data used?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "what data do you keep and for how long?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "do you keep a record of our text ?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "do you keep a record of our text messages?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "do you record our phone calls?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "if i send a message that is considered dirty, will the controllers of the app see it?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does viber sell my information to advertisers and marketers?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "does viber have any affiliation with the advertisement industry?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "are there other people who can access my information?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "how is any information collected by viber shared with other parties?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "is any data collected by the app has any connection with the third party sites?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "will my personal details be shared with third party  companies?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "can any 3rd party see my conversations?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "do you sell any of our data?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "how are my contacts stored?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "can i submit a request to have my data deleted?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "when do you delete stored data?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "how long do you retain meta data?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "are my message encrypted on viber?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "is there any sort of encryption for communications?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "is it keep my phone numbers undisclosed?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "is the messages sent through it are safe?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "the photos and videos shared will be kept confidential?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "can anyone view my account?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "how is my data stored?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does the app protect my account details from being accessed by other people?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does the app offer a password service where i am required to input a password when i want to access it?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "will viber comply to government information request?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "can my call log be subpoenaed?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "if it's free, does viber profit off its users in some way?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does the app hide the content  of the messages i send from other people on my contact list?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "does this send information to a third party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "what personal information will be required for me to set up an account?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9997
+  },
+  {
+    "query": "will you ever sell my personal information to a third party?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "how is my information protected when i'm using your app over wi-fi?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  },
+  {
+    "query": "who will be able to see my information and/or the messages that i send?",
+    "class": "vague",
+    "label": "LABEL_1",
+    "confidence": 0.9996
+  }
+]
