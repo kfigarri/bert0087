@@ -171,4 +171,4 @@ cython_debug/
 .pypirc
 
 #Desktop Services Store
-.DS_Store
+.DS_Storebert_query_classifier/model.safetensors
