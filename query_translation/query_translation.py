@@ -4,9 +4,12 @@ import json
 import os
 import random
 import re
+import joblib
 from collections import Counter
 from datetime import datetime
 from typing import List, Tuple, Callable, Dict, Optional
+import torch
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, TextClassificationPipeline
 
 import textstat
 import nltk
@@ -29,6 +32,24 @@ class QAGroundTruth(BaseModel):
     query: str
     snippets: List[QASnippet]
     file_set: Optional[List[str]] = None
+
+# Load model and tokenizer
+model_path = "./bert_query_classifier/"
+model_distillbert = AutoModelForSequenceClassification.from_pretrained(model_path)
+tokenizer = AutoTokenizer.from_pretrained(model_path)
+
+# Load label encoder
+label_encoder = joblib.load(os.path.join(model_path, "label_encoder.joblib"))
+
+# Create the classification pipeline
+pipe = TextClassificationPipeline(
+    model=model_distillbert,
+    tokenizer=tokenizer,
+    return_all_scores=False,
+    truncation=True,
+    padding=True,
+    device=0 if torch.cuda.is_available() else -1
+)
 
 def load_groundtruth(json_file_path: str) -> List[QAGroundTruth]:
     """
@@ -66,6 +87,16 @@ def calculate_readability(query: str) -> str:
         return "non-expert", dale_chall
     else:
         return "expert", dale_chall
+    
+def calculate_complexity(query: str) -> Tuple[str, float]:
+    """
+    Calculate complexity based on vague-verbose classifer
+    """
+    pred = pipe(query)[0]
+    label_id = int(pred['label'].split('_')[-1])
+    class_name = label_encoder.inverse_transform([label_id])[0]
+
+    return class_name.lower(), round(pred['score'], 4)
 
 def split_question_ner(query: str, ner_model) -> Tuple[str, str]:
     """
@@ -156,6 +187,7 @@ def query_rewriter(
                 "only_question": only_question
             }
             readability, readability_score = calculate_readability(only_question)
+            complexity, complexity_score = calculate_complexity(only_question)
         else:
             query_rewriter_value = {
                 "best_file_path": "",
@@ -164,6 +196,7 @@ def query_rewriter(
                 "only_question": ""
             }
             readability, readability_score = calculate_readability(gt.query)
+            complexity, complexity_score = calculate_complexity(gt.query)
         
         result = {
             "query": gt.query,
@@ -172,7 +205,8 @@ def query_rewriter(
             "query_rewriter": [query_rewriter_value],
             "feature_extraction": [
                 {
-                    "complexity": "",
+                    "complexity": complexity,
+                    "complexity_score": complexity_score,
                     "readability": readability,
                     "readability_score": readability_score
                 }
