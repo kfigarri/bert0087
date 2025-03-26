@@ -1,9 +1,9 @@
 [
   {
     "query": "Consider the Acquisition Agreement between Parent \"Magic AcquireCo, Inc.\" and Target \"The Michaels Companies, Inc.\"; What is the Type of Consideration",
-    "targeted_corpus": "Acquisition Agreement Parent \"Magic AcquireCo, Inc.\" Target \"The Michaels Companies, Inc.\"",
+    "targeted_corpus": "magic acquireco, inc the michaels companies, inc",
     "best_file": "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt",
-    "similarity": 0.522197961807251,
+    "similarity": 0.636020839214325,
     "actual_files": [
       "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
     ],
@@ -11,9 +11,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Magic AcquireCo, Inc.\" and Target \"The Michaels Companies, Inc.\"; Information about the Closing Condition: Compliance with Covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"Magic AcquireCo, Inc.\" Target \"The Michaels Companies, Inc.\"",
+    "targeted_corpus": "magic acquireco, inc the michaels companies, inc",
     "best_file": "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt",
-    "similarity": 0.522197961807251,
+    "similarity": 0.636020839214325,
     "actual_files": [
       "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
     ],
@@ -21,9 +21,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Magic AcquireCo, Inc.\" and Target \"The Michaels Companies, Inc.\"; What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
-    "targeted_corpus": "Acquisition Agreement Parent \"Magic AcquireCo, Inc.\" Target \"The Michaels Companies, Inc.\"",
+    "targeted_corpus": "magic acquireco, inc the michaels companies, inc",
     "best_file": "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt",
-    "similarity": 0.522197961807251,
+    "similarity": 0.636020839214325,
     "actual_files": [
       "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
     ],
@@ -31,9 +31,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Magic AcquireCo, Inc.\" and Target \"The Michaels Companies, Inc.\"; What is the Definition of \"Material Adverse Effect\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Magic AcquireCo, Inc.\" Target \"The Michaels Companies, Inc.\"",
+    "targeted_corpus": "magic acquireco, inc the michaels companies, inc",
     "best_file": "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt",
-    "similarity": 0.522197961807251,
+    "similarity": 0.636020839214325,
     "actual_files": [
       "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
     ],
@@ -41,9 +41,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Magic AcquireCo, Inc.\" and Target \"The Michaels Companies, Inc.\"; What is the Definition of \"Knowledge\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Magic AcquireCo, Inc.\" Target \"The Michaels Companies, Inc.\"",
+    "targeted_corpus": "magic acquireco, inc the michaels companies, inc",
     "best_file": "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt",
-    "similarity": 0.522197961807251,
+    "similarity": 0.636020839214325,
     "actual_files": [
       "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
     ],
@@ -51,9 +51,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Magic AcquireCo, Inc.\" and Target \"The Michaels Companies, Inc.\"; What about the Fiduciary exception to the No-Shop Clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Magic AcquireCo, Inc.\" Target \"The Michaels Companies, Inc.\"",
+    "targeted_corpus": "magic acquireco, inc the michaels companies, inc",
     "best_file": "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt",
-    "similarity": 0.522197961807251,
+    "similarity": 0.636020839214325,
     "actual_files": [
       "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
     ],
@@ -61,9 +61,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Magic AcquireCo, Inc.\" and Target \"The Michaels Companies, Inc.\"; What is the Definition of \"Superior Proposal\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Magic AcquireCo, Inc.\" Target \"The Michaels Companies, Inc.\"",
+    "targeted_corpus": "magic acquireco, inc the michaels companies, inc",
     "best_file": "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt",
-    "similarity": 0.522197961807251,
+    "similarity": 0.636020839214325,
     "actual_files": [
       "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
     ],
@@ -71,9 +71,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Magic AcquireCo, Inc.\" and Target \"The Michaels Companies, Inc.\"; Information about the Fiduciary Termination Right Triggers for termination",
-    "targeted_corpus": "Acquisition Agreement Parent \"Magic AcquireCo, Inc.\" Target \"The Michaels Companies, Inc.\"",
+    "targeted_corpus": "magic acquireco, inc the michaels companies, inc",
     "best_file": "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt",
-    "similarity": 0.522197961807251,
+    "similarity": 0.636020839214325,
     "actual_files": [
       "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
     ],
@@ -81,9 +81,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Magic AcquireCo, Inc.\" and Target \"The Michaels Companies, Inc.\"; Is there a Tail provision for acquisition proposals",
-    "targeted_corpus": "Acquisition Agreement Parent \"Magic AcquireCo, Inc.\" Target \"The Michaels Companies, Inc.\"",
+    "targeted_corpus": "magic acquireco, inc the michaels companies, inc",
     "best_file": "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt",
-    "similarity": 0.522197961807251,
+    "similarity": 0.636020839214325,
     "actual_files": [
       "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
     ],
@@ -91,9 +91,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Magic AcquireCo, Inc.\" and Target \"The Michaels Companies, Inc.\"; What are the Ordinary course of business covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"Magic AcquireCo, Inc.\" Target \"The Michaels Companies, Inc.\"",
+    "targeted_corpus": "magic acquireco, inc the michaels companies, inc",
     "best_file": "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt",
-    "similarity": 0.522197961807251,
+    "similarity": 0.636020839214325,
     "actual_files": [
       "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
     ],
@@ -101,9 +101,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Magic AcquireCo, Inc.\" and Target \"The Michaels Companies, Inc.\"; Where is the Specific Performance clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Magic AcquireCo, Inc.\" Target \"The Michaels Companies, Inc.\"",
+    "targeted_corpus": "magic acquireco, inc the michaels companies, inc",
     "best_file": "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt",
-    "similarity": 0.522197961807251,
+    "similarity": 0.636020839214325,
     "actual_files": [
       "maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
     ],
@@ -111,9 +111,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" and Target \"Tiffany & Co.\"; Information about the Closing Condition: Compliance with Covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
+    "targeted_corpus": "lvmh mo\u00ebt hennessy-louis vuitton se tiffany & co.\"",
     "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
-    "similarity": 0.6071484088897705,
+    "similarity": 0.7435476779937744,
     "actual_files": [
       "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
     ],
@@ -121,9 +121,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" and Target \"Tiffany & Co.\"; What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
-    "targeted_corpus": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
+    "targeted_corpus": "lvmh mo\u00ebt hennessy-louis vuitton se tiffany & co",
     "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
-    "similarity": 0.6071484088897705,
+    "similarity": 0.7569496631622314,
     "actual_files": [
       "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
     ],
@@ -131,9 +131,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" and Target \"Tiffany & Co.\"; What is the Definition of \"Knowledge\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
+    "targeted_corpus": "lvmh mo\u00ebt hennessy-louis vuitton se tiffany & co",
     "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
-    "similarity": 0.6071484088897705,
+    "similarity": 0.7569496631622314,
     "actual_files": [
       "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
     ],
@@ -141,9 +141,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" and Target \"Tiffany & Co.\"; Where is the No-Shop Clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
+    "targeted_corpus": "lvmh mo\u00ebt hennessy-louis vuitton se tiffany & co",
     "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
-    "similarity": 0.6071484088897705,
+    "similarity": 0.7569496631622314,
     "actual_files": [
       "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
     ],
@@ -151,9 +151,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" and Target \"Tiffany & Co.\"; What is the Definition of \"Superior Proposal\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
+    "targeted_corpus": "lvmh mo\u00ebt hennessy-louis vuitton se tiffany & co.\"",
     "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
-    "similarity": 0.6071484088897705,
+    "similarity": 0.7435476779937744,
     "actual_files": [
       "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
     ],
@@ -161,9 +161,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" and Target \"Tiffany & Co.\"; What is the Definition of \"Interveining Event\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
+    "targeted_corpus": "lvmh mo\u00ebt hennessy-louis vuitton se tiffany & co.\"",
     "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
-    "similarity": 0.6071484088897705,
+    "similarity": 0.7435476779937744,
     "actual_files": [
       "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
     ],
@@ -171,9 +171,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" and Target \"Tiffany & Co.\"; Information about the Fiduciary Termination Right Triggers for termination",
-    "targeted_corpus": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
+    "targeted_corpus": "lvmh mo\u00ebt hennessy-louis vuitton se tiffany & co",
     "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
-    "similarity": 0.6071484088897705,
+    "similarity": 0.7569496631622314,
     "actual_files": [
       "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
     ],
@@ -181,9 +181,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" and Target \"Tiffany & Co.\"; Is there a Tail provision for acquisition proposals",
-    "targeted_corpus": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
+    "targeted_corpus": "lvmh mo\u00ebt hennessy-louis vuitton se tiffany & co",
     "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
-    "similarity": 0.6071484088897705,
+    "similarity": 0.7569496631622314,
     "actual_files": [
       "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
     ],
@@ -191,9 +191,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" and Target \"Tiffany & Co.\"; What are the Ordinary course of business covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
+    "targeted_corpus": "lvmh mo\u00ebt hennessy-louis vuitton se tiffany & co",
     "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
-    "similarity": 0.6071484088897705,
+    "similarity": 0.7569496631622314,
     "actual_files": [
       "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
     ],
@@ -201,9 +201,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" and Target \"Tiffany & Co.\"; Where is the Specific Performance clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"LVMH Mo\u00ebt Hennessy-Louis Vuitton SE\" Target \"Tiffany & Co.\"",
+    "targeted_corpus": "lvmh mo\u00ebt hennessy-louis vuitton se tiffany & co",
     "best_file": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
-    "similarity": 0.6071484088897705,
+    "similarity": 0.7569496631622314,
     "actual_files": [
       "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt"
     ],
@@ -211,79 +211,79 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Ocala Bidco, Inc.\" and Target \"Inovalon Holdings, Inc.\"; Information about the Closing Condition: Compliance with Covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"Ocala Bidco, Inc.\" Target \"Inovalon Holdings, Inc.\"",
-    "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.3747612237930298,
+    "targeted_corpus": "ocala bidco, inc inovalon holdings, inc",
+    "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
+    "similarity": 0.4844520092010498,
     "actual_files": [
       "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Ocala Bidco, Inc.\" and Target \"Inovalon Holdings, Inc.\"; What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
-    "targeted_corpus": "Acquisition Agreement Parent \"Ocala Bidco, Inc.\" Target \"Inovalon Holdings, Inc.\"",
-    "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.3747612237930298,
+    "targeted_corpus": "ocala bidco, inc inovalon holdings, inc",
+    "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
+    "similarity": 0.4844520092010498,
     "actual_files": [
       "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Ocala Bidco, Inc.\" and Target \"Inovalon Holdings, Inc.\"; What is the Definition of \"Knowledge\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Ocala Bidco, Inc.\" Target \"Inovalon Holdings, Inc.\"",
-    "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.3747612237930298,
+    "targeted_corpus": "ocala bidco, inc inovalon holdings, inc",
+    "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
+    "similarity": 0.4844520092010498,
     "actual_files": [
       "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Ocala Bidco, Inc.\" and Target \"Inovalon Holdings, Inc.\"; Where is the No-Shop Clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Ocala Bidco, Inc.\" Target \"Inovalon Holdings, Inc.\"",
-    "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.3747612237930298,
+    "targeted_corpus": "ocala bidco, inc inovalon holdings, inc",
+    "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
+    "similarity": 0.4844520092010498,
     "actual_files": [
       "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Ocala Bidco, Inc.\" and Target \"Inovalon Holdings, Inc.\"; Is there a Tail provision for acquisition proposals",
-    "targeted_corpus": "Acquisition Agreement Parent \"Ocala Bidco, Inc.\" Target \"Inovalon Holdings, Inc.\"",
-    "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.3747612237930298,
+    "targeted_corpus": "ocala bidco, inc inovalon holdings, inc",
+    "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
+    "similarity": 0.4844520092010498,
     "actual_files": [
       "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Ocala Bidco, Inc.\" and Target \"Inovalon Holdings, Inc.\"; What are the Ordinary course of business covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"Ocala Bidco, Inc.\" Target \"Inovalon Holdings, Inc.\"",
-    "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.3747612237930298,
+    "targeted_corpus": "ocala bidco, inc inovalon holdings, inc",
+    "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
+    "similarity": 0.4844520092010498,
     "actual_files": [
       "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Ocala Bidco, Inc.\" and Target \"Inovalon Holdings, Inc.\"; Where is the Specific Performance clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Ocala Bidco, Inc.\" Target \"Inovalon Holdings, Inc.\"",
-    "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.3747612237930298,
+    "targeted_corpus": "ocala bidco, inc inovalon holdings, inc",
+    "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
+    "similarity": 0.4844520092010498,
     "actual_files": [
       "maud/Inovalon_Holdings_Management_Led_Buyout.txt"
     ],
-    "score": 0
+    "score": -1
   },
   {
     "query": "Consider the Merger Agreement between \"Atlas CC Acquisition Corp.\" and \"Cubic Corporation\"; Information about the Closing Condition: Compliance with Covenants",
-    "targeted_corpus": "Merger Agreement \"Atlas CC Acquisition Corp.\" \"Cubic Corporation\"",
+    "targeted_corpus": "atlas cc  corp cubic corporation",
     "best_file": "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt",
-    "similarity": 0.422354519367218,
+    "similarity": 0.444487988948822,
     "actual_files": [
       "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
     ],
@@ -291,9 +291,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Atlas CC Acquisition Corp.\" and \"Cubic Corporation\"; What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
-    "targeted_corpus": "Merger Agreement \"Atlas CC Acquisition Corp.\" \"Cubic Corporation\"",
+    "targeted_corpus": "atlas cc  corp cubic corporation",
     "best_file": "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt",
-    "similarity": 0.422354519367218,
+    "similarity": 0.444487988948822,
     "actual_files": [
       "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
     ],
@@ -301,9 +301,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Atlas CC Acquisition Corp.\" and \"Cubic Corporation\"; What is the Definition of \"Knowledge\"",
-    "targeted_corpus": "Merger Agreement \"Atlas CC Acquisition Corp.\" \"Cubic Corporation\"",
+    "targeted_corpus": "atlas cc  corp cubic corporation",
     "best_file": "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt",
-    "similarity": 0.422354519367218,
+    "similarity": 0.444487988948822,
     "actual_files": [
       "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
     ],
@@ -311,9 +311,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Atlas CC Acquisition Corp.\" and \"Cubic Corporation\"; Where is the No-Shop Clause",
-    "targeted_corpus": "Merger Agreement \"Atlas CC Acquisition Corp.\" \"Cubic Corporation\"",
+    "targeted_corpus": "atlas cc  corp cubic corporation",
     "best_file": "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt",
-    "similarity": 0.422354519367218,
+    "similarity": 0.444487988948822,
     "actual_files": [
       "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
     ],
@@ -321,9 +321,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Atlas CC Acquisition Corp.\" and \"Cubic Corporation\"; What about the Fiduciary exception to the No-Shop Clause",
-    "targeted_corpus": "Merger Agreement \"Atlas CC Acquisition Corp.\" \"Cubic Corporation\"",
+    "targeted_corpus": "atlas cc  corp cubic corporation",
     "best_file": "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt",
-    "similarity": 0.422354519367218,
+    "similarity": 0.444487988948822,
     "actual_files": [
       "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
     ],
@@ -331,9 +331,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Atlas CC Acquisition Corp.\" and \"Cubic Corporation\"; What is the Definition of \"Interveining Event\"",
-    "targeted_corpus": "Merger Agreement \"Atlas CC Acquisition Corp.\" \"Cubic Corporation\"",
+    "targeted_corpus": "atlas cc  corp cubic corporation",
     "best_file": "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt",
-    "similarity": 0.422354519367218,
+    "similarity": 0.444487988948822,
     "actual_files": [
       "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
     ],
@@ -341,9 +341,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Atlas CC Acquisition Corp.\" and \"Cubic Corporation\"; Information about the Fiduciary Termination Right Triggers for termination",
-    "targeted_corpus": "Merger Agreement \"Atlas CC Acquisition Corp.\" \"Cubic Corporation\"",
+    "targeted_corpus": "atlas cc  corp cubic corporation",
     "best_file": "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt",
-    "similarity": 0.422354519367218,
+    "similarity": 0.444487988948822,
     "actual_files": [
       "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
     ],
@@ -351,9 +351,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Atlas CC Acquisition Corp.\" and \"Cubic Corporation\"; Is there a Tail provision for acquisition proposals",
-    "targeted_corpus": "Merger Agreement \"Atlas CC Acquisition Corp.\" \"Cubic Corporation\"",
+    "targeted_corpus": "atlas cc  corp cubic corporation",
     "best_file": "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt",
-    "similarity": 0.422354519367218,
+    "similarity": 0.444487988948822,
     "actual_files": [
       "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
     ],
@@ -361,9 +361,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Atlas CC Acquisition Corp.\" and \"Cubic Corporation\"; What are the Ordinary course of business covenants",
-    "targeted_corpus": "Merger Agreement \"Atlas CC Acquisition Corp.\" \"Cubic Corporation\"",
+    "targeted_corpus": "atlas cc  corp cubic corporation",
     "best_file": "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt",
-    "similarity": 0.422354519367218,
+    "similarity": 0.444487988948822,
     "actual_files": [
       "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
     ],
@@ -371,9 +371,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Atlas CC Acquisition Corp.\" and \"Cubic Corporation\"; Where is the Specific Performance clause",
-    "targeted_corpus": "Merger Agreement \"Atlas CC Acquisition Corp.\" \"Cubic Corporation\"",
+    "targeted_corpus": "atlas cc  corp cubic corporation",
     "best_file": "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt",
-    "similarity": 0.422354519367218,
+    "similarity": 0.444487988948822,
     "actual_files": [
       "maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
     ],
@@ -381,9 +381,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\"; What is the Type of Consideration",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gainwell Acquisition Corp.\" Target \"HMS Holdings Corp.\"",
+    "targeted_corpus": "gainwell  corp hms holdings corp",
     "best_file": "maud/HMS Holdings Corp._Veritas Capital.txt",
-    "similarity": 0.4354434609413147,
+    "similarity": 0.5131536722183228,
     "actual_files": [
       "maud/HMS Holdings Corp._Veritas Capital.txt"
     ],
@@ -391,9 +391,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\"; Information about the Closing Condition: Compliance with Covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gainwell Acquisition Corp.\" Target \"HMS Holdings Corp.\"",
+    "targeted_corpus": "gainwell  corp hms holdings corp",
     "best_file": "maud/HMS Holdings Corp._Veritas Capital.txt",
-    "similarity": 0.4354434609413147,
+    "similarity": 0.5131536722183228,
     "actual_files": [
       "maud/HMS Holdings Corp._Veritas Capital.txt"
     ],
@@ -401,9 +401,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\"; What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gainwell Acquisition Corp.\" Target \"HMS Holdings Corp.\"",
+    "targeted_corpus": "gainwell  corp hms holdings corp",
     "best_file": "maud/HMS Holdings Corp._Veritas Capital.txt",
-    "similarity": 0.4354434609413147,
+    "similarity": 0.5131536722183228,
     "actual_files": [
       "maud/HMS Holdings Corp._Veritas Capital.txt"
     ],
@@ -411,9 +411,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\"; What is the Definition of \"Material Adverse Effect\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gainwell Acquisition Corp.\" Target \"HMS Holdings Corp.\"",
+    "targeted_corpus": "gainwell  corp hms holdings corp",
     "best_file": "maud/HMS Holdings Corp._Veritas Capital.txt",
-    "similarity": 0.4354434609413147,
+    "similarity": 0.5131536722183228,
     "actual_files": [
       "maud/HMS Holdings Corp._Veritas Capital.txt"
     ],
@@ -421,9 +421,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\"; What is the Definition of \"Knowledge\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gainwell Acquisition Corp.\" Target \"HMS Holdings Corp.\"",
+    "targeted_corpus": "gainwell  corp hms holdings corp",
     "best_file": "maud/HMS Holdings Corp._Veritas Capital.txt",
-    "similarity": 0.4354434609413147,
+    "similarity": 0.5131536722183228,
     "actual_files": [
       "maud/HMS Holdings Corp._Veritas Capital.txt"
     ],
@@ -431,9 +431,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\"; Where is the No-Shop Clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gainwell Acquisition Corp.\" Target \"HMS Holdings Corp.\"",
+    "targeted_corpus": "gainwell  corp hms holdings corp",
     "best_file": "maud/HMS Holdings Corp._Veritas Capital.txt",
-    "similarity": 0.4354434609413147,
+    "similarity": 0.5131536722183228,
     "actual_files": [
       "maud/HMS Holdings Corp._Veritas Capital.txt"
     ],
@@ -441,9 +441,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\"; What about the Fiduciary exception to the No-Shop Clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gainwell Acquisition Corp.\" Target \"HMS Holdings Corp.\"",
+    "targeted_corpus": "gainwell  corp hms holdings corp",
     "best_file": "maud/HMS Holdings Corp._Veritas Capital.txt",
-    "similarity": 0.4354434609413147,
+    "similarity": 0.5131536722183228,
     "actual_files": [
       "maud/HMS Holdings Corp._Veritas Capital.txt"
     ],
@@ -451,9 +451,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\"; What is the Definition of \"Superior Proposal\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gainwell Acquisition Corp.\" Target \"HMS Holdings Corp.\"",
+    "targeted_corpus": "gainwell  corp hms holdings corp",
     "best_file": "maud/HMS Holdings Corp._Veritas Capital.txt",
-    "similarity": 0.4354434609413147,
+    "similarity": 0.5131536722183228,
     "actual_files": [
       "maud/HMS Holdings Corp._Veritas Capital.txt"
     ],
@@ -461,9 +461,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\"; What is the Definition of \"Interveining Event\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gainwell Acquisition Corp.\" Target \"HMS Holdings Corp.\"",
+    "targeted_corpus": "gainwell  corp hms holdings corp",
     "best_file": "maud/HMS Holdings Corp._Veritas Capital.txt",
-    "similarity": 0.4354434609413147,
+    "similarity": 0.5131536722183228,
     "actual_files": [
       "maud/HMS Holdings Corp._Veritas Capital.txt"
     ],
@@ -471,9 +471,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\"; Information about the Fiduciary Termination Right Triggers for termination",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gainwell Acquisition Corp.\" Target \"HMS Holdings Corp.\"",
+    "targeted_corpus": "gainwell  corp hms holdings corp",
     "best_file": "maud/HMS Holdings Corp._Veritas Capital.txt",
-    "similarity": 0.4354434609413147,
+    "similarity": 0.5131536722183228,
     "actual_files": [
       "maud/HMS Holdings Corp._Veritas Capital.txt"
     ],
@@ -481,9 +481,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\"; Is there a Tail provision for acquisition proposals",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gainwell Acquisition Corp.\" Target \"HMS Holdings Corp.\"",
+    "targeted_corpus": "gainwell  corp hms holdings corp",
     "best_file": "maud/HMS Holdings Corp._Veritas Capital.txt",
-    "similarity": 0.4354434609413147,
+    "similarity": 0.5131536722183228,
     "actual_files": [
       "maud/HMS Holdings Corp._Veritas Capital.txt"
     ],
@@ -491,9 +491,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\"; What are the Ordinary course of business covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gainwell Acquisition Corp.\" Target \"HMS Holdings Corp.\"",
+    "targeted_corpus": "gainwell  corp hms holdings corp",
     "best_file": "maud/HMS Holdings Corp._Veritas Capital.txt",
-    "similarity": 0.4354434609413147,
+    "similarity": 0.5131536722183228,
     "actual_files": [
       "maud/HMS Holdings Corp._Veritas Capital.txt"
     ],
@@ -501,9 +501,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gainwell Acquisition Corp.\" and Target \"HMS Holdings Corp.\"; Where is the Specific Performance clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gainwell Acquisition Corp.\" Target \"HMS Holdings Corp.\"",
+    "targeted_corpus": "gainwell  corp hms holdings corp",
     "best_file": "maud/HMS Holdings Corp._Veritas Capital.txt",
-    "similarity": 0.4354434609413147,
+    "similarity": 0.5131536722183228,
     "actual_files": [
       "maud/HMS Holdings Corp._Veritas Capital.txt"
     ],
@@ -511,9 +511,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"; What is the Type of Consideration",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gibraltar Acquisition Holdings LLC\" Target \"W. R. Grace & Co.\"",
+    "targeted_corpus": "gibraltar  holdings llc w. r. grace & co.\"",
     "best_file": "maud/W_R_Grace_Co_40_North_Management_LLC.txt",
-    "similarity": 0.4258653521537781,
+    "similarity": 0.47529280185699463,
     "actual_files": [
       "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
     ],
@@ -521,9 +521,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"; Information about the Closing Condition: Accuracy of Target's Representations and Warranties",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gibraltar Acquisition Holdings LLC\" Target \"W. R. Grace & Co.\"",
+    "targeted_corpus": "gibraltar  holdings llc w. r. grace & co.\" target",
     "best_file": "maud/W_R_Grace_Co_40_North_Management_LLC.txt",
-    "similarity": 0.4258653521537781,
+    "similarity": 0.434967577457428,
     "actual_files": [
       "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
     ],
@@ -531,9 +531,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"; Information about the Closing Condition: Compliance with Covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gibraltar Acquisition Holdings LLC\" Target \"W. R. Grace & Co.\"",
+    "targeted_corpus": "gibraltar  holdings llc w. r. grace & co.\"",
     "best_file": "maud/W_R_Grace_Co_40_North_Management_LLC.txt",
-    "similarity": 0.4258653521537781,
+    "similarity": 0.47529280185699463,
     "actual_files": [
       "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
     ],
@@ -541,9 +541,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"; What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gibraltar Acquisition Holdings LLC\" Target \"W. R. Grace & Co.\"",
+    "targeted_corpus": "gibraltar  holdings llc w. r. grace & co.\"",
     "best_file": "maud/W_R_Grace_Co_40_North_Management_LLC.txt",
-    "similarity": 0.4258653521537781,
+    "similarity": 0.47529280185699463,
     "actual_files": [
       "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
     ],
@@ -551,9 +551,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"; What is the Definition of \"Material Adverse Effect\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gibraltar Acquisition Holdings LLC\" Target \"W. R. Grace & Co.\"",
+    "targeted_corpus": "gibraltar  holdings llc w. r. grace & co.\"",
     "best_file": "maud/W_R_Grace_Co_40_North_Management_LLC.txt",
-    "similarity": 0.4258653521537781,
+    "similarity": 0.47529280185699463,
     "actual_files": [
       "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
     ],
@@ -561,9 +561,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"; What is the Definition of \"Knowledge\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gibraltar Acquisition Holdings LLC\" Target \"W. R. Grace & Co.\"",
+    "targeted_corpus": "gibraltar  holdings llc w. r. grace & co",
     "best_file": "maud/W_R_Grace_Co_40_North_Management_LLC.txt",
-    "similarity": 0.4258653521537781,
+    "similarity": 0.4710887670516968,
     "actual_files": [
       "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
     ],
@@ -571,9 +571,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"; Where is the No-Shop Clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gibraltar Acquisition Holdings LLC\" Target \"W. R. Grace & Co.\"",
+    "targeted_corpus": "gibraltar  holdings llc w. r. grace & co",
     "best_file": "maud/W_R_Grace_Co_40_North_Management_LLC.txt",
-    "similarity": 0.4258653521537781,
+    "similarity": 0.4710887670516968,
     "actual_files": [
       "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
     ],
@@ -581,9 +581,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"; What about the Fiduciary exception to the No-Shop Clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gibraltar Acquisition Holdings LLC\" Target \"W. R. Grace & Co.\"",
+    "targeted_corpus": "gibraltar  holdings llc w. r. grace & co.\"",
     "best_file": "maud/W_R_Grace_Co_40_North_Management_LLC.txt",
-    "similarity": 0.4258653521537781,
+    "similarity": 0.47529280185699463,
     "actual_files": [
       "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
     ],
@@ -591,9 +591,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"; What is the Definition of \"Superior Proposal\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gibraltar Acquisition Holdings LLC\" Target \"W. R. Grace & Co.\"",
+    "targeted_corpus": "gibraltar  holdings llc w. r. grace & co",
     "best_file": "maud/W_R_Grace_Co_40_North_Management_LLC.txt",
-    "similarity": 0.4258653521537781,
+    "similarity": 0.4710887670516968,
     "actual_files": [
       "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
     ],
@@ -601,9 +601,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"; What is the Definition of \"Interveining Event\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gibraltar Acquisition Holdings LLC\" Target \"W. R. Grace & Co.\"",
+    "targeted_corpus": "gibraltar  holdings llc w. r. grace & co.\"",
     "best_file": "maud/W_R_Grace_Co_40_North_Management_LLC.txt",
-    "similarity": 0.4258653521537781,
+    "similarity": 0.47529280185699463,
     "actual_files": [
       "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
     ],
@@ -611,9 +611,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"; Information about the Fiduciary Termination Right Triggers for termination",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gibraltar Acquisition Holdings LLC\" Target \"W. R. Grace & Co.\"",
+    "targeted_corpus": "gibraltar  holdings llc w. r. grace & co",
     "best_file": "maud/W_R_Grace_Co_40_North_Management_LLC.txt",
-    "similarity": 0.4258653521537781,
+    "similarity": 0.4710887670516968,
     "actual_files": [
       "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
     ],
@@ -621,9 +621,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"; Is there a Tail provision for acquisition proposals",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gibraltar Acquisition Holdings LLC\" Target \"W. R. Grace & Co.\"",
+    "targeted_corpus": "gibraltar  holdings llc w. r. grace & co",
     "best_file": "maud/W_R_Grace_Co_40_North_Management_LLC.txt",
-    "similarity": 0.4258653521537781,
+    "similarity": 0.4710887670516968,
     "actual_files": [
       "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
     ],
@@ -631,9 +631,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"; What are the Ordinary course of business covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gibraltar Acquisition Holdings LLC\" Target \"W. R. Grace & Co.\"",
+    "targeted_corpus": "gibraltar  holdings llc w. r. grace & co",
     "best_file": "maud/W_R_Grace_Co_40_North_Management_LLC.txt",
-    "similarity": 0.4258653521537781,
+    "similarity": 0.4710887670516968,
     "actual_files": [
       "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
     ],
@@ -641,9 +641,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"; Where is the Closing Conditions: Regulatory Approvals clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gibraltar Acquisition Holdings LLC\" Target \"W. R. Grace & Co.\"",
+    "targeted_corpus": "gibraltar  holdings llc w. r. grace & co",
     "best_file": "maud/W_R_Grace_Co_40_North_Management_LLC.txt",
-    "similarity": 0.4258653521537781,
+    "similarity": 0.4710887670516968,
     "actual_files": [
       "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
     ],
@@ -651,9 +651,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Gibraltar Acquisition Holdings LLC\" and Target \"W. R. Grace & Co.\"; Where is the Specific Performance clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Gibraltar Acquisition Holdings LLC\" Target \"W. R. Grace & Co.\"",
+    "targeted_corpus": "gibraltar  holdings llc w. r. grace & co.\"",
     "best_file": "maud/W_R_Grace_Co_40_North_Management_LLC.txt",
-    "similarity": 0.4258653521537781,
+    "similarity": 0.47529280185699463,
     "actual_files": [
       "maud/W_R_Grace_Co_40_North_Management_LLC.txt"
     ],
@@ -661,9 +661,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"IRC Superman Midco, LLC\" and Target \"American Renal Associates Holdings, Inc.\"; What is the Type of Consideration",
-    "targeted_corpus": "Acquisition Agreement Parent \"IRC Superman Midco, LLC\" Target \"American Renal Associates Holdings, Inc.\"",
+    "targeted_corpus": "irc superman midco, llc american renal associates holdings, inc",
     "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
-    "similarity": 0.6834228038787842,
+    "similarity": 0.718956470489502,
     "actual_files": [
       "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
     ],
@@ -671,9 +671,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"IRC Superman Midco, LLC\" and Target \"American Renal Associates Holdings, Inc.\"; Information about the Closing Condition: Accuracy of Target's Representations and Warranties",
-    "targeted_corpus": "Acquisition Agreement Parent \"IRC Superman Midco, LLC\" Target \"American Renal Associates Holdings, Inc.\"",
+    "targeted_corpus": "irc superman midco, llc american renal associates holdings, inc target",
     "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
-    "similarity": 0.6834228038787842,
+    "similarity": 0.7100569009780884,
     "actual_files": [
       "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
     ],
@@ -681,9 +681,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"IRC Superman Midco, LLC\" and Target \"American Renal Associates Holdings, Inc.\"; Information about the Closing Condition: Compliance with Covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"IRC Superman Midco, LLC\" Target \"American Renal Associates Holdings, Inc.\"",
+    "targeted_corpus": "irc superman midco, llc american renal associates holdings, inc",
     "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
-    "similarity": 0.6834228038787842,
+    "similarity": 0.718956470489502,
     "actual_files": [
       "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
     ],
@@ -691,9 +691,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"IRC Superman Midco, LLC\" and Target \"American Renal Associates Holdings, Inc.\"; What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
-    "targeted_corpus": "Acquisition Agreement Parent \"IRC Superman Midco, LLC\" Target \"American Renal Associates Holdings, Inc.\"",
+    "targeted_corpus": "irc superman midco, llc american renal associates holdings, inc",
     "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
-    "similarity": 0.6834228038787842,
+    "similarity": 0.718956470489502,
     "actual_files": [
       "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
     ],
@@ -701,9 +701,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"IRC Superman Midco, LLC\" and Target \"American Renal Associates Holdings, Inc.\"; What is the Definition of \"Material Adverse Effect\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"IRC Superman Midco, LLC\" Target \"American Renal Associates Holdings, Inc.\"",
+    "targeted_corpus": "irc superman midco, llc american renal associates holdings, inc",
     "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
-    "similarity": 0.6834228038787842,
+    "similarity": 0.718956470489502,
     "actual_files": [
       "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
     ],
@@ -711,9 +711,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"IRC Superman Midco, LLC\" and Target \"American Renal Associates Holdings, Inc.\"; What is the Definition of \"Knowledge\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"IRC Superman Midco, LLC\" Target \"American Renal Associates Holdings, Inc.\"",
+    "targeted_corpus": "irc superman midco, llc american renal associates holdings, inc",
     "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
-    "similarity": 0.6834228038787842,
+    "similarity": 0.718956470489502,
     "actual_files": [
       "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
     ],
@@ -721,9 +721,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"IRC Superman Midco, LLC\" and Target \"American Renal Associates Holdings, Inc.\"; Where is the No-Shop Clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"IRC Superman Midco, LLC\" Target \"American Renal Associates Holdings, Inc.\"",
+    "targeted_corpus": "irc superman midco, llc american renal associates holdings, inc",
     "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
-    "similarity": 0.6834228038787842,
+    "similarity": 0.718956470489502,
     "actual_files": [
       "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
     ],
@@ -731,9 +731,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"IRC Superman Midco, LLC\" and Target \"American Renal Associates Holdings, Inc.\"; What is the Definition of \"Superior Proposal\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"IRC Superman Midco, LLC\" Target \"American Renal Associates Holdings, Inc.\"",
+    "targeted_corpus": "irc superman midco, llc american renal associates holdings, inc",
     "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
-    "similarity": 0.6834228038787842,
+    "similarity": 0.718956470489502,
     "actual_files": [
       "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
     ],
@@ -741,9 +741,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"IRC Superman Midco, LLC\" and Target \"American Renal Associates Holdings, Inc.\"; What is the Definition of \"Interveining Event\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"IRC Superman Midco, LLC\" Target \"American Renal Associates Holdings, Inc.\"",
+    "targeted_corpus": "irc superman midco, llc american renal associates holdings, inc",
     "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
-    "similarity": 0.6834228038787842,
+    "similarity": 0.718956470489502,
     "actual_files": [
       "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
     ],
@@ -751,9 +751,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"IRC Superman Midco, LLC\" and Target \"American Renal Associates Holdings, Inc.\"; Information about the Fiduciary Termination Right Triggers for termination",
-    "targeted_corpus": "Acquisition Agreement Parent \"IRC Superman Midco, LLC\" Target \"American Renal Associates Holdings, Inc.\"",
+    "targeted_corpus": "irc superman midco, llc american renal associates holdings, inc",
     "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
-    "similarity": 0.6834228038787842,
+    "similarity": 0.718956470489502,
     "actual_files": [
       "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
     ],
@@ -761,9 +761,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"IRC Superman Midco, LLC\" and Target \"American Renal Associates Holdings, Inc.\"; Is there a Tail provision for acquisition proposals",
-    "targeted_corpus": "Acquisition Agreement Parent \"IRC Superman Midco, LLC\" Target \"American Renal Associates Holdings, Inc.\"",
+    "targeted_corpus": "irc superman midco, llc american renal associates holdings, inc",
     "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
-    "similarity": 0.6834228038787842,
+    "similarity": 0.718956470489502,
     "actual_files": [
       "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
     ],
@@ -771,9 +771,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"IRC Superman Midco, LLC\" and Target \"American Renal Associates Holdings, Inc.\"; What are the Ordinary course of business covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"IRC Superman Midco, LLC\" Target \"American Renal Associates Holdings, Inc.\"",
+    "targeted_corpus": "irc superman midco, llc american renal associates holdings, inc",
     "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
-    "similarity": 0.6834228038787842,
+    "similarity": 0.718956470489502,
     "actual_files": [
       "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
     ],
@@ -781,9 +781,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"IRC Superman Midco, LLC\" and Target \"American Renal Associates Holdings, Inc.\"; Where is the Specific Performance clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"IRC Superman Midco, LLC\" Target \"American Renal Associates Holdings, Inc.\"",
+    "targeted_corpus": "irc superman midco, llc american renal associates holdings, inc",
     "best_file": "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt",
-    "similarity": 0.6834228038787842,
+    "similarity": 0.718956470489502,
     "actual_files": [
       "maud/American_Renal_Associates_Holdings_IRC_Superman_Midco.txt"
     ],
@@ -791,9 +791,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Razorback Technology Intermediate Holdings, Inc.\" and Target \"Endurance International Group Holdings, Inc.\"; What is the Type of Consideration",
-    "targeted_corpus": "Acquisition Agreement Parent \"Razorback Technology Intermediate Holdings, Inc.\" Target \"Endurance International Group Holdings, Inc.\"",
+    "targeted_corpus": "razorback technology intermediate holdings, inc endurance international group holdings, inc",
     "best_file": "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt",
-    "similarity": 0.44900524616241455,
+    "similarity": 0.5007981061935425,
     "actual_files": [
       "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
     ],
@@ -801,9 +801,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Razorback Technology Intermediate Holdings, Inc.\" and Target \"Endurance International Group Holdings, Inc.\"; Information about the Closing Condition: Compliance with Covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"Razorback Technology Intermediate Holdings, Inc.\" Target \"Endurance International Group Holdings, Inc.\"",
+    "targeted_corpus": "razorback technology intermediate holdings, inc endurance international group holdings, inc",
     "best_file": "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt",
-    "similarity": 0.44900524616241455,
+    "similarity": 0.5007981061935425,
     "actual_files": [
       "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
     ],
@@ -811,9 +811,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Razorback Technology Intermediate Holdings, Inc.\" and Target \"Endurance International Group Holdings, Inc.\"; What is the Definition of \"Knowledge\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Razorback Technology Intermediate Holdings, Inc.\" Target \"Endurance International Group Holdings, Inc.\"",
+    "targeted_corpus": "razorback technology intermediate holdings, inc endurance international group holdings, inc",
     "best_file": "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt",
-    "similarity": 0.44900524616241455,
+    "similarity": 0.5007981061935425,
     "actual_files": [
       "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
     ],
@@ -821,9 +821,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Razorback Technology Intermediate Holdings, Inc.\" and Target \"Endurance International Group Holdings, Inc.\"; What about the Fiduciary exception to the No-Shop Clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Razorback Technology Intermediate Holdings, Inc.\" Target \"Endurance International Group Holdings, Inc.\"",
+    "targeted_corpus": "razorback technology intermediate holdings, inc endurance international group holdings, inc",
     "best_file": "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt",
-    "similarity": 0.44900524616241455,
+    "similarity": 0.5007981061935425,
     "actual_files": [
       "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
     ],
@@ -831,9 +831,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Razorback Technology Intermediate Holdings, Inc.\" and Target \"Endurance International Group Holdings, Inc.\"; What is the Definition of \"Superior Proposal\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Razorback Technology Intermediate Holdings, Inc.\" Target \"Endurance International Group Holdings, Inc.\"",
+    "targeted_corpus": "razorback technology intermediate holdings, inc endurance international group holdings, inc",
     "best_file": "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt",
-    "similarity": 0.44900524616241455,
+    "similarity": 0.5007981061935425,
     "actual_files": [
       "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
     ],
@@ -841,9 +841,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Razorback Technology Intermediate Holdings, Inc.\" and Target \"Endurance International Group Holdings, Inc.\"; What is the Definition of \"Interveining Event\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Razorback Technology Intermediate Holdings, Inc.\" Target \"Endurance International Group Holdings, Inc.\"",
+    "targeted_corpus": "razorback technology intermediate holdings, inc endurance international group holdings, inc",
     "best_file": "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt",
-    "similarity": 0.44900524616241455,
+    "similarity": 0.5007981061935425,
     "actual_files": [
       "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
     ],
@@ -851,9 +851,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Razorback Technology Intermediate Holdings, Inc.\" and Target \"Endurance International Group Holdings, Inc.\"; Information about the Fiduciary Termination Right Triggers for termination",
-    "targeted_corpus": "Acquisition Agreement Parent \"Razorback Technology Intermediate Holdings, Inc.\" Target \"Endurance International Group Holdings, Inc.\"",
+    "targeted_corpus": "razorback technology intermediate holdings, inc endurance international group holdings, inc",
     "best_file": "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt",
-    "similarity": 0.44900524616241455,
+    "similarity": 0.5007981061935425,
     "actual_files": [
       "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
     ],
@@ -861,9 +861,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Razorback Technology Intermediate Holdings, Inc.\" and Target \"Endurance International Group Holdings, Inc.\"; Is there a Tail provision for acquisition proposals",
-    "targeted_corpus": "Acquisition Agreement Parent \"Razorback Technology Intermediate Holdings, Inc.\" Target \"Endurance International Group Holdings, Inc.\"",
+    "targeted_corpus": "razorback technology intermediate holdings, inc endurance international group holdings, inc",
     "best_file": "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt",
-    "similarity": 0.44900524616241455,
+    "similarity": 0.5007981061935425,
     "actual_files": [
       "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
     ],
@@ -871,9 +871,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Razorback Technology Intermediate Holdings, Inc.\" and Target \"Endurance International Group Holdings, Inc.\"; What are the Ordinary course of business covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"Razorback Technology Intermediate Holdings, Inc.\" Target \"Endurance International Group Holdings, Inc.\"",
+    "targeted_corpus": "razorback technology intermediate holdings, inc endurance international group holdings, inc",
     "best_file": "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt",
-    "similarity": 0.44900524616241455,
+    "similarity": 0.5007981061935425,
     "actual_files": [
       "maud/Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..txt"
     ],
@@ -881,9 +881,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"AstraZeneca PLC\" and Target \"Alexion Pharmaceuticals, Inc.\"; What is the Type of Consideration",
-    "targeted_corpus": "Acquisition Agreement Parent \"AstraZeneca PLC\" Target \"Alexion Pharmaceuticals, Inc.\"",
+    "targeted_corpus": "astrazeneca plc alexion pharmaceuticals, inc",
     "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.7245328426361084,
+    "similarity": 0.858806312084198,
     "actual_files": [
       "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
     ],
@@ -891,9 +891,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"AstraZeneca PLC\" and Target \"Alexion Pharmaceuticals, Inc.\"; Information about the Closing Condition: Compliance with Covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"AstraZeneca PLC\" Target \"Alexion Pharmaceuticals, Inc.\"",
+    "targeted_corpus": "astrazeneca plc alexion pharmaceuticals, inc",
     "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.7245328426361084,
+    "similarity": 0.858806312084198,
     "actual_files": [
       "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
     ],
@@ -901,9 +901,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"AstraZeneca PLC\" and Target \"Alexion Pharmaceuticals, Inc.\"; What is the Definition of \"Material Adverse Effect\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"AstraZeneca PLC\" Target \"Alexion Pharmaceuticals, Inc.\"",
+    "targeted_corpus": "astrazeneca plc alexion pharmaceuticals, inc",
     "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.7245328426361084,
+    "similarity": 0.858806312084198,
     "actual_files": [
       "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
     ],
@@ -911,9 +911,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"AstraZeneca PLC\" and Target \"Alexion Pharmaceuticals, Inc.\"; What is the Definition of \"Knowledge\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"AstraZeneca PLC\" Target \"Alexion Pharmaceuticals, Inc.\"",
+    "targeted_corpus": "astrazeneca plc alexion pharmaceuticals, inc",
     "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.7245328426361084,
+    "similarity": 0.858806312084198,
     "actual_files": [
       "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
     ],
@@ -921,9 +921,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"AstraZeneca PLC\" and Target \"Alexion Pharmaceuticals, Inc.\"; Where is the No-Shop Clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"AstraZeneca PLC\" Target \"Alexion Pharmaceuticals, Inc.\"",
+    "targeted_corpus": "astrazeneca plc alexion pharmaceuticals, inc",
     "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.7245328426361084,
+    "similarity": 0.858806312084198,
     "actual_files": [
       "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
     ],
@@ -931,9 +931,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"AstraZeneca PLC\" and Target \"Alexion Pharmaceuticals, Inc.\"; What about the Fiduciary exception to the No-Shop Clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"AstraZeneca PLC\" Target \"Alexion Pharmaceuticals, Inc.\"",
+    "targeted_corpus": "astrazeneca plc alexion pharmaceuticals, inc",
     "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.7245328426361084,
+    "similarity": 0.858806312084198,
     "actual_files": [
       "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
     ],
@@ -941,9 +941,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"AstraZeneca PLC\" and Target \"Alexion Pharmaceuticals, Inc.\"; What is the Definition of \"Superior Proposal\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"AstraZeneca PLC\" Target \"Alexion Pharmaceuticals, Inc.\"",
+    "targeted_corpus": "astrazeneca plc alexion pharmaceuticals, inc",
     "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.7245328426361084,
+    "similarity": 0.858806312084198,
     "actual_files": [
       "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
     ],
@@ -951,9 +951,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"AstraZeneca PLC\" and Target \"Alexion Pharmaceuticals, Inc.\"; What is the Definition of \"Interveining Event\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"AstraZeneca PLC\" Target \"Alexion Pharmaceuticals, Inc.\"",
+    "targeted_corpus": "astrazeneca plc alexion pharmaceuticals, inc",
     "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.7245328426361084,
+    "similarity": 0.858806312084198,
     "actual_files": [
       "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
     ],
@@ -961,9 +961,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"AstraZeneca PLC\" and Target \"Alexion Pharmaceuticals, Inc.\"; Information about the Fiduciary Termination Right Triggers for termination",
-    "targeted_corpus": "Acquisition Agreement Parent \"AstraZeneca PLC\" Target \"Alexion Pharmaceuticals, Inc.\"",
+    "targeted_corpus": "astrazeneca plc alexion pharmaceuticals, inc",
     "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.7245328426361084,
+    "similarity": 0.858806312084198,
     "actual_files": [
       "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
     ],
@@ -971,9 +971,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"AstraZeneca PLC\" and Target \"Alexion Pharmaceuticals, Inc.\"; Is there a Tail provision for acquisition proposals",
-    "targeted_corpus": "Acquisition Agreement Parent \"AstraZeneca PLC\" Target \"Alexion Pharmaceuticals, Inc.\"",
+    "targeted_corpus": "astrazeneca plc alexion pharmaceuticals, inc",
     "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.7245328426361084,
+    "similarity": 0.858806312084198,
     "actual_files": [
       "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
     ],
@@ -981,9 +981,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"AstraZeneca PLC\" and Target \"Alexion Pharmaceuticals, Inc.\"; What happens during a Breach of No-Shop clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"AstraZeneca PLC\" Target \"Alexion Pharmaceuticals, Inc.\"",
+    "targeted_corpus": "astrazeneca plc alexion pharmaceuticals, inc",
     "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.7245328426361084,
+    "similarity": 0.858806312084198,
     "actual_files": [
       "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
     ],
@@ -991,9 +991,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"AstraZeneca PLC\" and Target \"Alexion Pharmaceuticals, Inc.\"; What happens during a Breach of Shareholder Meeting Covenant",
-    "targeted_corpus": "Acquisition Agreement Parent \"AstraZeneca PLC\" Target \"Alexion Pharmaceuticals, Inc.\"",
+    "targeted_corpus": "astrazeneca plc alexion pharmaceuticals, inc",
     "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.7245328426361084,
+    "similarity": 0.858806312084198,
     "actual_files": [
       "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
     ],
@@ -1001,9 +1001,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"AstraZeneca PLC\" and Target \"Alexion Pharmaceuticals, Inc.\"; What are the Ordinary course of business covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"AstraZeneca PLC\" Target \"Alexion Pharmaceuticals, Inc.\"",
+    "targeted_corpus": "astrazeneca plc alexion pharmaceuticals, inc",
     "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.7245328426361084,
+    "similarity": 0.858806312084198,
     "actual_files": [
       "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
     ],
@@ -1011,9 +1011,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"AstraZeneca PLC\" and Target \"Alexion Pharmaceuticals, Inc.\"; Where is the Specific Performance clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"AstraZeneca PLC\" Target \"Alexion Pharmaceuticals, Inc.\"",
+    "targeted_corpus": "astrazeneca plc alexion pharmaceuticals, inc",
     "best_file": "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt",
-    "similarity": 0.7245328426361084,
+    "similarity": 0.858806312084198,
     "actual_files": [
       "maud/Alexion Pharmaceuticals, Inc._AstraZeneca PLC.txt"
     ],
@@ -1021,9 +1021,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"; What is the Type of Consideration",
-    "targeted_corpus": "Acquisition Agreement Parent \"The Progressive Corporation\" Target \"Protective Insurance Corporation\"",
+    "targeted_corpus": "the progressive corporation protective insurance corporation",
     "best_file": "maud/Protective Insurance Corporation_The Progressive Corporation.txt",
-    "similarity": 0.5722446441650391,
+    "similarity": 0.7341432571411133,
     "actual_files": [
       "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
     ],
@@ -1031,9 +1031,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"; Information about the Closing Condition: Compliance with Covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"The Progressive Corporation\" Target \"Protective Insurance Corporation\"",
+    "targeted_corpus": "the progressive corporation protective insurance corporation",
     "best_file": "maud/Protective Insurance Corporation_The Progressive Corporation.txt",
-    "similarity": 0.5722446441650391,
+    "similarity": 0.7341432571411133,
     "actual_files": [
       "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
     ],
@@ -1041,9 +1041,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"; What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
-    "targeted_corpus": "Acquisition Agreement Parent \"The Progressive Corporation\" Target \"Protective Insurance Corporation\"",
+    "targeted_corpus": "the progressive corporation protective insurance corporation",
     "best_file": "maud/Protective Insurance Corporation_The Progressive Corporation.txt",
-    "similarity": 0.5722446441650391,
+    "similarity": 0.7341432571411133,
     "actual_files": [
       "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
     ],
@@ -1051,9 +1051,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"; What is the Definition of \"Material Adverse Effect\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"The Progressive Corporation\" Target \"Protective Insurance Corporation\"",
+    "targeted_corpus": "the progressive corporation protective insurance corporation",
     "best_file": "maud/Protective Insurance Corporation_The Progressive Corporation.txt",
-    "similarity": 0.5722446441650391,
+    "similarity": 0.7341432571411133,
     "actual_files": [
       "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
     ],
@@ -1061,9 +1061,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"; What is the Definition of \"Knowledge\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"The Progressive Corporation\" Target \"Protective Insurance Corporation\"",
+    "targeted_corpus": "the progressive corporation protective insurance corporation",
     "best_file": "maud/Protective Insurance Corporation_The Progressive Corporation.txt",
-    "similarity": 0.5722446441650391,
+    "similarity": 0.7341432571411133,
     "actual_files": [
       "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
     ],
@@ -1071,9 +1071,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"; Where is the No-Shop Clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"The Progressive Corporation\" Target \"Protective Insurance Corporation\"",
+    "targeted_corpus": "the progressive corporation protective insurance corporation",
     "best_file": "maud/Protective Insurance Corporation_The Progressive Corporation.txt",
-    "similarity": 0.5722446441650391,
+    "similarity": 0.7341432571411133,
     "actual_files": [
       "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
     ],
@@ -1081,9 +1081,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"; What about the Fiduciary exception to the No-Shop Clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"The Progressive Corporation\" Target \"Protective Insurance Corporation\"",
+    "targeted_corpus": "the progressive corporation protective insurance corporation",
     "best_file": "maud/Protective Insurance Corporation_The Progressive Corporation.txt",
-    "similarity": 0.5722446441650391,
+    "similarity": 0.7341432571411133,
     "actual_files": [
       "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
     ],
@@ -1091,9 +1091,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"; What is the Definition of \"Superior Proposal\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"The Progressive Corporation\" Target \"Protective Insurance Corporation\"",
+    "targeted_corpus": "the progressive corporation protective insurance corporation",
     "best_file": "maud/Protective Insurance Corporation_The Progressive Corporation.txt",
-    "similarity": 0.5722446441650391,
+    "similarity": 0.7341432571411133,
     "actual_files": [
       "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
     ],
@@ -1101,9 +1101,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"; What is the Definition of \"Interveining Event\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"The Progressive Corporation\" Target \"Protective Insurance Corporation\"",
+    "targeted_corpus": "the progressive corporation protective insurance corporation",
     "best_file": "maud/Protective Insurance Corporation_The Progressive Corporation.txt",
-    "similarity": 0.5722446441650391,
+    "similarity": 0.7341432571411133,
     "actual_files": [
       "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
     ],
@@ -1111,9 +1111,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"; Information about the Fiduciary Termination Right Triggers for termination",
-    "targeted_corpus": "Acquisition Agreement Parent \"The Progressive Corporation\" Target \"Protective Insurance Corporation\"",
+    "targeted_corpus": "the progressive corporation protective insurance corporation",
     "best_file": "maud/Protective Insurance Corporation_The Progressive Corporation.txt",
-    "similarity": 0.5722446441650391,
+    "similarity": 0.7341432571411133,
     "actual_files": [
       "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
     ],
@@ -1121,9 +1121,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"; Is there a Tail provision for acquisition proposals",
-    "targeted_corpus": "Acquisition Agreement Parent \"The Progressive Corporation\" Target \"Protective Insurance Corporation\"",
+    "targeted_corpus": "the progressive corporation protective insurance corporation",
     "best_file": "maud/Protective Insurance Corporation_The Progressive Corporation.txt",
-    "similarity": 0.5722446441650391,
+    "similarity": 0.7341432571411133,
     "actual_files": [
       "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
     ],
@@ -1131,9 +1131,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"; What happens during a Breach of No-Shop clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"The Progressive Corporation\" Target \"Protective Insurance Corporation\"",
+    "targeted_corpus": "the progressive corporation protective insurance corporation",
     "best_file": "maud/Protective Insurance Corporation_The Progressive Corporation.txt",
-    "similarity": 0.5722446441650391,
+    "similarity": 0.7341432571411133,
     "actual_files": [
       "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
     ],
@@ -1141,9 +1141,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"; What are the Ordinary course of business covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"The Progressive Corporation\" Target \"Protective Insurance Corporation\"",
+    "targeted_corpus": "the progressive corporation protective insurance corporation",
     "best_file": "maud/Protective Insurance Corporation_The Progressive Corporation.txt",
-    "similarity": 0.5722446441650391,
+    "similarity": 0.7341432571411133,
     "actual_files": [
       "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
     ],
@@ -1151,9 +1151,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"; Where is the Closing Conditions: Regulatory Approvals clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"The Progressive Corporation\" Target \"Protective Insurance Corporation\"",
+    "targeted_corpus": "the progressive corporation protective insurance corporation",
     "best_file": "maud/Protective Insurance Corporation_The Progressive Corporation.txt",
-    "similarity": 0.5722446441650391,
+    "similarity": 0.7341432571411133,
     "actual_files": [
       "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
     ],
@@ -1161,9 +1161,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"; I want information about the Limitations on Antitrust Efforts",
-    "targeted_corpus": "Acquisition Agreement Parent \"The Progressive Corporation\" Target \"Protective Insurance Corporation\"",
+    "targeted_corpus": "the progressive corporation protective insurance corporation",
     "best_file": "maud/Protective Insurance Corporation_The Progressive Corporation.txt",
-    "similarity": 0.5722446441650391,
+    "similarity": 0.7341432571411133,
     "actual_files": [
       "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
     ],
@@ -1171,9 +1171,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"The Progressive Corporation\" and Target \"Protective Insurance Corporation\"; Where is the Specific Performance clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"The Progressive Corporation\" Target \"Protective Insurance Corporation\"",
+    "targeted_corpus": "the progressive corporation protective insurance corporation",
     "best_file": "maud/Protective Insurance Corporation_The Progressive Corporation.txt",
-    "similarity": 0.5722446441650391,
+    "similarity": 0.7341432571411133,
     "actual_files": [
       "maud/Protective Insurance Corporation_The Progressive Corporation.txt"
     ],
@@ -1181,9 +1181,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Columbia Banking System, Inc.\" and Target \"Bank of Commerce Holdings\"; What is the Type of Consideration",
-    "targeted_corpus": "Acquisition Agreement Parent \"Columbia Banking System, Inc.\" Target \"Bank Commerce Holdings\"",
+    "targeted_corpus": "columbia banking system, inc bank of commerce holdings",
     "best_file": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
-    "similarity": 0.6294247508049011,
+    "similarity": 0.7710879445075989,
     "actual_files": [
       "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
     ],
@@ -1191,9 +1191,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Columbia Banking System, Inc.\" and Target \"Bank of Commerce Holdings\"; Information about the Closing Condition: Compliance with Covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"Columbia Banking System, Inc.\" Target \"Bank Commerce Holdings\"",
+    "targeted_corpus": "columbia banking system, inc bank of commerce holdings",
     "best_file": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
-    "similarity": 0.6294247508049011,
+    "similarity": 0.7710879445075989,
     "actual_files": [
       "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
     ],
@@ -1201,9 +1201,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Columbia Banking System, Inc.\" and Target \"Bank of Commerce Holdings\"; What is the Definition of \"Material Adverse Effect\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Columbia Banking System, Inc.\" Target \"Bank Commerce Holdings\"",
+    "targeted_corpus": "columbia banking system, inc bank of commerce holdings",
     "best_file": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
-    "similarity": 0.6294247508049011,
+    "similarity": 0.7710879445075989,
     "actual_files": [
       "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
     ],
@@ -1211,9 +1211,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Columbia Banking System, Inc.\" and Target \"Bank of Commerce Holdings\"; What is the Definition of \"Knowledge\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Columbia Banking System, Inc.\" Target \"Bank Commerce Holdings\"",
+    "targeted_corpus": "columbia banking system, inc bank of commerce holdings",
     "best_file": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
-    "similarity": 0.6294247508049011,
+    "similarity": 0.7710879445075989,
     "actual_files": [
       "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
     ],
@@ -1221,9 +1221,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Columbia Banking System, Inc.\" and Target \"Bank of Commerce Holdings\"; Where is the No-Shop Clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Columbia Banking System, Inc.\" Target \"Bank Commerce Holdings\"",
+    "targeted_corpus": "columbia banking system, inc bank of commerce holdings",
     "best_file": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
-    "similarity": 0.6294247508049011,
+    "similarity": 0.7710879445075989,
     "actual_files": [
       "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
     ],
@@ -1231,9 +1231,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Columbia Banking System, Inc.\" and Target \"Bank of Commerce Holdings\"; What about the Fiduciary exception to the No-Shop Clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Columbia Banking System, Inc.\" Target \"Bank Commerce Holdings\"",
+    "targeted_corpus": "columbia banking system, inc bank of commerce holdings",
     "best_file": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
-    "similarity": 0.6294247508049011,
+    "similarity": 0.7710879445075989,
     "actual_files": [
       "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
     ],
@@ -1241,9 +1241,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Columbia Banking System, Inc.\" and Target \"Bank of Commerce Holdings\"; What is the Definition of \"Superior Proposal\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Columbia Banking System, Inc.\" Target \"Bank Commerce Holdings\"",
+    "targeted_corpus": "columbia banking system, inc bank of commerce holdings",
     "best_file": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
-    "similarity": 0.6294247508049011,
+    "similarity": 0.7710879445075989,
     "actual_files": [
       "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
     ],
@@ -1251,9 +1251,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Columbia Banking System, Inc.\" and Target \"Bank of Commerce Holdings\"; Information about the Fiduciary Termination Right Triggers for termination",
-    "targeted_corpus": "Acquisition Agreement Parent \"Columbia Banking System, Inc.\" Target \"Bank Commerce Holdings\"",
+    "targeted_corpus": "columbia banking system, inc bank of commerce holdings",
     "best_file": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
-    "similarity": 0.6294247508049011,
+    "similarity": 0.7710879445075989,
     "actual_files": [
       "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
     ],
@@ -1261,9 +1261,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Columbia Banking System, Inc.\" and Target \"Bank of Commerce Holdings\"; Is there a Tail provision for acquisition proposals",
-    "targeted_corpus": "Acquisition Agreement Parent \"Columbia Banking System, Inc.\" Target \"Bank Commerce Holdings\"",
+    "targeted_corpus": "columbia banking system, inc bank of commerce holdings",
     "best_file": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
-    "similarity": 0.6294247508049011,
+    "similarity": 0.7710879445075989,
     "actual_files": [
       "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
     ],
@@ -1271,9 +1271,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Columbia Banking System, Inc.\" and Target \"Bank of Commerce Holdings\"; What happens during a Breach of No-Shop clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Columbia Banking System, Inc.\" Target \"Bank Commerce Holdings\"",
+    "targeted_corpus": "columbia banking system, inc bank of commerce holdings",
     "best_file": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
-    "similarity": 0.6294247508049011,
+    "similarity": 0.7710879445075989,
     "actual_files": [
       "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
     ],
@@ -1281,9 +1281,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Columbia Banking System, Inc.\" and Target \"Bank of Commerce Holdings\"; What are the Ordinary course of business covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"Columbia Banking System, Inc.\" Target \"Bank Commerce Holdings\"",
+    "targeted_corpus": "columbia banking system, inc bank of commerce holdings",
     "best_file": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
-    "similarity": 0.6294247508049011,
+    "similarity": 0.7710879445075989,
     "actual_files": [
       "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
     ],
@@ -1291,9 +1291,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Columbia Banking System, Inc.\" and Target \"Bank of Commerce Holdings\"; Where is the Closing Conditions: Regulatory Approvals clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Columbia Banking System, Inc.\" Target \"Bank Commerce Holdings\"",
+    "targeted_corpus": "columbia banking system, inc bank of commerce holdings",
     "best_file": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
-    "similarity": 0.6294247508049011,
+    "similarity": 0.7710879445075989,
     "actual_files": [
       "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
     ],
@@ -1301,9 +1301,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Columbia Banking System, Inc.\" and Target \"Bank of Commerce Holdings\"; I want information about the Limitations on Antitrust Efforts",
-    "targeted_corpus": "Acquisition Agreement Parent \"Columbia Banking System, Inc.\" Target \"Bank Commerce Holdings\"",
+    "targeted_corpus": "columbia banking system, inc bank of commerce holdings",
     "best_file": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
-    "similarity": 0.6294247508049011,
+    "similarity": 0.7710879445075989,
     "actual_files": [
       "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
     ],
@@ -1311,9 +1311,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Columbia Banking System, Inc.\" and Target \"Bank of Commerce Holdings\"; Where is the Specific Performance clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Columbia Banking System, Inc.\" Target \"Bank Commerce Holdings\"",
+    "targeted_corpus": "columbia banking system, inc bank of commerce holdings",
     "best_file": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
-    "similarity": 0.6294247508049011,
+    "similarity": 0.7710879445075989,
     "actual_files": [
       "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt"
     ],
@@ -1321,9 +1321,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Glacier Bancorp, Inc.\" and \"Altabancorp\"; What is the Type of Consideration",
-    "targeted_corpus": "Merger Agreement \"Glacier Bancorp, Inc.\" \"Altabancorp\"",
+    "targeted_corpus": "glacier bancorp, inc altabancorp",
     "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
-    "similarity": 0.709212601184845,
+    "similarity": 0.8482073545455933,
     "actual_files": [
       "maud/Altabancorp_Glacier Bancorp, Inc..txt"
     ],
@@ -1331,9 +1331,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Glacier Bancorp, Inc.\" and \"Altabancorp\"; Information about the Closing Condition: Compliance with Covenants",
-    "targeted_corpus": "Merger Agreement \"Glacier Bancorp, Inc.\" \"Altabancorp\"",
+    "targeted_corpus": "glacier bancorp, inc altabancorp",
     "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
-    "similarity": 0.709212601184845,
+    "similarity": 0.8482073545455933,
     "actual_files": [
       "maud/Altabancorp_Glacier Bancorp, Inc..txt"
     ],
@@ -1341,9 +1341,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Glacier Bancorp, Inc.\" and \"Altabancorp\"; Information about the Closing Condition: No Litigation clause",
-    "targeted_corpus": "Merger Agreement \"Glacier Bancorp, Inc.\" \"Altabancorp\"",
+    "targeted_corpus": "glacier bancorp, inc altabancorp",
     "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
-    "similarity": 0.709212601184845,
+    "similarity": 0.8482073545455933,
     "actual_files": [
       "maud/Altabancorp_Glacier Bancorp, Inc..txt"
     ],
@@ -1351,9 +1351,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Glacier Bancorp, Inc.\" and \"Altabancorp\"; What is the Definition of \"Material Adverse Effect\"",
-    "targeted_corpus": "Merger Agreement \"Glacier Bancorp, Inc.\" \"Altabancorp\"",
+    "targeted_corpus": "glacier bancorp, inc altabancorp",
     "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
-    "similarity": 0.709212601184845,
+    "similarity": 0.8482073545455933,
     "actual_files": [
       "maud/Altabancorp_Glacier Bancorp, Inc..txt"
     ],
@@ -1361,9 +1361,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Glacier Bancorp, Inc.\" and \"Altabancorp\"; What is the Definition of \"Knowledge\"",
-    "targeted_corpus": "Merger Agreement \"Glacier Bancorp, Inc.\" \"Altabancorp\"",
+    "targeted_corpus": "glacier bancorp, inc altabancorp",
     "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
-    "similarity": 0.709212601184845,
+    "similarity": 0.8482073545455933,
     "actual_files": [
       "maud/Altabancorp_Glacier Bancorp, Inc..txt"
     ],
@@ -1371,9 +1371,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Glacier Bancorp, Inc.\" and \"Altabancorp\"; Where is the No-Shop Clause",
-    "targeted_corpus": "Merger Agreement \"Glacier Bancorp, Inc.\" \"Altabancorp\"",
+    "targeted_corpus": "glacier bancorp, inc altabancorp",
     "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
-    "similarity": 0.709212601184845,
+    "similarity": 0.8482073545455933,
     "actual_files": [
       "maud/Altabancorp_Glacier Bancorp, Inc..txt"
     ],
@@ -1381,9 +1381,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Glacier Bancorp, Inc.\" and \"Altabancorp\"; What about the Fiduciary exception to the No-Shop Clause",
-    "targeted_corpus": "Merger Agreement \"Glacier Bancorp, Inc.\" \"Altabancorp\"",
+    "targeted_corpus": "glacier bancorp, inc altabancorp",
     "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
-    "similarity": 0.709212601184845,
+    "similarity": 0.8482073545455933,
     "actual_files": [
       "maud/Altabancorp_Glacier Bancorp, Inc..txt"
     ],
@@ -1391,9 +1391,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Glacier Bancorp, Inc.\" and \"Altabancorp\"; What is the Definition of \"Superior Proposal\"",
-    "targeted_corpus": "Merger Agreement \"Glacier Bancorp, Inc.\" \"Altabancorp\"",
+    "targeted_corpus": "glacier bancorp, inc altabancorp",
     "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
-    "similarity": 0.709212601184845,
+    "similarity": 0.8482073545455933,
     "actual_files": [
       "maud/Altabancorp_Glacier Bancorp, Inc..txt"
     ],
@@ -1401,9 +1401,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Glacier Bancorp, Inc.\" and \"Altabancorp\"; Information about the Fiduciary Termination Right Triggers for termination",
-    "targeted_corpus": "Merger Agreement \"Glacier Bancorp, Inc.\" \"Altabancorp\"",
+    "targeted_corpus": "glacier bancorp, inc altabancorp",
     "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
-    "similarity": 0.709212601184845,
+    "similarity": 0.8482073545455933,
     "actual_files": [
       "maud/Altabancorp_Glacier Bancorp, Inc..txt"
     ],
@@ -1411,9 +1411,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Glacier Bancorp, Inc.\" and \"Altabancorp\"; Is there a Tail provision for acquisition proposals",
-    "targeted_corpus": "Merger Agreement \"Glacier Bancorp, Inc.\" \"Altabancorp\"",
+    "targeted_corpus": "glacier bancorp, inc altabancorp",
     "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
-    "similarity": 0.709212601184845,
+    "similarity": 0.8482073545455933,
     "actual_files": [
       "maud/Altabancorp_Glacier Bancorp, Inc..txt"
     ],
@@ -1421,9 +1421,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Glacier Bancorp, Inc.\" and \"Altabancorp\"; What are the Ordinary course of business covenants",
-    "targeted_corpus": "Merger Agreement \"Glacier Bancorp, Inc.\" \"Altabancorp\"",
+    "targeted_corpus": "glacier bancorp, inc altabancorp",
     "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
-    "similarity": 0.709212601184845,
+    "similarity": 0.8482073545455933,
     "actual_files": [
       "maud/Altabancorp_Glacier Bancorp, Inc..txt"
     ],
@@ -1431,9 +1431,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Glacier Bancorp, Inc.\" and \"Altabancorp\"; Where is the Closing Conditions: Regulatory Approvals clause",
-    "targeted_corpus": "Merger Agreement \"Glacier Bancorp, Inc.\" \"Altabancorp\"",
+    "targeted_corpus": "glacier bancorp, inc altabancorp",
     "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
-    "similarity": 0.709212601184845,
+    "similarity": 0.8482073545455933,
     "actual_files": [
       "maud/Altabancorp_Glacier Bancorp, Inc..txt"
     ],
@@ -1441,9 +1441,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Glacier Bancorp, Inc.\" and \"Altabancorp\"; I want information about the Limitations on Antitrust Efforts",
-    "targeted_corpus": "Merger Agreement \"Glacier Bancorp, Inc.\" \"Altabancorp\"",
+    "targeted_corpus": "glacier bancorp, inc altabancorp",
     "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
-    "similarity": 0.709212601184845,
+    "similarity": 0.8482073545455933,
     "actual_files": [
       "maud/Altabancorp_Glacier Bancorp, Inc..txt"
     ],
@@ -1451,9 +1451,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Glacier Bancorp, Inc.\" and \"Altabancorp\"; Where is the Specific Performance clause",
-    "targeted_corpus": "Merger Agreement \"Glacier Bancorp, Inc.\" \"Altabancorp\"",
+    "targeted_corpus": "glacier bancorp, inc altabancorp",
     "best_file": "maud/Altabancorp_Glacier Bancorp, Inc..txt",
-    "similarity": 0.709212601184845,
+    "similarity": 0.8482073545455933,
     "actual_files": [
       "maud/Altabancorp_Glacier Bancorp, Inc..txt"
     ],
@@ -1461,9 +1461,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Electronic Arts Inc.\" and Target \"Glu Mobile Inc.\"; What is the Type of Consideration",
-    "targeted_corpus": "Acquisition Agreement Parent \"Electronic Arts Inc.\" Target \"Glu Mobile Inc.\"",
+    "targeted_corpus": "electronic arts inc glu mobile inc",
     "best_file": "maud/Glu Mobile Inc._Electronic Arts Inc..txt",
-    "similarity": 0.6328462362289429,
+    "similarity": 0.7989131212234497,
     "actual_files": [
       "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
     ],
@@ -1471,9 +1471,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Electronic Arts Inc.\" and Target \"Glu Mobile Inc.\"; Information about the Closing Condition: Compliance with Covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"Electronic Arts Inc.\" Target \"Glu Mobile Inc.\"",
+    "targeted_corpus": "electronic arts inc glu mobile inc",
     "best_file": "maud/Glu Mobile Inc._Electronic Arts Inc..txt",
-    "similarity": 0.6328462362289429,
+    "similarity": 0.7989131212234497,
     "actual_files": [
       "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
     ],
@@ -1481,9 +1481,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Electronic Arts Inc.\" and Target \"Glu Mobile Inc.\"; What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
-    "targeted_corpus": "Acquisition Agreement Parent \"Electronic Arts Inc.\" Target \"Glu Mobile Inc.\"",
+    "targeted_corpus": "electronic arts inc glu mobile inc",
     "best_file": "maud/Glu Mobile Inc._Electronic Arts Inc..txt",
-    "similarity": 0.6328462362289429,
+    "similarity": 0.7989131212234497,
     "actual_files": [
       "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
     ],
@@ -1491,9 +1491,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Electronic Arts Inc.\" and Target \"Glu Mobile Inc.\"; What is the Definition of \"Material Adverse Effect\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Electronic Arts Inc.\" Target \"Glu Mobile Inc.\"",
+    "targeted_corpus": "electronic arts inc glu mobile inc",
     "best_file": "maud/Glu Mobile Inc._Electronic Arts Inc..txt",
-    "similarity": 0.6328462362289429,
+    "similarity": 0.7989131212234497,
     "actual_files": [
       "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
     ],
@@ -1501,9 +1501,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Electronic Arts Inc.\" and Target \"Glu Mobile Inc.\"; What is the Definition of \"Knowledge\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Electronic Arts Inc.\" Target \"Glu Mobile Inc.\"",
+    "targeted_corpus": "electronic arts inc glu mobile inc",
     "best_file": "maud/Glu Mobile Inc._Electronic Arts Inc..txt",
-    "similarity": 0.6328462362289429,
+    "similarity": 0.7989131212234497,
     "actual_files": [
       "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
     ],
@@ -1511,9 +1511,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Electronic Arts Inc.\" and Target \"Glu Mobile Inc.\"; What about the Fiduciary exception to the No-Shop Clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Electronic Arts Inc.\" Target \"Glu Mobile Inc.\"",
+    "targeted_corpus": "electronic arts inc glu mobile inc",
     "best_file": "maud/Glu Mobile Inc._Electronic Arts Inc..txt",
-    "similarity": 0.6328462362289429,
+    "similarity": 0.7989131212234497,
     "actual_files": [
       "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
     ],
@@ -1521,9 +1521,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Electronic Arts Inc.\" and Target \"Glu Mobile Inc.\"; What is the Definition of \"Superior Proposal\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Electronic Arts Inc.\" Target \"Glu Mobile Inc.\"",
+    "targeted_corpus": "electronic arts inc glu mobile inc",
     "best_file": "maud/Glu Mobile Inc._Electronic Arts Inc..txt",
-    "similarity": 0.6328462362289429,
+    "similarity": 0.7989131212234497,
     "actual_files": [
       "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
     ],
@@ -1531,9 +1531,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Electronic Arts Inc.\" and Target \"Glu Mobile Inc.\"; What is the Definition of \"Interveining Event\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"Electronic Arts Inc.\" Target \"Glu Mobile Inc.\"",
+    "targeted_corpus": "electronic arts inc glu mobile inc",
     "best_file": "maud/Glu Mobile Inc._Electronic Arts Inc..txt",
-    "similarity": 0.6328462362289429,
+    "similarity": 0.7989131212234497,
     "actual_files": [
       "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
     ],
@@ -1541,9 +1541,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Electronic Arts Inc.\" and Target \"Glu Mobile Inc.\"; Information about the Fiduciary Termination Right Triggers for termination",
-    "targeted_corpus": "Acquisition Agreement Parent \"Electronic Arts Inc.\" Target \"Glu Mobile Inc.\"",
+    "targeted_corpus": "electronic arts inc glu mobile inc",
     "best_file": "maud/Glu Mobile Inc._Electronic Arts Inc..txt",
-    "similarity": 0.6328462362289429,
+    "similarity": 0.7989131212234497,
     "actual_files": [
       "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
     ],
@@ -1551,9 +1551,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Electronic Arts Inc.\" and Target \"Glu Mobile Inc.\"; Is there a Tail provision for acquisition proposals",
-    "targeted_corpus": "Acquisition Agreement Parent \"Electronic Arts Inc.\" Target \"Glu Mobile Inc.\"",
+    "targeted_corpus": "electronic arts inc glu mobile inc",
     "best_file": "maud/Glu Mobile Inc._Electronic Arts Inc..txt",
-    "similarity": 0.6328462362289429,
+    "similarity": 0.7989131212234497,
     "actual_files": [
       "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
     ],
@@ -1561,9 +1561,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Electronic Arts Inc.\" and Target \"Glu Mobile Inc.\"; What happens during a Breach of No-Shop clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Electronic Arts Inc.\" Target \"Glu Mobile Inc.\"",
+    "targeted_corpus": "electronic arts inc glu mobile inc",
     "best_file": "maud/Glu Mobile Inc._Electronic Arts Inc..txt",
-    "similarity": 0.6328462362289429,
+    "similarity": 0.7989131212234497,
     "actual_files": [
       "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
     ],
@@ -1571,9 +1571,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Electronic Arts Inc.\" and Target \"Glu Mobile Inc.\"; What are the Ordinary course of business covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"Electronic Arts Inc.\" Target \"Glu Mobile Inc.\"",
+    "targeted_corpus": "electronic arts inc glu mobile inc",
     "best_file": "maud/Glu Mobile Inc._Electronic Arts Inc..txt",
-    "similarity": 0.6328462362289429,
+    "similarity": 0.7989131212234497,
     "actual_files": [
       "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
     ],
@@ -1581,9 +1581,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Electronic Arts Inc.\" and Target \"Glu Mobile Inc.\"; Where is the Closing Conditions: Regulatory Approvals clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Electronic Arts Inc.\" Target \"Glu Mobile Inc.\"",
+    "targeted_corpus": "electronic arts inc glu mobile inc",
     "best_file": "maud/Glu Mobile Inc._Electronic Arts Inc..txt",
-    "similarity": 0.6328462362289429,
+    "similarity": 0.7989131212234497,
     "actual_files": [
       "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
     ],
@@ -1591,9 +1591,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Electronic Arts Inc.\" and Target \"Glu Mobile Inc.\"; I want information about the Limitations on Antitrust Efforts",
-    "targeted_corpus": "Acquisition Agreement Parent \"Electronic Arts Inc.\" Target \"Glu Mobile Inc.\"",
+    "targeted_corpus": "electronic arts inc glu mobile inc",
     "best_file": "maud/Glu Mobile Inc._Electronic Arts Inc..txt",
-    "similarity": 0.6328462362289429,
+    "similarity": 0.7989131212234497,
     "actual_files": [
       "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
     ],
@@ -1601,9 +1601,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"Electronic Arts Inc.\" and Target \"Glu Mobile Inc.\"; Where is the Specific Performance clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"Electronic Arts Inc.\" Target \"Glu Mobile Inc.\"",
+    "targeted_corpus": "electronic arts inc glu mobile inc",
     "best_file": "maud/Glu Mobile Inc._Electronic Arts Inc..txt",
-    "similarity": 0.6328462362289429,
+    "similarity": 0.7989131212234497,
     "actual_files": [
       "maud/Glu Mobile Inc._Electronic Arts Inc..txt"
     ],
@@ -1611,9 +1611,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\"; What is the Type of Consideration",
-    "targeted_corpus": "Merger Agreement \"Amryt Pharma plc\" \"Chiasma, Inc.\"",
+    "targeted_corpus": "amryt pharma plc chiasma, inc",
     "best_file": "maud/Chiasma, Inc._Amryt Pharma plc.txt",
-    "similarity": 0.6896171569824219,
+    "similarity": 0.8352108001708984,
     "actual_files": [
       "maud/Chiasma, Inc._Amryt Pharma plc.txt"
     ],
@@ -1621,9 +1621,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\"; What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
-    "targeted_corpus": "Merger Agreement \"Amryt Pharma plc\" \"Chiasma, Inc.\"",
+    "targeted_corpus": "amryt pharma plc chiasma, inc",
     "best_file": "maud/Chiasma, Inc._Amryt Pharma plc.txt",
-    "similarity": 0.6896171569824219,
+    "similarity": 0.8352108001708984,
     "actual_files": [
       "maud/Chiasma, Inc._Amryt Pharma plc.txt"
     ],
@@ -1631,9 +1631,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\"; What is the Definition of \"Material Adverse Effect\"",
-    "targeted_corpus": "Merger Agreement \"Amryt Pharma plc\" \"Chiasma, Inc.\"",
+    "targeted_corpus": "amryt pharma plc chiasma, inc",
     "best_file": "maud/Chiasma, Inc._Amryt Pharma plc.txt",
-    "similarity": 0.6896171569824219,
+    "similarity": 0.8352108001708984,
     "actual_files": [
       "maud/Chiasma, Inc._Amryt Pharma plc.txt"
     ],
@@ -1641,9 +1641,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\"; What is the Definition of \"Knowledge\"",
-    "targeted_corpus": "Merger Agreement \"Amryt Pharma plc\" \"Chiasma, Inc.\"",
+    "targeted_corpus": "amryt pharma plc chiasma, inc",
     "best_file": "maud/Chiasma, Inc._Amryt Pharma plc.txt",
-    "similarity": 0.6896171569824219,
+    "similarity": 0.8352108001708984,
     "actual_files": [
       "maud/Chiasma, Inc._Amryt Pharma plc.txt"
     ],
@@ -1651,9 +1651,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\"; What about the Fiduciary exception to the No-Shop Clause",
-    "targeted_corpus": "Merger Agreement \"Amryt Pharma plc\" \"Chiasma, Inc.\"",
+    "targeted_corpus": "amryt pharma plc chiasma, inc",
     "best_file": "maud/Chiasma, Inc._Amryt Pharma plc.txt",
-    "similarity": 0.6896171569824219,
+    "similarity": 0.8352108001708984,
     "actual_files": [
       "maud/Chiasma, Inc._Amryt Pharma plc.txt"
     ],
@@ -1661,9 +1661,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\"; What is the Definition of \"Superior Proposal\"",
-    "targeted_corpus": "Merger Agreement \"Amryt Pharma plc\" \"Chiasma, Inc.\"",
+    "targeted_corpus": "amryt pharma plc chiasma, inc",
     "best_file": "maud/Chiasma, Inc._Amryt Pharma plc.txt",
-    "similarity": 0.6896171569824219,
+    "similarity": 0.8352108001708984,
     "actual_files": [
       "maud/Chiasma, Inc._Amryt Pharma plc.txt"
     ],
@@ -1671,9 +1671,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\"; What is the Definition of \"Interveining Event\"",
-    "targeted_corpus": "Merger Agreement \"Amryt Pharma plc\" \"Chiasma, Inc.\"",
+    "targeted_corpus": "amryt pharma plc chiasma, inc",
     "best_file": "maud/Chiasma, Inc._Amryt Pharma plc.txt",
-    "similarity": 0.6896171569824219,
+    "similarity": 0.8352108001708984,
     "actual_files": [
       "maud/Chiasma, Inc._Amryt Pharma plc.txt"
     ],
@@ -1681,9 +1681,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\"; Information about the Fiduciary Termination Right Triggers for termination",
-    "targeted_corpus": "Merger Agreement \"Amryt Pharma plc\" \"Chiasma, Inc.\"",
+    "targeted_corpus": "amryt pharma plc chiasma, inc",
     "best_file": "maud/Chiasma, Inc._Amryt Pharma plc.txt",
-    "similarity": 0.6896171569824219,
+    "similarity": 0.8352108001708984,
     "actual_files": [
       "maud/Chiasma, Inc._Amryt Pharma plc.txt"
     ],
@@ -1691,9 +1691,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\"; What are the Ordinary course of business covenants",
-    "targeted_corpus": "Merger Agreement \"Amryt Pharma plc\" \"Chiasma, Inc.\"",
+    "targeted_corpus": "amryt pharma plc chiasma, inc",
     "best_file": "maud/Chiasma, Inc._Amryt Pharma plc.txt",
-    "similarity": 0.6896171569824219,
+    "similarity": 0.8352108001708984,
     "actual_files": [
       "maud/Chiasma, Inc._Amryt Pharma plc.txt"
     ],
@@ -1701,9 +1701,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\"; Where is the Closing Conditions: Regulatory Approvals clause",
-    "targeted_corpus": "Merger Agreement \"Amryt Pharma plc\" \"Chiasma, Inc.\"",
+    "targeted_corpus": "amryt pharma plc chiasma, inc",
     "best_file": "maud/Chiasma, Inc._Amryt Pharma plc.txt",
-    "similarity": 0.6896171569824219,
+    "similarity": 0.8352108001708984,
     "actual_files": [
       "maud/Chiasma, Inc._Amryt Pharma plc.txt"
     ],
@@ -1711,9 +1711,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\"; I want information about the Limitations on Antitrust Efforts",
-    "targeted_corpus": "Merger Agreement \"Amryt Pharma plc\" \"Chiasma, Inc.\"",
+    "targeted_corpus": "amryt pharma plc chiasma, inc",
     "best_file": "maud/Chiasma, Inc._Amryt Pharma plc.txt",
-    "similarity": 0.6896171569824219,
+    "similarity": 0.8352108001708984,
     "actual_files": [
       "maud/Chiasma, Inc._Amryt Pharma plc.txt"
     ],
@@ -1721,9 +1721,9 @@
   },
   {
     "query": "Consider the Merger Agreement between \"Amryt Pharma plc\" and \"Chiasma, Inc.\"; Where is the Specific Performance clause",
-    "targeted_corpus": "Merger Agreement \"Amryt Pharma plc\" \"Chiasma, Inc.\"",
+    "targeted_corpus": "amryt pharma plc chiasma, inc",
     "best_file": "maud/Chiasma, Inc._Amryt Pharma plc.txt",
-    "similarity": 0.6896171569824219,
+    "similarity": 0.8352108001708984,
     "actual_files": [
       "maud/Chiasma, Inc._Amryt Pharma plc.txt"
     ],
@@ -1731,9 +1731,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"V99, Inc.\" and Target \"Telenav, Inc.\"; What is the Type of Consideration",
-    "targeted_corpus": "Acquisition Agreement Parent \"V99, Inc.\" Target \"Telenav, Inc.\"",
+    "targeted_corpus": "v99, inc telenav, inc",
     "best_file": "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt",
-    "similarity": 0.49892187118530273,
+    "similarity": 0.48577213287353516,
     "actual_files": [
       "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
     ],
@@ -1741,9 +1741,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"V99, Inc.\" and Target \"Telenav, Inc.\"; Information about the Closing Condition: Compliance with Covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"V99, Inc.\" Target \"Telenav, Inc.\"",
+    "targeted_corpus": "v99, inc telenav, inc",
     "best_file": "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt",
-    "similarity": 0.49892187118530273,
+    "similarity": 0.48577213287353516,
     "actual_files": [
       "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
     ],
@@ -1751,9 +1751,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"V99, Inc.\" and Target \"Telenav, Inc.\"; What is the Definition of \"Knowledge\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"V99, Inc.\" Target \"Telenav, Inc.\"",
+    "targeted_corpus": "v99, inc telenav, inc",
     "best_file": "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt",
-    "similarity": 0.49892187118530273,
+    "similarity": 0.48577213287353516,
     "actual_files": [
       "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
     ],
@@ -1761,9 +1761,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"V99, Inc.\" and Target \"Telenav, Inc.\"; What is the Definition of \"Superior Proposal\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"V99, Inc.\" Target \"Telenav, Inc.\"",
+    "targeted_corpus": "v99, inc telenav, inc",
     "best_file": "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt",
-    "similarity": 0.49892187118530273,
+    "similarity": 0.48577213287353516,
     "actual_files": [
       "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
     ],
@@ -1771,9 +1771,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"V99, Inc.\" and Target \"Telenav, Inc.\"; What is the Definition of \"Interveining Event\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"V99, Inc.\" Target \"Telenav, Inc.\"",
+    "targeted_corpus": "v99, inc telenav, inc",
     "best_file": "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt",
-    "similarity": 0.49892187118530273,
+    "similarity": 0.48577213287353516,
     "actual_files": [
       "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
     ],
@@ -1781,9 +1781,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"V99, Inc.\" and Target \"Telenav, Inc.\"; Information about the Fiduciary Termination Right Triggers for termination",
-    "targeted_corpus": "Acquisition Agreement Parent \"V99, Inc.\" Target \"Telenav, Inc.\"",
+    "targeted_corpus": "v99, inc telenav, inc",
     "best_file": "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt",
-    "similarity": 0.49892187118530273,
+    "similarity": 0.48577213287353516,
     "actual_files": [
       "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
     ],
@@ -1791,9 +1791,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"V99, Inc.\" and Target \"Telenav, Inc.\"; Is there a Tail provision for acquisition proposals",
-    "targeted_corpus": "Acquisition Agreement Parent \"V99, Inc.\" Target \"Telenav, Inc.\"",
+    "targeted_corpus": "v99, inc telenav, inc",
     "best_file": "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt",
-    "similarity": 0.49892187118530273,
+    "similarity": 0.48577213287353516,
     "actual_files": [
       "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
     ],
@@ -1801,9 +1801,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"V99, Inc.\" and Target \"Telenav, Inc.\"; What are the Ordinary course of business covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"V99, Inc.\" Target \"Telenav, Inc.\"",
+    "targeted_corpus": "v99, inc telenav, inc",
     "best_file": "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt",
-    "similarity": 0.49892187118530273,
+    "similarity": 0.48577213287353516,
     "actual_files": [
       "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
     ],
@@ -1811,9 +1811,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"V99, Inc.\" and Target \"Telenav, Inc.\"; Where is the Closing Conditions: Regulatory Approvals clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"V99, Inc.\" Target \"Telenav, Inc.\"",
+    "targeted_corpus": "v99, inc telenav, inc",
     "best_file": "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt",
-    "similarity": 0.49892187118530273,
+    "similarity": 0.48577213287353516,
     "actual_files": [
       "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
     ],
@@ -1821,9 +1821,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"V99, Inc.\" and Target \"Telenav, Inc.\"; I want information about the Limitations on Antitrust Efforts",
-    "targeted_corpus": "Acquisition Agreement Parent \"V99, Inc.\" Target \"Telenav, Inc.\"",
+    "targeted_corpus": "v99, inc telenav, inc",
     "best_file": "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt",
-    "similarity": 0.49892187118530273,
+    "similarity": 0.48577213287353516,
     "actual_files": [
       "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
     ],
@@ -1831,9 +1831,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"V99, Inc.\" and Target \"Telenav, Inc.\"; Where is the Specific Performance clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"V99, Inc.\" Target \"Telenav, Inc.\"",
+    "targeted_corpus": "v99, inc telenav, inc",
     "best_file": "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt",
-    "similarity": 0.49892187118530273,
+    "similarity": 0.48577213287353516,
     "actual_files": [
       "maud/Telenav, Inc._Management Led Buyout.pdf||Telenav, Inc._Management Led Buyout Amendment No. 1.txt"
     ],
@@ -1841,9 +1841,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"ELI LILLY AND COMPANY\" and Target \"PREVAIL THERAPEUTICS INC.\"; What is the Type of Consideration",
-    "targeted_corpus": "Acquisition Agreement Parent \"ELI LILLY COMPANY\" Target \"PREVAIL THERAPEUTICS INC.\"",
+    "targeted_corpus": "eli lilly and company prevail therapeutics inc",
     "best_file": "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt",
-    "similarity": 0.6844868063926697,
+    "similarity": 0.8478890657424927,
     "actual_files": [
       "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
     ],
@@ -1851,9 +1851,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"ELI LILLY AND COMPANY\" and Target \"PREVAIL THERAPEUTICS INC.\"; Information about the Closing Condition: Compliance with Covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"ELI LILLY COMPANY\" Target \"PREVAIL THERAPEUTICS INC.\"",
+    "targeted_corpus": "eli lilly and company prevail therapeutics inc",
     "best_file": "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt",
-    "similarity": 0.6844868063926697,
+    "similarity": 0.8478890657424927,
     "actual_files": [
       "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
     ],
@@ -1861,9 +1861,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"ELI LILLY AND COMPANY\" and Target \"PREVAIL THERAPEUTICS INC.\"; What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
-    "targeted_corpus": "Acquisition Agreement Parent \"ELI LILLY COMPANY\" Target \"PREVAIL THERAPEUTICS INC.\"",
+    "targeted_corpus": "eli lilly and company prevail therapeutics inc",
     "best_file": "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt",
-    "similarity": 0.6844868063926697,
+    "similarity": 0.8478890657424927,
     "actual_files": [
       "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
     ],
@@ -1871,9 +1871,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"ELI LILLY AND COMPANY\" and Target \"PREVAIL THERAPEUTICS INC.\"; Where is the No-Shop Clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"ELI LILLY COMPANY\" Target \"PREVAIL THERAPEUTICS INC.\"",
+    "targeted_corpus": "eli lilly and company target prevail therapeutics inc",
     "best_file": "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt",
-    "similarity": 0.6844868063926697,
+    "similarity": 0.7776408195495605,
     "actual_files": [
       "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
     ],
@@ -1881,9 +1881,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"ELI LILLY AND COMPANY\" and Target \"PREVAIL THERAPEUTICS INC.\"; What about the Fiduciary exception to the No-Shop Clause",
-    "targeted_corpus": "Acquisition Agreement Parent \"ELI LILLY COMPANY\" Target \"PREVAIL THERAPEUTICS INC.\"",
+    "targeted_corpus": "eli lilly and company target prevail therapeutics inc",
     "best_file": "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt",
-    "similarity": 0.6844868063926697,
+    "similarity": 0.7776408195495605,
     "actual_files": [
       "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
     ],
@@ -1891,9 +1891,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"ELI LILLY AND COMPANY\" and Target \"PREVAIL THERAPEUTICS INC.\"; What is the Definition of \"Superior Proposal\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"ELI LILLY COMPANY\" Target \"PREVAIL THERAPEUTICS INC.\"",
+    "targeted_corpus": "eli lilly and company prevail therapeutics inc",
     "best_file": "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt",
-    "similarity": 0.6844868063926697,
+    "similarity": 0.8478890657424927,
     "actual_files": [
       "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
     ],
@@ -1901,9 +1901,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"ELI LILLY AND COMPANY\" and Target \"PREVAIL THERAPEUTICS INC.\"; What is the Definition of \"Interveining Event\"",
-    "targeted_corpus": "Acquisition Agreement Parent \"ELI LILLY COMPANY\" Target \"PREVAIL THERAPEUTICS INC.\"",
+    "targeted_corpus": "eli lilly and company prevail therapeutics inc",
     "best_file": "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt",
-    "similarity": 0.6844868063926697,
+    "similarity": 0.8478890657424927,
     "actual_files": [
       "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
     ],
@@ -1911,9 +1911,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"ELI LILLY AND COMPANY\" and Target \"PREVAIL THERAPEUTICS INC.\"; Information about the Fiduciary Termination Right Triggers for termination",
-    "targeted_corpus": "Acquisition Agreement Parent \"ELI LILLY COMPANY\" Target \"PREVAIL THERAPEUTICS INC.\"",
+    "targeted_corpus": "eli lilly and company prevail therapeutics inc",
     "best_file": "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt",
-    "similarity": 0.6844868063926697,
+    "similarity": 0.8478890657424927,
     "actual_files": [
       "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
     ],
@@ -1921,9 +1921,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"ELI LILLY AND COMPANY\" and Target \"PREVAIL THERAPEUTICS INC.\"; Is there a Tail provision for acquisition proposals",
-    "targeted_corpus": "Acquisition Agreement Parent \"ELI LILLY COMPANY\" Target \"PREVAIL THERAPEUTICS INC.\"",
+    "targeted_corpus": "eli lilly and company prevail therapeutics inc",
     "best_file": "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt",
-    "similarity": 0.6844868063926697,
+    "similarity": 0.8478890657424927,
     "actual_files": [
       "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
     ],
@@ -1931,9 +1931,9 @@
   },
   {
     "query": "Consider the Acquisition Agreement between Parent \"ELI LILLY AND COMPANY\" and Target \"PREVAIL THERAPEUTICS INC.\"; What are the Ordinary course of business covenants",
-    "targeted_corpus": "Acquisition Agreement Parent \"ELI LILLY COMPANY\" Target \"PREVAIL THERAPEUTICS INC.\"",
+    "targeted_corpus": "eli lilly and company prevail therapeutics inc",
     "best_file": "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt",
-    "similarity": 0.6844868063926697,
+    "similarity": 0.8478890657424927,
     "actual_files": [
       "maud/Prevail Therapeutics Inc._Eli Lilly and Company.txt"
     ],

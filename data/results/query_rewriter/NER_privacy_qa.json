@@ -1,9 +1,9 @@
 [
   {
     "query": "Consider \"Fiverr\"'s privacy policy; who can see which tasks i hire workers for?",
-    "targeted_corpus": "\"Fiverr\"'s privacy policy",
+    "targeted_corpus": "fiverr",
     "best_file": "privacy_qa/Fiverr.txt",
-    "similarity": 0.6958917379379272,
+    "similarity": 0.42292261123657227,
     "actual_files": [
       "privacy_qa/Fiverr.txt"
     ],
@@ -11,9 +11,9 @@
   },
   {
     "query": "Consider \"Fiverr\"'s privacy policy; who can see the jobs that i post?",
-    "targeted_corpus": "\"Fiverr\"'s privacy policy",
+    "targeted_corpus": "fiverr",
     "best_file": "privacy_qa/Fiverr.txt",
-    "similarity": 0.6958917379379272,
+    "similarity": 0.42292261123657227,
     "actual_files": [
       "privacy_qa/Fiverr.txt"
     ],
@@ -21,9 +21,9 @@
   },
   {
     "query": "Consider \"Fiverr\"'s privacy policy; what type of identifiable information is passed between users on the platform",
-    "targeted_corpus": "\"Fiverr\"'s privacy policy",
+    "targeted_corpus": "fiverr",
     "best_file": "privacy_qa/Fiverr.txt",
-    "similarity": 0.6958917379379272,
+    "similarity": 0.42292261123657227,
     "actual_files": [
       "privacy_qa/Fiverr.txt"
     ],
@@ -31,9 +31,9 @@
   },
   {
     "query": "Consider \"Fiverr\"'s privacy policy; how is my info protected from hackers?",
-    "targeted_corpus": "\"Fiverr\"'s privacy policy",
+    "targeted_corpus": "fiverr",
     "best_file": "privacy_qa/Fiverr.txt",
-    "similarity": 0.6958917379379272,
+    "similarity": 0.42292261123657227,
     "actual_files": [
       "privacy_qa/Fiverr.txt"
     ],
@@ -41,9 +41,9 @@
   },
   {
     "query": "Consider \"Fiverr\"'s privacy policy; who can see my information?",
-    "targeted_corpus": "\"Fiverr\"'s privacy policy",
+    "targeted_corpus": "fiverr",
     "best_file": "privacy_qa/Fiverr.txt",
-    "similarity": 0.6958917379379272,
+    "similarity": 0.42292261123657227,
     "actual_files": [
       "privacy_qa/Fiverr.txt"
     ],
@@ -51,9 +51,9 @@
   },
   {
     "query": "Consider \"Fiverr\"'s privacy policy; what information does the company store about me?",
-    "targeted_corpus": "\"Fiverr\"'s privacy policy",
+    "targeted_corpus": "fiverr",
     "best_file": "privacy_qa/Fiverr.txt",
-    "similarity": 0.6958917379379272,
+    "similarity": 0.42292261123657227,
     "actual_files": [
       "privacy_qa/Fiverr.txt"
     ],
@@ -61,9 +61,9 @@
   },
   {
     "query": "Consider \"Fiverr\"'s privacy policy; what information can other people see?",
-    "targeted_corpus": "\"Fiverr\"'s privacy policy",
+    "targeted_corpus": "fiverr",
     "best_file": "privacy_qa/Fiverr.txt",
-    "similarity": 0.6958917379379272,
+    "similarity": 0.42292261123657227,
     "actual_files": [
       "privacy_qa/Fiverr.txt"
     ],
@@ -71,9 +71,9 @@
   },
   {
     "query": "Consider \"Fiverr\"'s privacy policy; how does fiverr protect freelancers' personal information?",
-    "targeted_corpus": "\"Fiverr\"'s privacy policy",
+    "targeted_corpus": "fiverr fiverr",
     "best_file": "privacy_qa/Fiverr.txt",
-    "similarity": 0.6958917379379272,
+    "similarity": 0.4466334581375122,
     "actual_files": [
       "privacy_qa/Fiverr.txt"
     ],
@@ -81,9 +81,9 @@
   },
   {
     "query": "Consider \"Fiverr\"'s privacy policy; how does fiverr ensure payments to freelancers are secure?",
-    "targeted_corpus": "\"Fiverr\"'s privacy policy",
+    "targeted_corpus": "fiverr fiverr",
     "best_file": "privacy_qa/Fiverr.txt",
-    "similarity": 0.6958917379379272,
+    "similarity": 0.4466334581375122,
     "actual_files": [
       "privacy_qa/Fiverr.txt"
     ],
@@ -91,9 +91,9 @@
   },
   {
     "query": "Consider \"Fiverr\"'s privacy policy; is my information sold to any third parties?",
-    "targeted_corpus": "\"Fiverr\"'s privacy policy",
+    "targeted_corpus": "fiverr",
     "best_file": "privacy_qa/Fiverr.txt",
-    "similarity": 0.6958917379379272,
+    "similarity": 0.42292261123657227,
     "actual_files": [
       "privacy_qa/Fiverr.txt"
     ],
@@ -101,9 +101,9 @@
   },
   {
     "query": "Consider \"Fiverr\"'s privacy policy; will my location be constantly tracked?",
-    "targeted_corpus": "\"Fiverr\"'s privacy policy",
+    "targeted_corpus": "fiverr",
     "best_file": "privacy_qa/Fiverr.txt",
-    "similarity": 0.6958917379379272,
+    "similarity": 0.42292261123657227,
     "actual_files": [
       "privacy_qa/Fiverr.txt"
     ],
@@ -111,9 +111,9 @@
   },
   {
     "query": "Consider \"Fiverr\"'s privacy policy; will potential employers be able to obtain my address?",
-    "targeted_corpus": "\"Fiverr\"'s privacy policy",
+    "targeted_corpus": "fiverr",
     "best_file": "privacy_qa/Fiverr.txt",
-    "similarity": 0.6958917379379272,
+    "similarity": 0.42292261123657227,
     "actual_files": [
       "privacy_qa/Fiverr.txt"
     ],
@@ -121,9 +121,9 @@
   },
   {
     "query": "Consider \"Fiverr\"'s privacy policy; can i control the information that is presented to potential employers?",
-    "targeted_corpus": "\"Fiverr\"'s privacy policy",
+    "targeted_corpus": "fiverr",
     "best_file": "privacy_qa/Fiverr.txt",
-    "similarity": 0.6958917379379272,
+    "similarity": 0.42292261123657227,
     "actual_files": [
       "privacy_qa/Fiverr.txt"
     ],
@@ -131,9 +131,9 @@
   },
   {
     "query": "Consider \"Fiverr\"'s privacy policy; can other parties see my information",
-    "targeted_corpus": "\"Fiverr\"'s privacy policy",
+    "targeted_corpus": "fiverr",
     "best_file": "privacy_qa/Fiverr.txt",
-    "similarity": 0.6958917379379272,
+    "similarity": 0.42292261123657227,
     "actual_files": [
       "privacy_qa/Fiverr.txt"
     ],
@@ -141,9 +141,9 @@
   },
   {
     "query": "Consider \"Fiverr\"'s privacy policy; can other people see my financial information",
-    "targeted_corpus": "\"Fiverr\"'s privacy policy",
+    "targeted_corpus": "fiverr",
     "best_file": "privacy_qa/Fiverr.txt",
-    "similarity": 0.6958917379379272,
+    "similarity": 0.42292261123657227,
     "actual_files": [
       "privacy_qa/Fiverr.txt"
     ],
@@ -151,9 +151,9 @@
   },
   {
     "query": "Consider \"Fiverr\"'s privacy policy; what information do you collect?",
-    "targeted_corpus": "\"Fiverr\"'s privacy policy",
+    "targeted_corpus": "fiverr",
     "best_file": "privacy_qa/Fiverr.txt",
-    "similarity": 0.6958917379379272,
+    "similarity": 0.42292261123657227,
     "actual_files": [
       "privacy_qa/Fiverr.txt"
     ],
@@ -161,9 +161,9 @@
   },
   {
     "query": "Consider \"Fiverr\"'s privacy policy; do you sell my information to third parties?",
-    "targeted_corpus": "\"Fiverr\"'s privacy policy",
+    "targeted_corpus": "fiverr",
     "best_file": "privacy_qa/Fiverr.txt",
-    "similarity": 0.6958917379379272,
+    "similarity": 0.42292261123657227,
     "actual_files": [
       "privacy_qa/Fiverr.txt"
     ],
@@ -171,9 +171,9 @@
   },
   {
     "query": "Consider \"Fiverr\"'s privacy policy; do you use a secure payment service?",
-    "targeted_corpus": "\"Fiverr\"'s privacy policy",
+    "targeted_corpus": "fiverr",
     "best_file": "privacy_qa/Fiverr.txt",
-    "similarity": 0.6958917379379272,
+    "similarity": 0.42292261123657227,
     "actual_files": [
       "privacy_qa/Fiverr.txt"
     ],
@@ -181,9 +181,9 @@
   },
   {
     "query": "Consider \"Fiverr\"'s privacy policy; how is information used?",
-    "targeted_corpus": "\"Fiverr\"'s privacy policy",
+    "targeted_corpus": "fiverr",
     "best_file": "privacy_qa/Fiverr.txt",
-    "similarity": 0.6958917379379272,
+    "similarity": 0.42292261123657227,
     "actual_files": [
       "privacy_qa/Fiverr.txt"
     ],
@@ -191,9 +191,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; who has access to my workout plans?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -201,9 +201,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; will my fitness coach share my information with others?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -211,9 +211,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; will my progress only be posted to social media if i want it to?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -221,9 +221,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; will any photos i take be accessed by outside parties?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -231,9 +231,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; will my information be shared with other companies for marketing?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -241,19 +241,19 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; will the app use my data for marketing purposes?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
-    "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; does this app get access to my other apps like twitter and instagram?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -261,9 +261,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; how safe is my account information on this app?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -271,9 +271,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; are my statistics kept private?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -281,9 +281,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; who can see my data?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -291,19 +291,19 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; does the app access my contact list?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
-    "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; is my data safe?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -311,9 +311,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; are you storing any of my information?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -321,9 +321,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; do you access any of my contact's information?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -331,9 +331,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; does it save any of my health data?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -341,19 +341,19 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; can the app access my location?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
-    "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; is any information shared with third parties?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -361,9 +361,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; can it access my other social media accounts?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -371,9 +371,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; what information will this app have access to of mine?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -381,9 +381,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; will the personal info i share with this app to sign up be shared with other companies, etc?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -391,9 +391,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; will my workout data be given to anyone else or shared with anyone (i.e. insurance companies)?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -401,9 +401,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; how well does keep protect my data and how do they do that?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.35241934657096863,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -411,9 +411,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; can people see what workout list i'm using?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -421,9 +421,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; can people see my workout log?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -431,9 +431,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; will they share my information with anyone?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -441,9 +441,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; will my location be monitored and shared?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -451,9 +451,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; how is my information protected?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -461,9 +461,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; will any of my information be sold?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -471,9 +471,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; do you know my location",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -481,9 +481,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; do you keep and upload my activity to your database",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -491,19 +491,19 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; do you use my data to modify the app",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
-    "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; do you sell my data",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -511,9 +511,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; do you share my location with other people",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -521,9 +521,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; are my goals shared with third parties?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -531,9 +531,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; do you keep track of my physical measurements like height and weight?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -541,9 +541,9 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; does it have access to my gps information?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
+    "targeted_corpus": "keep",
     "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "similarity": 0.3088216483592987,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
@@ -551,29 +551,29 @@
   },
   {
     "query": "Consider \"Keep\"'s privacy policy; will biological data like heart rate, blood pressure, etc. be collected via the app?",
-    "targeted_corpus": "\"Keep\"'s privacy policy",
-    "best_file": "privacy_qa/Keep.txt",
-    "similarity": 0.6122310161590576,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Keep.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; what security system do you have in place for the app?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
-    "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; what happen if my account get compromise?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -581,9 +581,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; will my information be saved after i use groupon once?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -591,9 +591,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; who will have access to my information?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -601,9 +601,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; do i have to tell you my location?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -611,9 +611,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; will you ever sell my information?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -621,9 +621,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; how long will you have my information for?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -631,9 +631,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; what kind of data does groupon collect?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.5321717262268066,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -641,9 +641,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; what does groupon do with collected data? (eg, does it sell it to third parties?)",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.5321717262268066,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -651,9 +651,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; what kind of permissions do i have to grant it?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -661,9 +661,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; what kind of security protocol does groupon use to protect data and privacy of its users?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.5321717262268066,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -671,9 +671,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; if i decide to discontinue using groupon, how long does it keep my data?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.5321717262268066,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -681,9 +681,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; what kind of personal info does groupon have on me?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.5321717262268066,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -691,9 +691,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; does groupon sell my personal information?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.5321717262268066,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -701,9 +701,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; can groupon see where i am located?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.5321717262268066,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -711,9 +711,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; can other users see any of my personal info if i use groupon?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -721,9 +721,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; do vendors get my information?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -731,9 +731,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; do the app keep track of my location data?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -741,9 +741,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; is my search and purchase history shared with advertisers?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -751,9 +751,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; what type of permissions does the app need to operate?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -761,9 +761,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; does it need location services while not using it?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -771,9 +771,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; do i need to enter any personal information to use it?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -781,9 +781,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; does it keep track of where i am?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -791,9 +791,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; does it share my personal information with others?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -801,9 +801,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; does it share my purchase information with others?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -811,9 +811,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; what permissions does it request on my phone?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -821,9 +821,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; does it need my location at all times, or can i just type in it whenever i'm looking for a coupon?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -831,9 +831,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; does it sell my data to anyone?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -841,9 +841,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; does it save all info on me if i delete my acct?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -851,9 +851,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; how will my data be stored",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -861,9 +861,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; what protections are used",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -871,9 +871,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; is my data safe",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -881,9 +881,9 @@
   },
   {
     "query": "Consider \"Groupon\"'s privacy policy; this app ask any kind personal details like credit card details?",
-    "targeted_corpus": "\"Groupon\"'s privacy policy",
+    "targeted_corpus": "groupon",
     "best_file": "privacy_qa/Groupon.txt",
-    "similarity": 0.654893159866333,
+    "similarity": 0.49369752407073975,
     "actual_files": [
       "privacy_qa/Groupon.txt"
     ],
@@ -891,9 +891,9 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; what information of mine does it access",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -901,9 +901,9 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; what information of mine does it collect",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -911,9 +911,9 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; is my information sold",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -921,9 +921,9 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; is my information secure",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -931,9 +931,9 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; does it collect any of my contact's information",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -941,49 +941,49 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; does this app sell customer information?",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; does this app track my gps location?",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
-    "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "targeted_corpus": "gps",
+    "best_file": "privacy_qa/Viber Messenger.txt",
+    "similarity": 0.12815487384796143,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; will this app sell my information to any 3rd parties?",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; does this app need access to any of my social media accounts?",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; what information are they collecting?",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -991,9 +991,9 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; is it monitoring my location?",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -1001,9 +1001,9 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; does it read my contacts?",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -1011,9 +1011,9 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; is my privacy secured?",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -1021,9 +1021,9 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; does it record my location information?",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -1031,9 +1031,9 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; does the app track my location?",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -1041,9 +1041,9 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; does the app contain third party ads?",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -1051,19 +1051,19 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; does this app use data on my phone not within the app?",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; does the wordscapes app have access to my location?",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -1071,39 +1071,39 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; are there any advertisements within the wordscapes app that could lead me to third party sites?",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; does the wordscapes app collect any personally identifiable information like my name or email?",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; does the app show targeted advertisements?",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; does it have access to my contacts?",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -1111,9 +1111,9 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; does the app sell any personal information?",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -1121,9 +1121,9 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; does it collect my location?",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -1131,9 +1131,9 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; what data does it collect",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -1141,9 +1141,9 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; does it share data with others",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -1151,9 +1151,9 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; does it collect payment information",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -1161,19 +1161,19 @@
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; does it collect location",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Wordscapes\"'s privacy policy; does it sell data",
-    "targeted_corpus": "\"Wordscapes\"'s privacy policy",
+    "targeted_corpus": "wordscapes",
     "best_file": "privacy_qa/Wordscapes.txt",
-    "similarity": 0.7516341209411621,
+    "similarity": 0.49355044960975647,
     "actual_files": [
       "privacy_qa/Wordscapes.txt"
     ],
@@ -1181,339 +1181,339 @@
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; is my reminder data saved anywhere?",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; is my task schedule being tracked?",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; can it view my real name?",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; can i delete my personally identifying information?",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; what information do you take from me.",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; is my data shared with others?",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; would there be a way to see what data you collect?",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; does the app share information with any third parties?",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; will my data be shared with third party entities?",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; are my ideas uploaded to any servers?",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; who will have access to the info i enter into the application?",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; will the application make money off of the info i enter in the app?",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; who has access to whatever i create using this?",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; do third parties have access to my data?",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; who all has access to my data?",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; does this app capture my ip address?",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; what data do they take",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; what information is shared",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; who sees my data",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; is there a way to opt out of data sharing",
-    "targeted_corpus": "\"TickTick: List Reminder, Day Planner\"'s privacy policy",
-    "best_file": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
-    "similarity": 0.8312084674835205,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"23andMe\"'s privacy policy; is my information shared with any third parties?",
-    "targeted_corpus": "\"23andMe\"'s privacy policy",
-    "best_file": "privacy_qa/23andMe.txt",
-    "similarity": 0.6163405179977417,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/23andMe.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"23andMe\"'s privacy policy; does the app save the address that my kit is shipped to?",
-    "targeted_corpus": "\"23andMe\"'s privacy policy",
+    "targeted_corpus": "23andme",
     "best_file": "privacy_qa/23andMe.txt",
-    "similarity": 0.6163405179977417,
+    "similarity": 0.29485154151916504,
     "actual_files": [
       "privacy_qa/23andMe.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"23andMe\"'s privacy policy; do you sell my genetic data?",
-    "targeted_corpus": "\"23andMe\"'s privacy policy",
+    "targeted_corpus": "23andme",
     "best_file": "privacy_qa/23andMe.txt",
-    "similarity": 0.6163405179977417,
+    "similarity": 0.29485154151916504,
     "actual_files": [
       "privacy_qa/23andMe.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"23andMe\"'s privacy policy; is my data anonymized?",
-    "targeted_corpus": "\"23andMe\"'s privacy policy",
+    "targeted_corpus": "23andme",
     "best_file": "privacy_qa/23andMe.txt",
-    "similarity": 0.6163405179977417,
+    "similarity": 0.29485154151916504,
     "actual_files": [
       "privacy_qa/23andMe.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"23andMe\"'s privacy policy; are you accessing and information about me from my phone?",
-    "targeted_corpus": "\"23andMe\"'s privacy policy",
-    "best_file": "privacy_qa/23andMe.txt",
-    "similarity": 0.6163405179977417,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/23andMe.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"23andMe\"'s privacy policy; what will you do with my dna?",
-    "targeted_corpus": "\"23andMe\"'s privacy policy",
+    "targeted_corpus": "23andme",
     "best_file": "privacy_qa/23andMe.txt",
-    "similarity": 0.6163405179977417,
+    "similarity": 0.29485154151916504,
     "actual_files": [
       "privacy_qa/23andMe.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"23andMe\"'s privacy policy; will you destroy my dna sample when you are finished?",
-    "targeted_corpus": "\"23andMe\"'s privacy policy",
+    "targeted_corpus": "23andme",
     "best_file": "privacy_qa/23andMe.txt",
-    "similarity": 0.6163405179977417,
+    "similarity": 0.29485154151916504,
     "actual_files": [
       "privacy_qa/23andMe.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"23andMe\"'s privacy policy; do you use my data to do medical research",
-    "targeted_corpus": "\"23andMe\"'s privacy policy",
+    "targeted_corpus": "23andme",
     "best_file": "privacy_qa/23andMe.txt",
-    "similarity": 0.6163405179977417,
+    "similarity": 0.29485154151916504,
     "actual_files": [
       "privacy_qa/23andMe.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"23andMe\"'s privacy policy; is any information recorded",
-    "targeted_corpus": "\"23andMe\"'s privacy policy",
-    "best_file": "privacy_qa/23andMe.txt",
-    "similarity": 0.6163405179977417,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/23andMe.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"23andMe\"'s privacy policy; where is the information saved",
-    "targeted_corpus": "\"23andMe\"'s privacy policy",
+    "targeted_corpus": "23andme",
     "best_file": "privacy_qa/23andMe.txt",
-    "similarity": 0.6163405179977417,
+    "similarity": 0.29485154151916504,
     "actual_files": [
       "privacy_qa/23andMe.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"23andMe\"'s privacy policy; is the information encrypted",
-    "targeted_corpus": "\"23andMe\"'s privacy policy",
-    "best_file": "privacy_qa/23andMe.txt",
-    "similarity": 0.6163405179977417,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/23andMe.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"23andMe\"'s privacy policy; will my test results be shared with any third party entities?",
-    "targeted_corpus": "\"23andMe\"'s privacy policy",
-    "best_file": "privacy_qa/23andMe.txt",
-    "similarity": 0.6163405179977417,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/23andMe.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"23andMe\"'s privacy policy; can i delete my personally identifying information?",
-    "targeted_corpus": "\"23andMe\"'s privacy policy",
+    "targeted_corpus": "23andme",
     "best_file": "privacy_qa/23andMe.txt",
-    "similarity": 0.6163405179977417,
+    "similarity": 0.29485154151916504,
     "actual_files": [
       "privacy_qa/23andMe.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; does viber log messages?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
+    "targeted_corpus": "viber",
     "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "similarity": 0.5352071523666382,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
@@ -1521,29 +1521,29 @@
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; are my call logs recorded?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; are my video calls recorded?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; do you require me to submit identifying information?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
+    "targeted_corpus": "viber messenger",
     "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "similarity": 0.6716922521591187,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
@@ -1551,59 +1551,59 @@
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; what information is collected about users?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; how is my data used?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; what data do you keep and for how long?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; do you keep a record of our text ?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; do you keep a record of our text messages?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; do you record our phone calls?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
+    "targeted_corpus": "viber messenger",
     "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "similarity": 0.6716922521591187,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
@@ -1611,9 +1611,9 @@
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; if i send a message that is considered dirty, will the controllers of the app see it?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
+    "targeted_corpus": "viber messenger",
     "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "similarity": 0.6716922521591187,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
@@ -1621,9 +1621,9 @@
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; does viber sell my information to advertisers and marketers?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
+    "targeted_corpus": "viber messenger viber",
     "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "similarity": 0.669032633304596,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
@@ -1631,9 +1631,9 @@
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; does viber have any affiliation with the advertisement industry?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
+    "targeted_corpus": "viber messenger viber",
     "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "similarity": 0.669032633304596,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
@@ -1641,19 +1641,19 @@
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; are there other people who can access my information?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; how is any information collected by viber shared with other parties?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
+    "targeted_corpus": "viber",
     "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "similarity": 0.5352071523666382,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
@@ -1661,9 +1661,9 @@
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; is any data collected by the app has any connection with the third party sites?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
+    "targeted_corpus": "viber messenger",
     "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "similarity": 0.6716922521591187,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
@@ -1671,9 +1671,9 @@
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; will my personal details be shared with third party  companies?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
+    "targeted_corpus": "viber messenger",
     "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "similarity": 0.6716922521591187,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
@@ -1681,19 +1681,19 @@
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; can any 3rd party see my conversations?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; do you sell any of our data?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
+    "targeted_corpus": "viber messenger",
     "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "similarity": 0.6716922521591187,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
@@ -1701,19 +1701,19 @@
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; how are my contacts stored?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; can i submit a request to have my data deleted?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
+    "targeted_corpus": "viber messenger",
     "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "similarity": 0.6716922521591187,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
@@ -1721,49 +1721,49 @@
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; when do you delete stored data?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; how long do you retain meta data?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; are my message encrypted on viber?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; is there any sort of encryption for communications?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; is it keep my phone numbers undisclosed?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
+    "targeted_corpus": "viber messenger",
     "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "similarity": 0.6716922521591187,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
@@ -1771,29 +1771,29 @@
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; is the messages sent through it are safe?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; the photos and videos shared will be kept confidential?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; can anyone view my account?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
+    "targeted_corpus": "viber messenger",
     "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "similarity": 0.6716922521591187,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
@@ -1801,19 +1801,19 @@
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; how is my data stored?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; does the app protect my account details from being accessed by other people?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
+    "targeted_corpus": "viber messenger",
     "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "similarity": 0.6716922521591187,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
@@ -1821,9 +1821,9 @@
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; does the app offer a password service where i am required to input a password when i want to access it?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
+    "targeted_corpus": "viber messenger",
     "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "similarity": 0.6716922521591187,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
@@ -1831,9 +1831,9 @@
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; will viber comply to government information request?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
+    "targeted_corpus": "viber",
     "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "similarity": 0.5352071523666382,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
@@ -1841,19 +1841,19 @@
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; can my call log be subpoenaed?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; if it's free, does viber profit off its users in some way?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
+    "targeted_corpus": "viber viber",
     "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "similarity": 0.5593346357345581,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
@@ -1861,39 +1861,39 @@
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; does the app hide the content  of the messages i send from other people on my contact list?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; does this send information to a third party?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; what personal information will be required for me to set up an account?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; will you ever sell my personal information to a third party?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
+    "targeted_corpus": "viber messenger",
     "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "similarity": 0.6716922521591187,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
@@ -1901,9 +1901,9 @@
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; how is my information protected when i'm using your app over wi-fi?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
+    "targeted_corpus": "viber messenger",
     "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "similarity": 0.6716922521591187,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
@@ -1911,12 +1911,12 @@
   },
   {
     "query": "Consider \"Viber Messenger\"'s privacy policy; who will be able to see my information and/or the messages that i send?",
-    "targeted_corpus": "\"Viber Messenger\"'s privacy policy",
-    "best_file": "privacy_qa/Viber Messenger.txt",
-    "similarity": 0.7511272430419922,
+    "targeted_corpus": "",
+    "best_file": "privacy_qa/Wordscapes.txt",
+    "similarity": 0.09173782914876938,
     "actual_files": [
       "privacy_qa/Viber Messenger.txt"
     ],
-    "score": 1
+    "score": 0
   }
 ]

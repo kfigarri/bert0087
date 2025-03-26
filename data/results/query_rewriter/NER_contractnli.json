@@ -1,7 +1,7 @@
 [
   {
     "query": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
-    "targeted_corpus": "CopAcc ToP Mentors",
+    "targeted_corpus": "copacc top mentors",
     "best_file": "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt",
     "similarity": 0.6811549067497253,
     "actual_files": [
@@ -11,7 +11,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document state that Confidential Information shall only include technical information?",
-    "targeted_corpus": "CopAcc ToP Mentors",
+    "targeted_corpus": "copacc top mentors",
     "best_file": "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt",
     "similarity": 0.6811549067497253,
     "actual_files": [
@@ -21,7 +21,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
-    "targeted_corpus": "CopAcc ToP Mentors",
+    "targeted_corpus": "copacc top mentors",
     "best_file": "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt",
     "similarity": 0.6811549067497253,
     "actual_files": [
@@ -31,7 +31,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
-    "targeted_corpus": "CopAcc ToP Mentors",
+    "targeted_corpus": "copacc top mentors",
     "best_file": "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt",
     "similarity": 0.6811549067497253,
     "actual_files": [
@@ -41,7 +41,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
-    "targeted_corpus": "CopAcc ToP Mentors",
+    "targeted_corpus": "copacc top mentors",
     "best_file": "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt",
     "similarity": 0.6811549067497253,
     "actual_files": [
@@ -51,7 +51,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
-    "targeted_corpus": "CopAcc ToP Mentors",
+    "targeted_corpus": "copacc top mentors",
     "best_file": "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt",
     "similarity": 0.6811549067497253,
     "actual_files": [
@@ -61,7 +61,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
-    "targeted_corpus": "CopAcc ToP Mentors",
+    "targeted_corpus": "copacc top mentors",
     "best_file": "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt",
     "similarity": 0.6811549067497253,
     "actual_files": [
@@ -71,7 +71,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
-    "targeted_corpus": "CopAcc ToP Mentors",
+    "targeted_corpus": "copacc top mentors",
     "best_file": "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt",
     "similarity": 0.6811549067497253,
     "actual_files": [
@@ -81,7 +81,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
-    "targeted_corpus": "CopAcc ToP Mentors",
+    "targeted_corpus": "copacc top mentors",
     "best_file": "contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt",
     "similarity": 0.6811549067497253,
     "actual_files": [
@@ -91,9 +91,9 @@
   },
   {
     "query": "Consider DBT's Mutual Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
-    "targeted_corpus": "DBT's Mutual",
+    "targeted_corpus": "dbt",
     "best_file": "contractnli/DBT%20Mutual%20NDA.txt",
-    "similarity": 0.42951324582099915,
+    "similarity": 0.4622126817703247,
     "actual_files": [
       "contractnli/DBT%20Mutual%20NDA.txt"
     ],
@@ -101,9 +101,9 @@
   },
   {
     "query": "Consider DBT's Mutual Non-Disclosure Agreement; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
-    "targeted_corpus": "DBT's Mutual",
+    "targeted_corpus": "dbt",
     "best_file": "contractnli/DBT%20Mutual%20NDA.txt",
-    "similarity": 0.42951324582099915,
+    "similarity": 0.4622126817703247,
     "actual_files": [
       "contractnli/DBT%20Mutual%20NDA.txt"
     ],
@@ -111,9 +111,9 @@
   },
   {
     "query": "Consider DBT's Mutual Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
-    "targeted_corpus": "DBT's Mutual",
+    "targeted_corpus": "dbt",
     "best_file": "contractnli/DBT%20Mutual%20NDA.txt",
-    "similarity": 0.42951324582099915,
+    "similarity": 0.4622126817703247,
     "actual_files": [
       "contractnli/DBT%20Mutual%20NDA.txt"
     ],
@@ -121,9 +121,9 @@
   },
   {
     "query": "Consider DBT's Mutual Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
-    "targeted_corpus": "DBT's Mutual",
+    "targeted_corpus": "dbt",
     "best_file": "contractnli/DBT%20Mutual%20NDA.txt",
-    "similarity": 0.42951324582099915,
+    "similarity": 0.4622126817703247,
     "actual_files": [
       "contractnli/DBT%20Mutual%20NDA.txt"
     ],
@@ -131,9 +131,9 @@
   },
   {
     "query": "Consider DBT's Mutual Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
-    "targeted_corpus": "DBT's Mutual",
+    "targeted_corpus": "dbt",
     "best_file": "contractnli/DBT%20Mutual%20NDA.txt",
-    "similarity": 0.42951324582099915,
+    "similarity": 0.4622126817703247,
     "actual_files": [
       "contractnli/DBT%20Mutual%20NDA.txt"
     ],
@@ -141,9 +141,9 @@
   },
   {
     "query": "Consider DBT's Mutual Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
-    "targeted_corpus": "DBT's Mutual",
+    "targeted_corpus": "dbt",
     "best_file": "contractnli/DBT%20Mutual%20NDA.txt",
-    "similarity": 0.42951324582099915,
+    "similarity": 0.4622126817703247,
     "actual_files": [
       "contractnli/DBT%20Mutual%20NDA.txt"
     ],
@@ -151,9 +151,9 @@
   },
   {
     "query": "Consider DBT's Mutual Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
-    "targeted_corpus": "DBT's Mutual",
+    "targeted_corpus": "dbt",
     "best_file": "contractnli/DBT%20Mutual%20NDA.txt",
-    "similarity": 0.42951324582099915,
+    "similarity": 0.4622126817703247,
     "actual_files": [
       "contractnli/DBT%20Mutual%20NDA.txt"
     ],
@@ -161,9 +161,9 @@
   },
   {
     "query": "Consider DBT's Mutual Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
-    "targeted_corpus": "DBT's Mutual",
+    "targeted_corpus": "dbt",
     "best_file": "contractnli/DBT%20Mutual%20NDA.txt",
-    "similarity": 0.42951324582099915,
+    "similarity": 0.4622126817703247,
     "actual_files": [
       "contractnli/DBT%20Mutual%20NDA.txt"
     ],
@@ -171,9 +171,9 @@
   },
   {
     "query": "Consider DBT's Mutual Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
-    "targeted_corpus": "DBT's Mutual",
+    "targeted_corpus": "dbt",
     "best_file": "contractnli/DBT%20Mutual%20NDA.txt",
-    "similarity": 0.42951324582099915,
+    "similarity": 0.4622126817703247,
     "actual_files": [
       "contractnli/DBT%20Mutual%20NDA.txt"
     ],
@@ -181,9 +181,9 @@
   },
   {
     "query": "Consider DBT's Mutual Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
-    "targeted_corpus": "DBT's Mutual",
+    "targeted_corpus": "dbt",
     "best_file": "contractnli/DBT%20Mutual%20NDA.txt",
-    "similarity": 0.42951324582099915,
+    "similarity": 0.4622126817703247,
     "actual_files": [
       "contractnli/DBT%20Mutual%20NDA.txt"
     ],
@@ -191,9 +191,9 @@
   },
   {
     "query": "Consider the Data Use Agreement in New York City; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
-    "targeted_corpus": "Data Use Agreement New York City",
+    "targeted_corpus": "data use",
     "best_file": "contractnli/Data Use Agreement New York City.txt",
-    "similarity": 0.7592651844024658,
+    "similarity": 0.3714841604232788,
     "actual_files": [
       "contractnli/Data Use Agreement New York City.txt"
     ],
@@ -201,19 +201,19 @@
   },
   {
     "query": "Consider the Data Use Agreement in New York City; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
-    "targeted_corpus": "Data Use Agreement New York City",
-    "best_file": "contractnli/Data Use Agreement New York City.txt",
-    "similarity": 0.7592651844024658,
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
     "actual_files": [
       "contractnli/Data Use Agreement New York City.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider the Data Use Agreement in New York City; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
-    "targeted_corpus": "Data Use Agreement New York City",
+    "targeted_corpus": "data use",
     "best_file": "contractnli/Data Use Agreement New York City.txt",
-    "similarity": 0.7592651844024658,
+    "similarity": 0.3714841604232788,
     "actual_files": [
       "contractnli/Data Use Agreement New York City.txt"
     ],
@@ -221,9 +221,9 @@
   },
   {
     "query": "Consider the Data Use Agreement in New York City; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
-    "targeted_corpus": "Data Use Agreement New York City",
+    "targeted_corpus": "data use",
     "best_file": "contractnli/Data Use Agreement New York City.txt",
-    "similarity": 0.7592651844024658,
+    "similarity": 0.3714841604232788,
     "actual_files": [
       "contractnli/Data Use Agreement New York City.txt"
     ],
@@ -231,9 +231,9 @@
   },
   {
     "query": "Consider the Data Use Agreement in New York City; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
-    "targeted_corpus": "Data Use Agreement New York City",
+    "targeted_corpus": "data use",
     "best_file": "contractnli/Data Use Agreement New York City.txt",
-    "similarity": 0.7592651844024658,
+    "similarity": 0.3714841604232788,
     "actual_files": [
       "contractnli/Data Use Agreement New York City.txt"
     ],
@@ -241,9 +241,9 @@
   },
   {
     "query": "Consider the Data Use Agreement in New York City; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
-    "targeted_corpus": "Data Use Agreement New York City",
+    "targeted_corpus": "data use",
     "best_file": "contractnli/Data Use Agreement New York City.txt",
-    "similarity": 0.7592651844024658,
+    "similarity": 0.3714841604232788,
     "actual_files": [
       "contractnli/Data Use Agreement New York City.txt"
     ],
@@ -251,9 +251,9 @@
   },
   {
     "query": "Consider the Data Use Agreement in New York City; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
-    "targeted_corpus": "Data Use Agreement New York City",
+    "targeted_corpus": "data use",
     "best_file": "contractnli/Data Use Agreement New York City.txt",
-    "similarity": 0.7592651844024658,
+    "similarity": 0.3714841604232788,
     "actual_files": [
       "contractnli/Data Use Agreement New York City.txt"
     ],
@@ -261,9 +261,9 @@
   },
   {
     "query": "Consider the Data Use Agreement in New York City; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
-    "targeted_corpus": "Data Use Agreement New York City",
+    "targeted_corpus": "data use",
     "best_file": "contractnli/Data Use Agreement New York City.txt",
-    "similarity": 0.7592651844024658,
+    "similarity": 0.3714841604232788,
     "actual_files": [
       "contractnli/Data Use Agreement New York City.txt"
     ],
@@ -271,7 +271,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
-    "targeted_corpus": "DoiT ICN",
+    "targeted_corpus": "doit icn",
     "best_file": "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt",
     "similarity": 0.521579384803772,
     "actual_files": [
@@ -281,7 +281,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
-    "targeted_corpus": "DoiT ICN",
+    "targeted_corpus": "doit icn",
     "best_file": "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt",
     "similarity": 0.521579384803772,
     "actual_files": [
@@ -291,7 +291,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document state that Confidential Information shall only include technical information?",
-    "targeted_corpus": "DoiT ICN",
+    "targeted_corpus": "doit icn",
     "best_file": "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt",
     "similarity": 0.521579384803772,
     "actual_files": [
@@ -301,7 +301,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
-    "targeted_corpus": "DoiT ICN",
+    "targeted_corpus": "doit icn",
     "best_file": "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt",
     "similarity": 0.521579384803772,
     "actual_files": [
@@ -311,7 +311,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
-    "targeted_corpus": "DoiT ICN",
+    "targeted_corpus": "doit icn",
     "best_file": "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt",
     "similarity": 0.521579384803772,
     "actual_files": [
@@ -321,7 +321,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
-    "targeted_corpus": "DoiT ICN",
+    "targeted_corpus": "doit icn",
     "best_file": "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt",
     "similarity": 0.521579384803772,
     "actual_files": [
@@ -331,7 +331,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
-    "targeted_corpus": "DoiT ICN",
+    "targeted_corpus": "doit icn",
     "best_file": "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt",
     "similarity": 0.521579384803772,
     "actual_files": [
@@ -341,7 +341,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
-    "targeted_corpus": "DoiT ICN",
+    "targeted_corpus": "doit icn",
     "best_file": "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt",
     "similarity": 0.521579384803772,
     "actual_files": [
@@ -351,7 +351,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
-    "targeted_corpus": "DoiT ICN",
+    "targeted_corpus": "doit icn",
     "best_file": "contractnli/DoiT-ICN-NonDisclosure-Agreement.txt",
     "similarity": 0.521579384803772,
     "actual_files": [
@@ -361,9 +361,9 @@
   },
   {
     "query": "Consider EFCA's Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
-    "targeted_corpus": "EFCA's",
+    "targeted_corpus": "efca",
     "best_file": "contractnli/EFCAConfidentialityAgreement.txt",
-    "similarity": 0.3514562249183655,
+    "similarity": 0.4112617075443268,
     "actual_files": [
       "contractnli/EFCAConfidentialityAgreement.txt"
     ],
@@ -371,9 +371,9 @@
   },
   {
     "query": "Consider EFCA's Non-Disclosure Agreement; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
-    "targeted_corpus": "EFCA's",
+    "targeted_corpus": "efca",
     "best_file": "contractnli/EFCAConfidentialityAgreement.txt",
-    "similarity": 0.3514562249183655,
+    "similarity": 0.4112617075443268,
     "actual_files": [
       "contractnli/EFCAConfidentialityAgreement.txt"
     ],
@@ -381,9 +381,9 @@
   },
   {
     "query": "Consider EFCA's Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
-    "targeted_corpus": "EFCA's",
+    "targeted_corpus": "efca",
     "best_file": "contractnli/EFCAConfidentialityAgreement.txt",
-    "similarity": 0.3514562249183655,
+    "similarity": 0.4112617075443268,
     "actual_files": [
       "contractnli/EFCAConfidentialityAgreement.txt"
     ],
@@ -391,9 +391,9 @@
   },
   {
     "query": "Consider EFCA's Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
-    "targeted_corpus": "EFCA's",
+    "targeted_corpus": "efca",
     "best_file": "contractnli/EFCAConfidentialityAgreement.txt",
-    "similarity": 0.3514562249183655,
+    "similarity": 0.4112617075443268,
     "actual_files": [
       "contractnli/EFCAConfidentialityAgreement.txt"
     ],
@@ -401,9 +401,9 @@
   },
   {
     "query": "Consider EFCA's Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
-    "targeted_corpus": "EFCA's",
+    "targeted_corpus": "efca",
     "best_file": "contractnli/EFCAConfidentialityAgreement.txt",
-    "similarity": 0.3514562249183655,
+    "similarity": 0.4112617075443268,
     "actual_files": [
       "contractnli/EFCAConfidentialityAgreement.txt"
     ],
@@ -411,9 +411,9 @@
   },
   {
     "query": "Consider EFCA's Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
-    "targeted_corpus": "EFCA's",
+    "targeted_corpus": "efca",
     "best_file": "contractnli/EFCAConfidentialityAgreement.txt",
-    "similarity": 0.3514562249183655,
+    "similarity": 0.4112617075443268,
     "actual_files": [
       "contractnli/EFCAConfidentialityAgreement.txt"
     ],
@@ -421,9 +421,9 @@
   },
   {
     "query": "Consider EFCA's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
-    "targeted_corpus": "EFCA's",
+    "targeted_corpus": "efca",
     "best_file": "contractnli/EFCAConfidentialityAgreement.txt",
-    "similarity": 0.3514562249183655,
+    "similarity": 0.4112617075443268,
     "actual_files": [
       "contractnli/EFCAConfidentialityAgreement.txt"
     ],
@@ -431,9 +431,9 @@
   },
   {
     "query": "Consider EFCA's Non-Disclosure Agreement; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
-    "targeted_corpus": "EFCA's",
+    "targeted_corpus": "efca",
     "best_file": "contractnli/EFCAConfidentialityAgreement.txt",
-    "similarity": 0.3514562249183655,
+    "similarity": 0.4112617075443268,
     "actual_files": [
       "contractnli/EFCAConfidentialityAgreement.txt"
     ],
@@ -441,9 +441,9 @@
   },
   {
     "query": "Consider EFCA's Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
-    "targeted_corpus": "EFCA's",
+    "targeted_corpus": "efca",
     "best_file": "contractnli/EFCAConfidentialityAgreement.txt",
-    "similarity": 0.3514562249183655,
+    "similarity": 0.4112617075443268,
     "actual_files": [
       "contractnli/EFCAConfidentialityAgreement.txt"
     ],
@@ -451,9 +451,9 @@
   },
   {
     "query": "Consider EFCA's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
-    "targeted_corpus": "EFCA's",
+    "targeted_corpus": "efca",
     "best_file": "contractnli/EFCAConfidentialityAgreement.txt",
-    "similarity": 0.3514562249183655,
+    "similarity": 0.4112617075443268,
     "actual_files": [
       "contractnli/EFCAConfidentialityAgreement.txt"
     ],
@@ -461,9 +461,9 @@
   },
   {
     "query": "Consider EFCA's Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
-    "targeted_corpus": "EFCA's",
+    "targeted_corpus": "efca",
     "best_file": "contractnli/EFCAConfidentialityAgreement.txt",
-    "similarity": 0.3514562249183655,
+    "similarity": 0.4112617075443268,
     "actual_files": [
       "contractnli/EFCAConfidentialityAgreement.txt"
     ],
@@ -471,9 +471,9 @@
   },
   {
     "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
-    "targeted_corpus": "Eskom's Confidentiality",
+    "targeted_corpus": "eskom",
     "best_file": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
-    "similarity": 0.5126842856407166,
+    "similarity": 0.4500332474708557,
     "actual_files": [
       "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
     ],
@@ -481,9 +481,9 @@
   },
   {
     "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
-    "targeted_corpus": "Eskom's Confidentiality",
+    "targeted_corpus": "eskom",
     "best_file": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
-    "similarity": 0.5126842856407166,
+    "similarity": 0.4500332474708557,
     "actual_files": [
       "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
     ],
@@ -491,9 +491,9 @@
   },
   {
     "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
-    "targeted_corpus": "Eskom's Confidentiality",
+    "targeted_corpus": "eskom conf",
     "best_file": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
-    "similarity": 0.5126842856407166,
+    "similarity": 0.4992082118988037,
     "actual_files": [
       "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
     ],
@@ -501,9 +501,9 @@
   },
   {
     "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
-    "targeted_corpus": "Eskom's Confidentiality",
+    "targeted_corpus": "eskom",
     "best_file": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
-    "similarity": 0.5126842856407166,
+    "similarity": 0.4500332474708557,
     "actual_files": [
       "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
     ],
@@ -511,9 +511,9 @@
   },
   {
     "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
-    "targeted_corpus": "Eskom's Confidentiality",
+    "targeted_corpus": "eskom",
     "best_file": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
-    "similarity": 0.5126842856407166,
+    "similarity": 0.4500332474708557,
     "actual_files": [
       "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
     ],
@@ -521,9 +521,9 @@
   },
   {
     "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
-    "targeted_corpus": "Eskom's Confidentiality",
+    "targeted_corpus": "eskom",
     "best_file": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
-    "similarity": 0.5126842856407166,
+    "similarity": 0.4500332474708557,
     "actual_files": [
       "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
     ],
@@ -531,9 +531,9 @@
   },
   {
     "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
-    "targeted_corpus": "Eskom's Confidentiality",
+    "targeted_corpus": "eskom",
     "best_file": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
-    "similarity": 0.5126842856407166,
+    "similarity": 0.4500332474708557,
     "actual_files": [
       "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
     ],
@@ -541,9 +541,9 @@
   },
   {
     "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
-    "targeted_corpus": "Eskom's Confidentiality",
+    "targeted_corpus": "eskom",
     "best_file": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
-    "similarity": 0.5126842856407166,
+    "similarity": 0.4500332474708557,
     "actual_files": [
       "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
     ],
@@ -551,9 +551,9 @@
   },
   {
     "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
-    "targeted_corpus": "Eskom's Confidentiality",
+    "targeted_corpus": "eskom",
     "best_file": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
-    "similarity": 0.5126842856407166,
+    "similarity": 0.4500332474708557,
     "actual_files": [
       "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
     ],
@@ -561,9 +561,9 @@
   },
   {
     "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
-    "targeted_corpus": "Eskom's Confidentiality",
+    "targeted_corpus": "eskom",
     "best_file": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
-    "similarity": 0.5126842856407166,
+    "similarity": 0.4500332474708557,
     "actual_files": [
       "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
     ],
@@ -571,9 +571,9 @@
   },
   {
     "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
-    "targeted_corpus": "Eskom's Confidentiality",
+    "targeted_corpus": "eskom",
     "best_file": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
-    "similarity": 0.5126842856407166,
+    "similarity": 0.4500332474708557,
     "actual_files": [
       "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
     ],
@@ -581,9 +581,9 @@
   },
   {
     "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
-    "targeted_corpus": "Eskom's Confidentiality",
+    "targeted_corpus": "eskom",
     "best_file": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
-    "similarity": 0.5126842856407166,
+    "similarity": 0.4500332474708557,
     "actual_files": [
       "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
     ],
@@ -591,9 +591,9 @@
   },
   {
     "query": "Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
-    "targeted_corpus": "Eskom's Confidentiality",
+    "targeted_corpus": "eskom",
     "best_file": "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt",
-    "similarity": 0.5126842856407166,
+    "similarity": 0.4500332474708557,
     "actual_files": [
       "contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
     ],
@@ -601,39 +601,39 @@
   },
   {
     "query": "Consider Epsteen's Non-Disclosure Agreement; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
-    "targeted_corpus": "Epsteen's",
-    "best_file": "contractnli/epsteen_nda.txt",
-    "similarity": 0.4742737412452698,
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
     "actual_files": [
       "contractnli/epsteen_nda.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider Epsteen's Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
-    "targeted_corpus": "Epsteen's",
-    "best_file": "contractnli/epsteen_nda.txt",
-    "similarity": 0.4742737412452698,
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
     "actual_files": [
       "contractnli/epsteen_nda.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider Epsteen's Non-Disclosure Agreement; Does the document include a clause that prohibits the Receiving Party from soliciting some of the Disclosing Party's representatives?",
-    "targeted_corpus": "Epsteen's",
-    "best_file": "contractnli/epsteen_nda.txt",
-    "similarity": 0.4742737412452698,
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
     "actual_files": [
       "contractnli/epsteen_nda.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider Epsteen's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
-    "targeted_corpus": "Epsteen's",
+    "targeted_corpus": "epsteen",
     "best_file": "contractnli/epsteen_nda.txt",
-    "similarity": 0.4742737412452698,
+    "similarity": 0.5187550783157349,
     "actual_files": [
       "contractnli/epsteen_nda.txt"
     ],
@@ -641,29 +641,29 @@
   },
   {
     "query": "Consider Epsteen's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
-    "targeted_corpus": "Epsteen's",
-    "best_file": "contractnli/epsteen_nda.txt",
-    "similarity": 0.4742737412452698,
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
     "actual_files": [
       "contractnli/epsteen_nda.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider Epsteen's Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
-    "targeted_corpus": "Epsteen's",
-    "best_file": "contractnli/epsteen_nda.txt",
-    "similarity": 0.4742737412452698,
+    "targeted_corpus": "",
+    "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+    "similarity": 0.14289790391921997,
     "actual_files": [
       "contractnli/epsteen_nda.txt"
     ],
-    "score": 1
+    "score": 0
   },
   {
     "query": "Consider Evelozcity's Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
-    "targeted_corpus": "Evelozcity's",
+    "targeted_corpus": "evelozcity",
     "best_file": "contractnli/Evelozcity%20OESA%20NDA.txt",
-    "similarity": 0.4465126395225525,
+    "similarity": 0.5496882796287537,
     "actual_files": [
       "contractnli/Evelozcity%20OESA%20NDA.txt"
     ],
@@ -671,9 +671,9 @@
   },
   {
     "query": "Consider Evelozcity's Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
-    "targeted_corpus": "Evelozcity's",
+    "targeted_corpus": "evelozcity",
     "best_file": "contractnli/Evelozcity%20OESA%20NDA.txt",
-    "similarity": 0.4465126395225525,
+    "similarity": 0.5496882796287537,
     "actual_files": [
       "contractnli/Evelozcity%20OESA%20NDA.txt"
     ],
@@ -681,9 +681,9 @@
   },
   {
     "query": "Consider Evelozcity's Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
-    "targeted_corpus": "Evelozcity's",
+    "targeted_corpus": "evelozcity",
     "best_file": "contractnli/Evelozcity%20OESA%20NDA.txt",
-    "similarity": 0.4465126395225525,
+    "similarity": 0.5496882796287537,
     "actual_files": [
       "contractnli/Evelozcity%20OESA%20NDA.txt"
     ],
@@ -691,9 +691,9 @@
   },
   {
     "query": "Consider Evelozcity's Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
-    "targeted_corpus": "Evelozcity's",
+    "targeted_corpus": "evelozcity",
     "best_file": "contractnli/Evelozcity%20OESA%20NDA.txt",
-    "similarity": 0.4465126395225525,
+    "similarity": 0.5496882796287537,
     "actual_files": [
       "contractnli/Evelozcity%20OESA%20NDA.txt"
     ],
@@ -701,9 +701,9 @@
   },
   {
     "query": "Consider Evelozcity's Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
-    "targeted_corpus": "Evelozcity's",
+    "targeted_corpus": "evelozcity",
     "best_file": "contractnli/Evelozcity%20OESA%20NDA.txt",
-    "similarity": 0.4465126395225525,
+    "similarity": 0.5496882796287537,
     "actual_files": [
       "contractnli/Evelozcity%20OESA%20NDA.txt"
     ],
@@ -711,9 +711,9 @@
   },
   {
     "query": "Consider Evelozcity's Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
-    "targeted_corpus": "Evelozcity's",
+    "targeted_corpus": "evelozcity",
     "best_file": "contractnli/Evelozcity%20OESA%20NDA.txt",
-    "similarity": 0.4465126395225525,
+    "similarity": 0.5496882796287537,
     "actual_files": [
       "contractnli/Evelozcity%20OESA%20NDA.txt"
     ],
@@ -721,9 +721,9 @@
   },
   {
     "query": "Consider Evelozcity's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
-    "targeted_corpus": "Evelozcity's",
+    "targeted_corpus": "evelozcity",
     "best_file": "contractnli/Evelozcity%20OESA%20NDA.txt",
-    "similarity": 0.4465126395225525,
+    "similarity": 0.5496882796287537,
     "actual_files": [
       "contractnli/Evelozcity%20OESA%20NDA.txt"
     ],
@@ -731,9 +731,9 @@
   },
   {
     "query": "Consider Evelozcity's Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
-    "targeted_corpus": "Evelozcity's",
+    "targeted_corpus": "evelozcity",
     "best_file": "contractnli/Evelozcity%20OESA%20NDA.txt",
-    "similarity": 0.4465126395225525,
+    "similarity": 0.5496882796287537,
     "actual_files": [
       "contractnli/Evelozcity%20OESA%20NDA.txt"
     ],
@@ -741,9 +741,9 @@
   },
   {
     "query": "Consider Evelozcity's Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
-    "targeted_corpus": "Evelozcity's",
+    "targeted_corpus": "evelozcity",
     "best_file": "contractnli/Evelozcity%20OESA%20NDA.txt",
-    "similarity": 0.4465126395225525,
+    "similarity": 0.5496882796287537,
     "actual_files": [
       "contractnli/Evelozcity%20OESA%20NDA.txt"
     ],
@@ -751,9 +751,9 @@
   },
   {
     "query": "Consider Evelozcity's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
-    "targeted_corpus": "Evelozcity's",
+    "targeted_corpus": "evelozcity",
     "best_file": "contractnli/Evelozcity%20OESA%20NDA.txt",
-    "similarity": 0.4465126395225525,
+    "similarity": 0.5496882796287537,
     "actual_files": [
       "contractnli/Evelozcity%20OESA%20NDA.txt"
     ],
@@ -761,9 +761,9 @@
   },
   {
     "query": "Consider Evelozcity's Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
-    "targeted_corpus": "Evelozcity's",
+    "targeted_corpus": "evelozcity",
     "best_file": "contractnli/Evelozcity%20OESA%20NDA.txt",
-    "similarity": 0.4465126395225525,
+    "similarity": 0.5496882796287537,
     "actual_files": [
       "contractnli/Evelozcity%20OESA%20NDA.txt"
     ],
@@ -771,9 +771,9 @@
   },
   {
     "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
-    "targeted_corpus": "Excelerate's",
+    "targeted_corpus": "excelerate",
     "best_file": "contractnli/ExcelerateStandardNDAFormat.txt",
-    "similarity": 0.37852203845977783,
+    "similarity": 0.418613463640213,
     "actual_files": [
       "contractnli/ExcelerateStandardNDAFormat.txt"
     ],
@@ -781,9 +781,9 @@
   },
   {
     "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
-    "targeted_corpus": "Excelerate's",
+    "targeted_corpus": "excelerate",
     "best_file": "contractnli/ExcelerateStandardNDAFormat.txt",
-    "similarity": 0.37852203845977783,
+    "similarity": 0.418613463640213,
     "actual_files": [
       "contractnli/ExcelerateStandardNDAFormat.txt"
     ],
@@ -791,9 +791,9 @@
   },
   {
     "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
-    "targeted_corpus": "Excelerate's",
+    "targeted_corpus": "excelerate",
     "best_file": "contractnli/ExcelerateStandardNDAFormat.txt",
-    "similarity": 0.37852203845977783,
+    "similarity": 0.418613463640213,
     "actual_files": [
       "contractnli/ExcelerateStandardNDAFormat.txt"
     ],
@@ -801,9 +801,9 @@
   },
   {
     "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
-    "targeted_corpus": "Excelerate's",
+    "targeted_corpus": "excelerate",
     "best_file": "contractnli/ExcelerateStandardNDAFormat.txt",
-    "similarity": 0.37852203845977783,
+    "similarity": 0.418613463640213,
     "actual_files": [
       "contractnli/ExcelerateStandardNDAFormat.txt"
     ],
@@ -811,9 +811,9 @@
   },
   {
     "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
-    "targeted_corpus": "Excelerate's",
+    "targeted_corpus": "excelerate",
     "best_file": "contractnli/ExcelerateStandardNDAFormat.txt",
-    "similarity": 0.37852203845977783,
+    "similarity": 0.418613463640213,
     "actual_files": [
       "contractnli/ExcelerateStandardNDAFormat.txt"
     ],
@@ -821,9 +821,9 @@
   },
   {
     "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
-    "targeted_corpus": "Excelerate's",
+    "targeted_corpus": "excelerate",
     "best_file": "contractnli/ExcelerateStandardNDAFormat.txt",
-    "similarity": 0.37852203845977783,
+    "similarity": 0.418613463640213,
     "actual_files": [
       "contractnli/ExcelerateStandardNDAFormat.txt"
     ],
@@ -831,9 +831,9 @@
   },
   {
     "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
-    "targeted_corpus": "Excelerate's",
+    "targeted_corpus": "excelerate",
     "best_file": "contractnli/ExcelerateStandardNDAFormat.txt",
-    "similarity": 0.37852203845977783,
+    "similarity": 0.418613463640213,
     "actual_files": [
       "contractnli/ExcelerateStandardNDAFormat.txt"
     ],
@@ -841,9 +841,9 @@
   },
   {
     "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
-    "targeted_corpus": "Excelerate's",
+    "targeted_corpus": "excelerate",
     "best_file": "contractnli/ExcelerateStandardNDAFormat.txt",
-    "similarity": 0.37852203845977783,
+    "similarity": 0.418613463640213,
     "actual_files": [
       "contractnli/ExcelerateStandardNDAFormat.txt"
     ],
@@ -851,9 +851,9 @@
   },
   {
     "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
-    "targeted_corpus": "Excelerate's",
+    "targeted_corpus": "excelerate",
     "best_file": "contractnli/ExcelerateStandardNDAFormat.txt",
-    "similarity": 0.37852203845977783,
+    "similarity": 0.418613463640213,
     "actual_files": [
       "contractnli/ExcelerateStandardNDAFormat.txt"
     ],
@@ -861,9 +861,9 @@
   },
   {
     "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
-    "targeted_corpus": "Excelerate's",
+    "targeted_corpus": "excelerate",
     "best_file": "contractnli/ExcelerateStandardNDAFormat.txt",
-    "similarity": 0.37852203845977783,
+    "similarity": 0.418613463640213,
     "actual_files": [
       "contractnli/ExcelerateStandardNDAFormat.txt"
     ],
@@ -871,9 +871,9 @@
   },
   {
     "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
-    "targeted_corpus": "Excelerate's",
+    "targeted_corpus": "excelerate",
     "best_file": "contractnli/ExcelerateStandardNDAFormat.txt",
-    "similarity": 0.37852203845977783,
+    "similarity": 0.418613463640213,
     "actual_files": [
       "contractnli/ExcelerateStandardNDAFormat.txt"
     ],
@@ -881,9 +881,9 @@
   },
   {
     "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
-    "targeted_corpus": "Excelerate's",
+    "targeted_corpus": "excelerate",
     "best_file": "contractnli/ExcelerateStandardNDAFormat.txt",
-    "similarity": 0.37852203845977783,
+    "similarity": 0.418613463640213,
     "actual_files": [
       "contractnli/ExcelerateStandardNDAFormat.txt"
     ],
@@ -891,9 +891,9 @@
   },
   {
     "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
-    "targeted_corpus": "Excelerate's",
+    "targeted_corpus": "excelerate",
     "best_file": "contractnli/ExcelerateStandardNDAFormat.txt",
-    "similarity": 0.37852203845977783,
+    "similarity": 0.418613463640213,
     "actual_files": [
       "contractnli/ExcelerateStandardNDAFormat.txt"
     ],
@@ -901,9 +901,9 @@
   },
   {
     "query": "Consider Excelerate's Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
-    "targeted_corpus": "Excelerate's",
+    "targeted_corpus": "excelerate",
     "best_file": "contractnli/ExcelerateStandardNDAFormat.txt",
-    "similarity": 0.37852203845977783,
+    "similarity": 0.418613463640213,
     "actual_files": [
       "contractnli/ExcelerateStandardNDAFormat.txt"
     ],
@@ -911,9 +911,9 @@
   },
   {
     "query": "Consider FNHA's Non-Disclosure Agreement; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
-    "targeted_corpus": "FNHA's",
+    "targeted_corpus": "fnha",
     "best_file": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
-    "similarity": 0.3529765009880066,
+    "similarity": 0.41931891441345215,
     "actual_files": [
       "contractnli/FNHA-2019RFP-02-NDA-form.txt"
     ],
@@ -921,9 +921,9 @@
   },
   {
     "query": "Consider FNHA's Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
-    "targeted_corpus": "FNHA's",
+    "targeted_corpus": "fnha",
     "best_file": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
-    "similarity": 0.3529765009880066,
+    "similarity": 0.41931891441345215,
     "actual_files": [
       "contractnli/FNHA-2019RFP-02-NDA-form.txt"
     ],
@@ -931,9 +931,9 @@
   },
   {
     "query": "Consider FNHA's Non-Disclosure Agreement; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
-    "targeted_corpus": "FNHA's",
+    "targeted_corpus": "fnha",
     "best_file": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
-    "similarity": 0.3529765009880066,
+    "similarity": 0.41931891441345215,
     "actual_files": [
       "contractnli/FNHA-2019RFP-02-NDA-form.txt"
     ],
@@ -941,9 +941,9 @@
   },
   {
     "query": "Consider FNHA's Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
-    "targeted_corpus": "FNHA's",
+    "targeted_corpus": "fnha",
     "best_file": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
-    "similarity": 0.3529765009880066,
+    "similarity": 0.41931891441345215,
     "actual_files": [
       "contractnli/FNHA-2019RFP-02-NDA-form.txt"
     ],
@@ -951,9 +951,9 @@
   },
   {
     "query": "Consider FNHA's Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
-    "targeted_corpus": "FNHA's",
+    "targeted_corpus": "fnha",
     "best_file": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
-    "similarity": 0.3529765009880066,
+    "similarity": 0.41931891441345215,
     "actual_files": [
       "contractnli/FNHA-2019RFP-02-NDA-form.txt"
     ],
@@ -961,9 +961,9 @@
   },
   {
     "query": "Consider FNHA's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
-    "targeted_corpus": "FNHA's",
+    "targeted_corpus": "fnha",
     "best_file": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
-    "similarity": 0.3529765009880066,
+    "similarity": 0.41931891441345215,
     "actual_files": [
       "contractnli/FNHA-2019RFP-02-NDA-form.txt"
     ],
@@ -971,9 +971,9 @@
   },
   {
     "query": "Consider FNHA's Non-Disclosure Agreement; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
-    "targeted_corpus": "FNHA's",
+    "targeted_corpus": "fnha",
     "best_file": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
-    "similarity": 0.3529765009880066,
+    "similarity": 0.41931891441345215,
     "actual_files": [
       "contractnli/FNHA-2019RFP-02-NDA-form.txt"
     ],
@@ -981,9 +981,9 @@
   },
   {
     "query": "Consider FNHA's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
-    "targeted_corpus": "FNHA's",
+    "targeted_corpus": "fnha",
     "best_file": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
-    "similarity": 0.3529765009880066,
+    "similarity": 0.41931891441345215,
     "actual_files": [
       "contractnli/FNHA-2019RFP-02-NDA-form.txt"
     ],
@@ -991,9 +991,9 @@
   },
   {
     "query": "Consider FNHA's Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
-    "targeted_corpus": "FNHA's",
+    "targeted_corpus": "fnha",
     "best_file": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
-    "similarity": 0.3529765009880066,
+    "similarity": 0.41931891441345215,
     "actual_files": [
       "contractnli/FNHA-2019RFP-02-NDA-form.txt"
     ],
@@ -1001,9 +1001,9 @@
   },
   {
     "query": "Consider APIC's Confidentiality Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
-    "targeted_corpus": "APIC's Confidentiality Agreement",
+    "targeted_corpus": "apic",
     "best_file": "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt",
-    "similarity": 0.6528750658035278,
+    "similarity": 0.4842715263366699,
     "actual_files": [
       "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt"
     ],
@@ -1011,9 +1011,9 @@
   },
   {
     "query": "Consider APIC's Confidentiality Agreement; Does the document state that Confidential Information shall only include technical information?",
-    "targeted_corpus": "APIC's Confidentiality Agreement",
+    "targeted_corpus": "apic confidentiality",
     "best_file": "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt",
-    "similarity": 0.6528750658035278,
+    "similarity": 0.5352729558944702,
     "actual_files": [
       "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt"
     ],
@@ -1021,9 +1021,9 @@
   },
   {
     "query": "Consider APIC's Confidentiality Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
-    "targeted_corpus": "APIC's Confidentiality Agreement",
+    "targeted_corpus": "apic",
     "best_file": "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt",
-    "similarity": 0.6528750658035278,
+    "similarity": 0.4842715263366699,
     "actual_files": [
       "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt"
     ],
@@ -1031,9 +1031,9 @@
   },
   {
     "query": "Consider APIC's Confidentiality Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
-    "targeted_corpus": "APIC's Confidentiality Agreement",
+    "targeted_corpus": "apic",
     "best_file": "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt",
-    "similarity": 0.6528750658035278,
+    "similarity": 0.4842715263366699,
     "actual_files": [
       "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt"
     ],
@@ -1041,9 +1041,9 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
-    "targeted_corpus": "Hochschule Furtwangen University Thesis Participants",
+    "targeted_corpus": "hochschule furtwangen university",
     "best_file": "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt",
-    "similarity": 0.2657725512981415,
+    "similarity": 0.23827201128005981,
     "actual_files": [
       "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt"
     ],
@@ -1051,9 +1051,9 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants; Does the document state that Confidential Information shall only include technical information?",
-    "targeted_corpus": "Hochschule Furtwangen University Thesis Participants",
+    "targeted_corpus": "hochschule furtwangen university",
     "best_file": "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt",
-    "similarity": 0.2657725512981415,
+    "similarity": 0.23827201128005981,
     "actual_files": [
       "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt"
     ],
@@ -1061,9 +1061,9 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
-    "targeted_corpus": "Hochschule Furtwangen University Thesis Participants",
+    "targeted_corpus": "hochschule furtwangen university",
     "best_file": "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt",
-    "similarity": 0.2657725512981415,
+    "similarity": 0.23827201128005981,
     "actual_files": [
       "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt"
     ],
@@ -1071,9 +1071,9 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
-    "targeted_corpus": "Hochschule Furtwangen University Thesis Participants",
+    "targeted_corpus": "hochschule furtwangen university",
     "best_file": "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt",
-    "similarity": 0.2657725512981415,
+    "similarity": 0.23827201128005981,
     "actual_files": [
       "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt"
     ],
@@ -1081,9 +1081,9 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
-    "targeted_corpus": "Hochschule Furtwangen University Thesis Participants",
+    "targeted_corpus": "hochschule furtwangen university",
     "best_file": "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt",
-    "similarity": 0.2657725512981415,
+    "similarity": 0.23827201128005981,
     "actual_files": [
       "contractnli/Geheimhaltungsvereinbarung_Abschlussarbeiten_HFU_englisch.txt"
     ],
@@ -1091,9 +1091,9 @@
   },
   {
     "query": "Consider GreenStorm's Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
-    "targeted_corpus": "GreenStorm's",
+    "targeted_corpus": "greenstorm",
     "best_file": "contractnli/GreenStorm%20NDCSC.txt",
-    "similarity": 0.5208550691604614,
+    "similarity": 0.5449875593185425,
     "actual_files": [
       "contractnli/GreenStorm%20NDCSC.txt"
     ],
@@ -1101,9 +1101,9 @@
   },
   {
     "query": "Consider GreenStorm's Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
-    "targeted_corpus": "GreenStorm's",
+    "targeted_corpus": "greenstorm",
     "best_file": "contractnli/GreenStorm%20NDCSC.txt",
-    "similarity": 0.5208550691604614,
+    "similarity": 0.5449875593185425,
     "actual_files": [
       "contractnli/GreenStorm%20NDCSC.txt"
     ],
@@ -1111,9 +1111,9 @@
   },
   {
     "query": "Consider GreenStorm's Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
-    "targeted_corpus": "GreenStorm's",
+    "targeted_corpus": "greenstorm",
     "best_file": "contractnli/GreenStorm%20NDCSC.txt",
-    "similarity": 0.5208550691604614,
+    "similarity": 0.5449875593185425,
     "actual_files": [
       "contractnli/GreenStorm%20NDCSC.txt"
     ],
@@ -1121,9 +1121,9 @@
   },
   {
     "query": "Consider GreenStorm's Non-Disclosure Agreement; Does the document include a clause that prohibits the Receiving Party from soliciting some of the Disclosing Party's representatives?",
-    "targeted_corpus": "GreenStorm's",
+    "targeted_corpus": "greenstorm",
     "best_file": "contractnli/GreenStorm%20NDCSC.txt",
-    "similarity": 0.5208550691604614,
+    "similarity": 0.5449875593185425,
     "actual_files": [
       "contractnli/GreenStorm%20NDCSC.txt"
     ],
@@ -1131,9 +1131,9 @@
   },
   {
     "query": "Consider GreenStorm's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
-    "targeted_corpus": "GreenStorm's",
+    "targeted_corpus": "greenstorm",
     "best_file": "contractnli/GreenStorm%20NDCSC.txt",
-    "similarity": 0.5208550691604614,
+    "similarity": 0.5449875593185425,
     "actual_files": [
       "contractnli/GreenStorm%20NDCSC.txt"
     ],
@@ -1141,9 +1141,9 @@
   },
   {
     "query": "Consider Grindrod SA's Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
-    "targeted_corpus": "Grindrod SA's",
+    "targeted_corpus": "grindrod sa",
     "best_file": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
-    "similarity": 0.4833541810512543,
+    "similarity": 0.4902759790420532,
     "actual_files": [
       "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt"
     ],
@@ -1151,9 +1151,9 @@
   },
   {
     "query": "Consider Grindrod SA's Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
-    "targeted_corpus": "Grindrod SA's",
+    "targeted_corpus": "grindrod sa",
     "best_file": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
-    "similarity": 0.4833541810512543,
+    "similarity": 0.4902759790420532,
     "actual_files": [
       "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt"
     ],
@@ -1161,9 +1161,9 @@
   },
   {
     "query": "Consider Grindrod SA's Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
-    "targeted_corpus": "Grindrod SA's",
+    "targeted_corpus": "grindrod sa",
     "best_file": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
-    "similarity": 0.4833541810512543,
+    "similarity": 0.4902759790420532,
     "actual_files": [
       "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt"
     ],
@@ -1171,9 +1171,9 @@
   },
   {
     "query": "Consider Grindrod SA's Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
-    "targeted_corpus": "Grindrod SA's",
+    "targeted_corpus": "grindrod sa",
     "best_file": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
-    "similarity": 0.4833541810512543,
+    "similarity": 0.4902759790420532,
     "actual_files": [
       "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt"
     ],
@@ -1181,9 +1181,9 @@
   },
   {
     "query": "Consider Grindrod SA's Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
-    "targeted_corpus": "Grindrod SA's",
+    "targeted_corpus": "grindrod sa",
     "best_file": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
-    "similarity": 0.4833541810512543,
+    "similarity": 0.4902759790420532,
     "actual_files": [
       "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt"
     ],
@@ -1191,9 +1191,9 @@
   },
   {
     "query": "Consider Grindrod SA's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
-    "targeted_corpus": "Grindrod SA's",
+    "targeted_corpus": "grindrod sa",
     "best_file": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
-    "similarity": 0.4833541810512543,
+    "similarity": 0.4902759790420532,
     "actual_files": [
       "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt"
     ],
@@ -1201,9 +1201,9 @@
   },
   {
     "query": "Consider Grindrod SA's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
-    "targeted_corpus": "Grindrod SA's",
+    "targeted_corpus": "grindrod sa",
     "best_file": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
-    "similarity": 0.4833541810512543,
+    "similarity": 0.4902759790420532,
     "actual_files": [
       "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt"
     ],
@@ -1211,9 +1211,9 @@
   },
   {
     "query": "Consider Grindrod SA's Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
-    "targeted_corpus": "Grindrod SA's",
+    "targeted_corpus": "grindrod sa",
     "best_file": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
-    "similarity": 0.4833541810512543,
+    "similarity": 0.4902759790420532,
     "actual_files": [
       "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt"
     ],
@@ -1221,9 +1221,9 @@
   },
   {
     "query": "Consider Euler Hermes's Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
-    "targeted_corpus": "Euler Hermes's",
+    "targeted_corpus": "euler hermes",
     "best_file": "contractnli/eulerhermes-nda.txt",
-    "similarity": 0.17309948801994324,
+    "similarity": 0.19392037391662598,
     "actual_files": [
       "contractnli/eulerhermes-nda.txt"
     ],
@@ -1231,9 +1231,9 @@
   },
   {
     "query": "Consider Euler Hermes's Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
-    "targeted_corpus": "Euler Hermes's",
+    "targeted_corpus": "euler hermes",
     "best_file": "contractnli/eulerhermes-nda.txt",
-    "similarity": 0.17309948801994324,
+    "similarity": 0.19392037391662598,
     "actual_files": [
       "contractnli/eulerhermes-nda.txt"
     ],
@@ -1241,9 +1241,9 @@
   },
   {
     "query": "Consider Euler Hermes's Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
-    "targeted_corpus": "Euler Hermes's",
+    "targeted_corpus": "euler hermes",
     "best_file": "contractnli/eulerhermes-nda.txt",
-    "similarity": 0.17309948801994324,
+    "similarity": 0.19392037391662598,
     "actual_files": [
       "contractnli/eulerhermes-nda.txt"
     ],
@@ -1251,9 +1251,9 @@
   },
   {
     "query": "Consider Euler Hermes's Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
-    "targeted_corpus": "Euler Hermes's",
+    "targeted_corpus": "euler hermes",
     "best_file": "contractnli/eulerhermes-nda.txt",
-    "similarity": 0.17309948801994324,
+    "similarity": 0.19392037391662598,
     "actual_files": [
       "contractnli/eulerhermes-nda.txt"
     ],
@@ -1261,9 +1261,9 @@
   },
   {
     "query": "Consider Euler Hermes's Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
-    "targeted_corpus": "Euler Hermes's",
+    "targeted_corpus": "euler hermes",
     "best_file": "contractnli/eulerhermes-nda.txt",
-    "similarity": 0.17309948801994324,
+    "similarity": 0.19392037391662598,
     "actual_files": [
       "contractnli/eulerhermes-nda.txt"
     ],
@@ -1271,9 +1271,9 @@
   },
   {
     "query": "Consider Euler Hermes's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
-    "targeted_corpus": "Euler Hermes's",
+    "targeted_corpus": "euler hermes",
     "best_file": "contractnli/eulerhermes-nda.txt",
-    "similarity": 0.17309948801994324,
+    "similarity": 0.19392037391662598,
     "actual_files": [
       "contractnli/eulerhermes-nda.txt"
     ],
@@ -1281,9 +1281,9 @@
   },
   {
     "query": "Consider Euler Hermes's Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
-    "targeted_corpus": "Euler Hermes's",
+    "targeted_corpus": "euler hermes",
     "best_file": "contractnli/eulerhermes-nda.txt",
-    "similarity": 0.17309948801994324,
+    "similarity": 0.19392037391662598,
     "actual_files": [
       "contractnli/eulerhermes-nda.txt"
     ],
@@ -1291,9 +1291,9 @@
   },
   {
     "query": "Consider Euler Hermes's Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
-    "targeted_corpus": "Euler Hermes's",
+    "targeted_corpus": "euler hermes",
     "best_file": "contractnli/eulerhermes-nda.txt",
-    "similarity": 0.17309948801994324,
+    "similarity": 0.19392037391662598,
     "actual_files": [
       "contractnli/eulerhermes-nda.txt"
     ],
@@ -1301,9 +1301,9 @@
   },
   {
     "query": "Consider Euler Hermes's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
-    "targeted_corpus": "Euler Hermes's",
+    "targeted_corpus": "euler hermes",
     "best_file": "contractnli/eulerhermes-nda.txt",
-    "similarity": 0.17309948801994324,
+    "similarity": 0.19392037391662598,
     "actual_files": [
       "contractnli/eulerhermes-nda.txt"
     ],
@@ -1311,9 +1311,9 @@
   },
   {
     "query": "Consider Euler Hermes's Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
-    "targeted_corpus": "Euler Hermes's",
+    "targeted_corpus": "euler hermes",
     "best_file": "contractnli/eulerhermes-nda.txt",
-    "similarity": 0.17309948801994324,
+    "similarity": 0.19392037391662598,
     "actual_files": [
       "contractnli/eulerhermes-nda.txt"
     ],
@@ -1321,9 +1321,9 @@
   },
   {
     "query": "Consider HNBA's Confidentiality Agreement; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
-    "targeted_corpus": "HNBA's Confidentiality Agreement",
+    "targeted_corpus": "hnba",
     "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
-    "similarity": 0.7620667219161987,
+    "similarity": 0.47714686393737793,
     "actual_files": [
       "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
     ],
@@ -1331,9 +1331,9 @@
   },
   {
     "query": "Consider HNBA's Confidentiality Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
-    "targeted_corpus": "HNBA's Confidentiality Agreement",
+    "targeted_corpus": "hnba",
     "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
-    "similarity": 0.7620667219161987,
+    "similarity": 0.47714686393737793,
     "actual_files": [
       "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
     ],
@@ -1341,9 +1341,9 @@
   },
   {
     "query": "Consider HNBA's Confidentiality Agreement; Does the document state that Confidential Information shall only include technical information?",
-    "targeted_corpus": "HNBA's Confidentiality Agreement",
+    "targeted_corpus": "hnba confidentiality",
     "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
-    "similarity": 0.7620667219161987,
+    "similarity": 0.6767087578773499,
     "actual_files": [
       "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
     ],
@@ -1351,9 +1351,9 @@
   },
   {
     "query": "Consider HNBA's Confidentiality Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
-    "targeted_corpus": "HNBA's Confidentiality Agreement",
+    "targeted_corpus": "hnba",
     "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
-    "similarity": 0.7620667219161987,
+    "similarity": 0.47714686393737793,
     "actual_files": [
       "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
     ],
@@ -1361,9 +1361,9 @@
   },
   {
     "query": "Consider HNBA's Confidentiality Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
-    "targeted_corpus": "HNBA's Confidentiality Agreement",
+    "targeted_corpus": "hnba",
     "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
-    "similarity": 0.7620667219161987,
+    "similarity": 0.47714686393737793,
     "actual_files": [
       "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
     ],
@@ -1371,9 +1371,9 @@
   },
   {
     "query": "Consider HNBA's Confidentiality Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
-    "targeted_corpus": "HNBA's Confidentiality Agreement",
+    "targeted_corpus": "hnba",
     "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
-    "similarity": 0.7620667219161987,
+    "similarity": 0.47714686393737793,
     "actual_files": [
       "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
     ],
@@ -1381,9 +1381,9 @@
   },
   {
     "query": "Consider HNBA's Confidentiality Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
-    "targeted_corpus": "HNBA's Confidentiality Agreement",
+    "targeted_corpus": "hnba",
     "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
-    "similarity": 0.7620667219161987,
+    "similarity": 0.47714686393737793,
     "actual_files": [
       "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
     ],
@@ -1391,9 +1391,9 @@
   },
   {
     "query": "Consider HNBA's Confidentiality Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
-    "targeted_corpus": "HNBA's Confidentiality Agreement",
+    "targeted_corpus": "hnba confidentiality",
     "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
-    "similarity": 0.7620667219161987,
+    "similarity": 0.6767087578773499,
     "actual_files": [
       "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
     ],
@@ -1401,9 +1401,9 @@
   },
   {
     "query": "Consider HNBA's Confidentiality Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
-    "targeted_corpus": "HNBA's Confidentiality Agreement",
+    "targeted_corpus": "hnba",
     "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
-    "similarity": 0.7620667219161987,
+    "similarity": 0.47714686393737793,
     "actual_files": [
       "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
     ],
@@ -1411,9 +1411,9 @@
   },
   {
     "query": "Consider HNBA's Confidentiality Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
-    "targeted_corpus": "HNBA's Confidentiality Agreement",
+    "targeted_corpus": "hnba",
     "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
-    "similarity": 0.7620667219161987,
+    "similarity": 0.47714686393737793,
     "actual_files": [
       "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
     ],
@@ -1421,9 +1421,9 @@
   },
   {
     "query": "Consider HNBA's Confidentiality Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
-    "targeted_corpus": "HNBA's Confidentiality Agreement",
+    "targeted_corpus": "hnba",
     "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
-    "similarity": 0.7620667219161987,
+    "similarity": 0.47714686393737793,
     "actual_files": [
       "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
     ],
@@ -1431,9 +1431,9 @@
   },
   {
     "query": "Consider HNBA's Confidentiality Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
-    "targeted_corpus": "HNBA's Confidentiality Agreement",
+    "targeted_corpus": "hnba",
     "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
-    "similarity": 0.7620667219161987,
+    "similarity": 0.47714686393737793,
     "actual_files": [
       "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
     ],
@@ -1441,9 +1441,9 @@
   },
   {
     "query": "Consider HNBA's Confidentiality Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
-    "targeted_corpus": "HNBA's Confidentiality Agreement",
+    "targeted_corpus": "hnba",
     "best_file": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
-    "similarity": 0.7620667219161987,
+    "similarity": 0.47714686393737793,
     "actual_files": [
       "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt"
     ],
@@ -1451,7 +1451,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document mention whether or not the Receiving Party is allowed to reverse engineer any objects which embody the Disclosing Party's Confidential Information?",
-    "targeted_corpus": "IBC PMS",
+    "targeted_corpus": "ibc pms",
     "best_file": "contractnli/IBC-PMS-NDA-agreement.txt",
     "similarity": 0.46987229585647583,
     "actual_files": [
@@ -1461,7 +1461,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
-    "targeted_corpus": "IBC PMS",
+    "targeted_corpus": "ibc pms",
     "best_file": "contractnli/IBC-PMS-NDA-agreement.txt",
     "similarity": 0.46987229585647583,
     "actual_files": [
@@ -1471,7 +1471,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document state that Confidential Information shall only include technical information?",
-    "targeted_corpus": "IBC PMS",
+    "targeted_corpus": "ibc pms",
     "best_file": "contractnli/IBC-PMS-NDA-agreement.txt",
     "similarity": 0.46987229585647583,
     "actual_files": [
@@ -1481,7 +1481,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
-    "targeted_corpus": "IBC PMS",
+    "targeted_corpus": "ibc pms",
     "best_file": "contractnli/IBC-PMS-NDA-agreement.txt",
     "similarity": 0.46987229585647583,
     "actual_files": [
@@ -1491,7 +1491,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
-    "targeted_corpus": "IBC PMS",
+    "targeted_corpus": "ibc pms",
     "best_file": "contractnli/IBC-PMS-NDA-agreement.txt",
     "similarity": 0.46987229585647583,
     "actual_files": [
@@ -1501,7 +1501,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
-    "targeted_corpus": "IBC PMS",
+    "targeted_corpus": "ibc pms",
     "best_file": "contractnli/IBC-PMS-NDA-agreement.txt",
     "similarity": 0.46987229585647583,
     "actual_files": [
@@ -1511,7 +1511,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document allow verbally conveyed information to be considered as Confidential Information?",
-    "targeted_corpus": "IBC PMS",
+    "targeted_corpus": "ibc pms",
     "best_file": "contractnli/IBC-PMS-NDA-agreement.txt",
     "similarity": 0.46987229585647583,
     "actual_files": [
@@ -1521,7 +1521,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
-    "targeted_corpus": "IBC PMS",
+    "targeted_corpus": "ibc pms",
     "best_file": "contractnli/IBC-PMS-NDA-agreement.txt",
     "similarity": 0.46987229585647583,
     "actual_files": [
@@ -1531,7 +1531,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
-    "targeted_corpus": "IBC PMS",
+    "targeted_corpus": "ibc pms",
     "best_file": "contractnli/IBC-PMS-NDA-agreement.txt",
     "similarity": 0.46987229585647583,
     "actual_files": [
@@ -1541,7 +1541,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
-    "targeted_corpus": "IBC PMS",
+    "targeted_corpus": "ibc pms",
     "best_file": "contractnli/IBC-PMS-NDA-agreement.txt",
     "similarity": 0.46987229585647583,
     "actual_files": [
@@ -1551,7 +1551,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
-    "targeted_corpus": "IBC PMS",
+    "targeted_corpus": "ibc pms",
     "best_file": "contractnli/IBC-PMS-NDA-agreement.txt",
     "similarity": 0.46987229585647583,
     "actual_files": [
@@ -1561,7 +1561,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
-    "targeted_corpus": "IBC PMS",
+    "targeted_corpus": "ibc pms",
     "best_file": "contractnli/IBC-PMS-NDA-agreement.txt",
     "similarity": 0.46987229585647583,
     "actual_files": [
@@ -1571,7 +1571,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
-    "targeted_corpus": "IBC PMS",
+    "targeted_corpus": "ibc pms",
     "best_file": "contractnli/IBC-PMS-NDA-agreement.txt",
     "similarity": 0.46987229585647583,
     "actual_files": [
@@ -1581,7 +1581,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
-    "targeted_corpus": "IGC LSE",
+    "targeted_corpus": "igc lse",
     "best_file": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
     "similarity": 0.47055041790008545,
     "actual_files": [
@@ -1591,7 +1591,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
-    "targeted_corpus": "IGC LSE",
+    "targeted_corpus": "igc lse",
     "best_file": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
     "similarity": 0.47055041790008545,
     "actual_files": [
@@ -1601,7 +1601,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document state that Confidential Information shall only include technical information?",
-    "targeted_corpus": "IGC LSE",
+    "targeted_corpus": "igc lse",
     "best_file": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
     "similarity": 0.47055041790008545,
     "actual_files": [
@@ -1611,7 +1611,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
-    "targeted_corpus": "IGC LSE",
+    "targeted_corpus": "igc lse",
     "best_file": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
     "similarity": 0.47055041790008545,
     "actual_files": [
@@ -1621,7 +1621,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
-    "targeted_corpus": "IGC LSE",
+    "targeted_corpus": "igc lse",
     "best_file": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
     "similarity": 0.47055041790008545,
     "actual_files": [
@@ -1631,7 +1631,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
-    "targeted_corpus": "IGC LSE",
+    "targeted_corpus": "igc lse",
     "best_file": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
     "similarity": 0.47055041790008545,
     "actual_files": [
@@ -1641,7 +1641,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document allow verbally conveyed information to be considered as Confidential Information?",
-    "targeted_corpus": "IGC LSE",
+    "targeted_corpus": "igc lse",
     "best_file": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
     "similarity": 0.47055041790008545,
     "actual_files": [
@@ -1651,7 +1651,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
-    "targeted_corpus": "IGC LSE",
+    "targeted_corpus": "igc lse",
     "best_file": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
     "similarity": 0.47055041790008545,
     "actual_files": [
@@ -1661,7 +1661,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
-    "targeted_corpus": "IGC LSE",
+    "targeted_corpus": "igc lse",
     "best_file": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
     "similarity": 0.47055041790008545,
     "actual_files": [
@@ -1671,7 +1671,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
-    "targeted_corpus": "IGC LSE",
+    "targeted_corpus": "igc lse",
     "best_file": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
     "similarity": 0.47055041790008545,
     "actual_files": [
@@ -1681,7 +1681,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
-    "targeted_corpus": "IGC LSE",
+    "targeted_corpus": "igc lse",
     "best_file": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
     "similarity": 0.47055041790008545,
     "actual_files": [
@@ -1691,7 +1691,7 @@
   },
   {
     "query": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
-    "targeted_corpus": "IGC LSE",
+    "targeted_corpus": "igc lse",
     "best_file": "contractnli/IGC-Non-Disclosure-Agreement-LSE-Sample.txt",
     "similarity": 0.47055041790008545,
     "actual_files": [
@@ -1701,9 +1701,9 @@
   },
   {
     "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document mention whether or not the Receiving Party is allowed to reverse engineer any objects which embody the Disclosing Party's Confidential Information?",
-    "targeted_corpus": "INFOMAGNET's",
+    "targeted_corpus": "infomagnet",
     "best_file": "contractnli/INFOMAGNET%20NDA.txt",
-    "similarity": 0.5078193545341492,
+    "similarity": 0.5448758602142334,
     "actual_files": [
       "contractnli/INFOMAGNET%20NDA.txt"
     ],
@@ -1711,9 +1711,9 @@
   },
   {
     "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
-    "targeted_corpus": "INFOMAGNET's",
+    "targeted_corpus": "infomagnet",
     "best_file": "contractnli/INFOMAGNET%20NDA.txt",
-    "similarity": 0.5078193545341492,
+    "similarity": 0.5448758602142334,
     "actual_files": [
       "contractnli/INFOMAGNET%20NDA.txt"
     ],
@@ -1721,9 +1721,9 @@
   },
   {
     "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
-    "targeted_corpus": "INFOMAGNET's",
+    "targeted_corpus": "infomagnet",
     "best_file": "contractnli/INFOMAGNET%20NDA.txt",
-    "similarity": 0.5078193545341492,
+    "similarity": 0.5448758602142334,
     "actual_files": [
       "contractnli/INFOMAGNET%20NDA.txt"
     ],
@@ -1731,9 +1731,9 @@
   },
   {
     "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
-    "targeted_corpus": "INFOMAGNET's",
+    "targeted_corpus": "infomagnet",
     "best_file": "contractnli/INFOMAGNET%20NDA.txt",
-    "similarity": 0.5078193545341492,
+    "similarity": 0.5448758602142334,
     "actual_files": [
       "contractnli/INFOMAGNET%20NDA.txt"
     ],
@@ -1741,9 +1741,9 @@
   },
   {
     "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
-    "targeted_corpus": "INFOMAGNET's",
+    "targeted_corpus": "infomagnet",
     "best_file": "contractnli/INFOMAGNET%20NDA.txt",
-    "similarity": 0.5078193545341492,
+    "similarity": 0.5448758602142334,
     "actual_files": [
       "contractnli/INFOMAGNET%20NDA.txt"
     ],
@@ -1751,9 +1751,9 @@
   },
   {
     "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
-    "targeted_corpus": "INFOMAGNET's",
+    "targeted_corpus": "infomagnet",
     "best_file": "contractnli/INFOMAGNET%20NDA.txt",
-    "similarity": 0.5078193545341492,
+    "similarity": 0.5448758602142334,
     "actual_files": [
       "contractnli/INFOMAGNET%20NDA.txt"
     ],
@@ -1761,9 +1761,9 @@
   },
   {
     "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
-    "targeted_corpus": "INFOMAGNET's",
+    "targeted_corpus": "infomagnet",
     "best_file": "contractnli/INFOMAGNET%20NDA.txt",
-    "similarity": 0.5078193545341492,
+    "similarity": 0.5448758602142334,
     "actual_files": [
       "contractnli/INFOMAGNET%20NDA.txt"
     ],
@@ -1771,9 +1771,9 @@
   },
   {
     "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
-    "targeted_corpus": "INFOMAGNET's",
+    "targeted_corpus": "infomagnet",
     "best_file": "contractnli/INFOMAGNET%20NDA.txt",
-    "similarity": 0.5078193545341492,
+    "similarity": 0.5448758602142334,
     "actual_files": [
       "contractnli/INFOMAGNET%20NDA.txt"
     ],
@@ -1781,9 +1781,9 @@
   },
   {
     "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
-    "targeted_corpus": "INFOMAGNET's",
+    "targeted_corpus": "infomagnet",
     "best_file": "contractnli/INFOMAGNET%20NDA.txt",
-    "similarity": 0.5078193545341492,
+    "similarity": 0.5448758602142334,
     "actual_files": [
       "contractnli/INFOMAGNET%20NDA.txt"
     ],
@@ -1791,9 +1791,9 @@
   },
   {
     "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
-    "targeted_corpus": "INFOMAGNET's",
+    "targeted_corpus": "infomagnet",
     "best_file": "contractnli/INFOMAGNET%20NDA.txt",
-    "similarity": 0.5078193545341492,
+    "similarity": 0.5448758602142334,
     "actual_files": [
       "contractnli/INFOMAGNET%20NDA.txt"
     ],
@@ -1801,9 +1801,9 @@
   },
   {
     "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
-    "targeted_corpus": "INFOMAGNET's",
+    "targeted_corpus": "infomagnet",
     "best_file": "contractnli/INFOMAGNET%20NDA.txt",
-    "similarity": 0.5078193545341492,
+    "similarity": 0.5448758602142334,
     "actual_files": [
       "contractnli/INFOMAGNET%20NDA.txt"
     ],
@@ -1811,9 +1811,9 @@
   },
   {
     "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
-    "targeted_corpus": "INFOMAGNET's",
+    "targeted_corpus": "infomagnet",
     "best_file": "contractnli/INFOMAGNET%20NDA.txt",
-    "similarity": 0.5078193545341492,
+    "similarity": 0.5448758602142334,
     "actual_files": [
       "contractnli/INFOMAGNET%20NDA.txt"
     ],
@@ -1821,9 +1821,9 @@
   },
   {
     "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
-    "targeted_corpus": "INFOMAGNET's",
+    "targeted_corpus": "infomagnet",
     "best_file": "contractnli/INFOMAGNET%20NDA.txt",
-    "similarity": 0.5078193545341492,
+    "similarity": 0.5448758602142334,
     "actual_files": [
       "contractnli/INFOMAGNET%20NDA.txt"
     ],
@@ -1831,9 +1831,9 @@
   },
   {
     "query": "Consider INFOMAGNET's Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
-    "targeted_corpus": "INFOMAGNET's",
+    "targeted_corpus": "infomagnet",
     "best_file": "contractnli/INFOMAGNET%20NDA.txt",
-    "similarity": 0.5078193545341492,
+    "similarity": 0.5448758602142334,
     "actual_files": [
       "contractnli/INFOMAGNET%20NDA.txt"
     ],
@@ -1841,9 +1841,9 @@
   },
   {
     "query": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
-    "targeted_corpus": "Mutual IPTK CO",
+    "targeted_corpus": "iptk co",
     "best_file": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
-    "similarity": 0.6546364426612854,
+    "similarity": 0.5350709557533264,
     "actual_files": [
       "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
     ],
@@ -1851,9 +1851,9 @@
   },
   {
     "query": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document state that Confidential Information shall only include technical information?",
-    "targeted_corpus": "Mutual IPTK CO",
+    "targeted_corpus": "iptk",
     "best_file": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
-    "similarity": 0.6546364426612854,
+    "similarity": 0.49255961179733276,
     "actual_files": [
       "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
     ],
@@ -1861,9 +1861,9 @@
   },
   {
     "query": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
-    "targeted_corpus": "Mutual IPTK CO",
+    "targeted_corpus": "iptk",
     "best_file": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
-    "similarity": 0.6546364426612854,
+    "similarity": 0.49255961179733276,
     "actual_files": [
       "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
     ],
@@ -1871,9 +1871,9 @@
   },
   {
     "query": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
-    "targeted_corpus": "Mutual IPTK CO",
+    "targeted_corpus": "iptk",
     "best_file": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
-    "similarity": 0.6546364426612854,
+    "similarity": 0.49255961179733276,
     "actual_files": [
       "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
     ],
@@ -1881,9 +1881,9 @@
   },
   {
     "query": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
-    "targeted_corpus": "Mutual IPTK CO",
+    "targeted_corpus": "iptk co",
     "best_file": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
-    "similarity": 0.6546364426612854,
+    "similarity": 0.5350709557533264,
     "actual_files": [
       "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
     ],
@@ -1891,9 +1891,9 @@
   },
   {
     "query": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
-    "targeted_corpus": "Mutual IPTK CO",
+    "targeted_corpus": "iptk co",
     "best_file": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
-    "similarity": 0.6546364426612854,
+    "similarity": 0.5350709557533264,
     "actual_files": [
       "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
     ],
@@ -1901,9 +1901,9 @@
   },
   {
     "query": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document allow verbally conveyed information to be considered as Confidential Information?",
-    "targeted_corpus": "Mutual IPTK CO",
+    "targeted_corpus": "iptk",
     "best_file": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
-    "similarity": 0.6546364426612854,
+    "similarity": 0.49255961179733276,
     "actual_files": [
       "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
     ],
@@ -1911,9 +1911,9 @@
   },
   {
     "query": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
-    "targeted_corpus": "Mutual IPTK CO",
+    "targeted_corpus": "iptk co",
     "best_file": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
-    "similarity": 0.6546364426612854,
+    "similarity": 0.5350709557533264,
     "actual_files": [
       "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
     ],
@@ -1921,9 +1921,9 @@
   },
   {
     "query": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
-    "targeted_corpus": "Mutual IPTK CO",
+    "targeted_corpus": "iptk co",
     "best_file": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
-    "similarity": 0.6546364426612854,
+    "similarity": 0.5350709557533264,
     "actual_files": [
       "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
     ],
@@ -1931,9 +1931,9 @@
   },
   {
     "query": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
-    "targeted_corpus": "Mutual IPTK CO",
+    "targeted_corpus": "iptk co",
     "best_file": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
-    "similarity": 0.6546364426612854,
+    "similarity": 0.5350709557533264,
     "actual_files": [
       "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt"
     ],
