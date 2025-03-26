@@ -172,3 +172,4 @@ cython_debug/
 
 #Desktop Services Store
 .DS_Storebert_query_classifier/model.safetensors
+.DS_Store
