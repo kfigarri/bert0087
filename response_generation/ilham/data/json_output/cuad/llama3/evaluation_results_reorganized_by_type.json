@@ -1,0 +1,68 @@
+{
+    "baseline": {
+        "k1": {
+            "ragas_metrics": "{'faithfulness': 0.6575, 'answer_relevancy': 0.2998}",
+            "bert_f1": 0.7057263875745007,
+            "rouge_recall": 0.3545316826950978
+        },
+        "k3": {
+            "ragas_metrics": "{'faithfulness': 0.6912, 'answer_relevancy': 0.3397}",
+            "bert_f1": 0.7120289350907827,
+            "rouge_recall": 0.20389324070405535
+        },
+        "k5": {
+            "ragas_metrics": "{'faithfulness': 0.7091, 'answer_relevancy': 0.3539}",
+            "bert_f1": 0.710056027493526,
+            "rouge_recall": 0.15817795055722808
+        },
+        "k10": {
+            "ragas_metrics": "{'faithfulness': 0.6748, 'answer_relevancy': 0.2473}",
+            "bert_f1": 0.6874822971132613,
+            "rouge_recall": 0.09626729537838494
+        }
+    },
+    "CoT": {
+        "k1": {
+            "ragas_metrics": "{'faithfulness': 0.6663, 'answer_relevancy': 0.2547}",
+            "bert_f1": 0.7121460619046516,
+            "rouge_recall": 0.3892071148610544
+        },
+        "k3": {
+            "ragas_metrics": "{'faithfulness': 0.6305, 'answer_relevancy': 0.3950}",
+            "bert_f1": 0.7121153341740677,
+            "rouge_recall": 0.21049597237833909
+        },
+        "k5": {
+            "ragas_metrics": "{'faithfulness': 0.6284, 'answer_relevancy': 0.4146}",
+            "bert_f1": 0.6965855387682768,
+            "rouge_recall": 0.15529981993587436
+        },
+        "k10": {
+            "ragas_metrics": "{'faithfulness': 0.5642, 'answer_relevancy': 0.4413}",
+            "bert_f1": 0.6728724261227342,
+            "rouge_recall": 0.07945565959724021
+        }
+    },
+    "manually_written": {
+        "k1": {
+            "ragas_metrics": "{'faithfulness': 0.5012, 'answer_relevancy': 0.2816}",
+            "bert_f1": 0.7036664089591232,
+            "rouge_recall": 0.4897746614800545
+        },
+        "k3": {
+            "ragas_metrics": "{'faithfulness': 0.5979, 'answer_relevancy': 0.3799}",
+            "bert_f1": 0.7126831827089959,
+            "rouge_recall": 0.2788349592289338
+        },
+        "k5": {
+            "ragas_metrics": "{'faithfulness': 0.6127, 'answer_relevancy': 0.3979}",
+            "bert_f1": 0.7143007083651945,
+            "rouge_recall": 0.20956284003014675
+        },
+        "k10": {
+            "ragas_metrics": "{'faithfulness': 0.5364, 'answer_relevancy': 0.4420}",
+            "bert_f1": 0.6996896371399004,
+            "rouge_recall": 0.12434272486469516
+        }
+    }
+}

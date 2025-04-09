@@ -1,0 +1,1360 @@
+[
+    {
+        "user_input":"Consider \"Fiverr\"'s privacy policy; who can see which tasks i hire workers for?",
+        "response":"The privacy policy indicates that any information you publish on the site, including details about the tasks you hire workers for, is no longer private. This means that other users can potentially see this information. However, specific visibility settings or restrictions are not detailed in the provided context.",
+        "retrieved_contexts":[
+            "Information that you choose to publish on the Site (photos, videos, text, music, reviews, deliveries) - is no longer private, just like any information you publish online.\n  Technical information that is gathered by our systems, or third party systems, automatically may be used for Site operation, optimization, analytics, content promotion and enhancement of user experience."
+        ]
+    },
+    {
+        "user_input":"Consider \"Fiverr\"'s privacy policy; who can see the jobs that i post?",
+        "response":"The jobs you post on Fiverr are not private and can be seen by others, as any information you publish online is publicly accessible. This includes photos, videos, text, and other content related to your job postings.",
+        "retrieved_contexts":[
+            "Information that you choose to publish on the Site (photos, videos, text, music, reviews, deliveries) - is no longer private, just like any information you publish online.\n  Technical information that is gathered by our systems, or third party systems, automatically may be used for Site operation, optimization, analytics, content promotion and enhancement of user experience."
+        ]
+    },
+    {
+        "user_input":"Consider \"Fiverr\"'s privacy policy; what type of identifiable information is passed between users on the platform",
+        "response":"Fiverr's privacy policy indicates that identifiable information passed between users includes a valid email address, location, and username. Additionally, users may provide Facebook or Google account login details. This information is collected during the registration process.",
+        "retrieved_contexts":[
+            "When you register to the Site we ask you to provide certain personal information, including a valid email address, location, facebook or google account log in details and username."
+        ]
+    },
+    {
+        "user_input":"Consider \"Fiverr\"'s privacy policy; how is my info protected from hackers?",
+        "response":"Fiverr acknowledges that data transmission over the internet is not completely secure and cannot guarantee full protection against hackers. However, once your data is received, they implement strict procedures and security features to prevent unauthorized access. Ultimately, any transmission of data is at your own risk.",
+        "retrieved_contexts":[
+            "The transmission of data via the internet is not completely secure, and although we will do our best to protect your personal information, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk.\nOnce we have received your data, we will use strict procedures and security features to try to prevent unauthorized access."
+        ]
+    },
+    {
+        "user_input":"Consider \"Fiverr\"'s privacy policy; who can see my information?",
+        "response":"Your information published on Fiverr, such as photos, videos, and reviews, is no longer private and can be seen by others online. Additionally, technical information collected by Fiverr and third-party systems may be used for various operational and analytical purposes.",
+        "retrieved_contexts":[
+            "Information that you choose to publish on the Site (photos, videos, text, music, reviews, deliveries) - is no longer private, just like any information you publish online.\n  Technical information that is gathered by our systems, or third party systems, automatically may be used for Site operation, optimization, analytics, content promotion and enhancement of user experience."
+        ]
+    },
+    {
+        "user_input":"Consider \"Fiverr\"'s privacy policy; what information does the company store about me?",
+        "response":"Fiverr stores personal information as long as necessary to fulfill the purpose for which it was collected, including maintaining accurate records of your dealings with them. They may also retain your information for longer periods in certain circumstances. The specifics of what information is stored are not detailed in the provided context.",
+        "retrieved_contexts":[
+            "We apply a general rule of keeping personal information only for as long as is required to fulfil the purpose for which it was collected.\nHowever, in some circumstances we may retain your personal information for longer periods of time.\nWe may retain your information for the following purposes:\n   as long as it is necessary and relevant for our operations, e.g.\nso that we have an accurate record of your dealings with us in the event of any complaints or challenge; and"
+        ]
+    },
+    {
+        "user_input":"Consider \"Fiverr\"'s privacy policy; what information can other people see?",
+        "response":"Other people can see the information you choose to publish on Fiverr, such as photos, videos, text, music, reviews, and deliveries. This information is no longer private once it is shared on the site. Additionally, technical information gathered by systems may be used for various operational purposes but is not specified as visible to others.",
+        "retrieved_contexts":[
+            "Information that you choose to publish on the Site (photos, videos, text, music, reviews, deliveries) - is no longer private, just like any information you publish online.\n  Technical information that is gathered by our systems, or third party systems, automatically may be used for Site operation, optimization, analytics, content promotion and enhancement of user experience."
+        ]
+    },
+    {
+        "user_input":"Consider \"Fiverr\"'s privacy policy; how does fiverr protect freelancers' personal information?",
+        "response":"Fiverr is committed to protecting the personal information of its users, including freelancers. The privacy policy outlines their practices regarding the collection and handling of personal data when users visit or use the site. However, specific details on how they protect this information are not provided in the retrieved context.",
+        "retrieved_contexts":[
+            "Fiverr (including Fiverr Inc., Fiver International Ltd. and its affiliates) respects your privacy and is committed to protect the personal information of its users - buyers, sellers, and visitors browsing the Site (Users).\nWe believe that you have a right to know our practices regarding the information we may collect when you visit and\/or use the Site.\nThis Policy explains our privacy practices for the Site and services provided by Fiverr."
+        ]
+    },
+    {
+        "user_input":"Consider \"Fiverr\"'s privacy policy; how does fiverr ensure payments to freelancers are secure?",
+        "response":"Fiverr ensures payments to freelancers are secure by not being exposed to the payment information provided to their payment vendors. This information is protected under the privacy policy of the respective payment vendor. Additionally, personal information may only be disclosed during significant business transitions.",
+        "retrieved_contexts":[
+            "We are not exposed to the payment information provided to our payment vendors, and this information is subject to the privacy policy applicable to the payment vendor; and\n   your personal information may be disclosed if we go through a business transition such as a merger, sale, transfer of all or a portion of Fiverr's assets, acquisition, bankruptcy or similar event."
+        ]
+    },
+    {
+        "user_input":"Consider \"Fiverr\"'s privacy policy; is my information sold to any third parties?",
+        "response":"The provided context does not specify whether Fiverr sells your information to third parties. Therefore, I don't know if your information is sold. For accurate details, please refer directly to Fiverr's privacy policy.",
+        "retrieved_contexts":[
+            "We may ask you for additional data to confirm your identity and for security purposes, before disclosing data requested to you.\nWe reserve the right to charge a fee where permitted by law.\nWe may also decline to process requests that jeopardize the privacy of others, are extremely impractical, or would cause us to take any action that is not permissible under applicable laws."
+        ]
+    },
+    {
+        "user_input":"Consider \"Fiverr\"'s privacy policy; will my location be constantly tracked?",
+        "response":"Yes, Fiverr may collect geo-location information along with other usage data when you access their site. However, it does not specify that your location will be constantly tracked. For detailed information, it's best to review their full privacy policy.",
+        "retrieved_contexts":[
+            "In other words, when you access the Site we are aware of your usage of the Site, and may gather, collect and record the information relating to such usage, including geo-location information, IP address, device and connection information, browser information and web-log information, and all communications recorded by Users through the Site."
+        ]
+    },
+    {
+        "user_input":"Consider \"Fiverr\"'s privacy policy; will potential employers be able to obtain my address?",
+        "response":"According to Fiverr's privacy policy, your contact information, including your address, will not be shared with potential employers except as described in the policy. Therefore, it appears that your address will not be accessible to them. However, it's always best to review the full privacy policy for specific details.",
+        "retrieved_contexts":[
+            "We collect information that you provide us or voluntarily share with other users, and also some general technical information that is automatically gathered by our systems, such as IP address, browser information and cookies to enable you to have a better user experience and a more personalized browsing experience.\n  We will not share information that you provide us in the process of the registration - including your contact information - except as described in this Policy."
+        ]
+    },
+    {
+        "user_input":"Consider \"Fiverr\"'s privacy policy; can i control the information that is presented to potential employers?",
+        "response":"The retrieved context does not provide specific information about controlling the information presented to potential employers on Fiverr. Therefore, I don't know if you can control that information.",
+        "retrieved_contexts":[
+            "We may provide your personal details to third parties, only in order to operate the Site, provide our services to you, fulfil obligations imposed on us by applicable laws and regulations, and prevent fraud and illegal activities, as detailed below:\n   to service providers for the purpose of opening and operating your account as well as providing ancillary services (example - payment vendors, CRM systems, forum hosting, community management services, mailing systems or technical consultants)."
+        ]
+    },
+    {
+        "user_input":"Consider \"Fiverr\"'s privacy policy; can other parties see my information",
+        "response":"Yes, other parties can see your information if it is necessary to operate the site, provide services, fulfill legal obligations, or prevent fraud. This includes sharing with service providers like payment vendors and technical consultants.",
+        "retrieved_contexts":[
+            "We may provide your personal details to third parties, only in order to operate the Site, provide our services to you, fulfil obligations imposed on us by applicable laws and regulations, and prevent fraud and illegal activities, as detailed below:\n   to service providers for the purpose of opening and operating your account as well as providing ancillary services (example - payment vendors, CRM systems, forum hosting, community management services, mailing systems or technical consultants)."
+        ]
+    },
+    {
+        "user_input":"Consider \"Fiverr\"'s privacy policy; can other people see my financial information",
+        "response":"The context does not explicitly state whether other people can see your financial information. However, it mentions that personal details may be shared with third parties for operational purposes, which could include financial information. For specific details about privacy and data sharing, it's best to refer directly to Fiverr's privacy policy.",
+        "retrieved_contexts":[
+            "We may provide your personal details to third parties, only in order to operate the Site, provide our services to you, fulfil obligations imposed on us by applicable laws and regulations, and prevent fraud and illegal activities, as detailed below:\n   to service providers for the purpose of opening and operating your account as well as providing ancillary services (example - payment vendors, CRM systems, forum hosting, community management services, mailing systems or technical consultants)."
+        ]
+    },
+    {
+        "user_input":"Consider \"Fiverr\"'s privacy policy; what information do you collect?",
+        "response":"Fiverr collects information about sellers and their Gigs, users' locations, portfolio sharing, ratings, and feedback from buyers. Additionally, they gather technical information automatically, such as IP addresses, software configurations, operating systems, and data from cookies.",
+        "retrieved_contexts":[
+            "This can include information about sellers and their Gigs, User's location, sharing of portfolio, ratings and feedbacks by buyers and anything you choose to add to your user profile.\nWe also collect technical information indirectly and automatically through our systems.\nThis information may include logging your Internet Protocol (IP) address, software configuration, operating system and use of cookies (cookies are small files sent from us to your computer and sometimes back)."
+        ]
+    },
+    {
+        "user_input":"Consider \"Fiverr\"'s privacy policy; do you sell my information to third parties?",
+        "response":"According to Fiverr's privacy policy, they do not sell your information to third parties. Your personal information may be processed by third-party service providers acting on their behalf, but they do not allow others to contact you directly.",
+        "retrieved_contexts":[
+            "We may use your information to contact you - to provide notices related to your activities, or offer you promotions and general updates, but we will not let any other person, including sellers and buyers, contact you, other than through your user profile on the Site.\n  Your personal information may be stored in systems based around the world, and may be processed by third party service providers acting on our behalf."
+        ]
+    },
+    {
+        "user_input":"Consider \"Fiverr\"'s privacy policy; do you use a secure payment service?",
+        "response":"Yes, Fiverr uses secure payment vendors to handle transactions. They do not collect credit information directly but allow their payment vendors to do so for processing payments. This helps protect against fraud and unauthorized transactions.",
+        "retrieved_contexts":[
+            "to secure the site and protect it against fraud, unauthorized transactions (such as money laundering), claims or other liabilities.\nWe do not collect credit information; but allow our payment vendors to collect information for the purpose of collecting payments from buyers on the Site or transferring payments to sellers on the Site."
+        ]
+    },
+    {
+        "user_input":"Consider \"Fiverr\"'s privacy policy; how is information used?",
+        "response":"Fiverr uses collected information to provide services like payment processing and to ensure marketplace integrity, including fraud prevention. They may also gather information while users access or browse the site. This includes additional details such as physical addresses and contact information.",
+        "retrieved_contexts":[
+            "We may collect additional information such as physical address, telephone number or other contact details and additional authentication information, to provide you with the services you need (such as payment or withdrawal of funds, sending physical goods), or to ensure the marketplace integrity (for example, prevention of fraud).\n  In addition, we collect information while you access, browse, view or otherwise use the Site."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; who has access to my workout plans?",
+        "response":"The context does not specify who exactly has access to your workout plans. It mentions that your information is used to maintain and improve services, but does not detail access rights. Therefore, I don't know who has access to your workout plans.",
+        "retrieved_contexts":[
+            "We need your age, height and weight to calculate your consumption of calorie when you complete each training class.\nMaintain and improve our services.\nWe use your information to ensure our services are working as intended, such as troubleshooting issues reported from you.\nDevelop new services.\nWe value your every uploaded training information as it is crucial for us to better understand which training class is more helpful to you."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; will my fitness coach share my information with others?",
+        "response":"According to \"Keep\"'s privacy policy, your fitness coach will not disclose or transfer your personal information to non-affiliated third parties without your consent. You have the option to share certain information or adjust your privacy settings to share more. However, any sharing of activity on other platforms is at your discretion.",
+        "retrieved_contexts":[
+            "We will not disclose or transfer your personal information to any non-affiliated third parties, unless:\nYou may choose to share certain information.\nIn order to participate in certain features, you may have to adjust your Privacy settings and share more information.\nYou may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; will my progress only be posted to social media if i want it to?",
+        "response":"Yes, your progress will only be posted to social media if you choose to share it. You have the option to adjust your privacy settings accordingly.",
+        "retrieved_contexts":[
+            "We will not disclose or transfer your personal information to any non-affiliated third parties, unless:\nYou may choose to share certain information.\nIn order to participate in certain features, you may have to adjust your Privacy settings and share more information.\nYou may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; will any photos i take be accessed by outside parties?",
+        "response":"According to \"Keep\"'s privacy policy, your photos will not be disclosed or transferred to non-affiliated third parties unless you choose to share them. You have control over your privacy settings and can decide what information to share. Therefore, outside parties will not access your photos without your consent.",
+        "retrieved_contexts":[
+            "We will not disclose or transfer your personal information to any non-affiliated third parties, unless:\nYou may choose to share certain information.\nIn order to participate in certain features, you may have to adjust your Privacy settings and share more information.\nYou may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; will my information be shared with other companies for marketing?",
+        "response":"Yes, your information may be shared with affiliate companies, joint venture partners, and third-party service providers for marketing purposes, as long as you have consented.",
+        "retrieved_contexts":[
+            "To provide you with a better experience through improving our products, services, content, and advertising or otherwise where you have consented, we may share the personal information with our affiliate companies and with joint venture partners and third-party service providers, contractors and agents, and use it consistent with this Privacy Policy."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; will the app use my data for marketing purposes?",
+        "response":"No, \"Keep\" will not use your data for marketing purposes. They explicitly state that they will never share or sell your information to advertisers without your authorization. Additionally, they will not use your information for marketing or advertising services.",
+        "retrieved_contexts":[
+            "We will never share with or sell the information gained through the use of Apple HealthKit, such as age, weight and heart rate data, to advertisers or other agencies without your authorization.\nWe will also never use the information for marketing, advertising or similar services."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; does this app get access to my other apps like twitter and instagram?",
+        "response":"I don't know.",
+        "retrieved_contexts":[
+            "Please read the Privacy Policies of those platforms, as your activity published on those platforms will no longer be governed by this Privacy Policy."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; how safe is my account information on this app?",
+        "response":"Your account information on the \"Keep\" app is generally safe, as the privacy policy states that personal information will not be disclosed to non-affiliated third parties without your consent. However, you may need to adjust your privacy settings to participate in certain features, which could involve sharing more information. Additionally, sharing activity on other platforms may expose your information further.",
+        "retrieved_contexts":[
+            "We will not disclose or transfer your personal information to any non-affiliated third parties, unless:\nYou may choose to share certain information.\nIn order to participate in certain features, you may have to adjust your Privacy settings and share more information.\nYou may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; are my statistics kept private?",
+        "response":"Your statistics are kept private unless you choose to share them or adjust your privacy settings. The policy states that personal information will not be disclosed to non-affiliated third parties without your consent. However, sharing activity on other platforms is optional.",
+        "retrieved_contexts":[
+            "We will not disclose or transfer your personal information to any non-affiliated third parties, unless:\nYou may choose to share certain information.\nIn order to participate in certain features, you may have to adjust your Privacy settings and share more information.\nYou may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; who can see my data?",
+        "response":"The context does not specify who can see your data. It mentions that data may be retained for legitimate business or legal purposes and that security measures are in place to protect your information. For specific details on who can access your data, you would need to refer directly to \"Keep\"'s privacy policy.",
+        "retrieved_contexts":[
+            "In some cases, we retain data for limited periods when it needs to be kept for legitimate business or legal purposes or to be protected from accidental or malicious deletion, there may be delays between when you delete something and when copies are deleted from our active and backup systems.\nWe use a variety of security measures, including encryption and authentication tools, to help protect your information.\nWe use secure servers when you place orders."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; does the app access my contact list?",
+        "response":"Yes, the Keep app may access your contact list if you permit it to do so. You have to provide explicit consent for this access. The app commits not to sell your personal information to third parties without your consent.",
+        "retrieved_contexts":[
+            "In addition, you may also permit Keep to access other content and data on your device  for example, your contact list and photo storage.\nOther than consented by you, we commit that we will not sell your personal information to any other third parties for their processing for any purposes.\nWe will ask for your explicit consent to share any sensitive personal information such as race, religion, sexual orientation, or health."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; is my data safe?",
+        "response":"Your data is protected by various security measures, including encryption and authentication tools. However, some data may be retained for legal or business purposes, which could lead to delays in deletion. Overall, while there are protections in place, complete safety cannot be guaranteed.",
+        "retrieved_contexts":[
+            "In some cases, we retain data for limited periods when it needs to be kept for legitimate business or legal purposes or to be protected from accidental or malicious deletion, there may be delays between when you delete something and when copies are deleted from our active and backup systems.\nWe use a variety of security measures, including encryption and authentication tools, to help protect your information.\nWe use secure servers when you place orders."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; are you storing any of my information?",
+        "response":"Yes, \"Keep\" may retain your data for legitimate business or legal purposes, even after you delete it. They implement security measures like encryption to protect your information. However, specific details about what information is stored are not provided.",
+        "retrieved_contexts":[
+            "In some cases, we retain data for limited periods when it needs to be kept for legitimate business or legal purposes or to be protected from accidental or malicious deletion, there may be delays between when you delete something and when copies are deleted from our active and backup systems.\nWe use a variety of security measures, including encryption and authentication tools, to help protect your information.\nWe use secure servers when you place orders."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; do you access any of my contact's information?",
+        "response":"According to the privacy policy, \"Keep\" will not disclose or transfer your personal information to non-affiliated third parties without your consent. However, you may choose to share certain information, which could include your contacts, depending on your privacy settings. Ultimately, it depends on the choices you make regarding information sharing.",
+        "retrieved_contexts":[
+            "We will not disclose or transfer your personal information to any non-affiliated third parties, unless:\nYou may choose to share certain information.\nIn order to participate in certain features, you may have to adjust your Privacy settings and share more information.\nYou may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; does it save any of my health data?",
+        "response":"Yes, \"Keep\" may save your health data as it collaborates with Apple HealthKit to read and sync training data. This process occurs with your authorization during registration.",
+        "retrieved_contexts":[
+            "For example, we may send and receive data to and from Apple HealthKit to collaborate training consumption calculation on your iOS system with your authorization.\nDuring the register process, we read data from Apple HealthKit to simplify the age and weight input process, in the meantime, your training data will be sync back to Apple HealthKit."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; can the app access my location?",
+        "response":"The retrieved context does not explicitly mention whether \"Keep\" can access your location. It indicates that you may need to adjust your privacy settings to share certain information. For specific details about location access, you may need to refer directly to the app's privacy policy.",
+        "retrieved_contexts":[
+            "We will not disclose or transfer your personal information to any non-affiliated third parties, unless:\nYou may choose to share certain information.\nIn order to participate in certain features, you may have to adjust your Privacy settings and share more information.\nYou may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; is any information shared with third parties?",
+        "response":"Yes, \"Keep\" may share personal information with affiliate companies, joint venture partners, and third-party service providers as outlined in their privacy policy. This sharing is done to improve products and services or where consent has been given.",
+        "retrieved_contexts":[
+            "To provide you with a better experience through improving our products, services, content, and advertising or otherwise where you have consented, we may share the personal information with our affiliate companies and with joint venture partners and third-party service providers, contractors and agents, and use it consistent with this Privacy Policy."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; can it access my other social media accounts?",
+        "response":"\"Keep\" can access your other social media accounts if you choose to share your activity on those platforms. However, it will not disclose or transfer your personal information to non-affiliated third parties without your consent. You have control over your privacy settings and the information you share.",
+        "retrieved_contexts":[
+            "We will not disclose or transfer your personal information to any non-affiliated third parties, unless:\nYou may choose to share certain information.\nIn order to participate in certain features, you may have to adjust your Privacy settings and share more information.\nYou may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; what information will this app have access to of mine?",
+        "response":"The Keep app will have access to information you provide during registration, your login details if you use third-party accounts, and any communications you have with them. Additionally, it collects data as you use the app. For more details, you may refer to the full privacy policy.",
+        "retrieved_contexts":[
+            "We collect information from you when you use Keep App  for example, when you:\nRegister to use Keep App;\nLog into Keep App with third party platform accounts;\nUse Keep App; and\nCommunicate with us.\nThe following sets out how we collect such information from you as you use Keep App.\nThe remainder of this Privacy Policy sets out further information regarding some of these categories.\nRegistration and Account Information.\nYou must register for a Keep account in order to use Keep."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; will the personal info i share with this app to sign up be shared with other companies, etc?",
+        "response":"According to \"Keep\"'s privacy policy, your personal information will not be disclosed or transferred to non-affiliated third parties unless you choose to share it. You may need to adjust your privacy settings to participate in certain features. Additionally, you can opt to share your activity on other platforms like Facebook or Twitter.",
+        "retrieved_contexts":[
+            "We will not disclose or transfer your personal information to any non-affiliated third parties, unless:\nYou may choose to share certain information.\nIn order to participate in certain features, you may have to adjust your Privacy settings and share more information.\nYou may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; will my workout data be given to anyone else or shared with anyone (i.e. insurance companies)?",
+        "response":"According to \"Keep\"'s privacy policy, your workout data will not be shared or sold to anyone, including insurance companies, without your authorization. They also do not use this information for marketing or advertising purposes. Therefore, your data remains private.",
+        "retrieved_contexts":[
+            "We will never share with or sell the information gained through the use of Apple HealthKit, such as age, weight and heart rate data, to advertisers or other agencies without your authorization.\nWe will also never use the information for marketing, advertising or similar services."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; how well does keep protect my data and how do they do that?",
+        "response":"Keep collects and stores your Personal Information to fulfill purchases and processes payments through its affiliate companies. They also automatically gather Log Data from your device to enhance their functionalities. However, the specific measures they take to protect your data are not detailed in the provided context.",
+        "retrieved_contexts":[
+            "Where we or our affiliate companies process your payments as a payment service provider, or where we fulfill any purchases you have made on Keep, we may collect, use and store your Personal Information in order to fulfill such purchases.\nLocation Data, Log Data and your device.Keep automatically collects Log Data from your device to enable and assist Keeps functionalities."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; can people see what workout list i'm using?",
+        "response":"The context does not explicitly state whether others can see your workout list. It mentions that the information is used to customize services for you but does not address visibility to other users. Therefore, I don't know if people can see your workout list.",
+        "retrieved_contexts":[
+            "With adequate data support, we will create and update more popular training classes for you to take.\nPersonalized service.\nWe use the information we collect to customize our services for you.\nFor example, we may provide you with advanced training classes with your updated weight and body measurement in aims to help you achieve your training goals smoothly.\nHowever, we dont show you personalized ads based on sensitive categories, such as race, religion, sexual orientation, or health."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; can people see my workout log?",
+        "response":"People can see your workout log if you choose to share it on other platforms or adjust your privacy settings to allow sharing. Otherwise, your personal information will not be disclosed to non-affiliated third parties.",
+        "retrieved_contexts":[
+            "We will not disclose or transfer your personal information to any non-affiliated third parties, unless:\nYou may choose to share certain information.\nIn order to participate in certain features, you may have to adjust your Privacy settings and share more information.\nYou may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; will they share my information with anyone?",
+        "response":"\"Keep\" will not disclose or transfer your personal information to non-affiliated third parties unless you choose to share certain information. You may need to adjust your privacy settings to participate in certain features. Additionally, you can opt to share your activity on other platforms.",
+        "retrieved_contexts":[
+            "We will not disclose or transfer your personal information to any non-affiliated third parties, unless:\nYou may choose to share certain information.\nIn order to participate in certain features, you may have to adjust your Privacy settings and share more information.\nYou may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; will my location be monitored and shared?",
+        "response":"The context does not explicitly state whether your location will be monitored and shared. It mentions that you may choose to share certain information and adjust your privacy settings. Therefore, it is unclear if location data specifically will be shared.",
+        "retrieved_contexts":[
+            "We will not disclose or transfer your personal information to any non-affiliated third parties, unless:\nYou may choose to share certain information.\nIn order to participate in certain features, you may have to adjust your Privacy settings and share more information.\nYou may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; how is my information protected?",
+        "response":"Your information is protected through various security measures, including encryption and authentication tools. Additionally, secure servers are used when you place orders. However, data may be retained for limited periods for legitimate business or legal purposes.",
+        "retrieved_contexts":[
+            "In some cases, we retain data for limited periods when it needs to be kept for legitimate business or legal purposes or to be protected from accidental or malicious deletion, there may be delays between when you delete something and when copies are deleted from our active and backup systems.\nWe use a variety of security measures, including encryption and authentication tools, to help protect your information.\nWe use secure servers when you place orders."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; will any of my information be sold?",
+        "response":"According to \"Keep\"'s privacy policy, your personal information will not be disclosed or transferred to non-affiliated third parties without your consent. You have the option to share certain information and adjust your privacy settings. Therefore, your information will not be sold unless you choose to share it.",
+        "retrieved_contexts":[
+            "We will not disclose or transfer your personal information to any non-affiliated third parties, unless:\nYou may choose to share certain information.\nIn order to participate in certain features, you may have to adjust your Privacy settings and share more information.\nYou may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; do you know my location",
+        "response":"I don't know. The provided context does not specify whether \"Keep\" knows your location. It only mentions sharing personal information with affiliates and third parties.",
+        "retrieved_contexts":[
+            "To provide you with a better experience through improving our products, services, content, and advertising or otherwise where you have consented, we may share the personal information with our affiliate companies and with joint venture partners and third-party service providers, contractors and agents, and use it consistent with this Privacy Policy."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; do you keep and upload my activity to your database",
+        "response":"Yes, Keep collects and stores Log Data from your device to assist with its functionalities. However, the context does not specify if your activity is uploaded to a database. For detailed information, please refer to Keep's full privacy policy.",
+        "retrieved_contexts":[
+            "Where we or our affiliate companies process your payments as a payment service provider, or where we fulfill any purchases you have made on Keep, we may collect, use and store your Personal Information in order to fulfill such purchases.\nLocation Data, Log Data and your device.Keep automatically collects Log Data from your device to enable and assist Keeps functionalities."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; do you use my data to modify the app",
+        "response":"The provided context does not explicitly state whether your data is used to modify the app. It mentions that information is collected when you use the Keep App, but further details on data usage for app modification are not included. Therefore, I don't know if your data is used to modify the app.",
+        "retrieved_contexts":[
+            "We collect information from you when you use Keep App  for example, when you:\nRegister to use Keep App;\nLog into Keep App with third party platform accounts;\nUse Keep App; and\nCommunicate with us.\nThe following sets out how we collect such information from you as you use Keep App.\nThe remainder of this Privacy Policy sets out further information regarding some of these categories.\nRegistration and Account Information.\nYou must register for a Keep account in order to use Keep."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; do you sell my data",
+        "response":"The privacy policy does not explicitly state that \"Keep\" sells your data. However, it mentions sharing personal information with affiliate companies, joint venture partners, and third-party service providers. It's important to review the full policy for specific details on data sharing practices.",
+        "retrieved_contexts":[
+            "To provide you with a better experience through improving our products, services, content, and advertising or otherwise where you have consented, we may share the personal information with our affiliate companies and with joint venture partners and third-party service providers, contractors and agents, and use it consistent with this Privacy Policy."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; do you share my location with other people",
+        "response":"According to the privacy policy, \"Keep\" will not disclose or transfer your personal information to non-affiliated third parties without your consent. However, you may choose to share certain information, including your location, by adjusting your privacy settings. Ultimately, sharing your location is optional and depends on your choices.",
+        "retrieved_contexts":[
+            "We will not disclose or transfer your personal information to any non-affiliated third parties, unless:\nYou may choose to share certain information.\nIn order to participate in certain features, you may have to adjust your Privacy settings and share more information.\nYou may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; are my goals shared with third parties?",
+        "response":"Yes, your personal information may be shared with affiliate companies, joint venture partners, and third-party service providers as outlined in the privacy policy. This sharing is done to improve products, services, and advertising, and is consistent with the policy. However, it is done where you have consented.",
+        "retrieved_contexts":[
+            "To provide you with a better experience through improving our products, services, content, and advertising or otherwise where you have consented, we may share the personal information with our affiliate companies and with joint venture partners and third-party service providers, contractors and agents, and use it consistent with this Privacy Policy."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; do you keep track of my physical measurements like height and weight?",
+        "response":"Yes, \"Keep\" tracks your height and weight to calculate your calorie consumption during training classes. This information is used to maintain and improve their services.",
+        "retrieved_contexts":[
+            "We need your age, height and weight to calculate your consumption of calorie when you complete each training class.\nMaintain and improve our services.\nWe use your information to ensure our services are working as intended, such as troubleshooting issues reported from you.\nDevelop new services.\nWe value your every uploaded training information as it is crucial for us to better understand which training class is more helpful to you."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; does it have access to my gps information?",
+        "response":"Yes, Keep automatically collects Log Data from your device, which may include GPS information. This data is used to enable and assist Keep's functionalities. For more specific details, you may want to review the full privacy policy.",
+        "retrieved_contexts":[
+            "Where we or our affiliate companies process your payments as a payment service provider, or where we fulfill any purchases you have made on Keep, we may collect, use and store your Personal Information in order to fulfill such purchases.\nLocation Data, Log Data and your device.Keep automatically collects Log Data from your device to enable and assist Keeps functionalities."
+        ]
+    },
+    {
+        "user_input":"Consider \"Keep\"'s privacy policy; will biological data like heart rate, blood pressure, etc. be collected via the app?",
+        "response":"The privacy policy indicates that biological data like heart rate and blood pressure will not be shared or sold to advertisers without user authorization. However, it does not explicitly state whether such data will be collected by the app. Therefore, it is unclear if the app collects this biological data.",
+        "retrieved_contexts":[
+            "We will never share with or sell the information gained through the use of Apple HealthKit, such as age, weight and heart rate data, to advertisers or other agencies without your authorization.\nWe will also never use the information for marketing, advertising or similar services."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; what security system do you have in place for the app?",
+        "response":"I don't know.",
+        "retrieved_contexts":[
+            "If you have questions about the security and privacy settings of your mobile device, please refer to instructions from your mobile service provider or the manufacturer of your device to learn how to adjust your settings.\nWe collect your location information, including precise real-time geolocation, such as through look up based on IP address, GPS, Bluetooth, or WiFi signals, consistent with your choice of mobile device settings."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; what happen if my account get compromise?",
+        "response":"If your Groupon account gets compromised, you should contact their support at support@groupon.com to deactivate your account or request the cessation of use of your personal information. They will retain your information as necessary for legal obligations and to resolve disputes. It's important to act quickly to protect your personal data.",
+        "retrieved_contexts":[
+            "We will retain yourPersonal Informationfor as long as your account is active or as needed to provide you services and to maintain a record of your transactions for financial reporting purposes.\nIf you wish to deactivate your account or request that we no longer use yourPersonal Informationto provide you services contact us atsupport@groupon.com.\nWe will retain and use yourPersonal Informationas necessary to comply with our legal obligations, resolve disputes, and enforce our agreements."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; will my information be saved after i use groupon once?",
+        "response":"Yes, Groupon will retain your personal information as long as your account is active or as needed for service provision and financial reporting. If you wish to stop using your information, you can deactivate your account or contact their support.",
+        "retrieved_contexts":[
+            "We will retain yourPersonal Informationfor as long as your account is active or as needed to provide you services and to maintain a record of your transactions for financial reporting purposes.\nIf you wish to deactivate your account or request that we no longer use yourPersonal Informationto provide you services contact us atsupport@groupon.com.\nWe will retain and use yourPersonal Informationas necessary to comply with our legal obligations, resolve disputes, and enforce our agreements."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; who will have access to my information?",
+        "response":"According to Groupon's privacy policy, your information may be collected, transferred, and processed by them in accordance with their Privacy Statement. They emphasize that you are responsible for compliance with data protection obligations in your jurisdiction. The policy also states that they will protect your information regardless of where it is transferred.",
+        "retrieved_contexts":[
+            "You agree and consent to our collection, transfer, and processing of yourPersonal InformationandNon-Identifiable Informationin accordance with this Privacy Statement.\nYou are solely responsible for compliance with any data protection or privacy obligations in your jurisdiction when you use the Site or provide us withPersonal Information.\nRegardless of where we transfer your information, we still protect your information in the manner described in this Privacy Statement."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; do i have to tell you my location?",
+        "response":"According to Groupon's privacy policy, you have control over whether your precise geolocation information is collected through your device settings. Therefore, you do not have to provide your location if you choose not to.",
+        "retrieved_contexts":[
+            "You can control how and whether we collect your precise geolocation information through your devices settings.\n(d) E-mails from Business Partners\nIf you wish to opt out of receiving offers directly from ourBusiness Partners, you can follow the opt-out instructions in the emails that they send you.\nWe (or ourVendorson our behalf), use information collected as described in this Privacy Statement to:\nOperate, maintain and improve the Site and our services, andOther Programs;"
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; will you ever sell my information?",
+        "response":"The retrieved context does not explicitly state whether Groupon will sell your information. It mentions that they may share your personal information as required or permitted by law. For specific details regarding the sale of information, it would be best to consult Groupon's privacy policy directly.",
+        "retrieved_contexts":[
+            "If you use any features on the Site to send information about a product or service to another person (eg, a friend, a colleague, a professional associate, etc), we will also collect thePersonal Informationof that other person to the extent disclosed by you and may contact them using the information you provided us.\nWe (or ourVendorson our behalf) may share yourPersonal Informationas required or permitted by law:"
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; how long will you have my information for?",
+        "response":"I don't know.",
+        "retrieved_contexts":[
+            "; and information about friends who refer you or whom you have referred;"
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; what kind of data does groupon collect?",
+        "response":"Groupon collects both Personal Information and Non-Identifying Information when users interact with their site, such as during account registration, email responses, and customer service interactions. They also gather data when users refer others or participate in programs with business partners.",
+        "retrieved_contexts":[
+            "We will collect information, includingPersonal InformationandNon-Identifying Information, when you interact with us and the Site, for example when you:\naccess or use the Site;\nregister, subscribe, or create an account with Groupon;\nopen or respond to our e-mails;\nrefer friends, family, or others to Groupon;\ncontact customer service or use other customer support tools;\nprovide information to enroll or participate inOther Programsprovided on behalf of, or together with,Business Partners;"
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; what does groupon do with collected data? (eg, does it sell it to third parties?)",
+        "response":"The retrieved context does not specify whether Groupon sells collected data to third parties. It mentions that Groupon will use the information in accordance with applicable laws and its Privacy Statement. For specific details about data sharing practices, it's best to consult the full privacy policy directly.",
+        "retrieved_contexts":[
+            "We also receivePersonal Informationand other online and offline information fromOther Sources.\nGroupon will use such information in accordance with applicable laws.\nSuch information, when combined with Personal Information collected as provided in this Privacy Statement, will also be handled in accordance with this Privacy Statement."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; what kind of permissions do i have to grant it?",
+        "response":"You must grant Groupon permission to access the elements of your social network profile information that you have made available for sharing. This access is in accordance with the terms of use of the social networks and Groupon's Privacy Statement. The policy specifically addresses how Groupon uses and discloses information based on your interactions with their site.",
+        "retrieved_contexts":[
+            "By proceeding through any of the above steps, you grant Groupon permission to access all of the elements of your social network profile information that you have made available to be shared and to use it in accordance with the social networks terms of use and this Privacy Statement.\nThis Privacy Statement only addresses the use and disclosure of information by Groupon through your interaction with the Site."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; what kind of security protocol does groupon use to protect data and privacy of its users?",
+        "response":"Groupon acknowledges that no method of transmission or electronic storage is 100% secure, and therefore cannot guarantee absolute security. For specific security inquiries, users can contact Groupon at privacy@groupon.com. Users can also manage their personal information through their online account.",
+        "retrieved_contexts":[
+            "No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.\nTherefore, we cannot guarantee its absolute security.\nIf you have any questions about security on our Web site, you can contact us at privacy@groupon.com.\nYou can access, update and delete yourPersonal Informationyou provided to us, as described below, by managing this information through your online account or sending us an email atprivacy@groupon.com."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; if i decide to discontinue using groupon, how long does it keep my data?",
+        "response":"Groupon retains your personal information as long as your account is active or as needed to provide services and maintain transaction records. If you deactivate your account, they will still keep your data to comply with legal obligations and resolve disputes. For specific details, you may contact their support.",
+        "retrieved_contexts":[
+            "We will retain yourPersonal Informationfor as long as your account is active or as needed to provide you services and to maintain a record of your transactions for financial reporting purposes.\nIf you wish to deactivate your account or request that we no longer use yourPersonal Informationto provide you services contact us atsupport@groupon.com.\nWe will retain and use yourPersonal Informationas necessary to comply with our legal obligations, resolve disputes, and enforce our agreements."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; what kind of personal info does groupon have on me?",
+        "response":"Groupon collects both Personal Information and Non-Identifying Information when you interact with their site, such as when you register, subscribe, or contact customer service. This may include details you provide while creating an account or participating in programs with their business partners. For specific types of personal information collected, you would need to refer to their full privacy policy.",
+        "retrieved_contexts":[
+            "We will collect information, includingPersonal InformationandNon-Identifying Information, when you interact with us and the Site, for example when you:\naccess or use the Site;\nregister, subscribe, or create an account with Groupon;\nopen or respond to our e-mails;\nrefer friends, family, or others to Groupon;\ncontact customer service or use other customer support tools;\nprovide information to enroll or participate inOther Programsprovided on behalf of, or together with,Business Partners;"
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; does groupon sell my personal information?",
+        "response":"Groupon does not explicitly state that it sells personal information. However, it may share personal information with business partners, which is governed by their own privacy policies. It's important to review those policies for more details on how your information may be used.",
+        "retrieved_contexts":[
+            "with your consent.\nWe encourageBusiness Partnersto adopt and post privacy policies.\nHowever, their use ofPersonal Informationobtained through Groupon is governed by their privacy policies and is not subject to our control.\nWe may also discloseNon-Identifiable Information:\nfor the same reasons we might sharePersonal Information;\nwithBusiness Partnersfor their own analysis and research;\nto facilitate targeted content and ads; or"
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; can groupon see where i am located?",
+        "response":"Yes, Groupon can see your location as they use your geolocation to provide location-based offers and services. This is outlined in their privacy policy.",
+        "retrieved_contexts":[
+            "Groupon uses your geolocation, including your precise geolocation, consistent with this Privacy Statement as described inSection 5below to deliver location-based offers, products or services that may be of interest to you."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; can other users see any of my personal info if i use groupon?",
+        "response":"Other users cannot see your personal information when you use Groupon. However, Groupon may share your non-identifiable information with business partners for analysis and targeted content. Always check the privacy policies of business partners for their specific practices.",
+        "retrieved_contexts":[
+            "with your consent.\nWe encourageBusiness Partnersto adopt and post privacy policies.\nHowever, their use ofPersonal Informationobtained through Groupon is governed by their privacy policies and is not subject to our control.\nWe may also discloseNon-Identifiable Information:\nfor the same reasons we might sharePersonal Information;\nwithBusiness Partnersfor their own analysis and research;\nto facilitate targeted content and ads; or"
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; do vendors get my information?",
+        "response":"Yes, Groupon may share your personal information with vendors on their behalf as required or permitted by law. Additionally, if you send information about a product or service to another person, their personal information may also be collected.",
+        "retrieved_contexts":[
+            "If you use any features on the Site to send information about a product or service to another person (eg, a friend, a colleague, a professional associate, etc), we will also collect thePersonal Informationof that other person to the extent disclosed by you and may contact them using the information you provided us.\nWe (or ourVendorson our behalf) may share yourPersonal Informationas required or permitted by law:"
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; do the app keep track of my location data?",
+        "response":"Yes, Groupon's privacy policy states that they collect your location information, including precise real-time geolocation. This data may be obtained through methods like GPS, Bluetooth, or WiFi signals. The collection is consistent with your mobile device settings.",
+        "retrieved_contexts":[
+            "If you have questions about the security and privacy settings of your mobile device, please refer to instructions from your mobile service provider or the manufacturer of your device to learn how to adjust your settings.\nWe collect your location information, including precise real-time geolocation, such as through look up based on IP address, GPS, Bluetooth, or WiFi signals, consistent with your choice of mobile device settings."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; is my search and purchase history shared with advertisers?",
+        "response":"The context does not explicitly state whether Groupon shares your search and purchase history with advertisers. It suggests reviewing third-party advertising companies' privacy policies for more information. Therefore, I don't know the specific details regarding Groupon's practices.",
+        "retrieved_contexts":[
+            "We encourage you to review the privacy policies or statements of these third party advertising companies to learn more about their use ofCookiesand other technologies.\nIf you would like more information about these practices and to know your choices about not having this information used by third party advertisers, please visithttp:\/\/www.networkadvertising.organdhttp:\/\/www.aboutads.info\/choices\/."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; what type of permissions does the app need to operate?",
+        "response":"I don't know.",
+        "retrieved_contexts":[
+            "with any GrouponAffiliatewho may only use thePersonal Informationfor the purposes described in this Privacy Statement;\nwith ourVendorsto provide services for us and who are required to protect thePersonal Information;\nto report or collect on debts owed to us or ourBusiness Partners;"
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; does it need location services while not using it?",
+        "response":"Groupon's privacy policy indicates that it collects location information, including precise real-time geolocation. However, it does not specify that location services are needed while not using the app. Therefore, it seems that location services are not required when the app is not in use, but it may still collect data based on other methods like IP address.",
+        "retrieved_contexts":[
+            "If you have questions about the security and privacy settings of your mobile device, please refer to instructions from your mobile service provider or the manufacturer of your device to learn how to adjust your settings.\nWe collect your location information, including precise real-time geolocation, such as through look up based on IP address, GPS, Bluetooth, or WiFi signals, consistent with your choice of mobile device settings."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; do i need to enter any personal information to use it?",
+        "response":"Yes, you need to enter personal information to use Groupon, especially when registering, creating an account, or making a purchase. Additionally, personal information may be collected when you contact customer service.",
+        "retrieved_contexts":[
+            "You provide us with yourPersonal Informationwhen you register, subscribe, create an account, make a purchase, or otherwise when you provide us with yourPersonal Informationduring your interaction with the Site andOther Programs.\nWe also collectPersonal Informationwhen you contact us online for customer service and other support using self-help tools, such as email, text, or by posting to anOnline Community."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; does it keep track of where i am?",
+        "response":"Yes, Groupon's privacy policy states that it collects your location information, including precise real-time geolocation. This can be obtained through various methods such as GPS, Bluetooth, or WiFi signals. The collection of this information is consistent with your mobile device settings.",
+        "retrieved_contexts":[
+            "If you have questions about the security and privacy settings of your mobile device, please refer to instructions from your mobile service provider or the manufacturer of your device to learn how to adjust your settings.\nWe collect your location information, including precise real-time geolocation, such as through look up based on IP address, GPS, Bluetooth, or WiFi signals, consistent with your choice of mobile device settings."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; does it share my personal information with others?",
+        "response":"Yes, Groupon may share your personal information as required or permitted by law. Additionally, if you use features to send information to others, they may collect and contact those individuals using the information you provide.",
+        "retrieved_contexts":[
+            "If you use any features on the Site to send information about a product or service to another person (eg, a friend, a colleague, a professional associate, etc), we will also collect thePersonal Informationof that other person to the extent disclosed by you and may contact them using the information you provided us.\nWe (or ourVendorson our behalf) may share yourPersonal Informationas required or permitted by law:"
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; does it share my purchase information with others?",
+        "response":"Yes, Groupon may share your personal information, including purchase information, as required or permitted by law. Additionally, if you send information about a product or service to someone else, they may collect and use that person's information as well.",
+        "retrieved_contexts":[
+            "If you use any features on the Site to send information about a product or service to another person (eg, a friend, a colleague, a professional associate, etc), we will also collect thePersonal Informationof that other person to the extent disclosed by you and may contact them using the information you provided us.\nWe (or ourVendorson our behalf) may share yourPersonal Informationas required or permitted by law:"
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; what permissions does it request on my phone?",
+        "response":"Groupon's privacy policy indicates that it requests permissions to access your location information, including precise real-time geolocation through methods like GPS, Bluetooth, or WiFi signals. This is done in accordance with your mobile device settings. For specific permissions, refer to your device's security and privacy settings.",
+        "retrieved_contexts":[
+            "If you have questions about the security and privacy settings of your mobile device, please refer to instructions from your mobile service provider or the manufacturer of your device to learn how to adjust your settings.\nWe collect your location information, including precise real-time geolocation, such as through look up based on IP address, GPS, Bluetooth, or WiFi signals, consistent with your choice of mobile device settings."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; does it need my location at all times, or can i just type in it whenever i'm looking for a coupon?",
+        "response":"You do not need to provide your location at all times; you can enter it whenever you're looking for a coupon. You have control over how your precise geolocation information is collected through your device's settings.",
+        "retrieved_contexts":[
+            "You can control how and whether we collect your precise geolocation information through your devices settings.\n(d) E-mails from Business Partners\nIf you wish to opt out of receiving offers directly from ourBusiness Partners, you can follow the opt-out instructions in the emails that they send you.\nWe (or ourVendorson our behalf), use information collected as described in this Privacy Statement to:\nOperate, maintain and improve the Site and our services, andOther Programs;"
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; does it sell my data to anyone?",
+        "response":"The provided context does not explicitly state whether Groupon sells your data to anyone. It mentions the collection and processing of personal information but does not clarify data selling practices. Therefore, I don't know if Groupon sells your data.",
+        "retrieved_contexts":[
+            "You agree and consent to our collection, transfer, and processing of yourPersonal InformationandNon-Identifiable Informationin accordance with this Privacy Statement.\nYou are solely responsible for compliance with any data protection or privacy obligations in your jurisdiction when you use the Site or provide us withPersonal Information.\nRegardless of where we transfer your information, we still protect your information in the manner described in this Privacy Statement."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; does it save all info on me if i delete my acct?",
+        "response":"Yes, Groupon retains records of past interactions and transactions even if you delete your account, due to financial reporting and compliance requirements. Therefore, not all information is removed upon account deletion.",
+        "retrieved_contexts":[
+            "While we are ready to assist you in managing your subscriptions, deactivating your account, and removing your active profile, we cannot always delete records of past interactions and transactions.\nFor example, we are required to retain records relating to previous purchases on the Site for financial reporting and compliance reasons."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; how will my data be stored",
+        "response":"Your data will be stored using cookies, device data, and other tracking technologies that connect your site activity with your profile information. This helps Groupon keep records, store your preferences, and improve advertising. Additionally, they collect non-identifying information about your interactions with their site and business partners' websites.",
+        "retrieved_contexts":[
+            "We also use cookies, tags, web beacons, local shared objects, files, tools and programs to keep records, store your preferences, improve our advertising, and collectNon-Identifying Information, includingDevice Dataand information about your interaction with the Site and ourBusiness Partners'web sites.\nWe useCookiesandDevice Datathat allow us to connect your Site activity with other information we store about you in your profile or as related to your interactions with the Site."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; what protections are used",
+        "response":"Groupon's privacy policy employs cookies and device data to track user activity and store preferences. These tools help connect site interactions with user profiles and improve advertising. Additionally, they collect non-identifying information to enhance user experience.",
+        "retrieved_contexts":[
+            "We also use cookies, tags, web beacons, local shared objects, files, tools and programs to keep records, store your preferences, improve our advertising, and collectNon-Identifying Information, includingDevice Dataand information about your interaction with the Site and ourBusiness Partners'web sites.\nWe useCookiesandDevice Datathat allow us to connect your Site activity with other information we store about you in your profile or as related to your interactions with the Site."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; is my data safe",
+        "response":"Your data may not be completely safe, as no method of transmission or storage is 100% secure. Groupon cannot guarantee absolute security for your information. If you have concerns, you can contact them at privacy@groupon.com.",
+        "retrieved_contexts":[
+            "No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.\nTherefore, we cannot guarantee its absolute security.\nIf you have any questions about security on our Web site, you can contact us at privacy@groupon.com.\nYou can access, update and delete yourPersonal Informationyou provided to us, as described below, by managing this information through your online account or sending us an email atprivacy@groupon.com."
+        ]
+    },
+    {
+        "user_input":"Consider \"Groupon\"'s privacy policy; this app ask any kind personal details like credit card details?",
+        "response":"The retrieved context does not explicitly mention whether Groupon asks for credit card details. However, it indicates that they collect personal information to enhance user experience and may use it with consent. For specific details about credit card information requests, it's best to refer directly to Groupon's privacy policy.",
+        "retrieved_contexts":[
+            "Enhance other information we have about you directly or fromOther Sourcesto help us better understand you and determine your interests, and to\nUse your data as described in ourCard Linked Dealsprogram, if you consented to participate in such program.\nWe also may use information collected as described in this Privacy Statement with your consent or as otherwise required or permitted by law."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; what information of mine does it access",
+        "response":"The context does not specify the exact information that \"Wordscapes\" accesses. It mentions the importance of securing your account and that an email will be sent for device access approval. For detailed information on what data is accessed, you would need to refer directly to the privacy policy.",
+        "retrieved_contexts":[
+            "If another device attempts to access your user information an email will be sent to the email address on record and you must grant approval to the new device by responding to that email.\nIt is important that you protect and maintain the security of your Account and that you immediately notify us of any unauthorized use of your Account.\nWe encrypt the transmission of all information using secure socket layer technology (SSL)."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; what information of mine does it collect",
+        "response":"\"Wordscapes\" may collect information through communications features, such as player forums, message boards, and public comments on user profiles or gameboards. This allows for interaction not only with PeopleFun but also with other users. For more specific details, please refer to the full privacy policy.",
+        "retrieved_contexts":[
+            "We may collect information about you in any one or more of the following ways:\n3.1       Communications Features\nYou may be able to take part in certain activities through our Services that give you the opportunity to communicate or share information not just with PeopleFun, but also with other users of our Services.\nThese include:\n       participating in player forums and message boards;\n       posting public comments to other users profiles or gameboards;"
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; is my information sold",
+        "response":"Your information may be disclosed, but the context does not specify whether it is sold. For detailed information, it's best to review the full privacy policy. If you have specific concerns, consider reaching out to the company directly.",
+        "retrieved_contexts":[
+            "Your information may be disclosed"
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; is my information secure",
+        "response":"Your information may not be completely secure, as no website or Internet transmission can guarantee full protection against unauthorized access or data breaches. While precautions are taken, any data transmission is at your own risk. Therefore, it's important to be aware of these potential vulnerabilities.",
+        "retrieved_contexts":[
+            "While we take certain precautions against possible security breaches of our Services, no website or Internet transmission is completely secure, and we cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur.\nAlthough we strive to protect your personal data, we cannot guarantee the security of your data while it is being transmitted through our Services; any transmission is at your own risk."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; does it collect any of my contact's information",
+        "response":"Yes, \"Wordscapes\" may collect information from other users who upload their email contacts. This means that your contacts' information could be collected if someone you know chooses to share it. However, participation in their services is not conditioned on providing more personal information than necessary.",
+        "retrieved_contexts":[
+            "We may collect or receive information from other sources including (i) other PeopleFun users who choose to upload their email contacts, and (ii) third party information providers.\nWe do not condition participation in our Services on you providing more personal information than is reasonably necessary for that activity.\nIn general, we collect, store and use your information to provide you with a customized experience."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; does this app sell customer information?",
+        "response":"The privacy policy indicates that \"Wordscapes\" does not share personal information with third parties for their direct marketing purposes unless you explicitly agree to such disclosure. Therefore, the app does not sell customer information without user consent.",
+        "retrieved_contexts":[
+            "We do not share personal information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure, typically by opting in to receive information from a third party that is participating in a sweepstakes or other promotion through our Services."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; does this app track my gps location?",
+        "response":"Yes, \"Wordscapes\" can track your GPS location if you enable location services on your device. They may collect location information to improve and personalize their services. You can disable this feature if you do not want them to collect your location data.",
+        "retrieved_contexts":[
+            "When you use our Services, we may collect and store information about your location by converting your IP address into a rough geo-location or by accessing your mobile devices GPS coordinates or coarse location if you enable location services on your device.\nWe may use location information to improve and personalize our Services for you.\nIf you do not want us to collect location information, you may disable that feature on your mobile device."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; will this app sell my information to any 3rd parties?",
+        "response":"The app does not sell your information to third parties on a continual basis. However, if you opt in for marketing purposes, they may share your information for that specific promotion. To prevent this, do not opt in when providing your personal information.",
+        "retrieved_contexts":[
+            "If you do ask us to share your personal information with a third party for its marketing purposes, we will only share information in connection with that specific promotion, as we do not share information with any third party (other than our service providers) on a continual basis.\nTo prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personal information through our Services."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; does this app need access to any of my social media accounts?",
+        "response":"Yes, if you sign into \"Wordscapes\" using Facebook Connect, the app will access information from your Facebook account, including your name, profile picture, and friends list. This information may be used for social features within the app.",
+        "retrieved_contexts":[
+            "If you sign into the Site or Games with Facebook Connect we will collect information that is visible via your Facebook account such as: (1) your first and last name, (2) Facebook ID, (3) Profile Picture\/URL, and (4) list of Facebook friends.\nYour Account may be used to publicly identify you as part of social features of the Services, which may include user-to-user interaction, chat or messaging functionality, public leaderboards, head-to-head competition, and other similar features."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; what information are they collecting?",
+        "response":"\"Wordscapes\" collects aggregated and anonymous information to analyze user activity and improve the user experience. They may also use this information for internal marketing purposes and share it with third parties for marketing. Personal identifiable information is not mentioned in the context provided.",
+        "retrieved_contexts":[
+            "to analyze traffic and other end user activity to improve your experience).\nWe may disclose aggregated and anonymous information to describe the Services to prospective partners, advertisers, and other third parties, and for other lawful purposes.\nWe may use aggregate, non-personally identifiable information for our own internal promotion or marketing purposes and we may share such aggregate non-personally identifiable information with others for marketing purposes."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; is it monitoring my location?",
+        "response":"Yes, \"Wordscapes\" may monitor your location by converting your IP address into a rough geo-location or by accessing your device's GPS coordinates if location services are enabled. You can disable this feature on your mobile device if you do not want them to collect location information.",
+        "retrieved_contexts":[
+            "When you use our Services, we may collect and store information about your location by converting your IP address into a rough geo-location or by accessing your mobile devices GPS coordinates or coarse location if you enable location services on your device.\nWe may use location information to improve and personalize our Services for you.\nIf you do not want us to collect location information, you may disable that feature on your mobile device."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; does it read my contacts?",
+        "response":"Yes, \"Wordscapes\" may access your contacts to enable you to invite friends to join the game. This information is collected through third-party mobile device software development kits.",
+        "retrieved_contexts":[
+            "We may collect the name you have associated with your device, device type, telephone number, country, and any other information you choose to provide, such as user name, character name, or e-mail address.\nWe may also access your contacts to enable you to invite friends to join you in the Games.\nThis information is typically collected through the use of third-party mobile device software development kits.\n2.6       Location Information"
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; is my privacy secured?",
+        "response":"Your privacy is addressed in the privacy policy, which outlines procedures and security features to prevent unauthorized access to your information. However, the effectiveness of these measures can vary. For specific details on how your privacy is secured, it's best to review the full privacy policy.",
+        "retrieved_contexts":[
+            "Once we have received your information, we have procedures and security features in place to try to prevent unauthorized access.\nAny information that is collected via our Services is covered by the Privacy Policy in effect at the time such information is collected."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; does it record my location information?",
+        "response":"Yes, \"Wordscapes\" may record your location information by converting your IP address into a rough geo-location or by accessing your device's GPS coordinates if location services are enabled. This information is used to improve and personalize the services. You can disable location collection by turning off the feature on your mobile device.",
+        "retrieved_contexts":[
+            "When you use our Services, we may collect and store information about your location by converting your IP address into a rough geo-location or by accessing your mobile devices GPS coordinates or coarse location if you enable location services on your device.\nWe may use location information to improve and personalize our Services for you.\nIf you do not want us to collect location information, you may disable that feature on your mobile device."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; does the app track my location?",
+        "response":"Yes, \"Wordscapes\" may track your location by accessing your device's GPS coordinates or converting your IP address into a rough geo-location if location services are enabled. You can disable this feature on your mobile device if you do not want the app to collect location information.",
+        "retrieved_contexts":[
+            "When you use our Services, we may collect and store information about your location by converting your IP address into a rough geo-location or by accessing your mobile devices GPS coordinates or coarse location if you enable location services on your device.\nWe may use location information to improve and personalize our Services for you.\nIf you do not want us to collect location information, you may disable that feature on your mobile device."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; does the app contain third party ads?",
+        "response":"The provided context does not explicitly state whether \"Wordscapes\" contains third-party ads. It mentions options for opting out of ad targeting, which suggests that ads may be present. Therefore, I cannot confirm if the app contains third-party ads based on the given information.",
+        "retrieved_contexts":[
+            "You can opt out of the collection and use of your information for ad targeting by going to http:\/\/www.aboutads.info\/choices or http:\/\/www.youronlinechoices.eu\/ to limit collection through the Site or by configuring the settings on your mobile device to limit ad tracking through the App.\n8.3       Opting Out of Other Communications\nWhen you install our Games on your mobile device you can choose to receive push notifications."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; does this app use data on my phone not within the app?",
+        "response":"Yes, \"Wordscapes\" may collect location data from your phone, which is not limited to the app itself. This can include your IP address or GPS coordinates if location services are enabled. You can disable this feature on your device if you do not want your location information collected.",
+        "retrieved_contexts":[
+            "When you use our Services, we may collect and store information about your location by converting your IP address into a rough geo-location or by accessing your mobile devices GPS coordinates or coarse location if you enable location services on your device.\nWe may use location information to improve and personalize our Services for you.\nIf you do not want us to collect location information, you may disable that feature on your mobile device."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; does the wordscapes app have access to my location?",
+        "response":"Yes, the Wordscapes app can access your location if you enable location services on your device. They may collect location information to improve and personalize their services. You can disable this feature if you do not want them to collect your location data.",
+        "retrieved_contexts":[
+            "When you use our Services, we may collect and store information about your location by converting your IP address into a rough geo-location or by accessing your mobile devices GPS coordinates or coarse location if you enable location services on your device.\nWe may use location information to improve and personalize our Services for you.\nIf you do not want us to collect location information, you may disable that feature on your mobile device."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; are there any advertisements within the wordscapes app that could lead me to third party sites?",
+        "response":"Yes, \"Wordscapes\" may contain advertisements from companies other than PeopleFun that could link to their own websites. The app is not responsible for the privacy practices or content of those third-party sites. If you have concerns about how your information is used, you should review their policies directly.",
+        "retrieved_contexts":[
+            "Our Services may contain advertisements from companies other than PeopleFun that may link to their own websites.\nWe are not responsible for the privacy practices or the content of such websites.\nIf you have any questions about how these other websites use your information, you should review their policies and contact them directly.\nIn certain instances, you may need to opt in or opt out of advertising directly through our partners.\nClick here to see our advertising network database."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; does the wordscapes app collect any personally identifiable information like my name or email?",
+        "response":"Yes, the Wordscapes app collects personally identifiable information such as your name and email address if you create an account. This information is used to confirm your identity when accessing your account.",
+        "retrieved_contexts":[
+            "When you interact with our Services, we may collect and store information from you directly as described below:\n 2.1       Registration Information\nIf you create an Account, you may be required to provide your name, e-mail address, a password and other information that helps us confirm that it is you accessing your account.\nWe may do this through in-Game dialog boxes, which you may choose to skip."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; does the app show targeted advertisements?",
+        "response":"Yes, \"Wordscapes\" does show targeted advertisements, but you can opt out of the collection and use of your information for ad targeting. You can do this by visiting specific websites or adjusting settings on your mobile device.",
+        "retrieved_contexts":[
+            "You can opt out of the collection and use of your information for ad targeting by going to http:\/\/www.aboutads.info\/choices or http:\/\/www.youronlinechoices.eu\/ to limit collection through the Site or by configuring the settings on your mobile device to limit ad tracking through the App.\n8.3       Opting Out of Other Communications\nWhen you install our Games on your mobile device you can choose to receive push notifications."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; does it have access to my contacts?",
+        "response":"The retrieved context does not explicitly mention whether \"Wordscapes\" has access to your contacts. Therefore, I don't know if it has access to your contacts.",
+        "retrieved_contexts":[
+            "If another device attempts to access your user information an email will be sent to the email address on record and you must grant approval to the new device by responding to that email.\nIt is important that you protect and maintain the security of your Account and that you immediately notify us of any unauthorized use of your Account.\nWe encrypt the transmission of all information using secure socket layer technology (SSL)."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; does the app sell any personal information?",
+        "response":"The provided context does not explicitly state whether \"Wordscapes\" sells personal information. It focuses on the collection and protection of personal information from children. Therefore, I don't know if the app sells any personal information.",
+        "retrieved_contexts":[
+            "We do not knowingly collect personal information from users deemed to be children under their respective national laws.\nIf we learn that we have collected PII of any child we will take steps to delete such information from our files as soon as possible.\nWe urge parents to instruct their children to never give out their real names, addresses or phone numbers without permission.\nWe recognize a special obligation to protect personal information obtained from young children."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; does it collect my location?",
+        "response":"Yes, \"Wordscapes\" may collect your location by converting your IP address or accessing your device's GPS coordinates if location services are enabled. You can disable this feature on your mobile device if you do not want them to collect location information.",
+        "retrieved_contexts":[
+            "When you use our Services, we may collect and store information about your location by converting your IP address into a rough geo-location or by accessing your mobile devices GPS coordinates or coarse location if you enable location services on your device.\nWe may use location information to improve and personalize our Services for you.\nIf you do not want us to collect location information, you may disable that feature on your mobile device."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; what data does it collect",
+        "response":"\"Wordscapes\" collects users' location data to suggest connections, analyze usage trends, and target promotions. It also gathers technical information through cookies to analyze service usage, enhance personalization, and manage advertising.",
+        "retrieved_contexts":[
+            "A users location may be used to suggest other users with whom they might want to connect, analyze usage trends, or target certain promotions.\n3.2       Cookies and Automated Information Collection\nWhen you access our Services, we collect certain technical information in order to (i) analyze the usage of our Services; (ii) provide a more personalized experience; and (iii) manage advertising."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; does it share data with others",
+        "response":"The provided context does not specify whether \"Wordscapes\" shares data with others. It focuses on account security and unauthorized access. Therefore, I don't know if it shares data with others.",
+        "retrieved_contexts":[
+            "If another device attempts to access your user information an email will be sent to the email address on record and you must grant approval to the new device by responding to that email.\nIt is important that you protect and maintain the security of your Account and that you immediately notify us of any unauthorized use of your Account.\nWe encrypt the transmission of all information using secure socket layer technology (SSL)."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; does it collect payment information",
+        "response":"Yes, \"Wordscapes\" collects payment information through its payment processing service provider, which includes details like your name, email address, and complete credit card information. This information is necessary for processing orders for goods or services within the game.",
+        "retrieved_contexts":[
+            "We will store those contacts for purposes of helping you and your contacts make connections through our Services.\n2.2       Payment Information\nWhen you order any good or service through the Game, including any virtual currency or virtual good, our payment processing service provider will collect your name, phone number, e-mail address, mailing address, billing address, and complete credit card information that enables them to receive your payment."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; does it collect location",
+        "response":"Yes, \"Wordscapes\" collects location information by converting your IP address into a rough geo-location or by accessing your device's GPS coordinates if location services are enabled. This information is used to improve and personalize the services. You can disable location collection by turning off the feature on your mobile device.",
+        "retrieved_contexts":[
+            "When you use our Services, we may collect and store information about your location by converting your IP address into a rough geo-location or by accessing your mobile devices GPS coordinates or coarse location if you enable location services on your device.\nWe may use location information to improve and personalize our Services for you.\nIf you do not want us to collect location information, you may disable that feature on your mobile device."
+        ]
+    },
+    {
+        "user_input":"Consider \"Wordscapes\"'s privacy policy; does it sell data",
+        "response":"The provided context does not specify whether \"Wordscapes\" sells data. It only discusses security precautions and the risks associated with data transmission. Therefore, I don't know if they sell data.",
+        "retrieved_contexts":[
+            "While we take certain precautions against possible security breaches of our Services, no website or Internet transmission is completely secure, and we cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur.\nAlthough we strive to protect your personal data, we cannot guarantee the security of your data while it is being transmitted through our Services; any transmission is at your own risk."
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; is my reminder data saved anywhere?",
+        "response":"The context does not explicitly state whether reminder data is saved anywhere. However, it mentions that you can generate a copy of your data and delete your account, which implies that some data is stored. For specific details, you may need to refer directly to TickTick's privacy policy.",
+        "retrieved_contexts":[
+            "We are not responsible or liable for the content or privacy & security practices of those websites.\nPlease check their policies before submitting any of your personal data.\nYou can generate a copy of your data at any time, free of charge, in an electronic format on the Web.\nAnd you have the right to voluntarily transmit the data to another company.\nYou can voluntarily delete your TickTick account at any time on the Web and have all your data erased from our server."
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; is my task schedule being tracked?",
+        "response":"The context does not explicitly state whether your task schedule is being tracked. It mentions the use of personal information for confirmations, updates, and support. For specific details about tracking, you may need to refer directly to the privacy policy.",
+        "retrieved_contexts":[
+            "; to send you confirmations, updates, security alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, our services; You are welcome to ask for our confirmation whenever you feel concerned about how your personal information is being processed, where and for what purpose"
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; can it view my real name?",
+        "response":"The privacy policy indicates that TickTick collects only necessary information for service use, but it does not explicitly state whether it can view your real name. However, it emphasizes that your information will not be shared with others. For specific details regarding name collection, you may need to refer directly to their privacy policy.",
+        "retrieved_contexts":[
+            "We collect and hold only the information absolutely necessary for using our services, as well as limiting the internal access to your personal information for the purposes stated in Information Usage below.\nYour information will not be shared with others and is only used internally for the purposes described below:"
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; can i delete my personally identifying information?",
+        "response":"Yes, you can delete your personally identifying information by voluntarily deleting your TickTick account, which will erase all your data from their server. You can also generate a copy of your data at any time.",
+        "retrieved_contexts":[
+            "We are not responsible or liable for the content or privacy & security practices of those websites.\nPlease check their policies before submitting any of your personal data.\nYou can generate a copy of your data at any time, free of charge, in an electronic format on the Web.\nAnd you have the right to voluntarily transmit the data to another company.\nYou can voluntarily delete your TickTick account at any time on the Web and have all your data erased from our server."
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; what information do you take from me.",
+        "response":"TickTick collects only the information necessary for using its services and limits internal access to your personal information. Your information will not be shared with others and is used solely for the purposes outlined in their privacy policy. For specific details on what information is collected, please refer to the full privacy policy.",
+        "retrieved_contexts":[
+            "We collect and hold only the information absolutely necessary for using our services, as well as limiting the internal access to your personal information for the purposes stated in Information Usage below.\nYour information will not be shared with others and is only used internally for the purposes described below:"
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; is my data shared with others?",
+        "response":"Your data will not be shared with others and is only used internally for the purposes stated in the privacy policy. The company collects only the information necessary for using their services. Internal access to your personal information is also limited.",
+        "retrieved_contexts":[
+            "We collect and hold only the information absolutely necessary for using our services, as well as limiting the internal access to your personal information for the purposes stated in Information Usage below.\nYour information will not be shared with others and is only used internally for the purposes described below:"
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; would there be a way to see what data you collect?",
+        "response":"Yes, the privacy policy of TickTick explains how information is collected, used, and disclosed. Users can typically find details about the data collected within the privacy policy itself. For specific inquiries, it's best to refer directly to the policy or contact their support.",
+        "retrieved_contexts":[
+            "This Privacy Policy explains how information is collected, used and disclosed by TickTick with respect to users access and use of our service through the application (Referred to below as TickTick).\n By accessing or using the Services, you agree to this Privacy Policy, our Terms of Service.\n IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT USE THE SERVICE.\nWhen using TickTick, we ask certain information from you:"
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; does the app share information with any third parties?",
+        "response":"The app does not share your information with third parties. It only uses your information internally for specified purposes.",
+        "retrieved_contexts":[
+            "We collect and hold only the information absolutely necessary for using our services, as well as limiting the internal access to your personal information for the purposes stated in Information Usage below.\nYour information will not be shared with others and is only used internally for the purposes described below:"
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; will my data be shared with third party entities?",
+        "response":"According to the privacy policy of \"TickTick: To Do List with Reminder, Day Planner,\" your data will not be shared with third-party entities. The information collected is used internally only for specified purposes. They emphasize limiting access to your personal information.",
+        "retrieved_contexts":[
+            "We collect and hold only the information absolutely necessary for using our services, as well as limiting the internal access to your personal information for the purposes stated in Information Usage below.\nYour information will not be shared with others and is only used internally for the purposes described below:"
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; are my ideas uploaded to any servers?",
+        "response":"Based on the privacy policy, your ideas are not uploaded to any servers as the service only collects necessary information for usage. Your information is not shared with others and is used internally. Therefore, your ideas remain private.",
+        "retrieved_contexts":[
+            "We collect and hold only the information absolutely necessary for using our services, as well as limiting the internal access to your personal information for the purposes stated in Information Usage below.\nYour information will not be shared with others and is only used internally for the purposes described below:"
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; who will have access to the info i enter into the application?",
+        "response":"Your information will not be shared with others and is only used internally for the purposes stated in their privacy policy. Access to your personal information is limited to what is necessary for using their services.",
+        "retrieved_contexts":[
+            "We collect and hold only the information absolutely necessary for using our services, as well as limiting the internal access to your personal information for the purposes stated in Information Usage below.\nYour information will not be shared with others and is only used internally for the purposes described below:"
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; will the application make money off of the info i enter in the app?",
+        "response":"The privacy policy indicates that your information will not be shared with others and is used internally only for specific purposes. Therefore, it suggests that the application will not make money off the information you enter. However, for complete assurance, it's best to review the full privacy policy directly.",
+        "retrieved_contexts":[
+            "We collect and hold only the information absolutely necessary for using our services, as well as limiting the internal access to your personal information for the purposes stated in Information Usage below.\nYour information will not be shared with others and is only used internally for the purposes described below:"
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; who has access to whatever i create using this?",
+        "response":"According to the privacy policy, your information will not be shared with others and is only used internally. Access to your personal information is limited to what is necessary for providing the services. Therefore, only authorized internal personnel have access to what you create using TickTick.",
+        "retrieved_contexts":[
+            "We collect and hold only the information absolutely necessary for using our services, as well as limiting the internal access to your personal information for the purposes stated in Information Usage below.\nYour information will not be shared with others and is only used internally for the purposes described below:"
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; do third parties have access to my data?",
+        "response":"According to the privacy policy, your information will not be shared with third parties and is only used internally for specific purposes. They collect only the necessary information for service use. Therefore, third parties do not have access to your data.",
+        "retrieved_contexts":[
+            "We collect and hold only the information absolutely necessary for using our services, as well as limiting the internal access to your personal information for the purposes stated in Information Usage below.\nYour information will not be shared with others and is only used internally for the purposes described below:"
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; who all has access to my data?",
+        "response":"According to the privacy policy, your data is only accessible internally and is not shared with others. Access is limited to the necessary personnel for the stated purposes.",
+        "retrieved_contexts":[
+            "We collect and hold only the information absolutely necessary for using our services, as well as limiting the internal access to your personal information for the purposes stated in Information Usage below.\nYour information will not be shared with others and is only used internally for the purposes described below:"
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; does this app capture my ip address?",
+        "response":"The retrieved context does not explicitly mention whether TickTick captures your IP address. It only states that personal information like your name and email addresses are collected, along with non-personal information about device configuration. Therefore, I don't know if the app captures your IP address.",
+        "retrieved_contexts":[
+            "Personal Information: When registering for TickTick, we collect personal information such as your name.\nUsers who contact us via email, the email addresses and information you submitted voluntarily will also be collected.\n Non-Personal Information: It includes but is not limited to your devices configuration, the package ID and version of the application that you use."
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; what data do they take",
+        "response":"TickTick collects only the information necessary for using their services and limits internal access to personal information. They do not share your information with others and use it solely for internal purposes as outlined in their privacy policy. Specific types of data collected are not detailed in the provided context.",
+        "retrieved_contexts":[
+            "We collect and hold only the information absolutely necessary for using our services, as well as limiting the internal access to your personal information for the purposes stated in Information Usage below.\nYour information will not be shared with others and is only used internally for the purposes described below:"
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; what information is shared",
+        "response":"TickTick collects only the information necessary for using its services and limits internal access to personal information. Your information will not be shared with others and is used solely for internal purposes as described in their privacy policy.",
+        "retrieved_contexts":[
+            "We collect and hold only the information absolutely necessary for using our services, as well as limiting the internal access to your personal information for the purposes stated in Information Usage below.\nYour information will not be shared with others and is only used internally for the purposes described below:"
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; who sees my data",
+        "response":"Your data is not shared with others and is only used internally for the purposes outlined in the privacy policy. Access to your personal information is limited to what is necessary for providing the services.",
+        "retrieved_contexts":[
+            "We collect and hold only the information absolutely necessary for using our services, as well as limiting the internal access to your personal information for the purposes stated in Information Usage below.\nYour information will not be shared with others and is only used internally for the purposes described below:"
+        ]
+    },
+    {
+        "user_input":"Consider \"TickTick: To Do List with Reminder, Day Planner\"'s privacy policy; is there a way to opt out of data sharing",
+        "response":"The context does not explicitly mention an option to opt out of data sharing. It states that the information collected is used internally and not shared with others. Therefore, it appears that there may not be a need for an opt-out option since data is not shared externally.",
+        "retrieved_contexts":[
+            "We collect and hold only the information absolutely necessary for using our services, as well as limiting the internal access to your personal information for the purposes stated in Information Usage below.\nYour information will not be shared with others and is only used internally for the purposes described below:"
+        ]
+    },
+    {
+        "user_input":"Consider \"23andMe\"'s privacy policy; is my information shared with any third parties?",
+        "response":"Yes, 23andMe may share your personal information with other companies under common ownership or control, including subsidiaries, to improve service and user experience. This sharing is generally necessary to fulfill their contract with you. However, the context does not specify if information is shared with unrelated third parties.",
+        "retrieved_contexts":[
+            "Information we share with commonly owned entities We may share some or all of your Personal Information with other companies under common ownership or control of 23andMe, which may include our subsidiaries, our corporate parent, or any other subsidiaries owned by our corporate parent in order to provide you better service and improve user experience.\nGenerally, sharing such information is necessary for us to perform on our contract with you."
+        ]
+    },
+    {
+        "user_input":"Consider \"23andMe\"'s privacy policy; does the app save the address that my kit is shipped to?",
+        "response":"The context does not explicitly state whether \"23andMe\" saves the address that your kit is shipped to. It mentions that sender information may be discarded before testing. Therefore, it is unclear if the address is retained in their records.",
+        "retrieved_contexts":[
+            "Once delivered, receiving personnel at the laboratory remove and discard kit packaging, which in some cases may contain \"sender information\" (eg, name, address), before testing personnel receive the samples for processing.\nReceiving personnel do not perform testing, and testing personnel handle saliva samples that are only identified by a unique barcode."
+        ]
+    },
+    {
+        "user_input":"Consider \"23andMe\"'s privacy policy; do you sell my genetic data?",
+        "response":"23andMe does not sell your genetic data without your consent. They may share individual-level genetic information with third parties only if you provide permission. Service providers necessary for delivering their services are excluded from this.",
+        "retrieved_contexts":[
+            "23andMe will ask for your consent to share Individual-level Genetic Information or Self-Reported Information with any third party, other than our service providers as necessary for us to provide the Services to you."
+        ]
+    },
+    {
+        "user_input":"Consider \"23andMe\"'s privacy policy; is my data anonymized?",
+        "response":"The provided context does not specify whether your data is anonymized. It mentions that 23andMe will withhold personal information in response to legal requests, but does not clarify the anonymization process. Therefore, I don't know if your data is anonymized.",
+        "retrieved_contexts":[
+            "View our Transparency Report for more information.\nNOTE: If you are participating in 23andMe Research, 23andMe will withhold disclosure of your Personal Information involved in such Research in response to judicial or other government subpoenas, warrants or orders in accordance with any applicable Certificate of Confidentiality that 23andMe has obtained from the National Institutes of Health (NIH)."
+        ]
+    },
+    {
+        "user_input":"Consider \"23andMe\"'s privacy policy; are you accessing and information about me from my phone?",
+        "response":"The provided context does not specifically mention whether \"23andMe\" accesses information from your phone. It focuses on information collected from third-party sites like Facebook or Twitter. Therefore, I don't know if they access information from your phone.",
+        "retrieved_contexts":[
+            "If you use a third party site, such as Facebook or Twitter, in connection with our Services to communicate with another person (eg, to make or post referrals or to request that we communicate with another person), then in addition to that person's name and contact information, we may also collect other information (eg, your profile picture, network, gender, username, user ID, age range, language, country, friends lists or followers) depending on your privacy settings on the third party site."
+        ]
+    },
+    {
+        "user_input":"Consider \"23andMe\"'s privacy policy; what will you do with my dna?",
+        "response":"23andMe will securely send your Genetic Information to them, identified by a unique barcode. If you do not consent to Biobanking and additional analyses, your saliva sample and DNA will be destroyed after the laboratory completes its work. You are asked to review the Consent Document during kit registration for more details.",
+        "retrieved_contexts":[
+            "When the laboratory has completed their analysis, they securely send the resulting Genetic Information to us identified by your unique barcode.\nDuring kit registration, you are asked to review our Consent Document for Sample Storage and Additional Genetic Analyses.\nUnless you consent to Biobanking and additional analyses, your saliva sample and DNA are destroyed after the laboratory completes its work, subject to the laboratory's legal and regulatory requirements."
+        ]
+    },
+    {
+        "user_input":"Consider \"23andMe\"'s privacy policy; will you destroy my dna sample when you are finished?",
+        "response":"Yes, your DNA sample will be destroyed after the laboratory completes its analysis unless you consent to Biobanking and additional analyses. This is outlined in the Consent Document you review during kit registration. The destruction is also subject to the laboratory's legal and regulatory requirements.",
+        "retrieved_contexts":[
+            "When the laboratory has completed their analysis, they securely send the resulting Genetic Information to us identified by your unique barcode.\nDuring kit registration, you are asked to review our Consent Document for Sample Storage and Additional Genetic Analyses.\nUnless you consent to Biobanking and additional analyses, your saliva sample and DNA are destroyed after the laboratory completes its work, subject to the laboratory's legal and regulatory requirements."
+        ]
+    },
+    {
+        "user_input":"Consider \"23andMe\"'s privacy policy; do you use my data to do medical research",
+        "response":"23andMe may use your data to inform you about relevant medical research projects, but they will not share your individual-level genetic or self-reported information with third parties without your consent. Therefore, your data can be used for research purposes, but only in a way that protects your privacy.",
+        "retrieved_contexts":[
+            "For example, if a university tells us about a new cancer research project, we may send an email to 23andMe research participants who potentially fit the relevant eligibility criteria based on their Self-Reported Information to make them aware of the research project and provide a link to participate with the research organization conducting the study.\nHowever we will not share Individual-level Genetic Information or Self-Reported Information with any third party without your consent."
+        ]
+    },
+    {
+        "user_input":"Consider \"23andMe\"'s privacy policy; is any information recorded",
+        "response":"The context does not explicitly state whether any information is recorded by 23andMe. It mentions the disclosure of Personal Information and the right to object to processing, but does not clarify the specifics of information recording. Therefore, I don't know if any information is recorded.",
+        "retrieved_contexts":[
+            "We will provide notice to each recipient that we disclosed your Personal Information to regarding any rectification or erasure of Personal Information or restriction of processing, unless you initiated the disclosure or providing notice proves impossible or involves disproportionate effort.\nUpon your request, we will share the list of recipients with you.\nRight to object to processing."
+        ]
+    },
+    {
+        "user_input":"Consider \"23andMe\"'s privacy policy; where is the information saved",
+        "response":"The information is saved as long as your account is open, unless you request deletion. If you delete your account, 23andMe will delete your Personal Information unless required by law to retain it. Local laws may also affect these rights.",
+        "retrieved_contexts":[
+            "Unless you make a request for us to delete your account or delete certain Personal Information (i.e., User Content, etc), we will store your Personal Information as long as your account is open.\nIf you request to delete your account, we will take the steps described under Your Choices  Account Deletion and delete all your Personal Information, unless a longer retention period is required or permitted by law.\nThe rights described above may be limited by local laws."
+        ]
+    },
+    {
+        "user_input":"Consider \"23andMe\"'s privacy policy; is the information encrypted",
+        "response":"The provided context does not specify whether \"23andMe\" encrypts personal information. Therefore, I don't know if the information is encrypted.",
+        "retrieved_contexts":[
+            "Once a gift recipient registers for his or her Services and agrees to our Privacy Statement, our Terms of Service, and if applicable, certain Consent Documents, his or her Personal Information will be used in manners consistent with this Privacy Statement, and will not be shared with the purchaser, unless they independently choose to share their own Personal Information through the Services with the purchaser.\nCustomer service."
+        ]
+    },
+    {
+        "user_input":"Consider \"23andMe\"'s privacy policy; will my test results be shared with any third party entities?",
+        "response":"Yes, your Genetic Information and Self-Reported Information may be shared with third-party service providers as outlined in 23andMe's Privacy Statement. However, if you do not complete a Consent Document, your Personal Information will not be used for research.",
+        "retrieved_contexts":[
+            "If you choose not to complete a Consent Document or any additional agreement with 23andMe, your Personal Information will not be used for 23andMe Research.\nHowever, your Genetic Information and Self-Reported Information may still be used by us and shared with our third party service providers to as outlined in this Privacy Statement."
+        ]
+    },
+    {
+        "user_input":"Consider \"23andMe\"'s privacy policy; can i delete my personally identifying information?",
+        "response":"Yes, you can request the deletion of your personally identifying information from 23andMe. They will take reasonable steps to inform others processing your information about your erasure request. However, this assistance is subject to limitations by data protection laws and available technology.",
+        "retrieved_contexts":[
+            "If we have made your Personal Information public and we are required to erase such Personal Information, we will take reasonable steps, including technical measures, to inform controllers that are processing any links to or copies or replications of your Personal Information of your erasure request.\nOur assistance with your request for erasure is subject to limitations by relevant data protection laws, available technology and the cost of implementation.\nRight to data portability."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; does viber log messages?",
+        "response":"Viber does not log messages after they have been delivered to their destination. They do not store the content of messages or calls made privately. If a message is not delivered within two weeks, it will be deleted from their servers.",
+        "retrieved_contexts":[
+            "First of all, we want you to be assured that we do not read or listen to the content of your messages and\/or calls made privately via Viber and we do not store those messages once they have been delivered to their destination (which on average takes less than one second).\nIf for some reason, the message, wasnt delivered to its destination within up to 2 weeks, it will be deleted from our servers."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; are my call logs recorded?",
+        "response":"Yes, when using Viber Out, details of your calls are available to the phone operator of the person you called, similar to regular phone calls. However, the specific privacy policy regarding whether Viber itself records call logs is not mentioned in the provided context. Therefore, I cannot confirm if Viber records your call logs.",
+        "retrieved_contexts":[
+            "When calling through Viber Out, just like regular phone calls you make, details of the call are available to the phone operator of the person you called (and possibly other facilitating phone operators  but this is the same as any regular phone call you make)."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; are my video calls recorded?",
+        "response":"The retrieved context does not specify whether video calls on Viber Messenger are recorded. It only mentions that details of calls made through Viber Out are available to phone operators. Therefore, I don't know if your video calls are recorded.",
+        "retrieved_contexts":[
+            "When calling through Viber Out, just like regular phone calls you make, details of the call are available to the phone operator of the person you called (and possibly other facilitating phone operators  but this is the same as any regular phone call you make)."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; do you require me to submit identifying information?",
+        "response":"Yes, Viber Messenger requires you to submit identifying information such as your name, email, birth date, age, and phone number when you use their services. However, you have the ability to limit the collection of such information.",
+        "retrieved_contexts":[
+            "We collect the minimum information required to achieve the purposes set out in this Policy (see below), and you have the ability to limit such collection, as specified below under Your Choices:\n(a) Registration and Account Information:When you use our various Services you voluntarily give us personal information (eg, name, email, birth date, age, phone number and, when necessary, billing information) and you are not anonymous to us."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; what information is collected about users?",
+        "response":"Viber Messenger collects personal information such as your name, email, birth date, age, phone number, and, if necessary, billing information when you register and use their services. Users have the ability to limit the collection of this information.",
+        "retrieved_contexts":[
+            "We collect the minimum information required to achieve the purposes set out in this Policy (see below), and you have the ability to limit such collection, as specified below under Your Choices:\n(a) Registration and Account Information:When you use our various Services you voluntarily give us personal information (eg, name, email, birth date, age, phone number and, when necessary, billing information) and you are not anonymous to us."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; how is my data used?",
+        "response":"Your data is used to save your contact information and correspondence when you communicate with Viber for business purposes. They utilize trusted third-party processors to manage this data in accordance with their privacy policy. You can opt out of direct marketing emails and request information regarding your data at any time.",
+        "retrieved_contexts":[
+            "When you communicate with us for business purposes as a b2b partner of ours, we will save your contact data provided by you (phone number, email, address etc), as well as any correspondence we have had.\nWe use trusted third party processors to keep such data, all in accordance with the provisions of this privacy policy.\nYou have the ability to opt out of our direct marketing emails at any time and to contact us with any request regarding your data."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; what data do you keep and for how long?",
+        "response":"Viber Messenger retains information as long as necessary to fulfill its purposes or comply with legal obligations. Upon account deactivation, only essential data required by law is kept. Activity data may be retained in a non-identifiable form to enhance services.",
+        "retrieved_contexts":[
+            "Data Retention: Unless otherwise specified, we retain information as long as it is necessary and relevant for us to achieve the purposes referred to above or to enable us to comply with our legal data protection retention obligations.\nUpon deactivation of your account, we will minimize the personal data we keep about you only to such data which we are required to keep to comply with laws, or other legal reasons.\nWe may keep activity data on a non-identifiable basis to improve our services."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; do you keep a record of our text ?",
+        "response":"The provided context does not explicitly state whether Viber Messenger keeps a record of your text messages. It mentions collecting information about interactions with Public Accounts, bots, and Communities, but does not clarify text message retention. Therefore, I don't know if they keep a record of your text messages.",
+        "retrieved_contexts":[
+            "When you interact with Public Accounts, bots and Communities on our Service, we may obtain information about the messages you have liked, comments you have left and also websites youve viewed through links in them.\nWhen you use our Chat Extensions and shopping solution we may know which items you searched and shared.\nIn addition, we collect information about the accounts you have visited and the content you have viewed in order to improve the relevance of our Services."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; do you keep a record of our text messages?",
+        "response":"I don't know.",
+        "retrieved_contexts":[
+            "When you communicate with us for business purposes as a b2b partner of ours, we will save your contact data provided by you (phone number, email, address etc), as well as any correspondence we have had.\nWe use trusted third party processors to keep such data, all in accordance with the provisions of this privacy policy.\nYou have the ability to opt out of our direct marketing emails at any time and to contact us with any request regarding your data."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; do you record our phone calls?",
+        "response":"I don't know.",
+        "retrieved_contexts":[
+            "When you communicate with us for business purposes as a b2b partner of ours, we will save your contact data provided by you (phone number, email, address etc), as well as any correspondence we have had.\nWe use trusted third party processors to keep such data, all in accordance with the provisions of this privacy policy.\nYou have the ability to opt out of our direct marketing emails at any time and to contact us with any request regarding your data."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; if i send a message that is considered dirty, will the controllers of the app see it?",
+        "response":"The context does not specifically address whether messages considered \"dirty\" will be seen by the app's controllers. However, it emphasizes user control over message deletion and privacy settings. Therefore, it is unclear if such messages would be visible to the app's controllers.",
+        "retrieved_contexts":[
+            "We want you to have control over how you communicate.\nThat is why, for example, we allow you to delete messages even after they have been sent (it will be deleted for you, your friend and our service).\nHow cool is that?\nYou can also control your privacy settings within the App to change the visibility of your online status or prevent other users from knowing which Viberapps and games you are using."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; does viber sell my information to advertisers and marketers?",
+        "response":"I don't know.",
+        "retrieved_contexts":[
+            "(b) Social Media Information:If you sign in to your Viber account through third-party social media sites like Facebook, Twitter or VK, you agree to give us on-going access to your personal information on such sites (eg, your public profile, friend list, accounts you follow or who follow you, your email address, birthday, work history, education history, interests, current city, and video viewing)."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; does viber have any affiliation with the advertisement industry?",
+        "response":"The provided context does not mention any affiliation of Viber Messenger with the advertisement industry. It focuses on preventing fraud and ensuring user safety. Therefore, I don't know if Viber has any ties to the advertisement industry.",
+        "retrieved_contexts":[
+            "(e)Prevent Fraud & Spam; enforcement of law: We really want Viber to be free of spam and fraudulent content so that you feel safe and free.\nWe may use your information to prevent, detect, and investigate fraud, security breaches, potentially prohibited or illegal activities, protect our trademarks and enforce ourTerms of Use."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; are there other people who can access my information?",
+        "response":"The provided context does not specify whether other people can access your information through Viber Messenger's privacy policy. It mainly outlines your rights regarding your personal information. For detailed information on third-party access, you may need to refer directly to Viber's privacy policy.",
+        "retrieved_contexts":[
+            "These include the following rights to: access your personal information, rectify the information we hold about you, erase your personal information, restrict our use of your personal information, object to our use of your personal information, receive your personal information in a usable electronic format and transmit it to a third party (right to data portability), lodge a complaint with your local data protection authority."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; how is any information collected by viber shared with other parties?",
+        "response":"Viber shares information about the value-added services you use and apps downloaded through Viber with other parties, including notifying other Viber users about your usage to recommend those services. This may include details like your online status and personal preferences. However, specific sharing practices beyond this are not detailed in the provided context.",
+        "retrieved_contexts":[
+            "We collect information about the value added services you are using over Viber and\/or apps (such as games) you have downloaded through Viber.\nThis includes whether you are presently online, your personal preferences (such as connecting the service to Viber) and the way you use that service (for example how often, for how long).\nWe may also tell other Viber users that you are using a certain service or app (to recommend them to try that service as well)."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; is any data collected by the app has any connection with the third party sites?",
+        "response":"The context does not explicitly state whether data collected by Viber Messenger is connected to third-party sites. It mentions the use of cookies and tracking technologies by Viber and its business partners, but does not clarify the relationship with third parties. Therefore, I don't know if there is a direct connection with third-party sites.",
+        "retrieved_contexts":[
+            "When you visit the App and\/or our Website, we and our business partners may use cookies and other tracking technologies for a variety of purposes.\nTo learn more visit our Cookies and Tracking Technologies Policy.\nAs a registered member, you can review and change personal information at any time by accessing your account on the App or contacting our support.\nPlease be sure to update your personal information promptly if it changes or becomes inaccurate."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; will my personal details be shared with third party  companies?",
+        "response":"Yes, Viber Messenger may share your personal details with third-party companies that assist in providing their services, such as payment processing and site analytics. However, this sharing is typically done under contract and may involve aggregate non-identifiable data or unique identifiers not directly attributable to you.",
+        "retrieved_contexts":[
+            ":We may disclose your information to service providers and other third-parties under contract who help with providing you and others our Services on our behalf or other services provided by third-parties via our Services (such as, but not limited to, fraud and spam investigations, payment processing, site analytics and operations, providing special partnership features in our service either on an aggregate non identifiable basis, or using a unique identifier which is not attributable to you)"
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; can any 3rd party see my conversations?",
+        "response":"The context does not specifically address whether third parties can see your private conversations on Viber Messenger. It mentions that information posted in public features can be accessed by others. For detailed information on privacy regarding private conversations, it's best to consult Viber's official privacy policy directly.",
+        "retrieved_contexts":[
+            "If you post information on a public feature of our Services or through social media sites, plug-ins or other applications, do not forget this information is public on our Services and, depending upon your privacy settings, may also become public on the Internet.\nWhen you post on Communities, the admin of the Community has the ability to allow everybody to access it, but you can always actively delete messages you posted."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; do you sell any of our data?",
+        "response":"The retrieved context does not explicitly state that Viber Messenger sells user data. It mentions that they save contact data and use third-party processors in accordance with their privacy policy. For specific details regarding data sales, it is best to refer directly to Viber's privacy policy.",
+        "retrieved_contexts":[
+            "When you communicate with us for business purposes as a b2b partner of ours, we will save your contact data provided by you (phone number, email, address etc), as well as any correspondence we have had.\nWe use trusted third party processors to keep such data, all in accordance with the provisions of this privacy policy.\nYou have the ability to opt out of our direct marketing emails at any time and to contact us with any request regarding your data."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; how are my contacts stored?",
+        "response":"Viber Messenger stores your contact data, such as phone numbers and emails, provided by you for business purposes. This data is kept by trusted third-party processors in accordance with their privacy policy. You can opt out of direct marketing emails and request information regarding your data at any time.",
+        "retrieved_contexts":[
+            "When you communicate with us for business purposes as a b2b partner of ours, we will save your contact data provided by you (phone number, email, address etc), as well as any correspondence we have had.\nWe use trusted third party processors to keep such data, all in accordance with the provisions of this privacy policy.\nYou have the ability to opt out of our direct marketing emails at any time and to contact us with any request regarding your data."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; can i submit a request to have my data deleted?",
+        "response":"Yes, you can submit a request to have your personal information erased according to Viber Messenger's privacy policy. This is part of your rights regarding your personal data.",
+        "retrieved_contexts":[
+            "These include the following rights to: access your personal information, rectify the information we hold about you, erase your personal information, restrict our use of your personal information, object to our use of your personal information, receive your personal information in a usable electronic format and transmit it to a third party (right to data portability), lodge a complaint with your local data protection authority."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; when do you delete stored data?",
+        "response":"Viber Messenger deletes stored data upon account deactivation, retaining only the information necessary to comply with legal obligations. They may also keep non-identifiable activity data to improve their services. Otherwise, data is retained as long as it is necessary for their purposes.",
+        "retrieved_contexts":[
+            "Data Retention: Unless otherwise specified, we retain information as long as it is necessary and relevant for us to achieve the purposes referred to above or to enable us to comply with our legal data protection retention obligations.\nUpon deactivation of your account, we will minimize the personal data we keep about you only to such data which we are required to keep to comply with laws, or other legal reasons.\nWe may keep activity data on a non-identifiable basis to improve our services."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; how long do you retain meta data?",
+        "response":"Viber Messenger retains metadata as long as necessary to achieve its purposes or to comply with legal obligations. Upon account deactivation, they minimize personal data retention to only what is legally required. Activity data may be kept on a non-identifiable basis for service improvement.",
+        "retrieved_contexts":[
+            "Data Retention: Unless otherwise specified, we retain information as long as it is necessary and relevant for us to achieve the purposes referred to above or to enable us to comply with our legal data protection retention obligations.\nUpon deactivation of your account, we will minimize the personal data we keep about you only to such data which we are required to keep to comply with laws, or other legal reasons.\nWe may keep activity data on a non-identifiable basis to improve our services."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; are my message encrypted on viber?",
+        "response":"Messages on Viber are end-to-end encrypted for one-on-one chats, ensuring that only the sender and recipient can read them. However, chats with bots, Public Accounts, and communities are not end-to-end encrypted. These messages are encrypted when sent to and from Viber servers but may be accessible to third parties.",
+        "retrieved_contexts":[
+            "Note that chats with bots and Public Accounts, and communities are not end-to-end encrypted, but we do encrypt such messages when sent to the Viber servers and when sent from the Viber servers to the third party (the Public Account owner and\/or additional third party tool (eg CRM solution) integrated by such owner)."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; is there any sort of encryption for communications?",
+        "response":"Viber Messenger does not provide end-to-end encryption for chats with bots, Public Accounts, or communities. However, messages are encrypted when sent to and from Viber servers. Therefore, while some level of encryption exists, it is not comprehensive for all types of communications.",
+        "retrieved_contexts":[
+            "Note that chats with bots and Public Accounts, and communities are not end-to-end encrypted, but we do encrypt such messages when sent to the Viber servers and when sent from the Viber servers to the third party (the Public Account owner and\/or additional third party tool (eg CRM solution) integrated by such owner)."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; is it keep my phone numbers undisclosed?",
+        "response":"The context does not explicitly state that Viber Messenger keeps your phone numbers undisclosed. It mentions that they save contact data provided by users, including phone numbers. Therefore, it is unclear if your phone numbers are kept undisclosed.",
+        "retrieved_contexts":[
+            "When you communicate with us for business purposes as a b2b partner of ours, we will save your contact data provided by you (phone number, email, address etc), as well as any correspondence we have had.\nWe use trusted third party processors to keep such data, all in accordance with the provisions of this privacy policy.\nYou have the ability to opt out of our direct marketing emails at any time and to contact us with any request regarding your data."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; is the messages sent through it are safe?",
+        "response":"Yes, messages sent through Viber Messenger are safe due to end-to-end encryption implemented in its core features. This includes Viber calls, one-on-one messages, group messages, and private media sharing. However, users are still responsible for securing their personal information and account details.",
+        "retrieved_contexts":[
+            "We need your help too: it is your responsibility to make sure that your personal information is accurate and that your password(s) and account registration information are secure and not shared with third-parties.\nStarting with Viber 6.0, all of Vibers core features are secured with end-to-end encryption: Viber calls, one-on-one messages, group messages, private media sharing and secondary devices."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; the photos and videos shared will be kept confidential?",
+        "response":"The provided context does not specifically address the confidentiality of photos and videos shared on Viber Messenger. Therefore, I don't know if those shared media will be kept confidential according to their privacy policy.",
+        "retrieved_contexts":[
+            "(e)Change of Control  New Owners: We may share your information with another business entity, if we plan to merge with or be acquired by that business, or are involved in a transaction with similar financial effect.\nIn such a situation we would make reasonable efforts to request that the new combined entity or other structure follow this Policy with respect to your personal information."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; can anyone view my account?",
+        "response":"According to Viber Messenger's privacy policy, your posts on public accounts and communities may be visible to others if not deleted. While your data is kept safe, personal information may be shared with trusted third parties. Therefore, it is possible for others to view your account depending on your privacy settings and the nature of your posts.",
+        "retrieved_contexts":[
+            "Your posts on public accounts and communities may remain available if you do not delete them.\nYour data is kept safe with us, but we do share your personal information with third parties we trust in order to provide you with our services, as follows:"
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; how is my data stored?",
+        "response":"Your data is stored by Viber Messenger using trusted third-party processors, in accordance with their privacy policy. They save contact data you provide and any correspondence related to business purposes. You can opt out of direct marketing emails and request information regarding your data at any time.",
+        "retrieved_contexts":[
+            "When you communicate with us for business purposes as a b2b partner of ours, we will save your contact data provided by you (phone number, email, address etc), as well as any correspondence we have had.\nWe use trusted third party processors to keep such data, all in accordance with the provisions of this privacy policy.\nYou have the ability to opt out of our direct marketing emails at any time and to contact us with any request regarding your data."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; does the app protect my account details from being accessed by other people?",
+        "response":"The retrieved context does not specifically address whether Viber Messenger protects your account details from being accessed by other people. Therefore, I don't know the answer to your question.",
+        "retrieved_contexts":[
+            "When you visit the App and\/or our Website, we and our business partners may use cookies and other tracking technologies for a variety of purposes.\nTo learn more visit our Cookies and Tracking Technologies Policy.\nAs a registered member, you can review and change personal information at any time by accessing your account on the App or contacting our support.\nPlease be sure to update your personal information promptly if it changes or becomes inaccurate."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; does the app offer a password service where i am required to input a password when i want to access it?",
+        "response":"The retrieved context does not provide information about whether Viber Messenger offers a password service for accessing the app. Therefore, I don't know if a password is required to access Viber Messenger.",
+        "retrieved_contexts":[
+            "We may obtain your consent to collect and use certain types of personal information when we are required to do so by law (for example, in relation to Cookies and Tracking Technologies or when we process accurate location data for purposes other than performing the service).\nIf we ask for your consent to process your personal information, you may withdraw your consent at any time by contacting us using the details at the end of this privacy notice or by changing your setting within the app."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; will viber comply to government information request?",
+        "response":"Yes, Viber may comply with government information requests if they are verified and relate to terrorism, criminal investigations, or other activities that could expose users to legal liability.",
+        "retrieved_contexts":[
+            "(d) Legal and Law Enforcement: We may disclose your information to law enforcement, governmental agencies, or authorized third-parties, in response to a verified request relating to terror acts, criminal investigations or alleged illegal activity or any other activity that may expose us, you, or any other Viber user to legal liability."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; can my call log be subpoenaed?",
+        "response":"The provided context does not specifically address whether your call log can be subpoenaed. Therefore, I don't know the answer to that question.",
+        "retrieved_contexts":[
+            "(b) Improve our Services:We use call log information and usage information (as described above) to better understand network behavior and trends (numbers of messages and calls made by users, typical destinations, call lengths, network type, etc), detect potential outages and technical issues (this helps us notice things like a drop in call volume in a certain geography, a shift in call length, a change in typical networks, etc) to improve our Services."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; if it's free, does viber profit off its users in some way?",
+        "response":"Yes, Viber may profit off its users by using their information to prevent fraud and security breaches, which can enhance user trust and retention. Additionally, free services often rely on data collection for advertising or partnerships, although specific monetization methods are not detailed in the provided context. Therefore, while Viber is free, it may still find ways to generate revenue through user data and safety measures.",
+        "retrieved_contexts":[
+            "(e)Prevent Fraud & Spam; enforcement of law: We really want Viber to be free of spam and fraudulent content so that you feel safe and free.\nWe may use your information to prevent, detect, and investigate fraud, security breaches, potentially prohibited or illegal activities, protect our trademarks and enforce ourTerms of Use."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; can anyone view my account?",
+        "response":"According to Viber Messenger's privacy policy, your posts on public accounts and communities may be visible to others if not deleted. While your data is kept safe, personal information may be shared with trusted third parties. Therefore, it is possible for others to view your account depending on your privacy settings and the nature of your posts.",
+        "retrieved_contexts":[
+            "Your posts on public accounts and communities may remain available if you do not delete them.\nYour data is kept safe with us, but we do share your personal information with third parties we trust in order to provide you with our services, as follows:"
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; does the app hide the content  of the messages i send from other people on my contact list?",
+        "response":"The context does not specify whether Viber Messenger hides the content of messages from other people on your contact list. It mentions options for disabling notifications and sharing personal information, but not message content privacy. Therefore, I don't know the answer to your question.",
+        "retrieved_contexts":[
+            "You can disable the seen notification so that other users do not know whether youve read a message yet.\nYou can choose not to share your photo, opt not to receive location-based messages along with many other additional options, which are available within the app.\nYou can also make additional choices on your phones settings by changing our apps permissions such as location sharing, access to contact list and more."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; if i send a message that is considered dirty, will the controllers of the app see it?",
+        "response":"The context does not explicitly mention whether controllers of Viber Messenger can see messages considered \"dirty.\" However, it highlights that users can delete messages even after sending them, which suggests a level of privacy. For specific concerns about message content visibility, it's best to refer directly to Viber's privacy policy.",
+        "retrieved_contexts":[
+            "We want you to have control over how you communicate.\nThat is why, for example, we allow you to delete messages even after they have been sent (it will be deleted for you, your friend and our service).\nHow cool is that?\nYou can also control your privacy settings within the App to change the visibility of your online status or prevent other users from knowing which Viberapps and games you are using."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; does this send information to a third party?",
+        "response":"Yes, Viber Messenger does send information to trusted third-party processors as stated in their privacy policy. However, they ensure that this is done in accordance with the policy's provisions. You also have the option to opt out of direct marketing emails.",
+        "retrieved_contexts":[
+            "When you communicate with us for business purposes as a b2b partner of ours, we will save your contact data provided by you (phone number, email, address etc), as well as any correspondence we have had.\nWe use trusted third party processors to keep such data, all in accordance with the provisions of this privacy policy.\nYou have the ability to opt out of our direct marketing emails at any time and to contact us with any request regarding your data."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; what personal information will be required for me to set up an account?",
+        "response":"To set up a Viber Messenger account, you will need to provide personal information such as your name, email, birth date, age, and phone number. Billing information may also be required when necessary.",
+        "retrieved_contexts":[
+            "We collect the minimum information required to achieve the purposes set out in this Policy (see below), and you have the ability to limit such collection, as specified below under Your Choices:\n(a) Registration and Account Information:When you use our various Services you voluntarily give us personal information (eg, name, email, birth date, age, phone number and, when necessary, billing information) and you are not anonymous to us."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; will you ever sell my personal information to a third party?",
+        "response":"The context does not explicitly state that Viber Messenger will sell your personal information to a third party. It mentions that they use trusted third-party processors to keep data in accordance with their privacy policy. For specific details, it's best to review the full privacy policy directly.",
+        "retrieved_contexts":[
+            "When you communicate with us for business purposes as a b2b partner of ours, we will save your contact data provided by you (phone number, email, address etc), as well as any correspondence we have had.\nWe use trusted third party processors to keep such data, all in accordance with the provisions of this privacy policy.\nYou have the ability to opt out of our direct marketing emails at any time and to contact us with any request regarding your data."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; how is my information protected when i'm using your app over wi-fi?",
+        "response":"I don't know.",
+        "retrieved_contexts":[
+            "When you visit the App and\/or our Website, we and our business partners may use cookies and other tracking technologies for a variety of purposes.\nTo learn more visit our Cookies and Tracking Technologies Policy.\nAs a registered member, you can review and change personal information at any time by accessing your account on the App or contacting our support.\nPlease be sure to update your personal information promptly if it changes or becomes inaccurate."
+        ]
+    },
+    {
+        "user_input":"Consider \"Viber Messenger\"'s privacy policy; who will be able to see my information and\/or the messages that i send?",
+        "response":"Your information and messages may be visible to the public if posted on public features of Viber or through social media sites, depending on your privacy settings. Additionally, if you post in Communities, the admin can control access to that content. You can delete your messages, but they may still be accessible while posted.",
+        "retrieved_contexts":[
+            "If you post information on a public feature of our Services or through social media sites, plug-ins or other applications, do not forget this information is public on our Services and, depending upon your privacy settings, may also become public on the Internet.\nWhen you post on Communities, the admin of the Community has the ability to allow everybody to access it, but you can always actively delete messages you posted."
+        ]
+    }
+]
