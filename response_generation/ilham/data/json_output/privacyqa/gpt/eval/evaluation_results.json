@@ -1,0 +1,62 @@
+{
+    "query_answer_baseline_privacyqa_gpt4omini_k1.json": {
+        "ragas_metrics": "{'faithfulness': 0.7538, 'answer_relevancy': 0.4652}",
+        "bert_f1": 0.7750200810506171,
+        "rouge_recall": 0.267762967503142
+    },
+    "query_answer_baseline_privacyqa_gpt4omini_k10.json": {
+        "ragas_metrics": "{'faithfulness': 0.8832, 'answer_relevancy': 0.7380}",
+        "bert_f1": 0.7522892331339649,
+        "rouge_recall": 0.05216087929726068
+    },
+    "query_answer_baseline_privacyqa_gpt4omini_k3.json": {
+        "ragas_metrics": "{'faithfulness': 0.8201, 'answer_relevancy': 0.6857}",
+        "bert_f1": 0.7679189609498093,
+        "rouge_recall": 0.13493931546166066
+    },
+    "query_answer_baseline_privacyqa_gpt4omini_k5.json": {
+        "ragas_metrics": "{'faithfulness': 0.8761, 'answer_relevancy': 0.7390}",
+        "bert_f1": 0.7556655293272942,
+        "rouge_recall": 0.0903973042082977
+    },
+    "query_answer_CoT_privacyqa_gpt4omini_k1.json": {
+        "ragas_metrics": "{'faithfulness': 0.7083, 'answer_relevancy': 0.4317}",
+        "bert_f1": 0.7393738397003449,
+        "rouge_recall": 0.16565214544865092
+    },
+    "query_answer_CoT_privacyqa_gpt4omini_k10.json": {
+        "ragas_metrics": "{'faithfulness': 0.7951, 'answer_relevancy': 0.7116}",
+        "bert_f1": 0.722841912630907,
+        "rouge_recall": 0.03444108719957573
+    },
+    "query_answer_CoT_privacyqa_gpt4omini_k3.json": {
+        "ragas_metrics": "{'faithfulness': 0.7518, 'answer_relevancy': 0.6090}",
+        "bert_f1": 0.7341155978207735,
+        "rouge_recall": 0.08313888866525958
+    },
+    "query_answer_CoT_privacyqa_gpt4omini_k5.json": {
+        "ragas_metrics": "{'faithfulness': 0.7951, 'answer_relevancy': 0.5945}",
+        "bert_f1": 0.7231040191404599,
+        "rouge_recall": 0.058044436161173975
+    },
+    "query_answer_manually_written_privacyqa_gpt4omini_k1.json": {
+        "ragas_metrics": "{'faithfulness': 0.8800, 'answer_relevancy': 0.3739}",
+        "bert_f1": 0.8059106306316927,
+        "rouge_recall": 0.5055593781659597
+    },
+    "query_answer_manually_written_privacyqa_gpt4omini_k10.json": {
+        "ragas_metrics": "{'faithfulness': 0.9079, 'answer_relevancy': 0.6405}",
+        "bert_f1": 0.7682397497683456,
+        "rouge_recall": 0.1194884891363341
+    },
+    "query_answer_manually_written_privacyqa_gpt4omini_k3.json": {
+        "ragas_metrics": "{'faithfulness': 0.9072, 'answer_relevancy': 0.5034}",
+        "bert_f1": 0.787284808367798,
+        "rouge_recall": 0.28274086848824953
+    },
+    "query_answer_manually_written_privacyqa_gpt4omini_k5.json": {
+        "ragas_metrics": "{'faithfulness': 0.8989, 'answer_relevancy': 0.5559}",
+        "bert_f1": 0.7727916689263177,
+        "rouge_recall": 0.19949830175098304
+    }
+}

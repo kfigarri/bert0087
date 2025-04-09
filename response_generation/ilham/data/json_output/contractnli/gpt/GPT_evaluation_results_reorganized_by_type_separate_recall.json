@@ -1,0 +1,104 @@
+{
+    "baseline": {
+        "k1": {
+            "ragas_metrics": "{'faithfulness': 0.6510, 'answer_relevancy': 0.3157}",
+            "bert_f1": 0.6471516858671129,
+            "rouge_recall": 0.1655380309211203,
+            "rouge1_recall": 0.23262855923782638,
+            "rouge2_recall": 0.09323326788258988,
+            "rougeL_recall": 0.1707522656429445
+        },
+        "k3": {
+            "ragas_metrics": "{'faithfulness': 0.8311, 'answer_relevancy': 0.6195}",
+            "bert_f1": 0.7001845624643502,
+            "rouge_recall": 0.127273956099688,
+            "rouge1_recall": 0.18232571670484188,
+            "rouge2_recall": 0.07312573913446306,
+            "rougeL_recall": 0.12637041245975889
+        },
+        "k5": {
+            "ragas_metrics": "{'faithfulness': 0.8299, 'answer_relevancy': 0.6980}",
+            "bert_f1": 0.7004778944339949,
+            "rouge_recall": 0.09338551698081571,
+            "rouge1_recall": 0.131375877522047,
+            "rouge2_recall": 0.055975005847801296,
+            "rougeL_recall": 0.09280566757259875
+        },
+        "k10": {
+            "ragas_metrics": "{'faithfulness': 0.8438, 'answer_relevancy': 0.7899}",
+            "bert_f1": 0.7053153364314246,
+            "rouge_recall": 0.059093593525550214,
+            "rouge1_recall": 0.08093383074885364,
+            "rouge2_recall": 0.038017355373234064,
+            "rougeL_recall": 0.05832959445456292
+        }
+    },
+    "CoT": {
+        "k1": {
+            "ragas_metrics": "{'faithfulness': 0.6053, 'answer_relevancy': 0.3772}",
+            "bert_f1": 0.6667347707084774,
+            "rouge_recall": 0.15557610774215946,
+            "rouge1_recall": 0.23193293846576657,
+            "rouge2_recall": 0.07001240084324595,
+            "rougeL_recall": 0.16478298391746596
+        },
+        "k3": {
+            "ragas_metrics": "{'faithfulness': 0.6494, 'answer_relevancy': 0.6954}",
+            "bert_f1": 0.6818613262520623,
+            "rouge_recall": 0.08758396013349685,
+            "rouge1_recall": 0.13181968996875335,
+            "rouge2_recall": 0.041509831564807906,
+            "rougeL_recall": 0.08942235886692951
+        },
+        "k5": {
+            "ragas_metrics": "{'faithfulness': 0.6916, 'answer_relevancy': 0.7648}",
+            "bert_f1": 0.6793125714223409,
+            "rouge_recall": 0.06031036442861096,
+            "rouge1_recall": 0.08885997585881121,
+            "rouge2_recall": 0.030265892768314172,
+            "rougeL_recall": 0.061805224658707525
+        },
+        "k10": {
+            "ragas_metrics": "{'faithfulness': 0.7419, 'answer_relevancy': 0.8431}",
+            "bert_f1": 0.6818058128209458,
+            "rouge_recall": 0.03735362418257778,
+            "rouge1_recall": 0.0529783954437238,
+            "rouge2_recall": 0.020701692223740208,
+            "rougeL_recall": 0.038380784880269324
+        }
+    },
+    "manually_written": {
+        "k1": {
+            "ragas_metrics": "{'faithfulness': 0.7896, 'answer_relevancy': 0.4551}",
+            "bert_f1": 0.745835859750964,
+            "rouge_recall": 0.47657316697616253,
+            "rouge1_recall": 0.5879379116722332,
+            "rouge2_recall": 0.36738295447041436,
+            "rougeL_recall": 0.4743986347858402
+        },
+        "k3": {
+            "ragas_metrics": "{'faithfulness': 0.8610, 'answer_relevancy': 0.5993}",
+            "bert_f1": 0.7336989241777007,
+            "rouge_recall": 0.257389178568886,
+            "rouge1_recall": 0.3394555351631309,
+            "rouge2_recall": 0.186976969191896,
+            "rougeL_recall": 0.24573503135163138
+        },
+        "k5": {
+            "ragas_metrics": "{'faithfulness': 0.8879, 'answer_relevancy': 0.6112}",
+            "bert_f1": 0.7326568076291036,
+            "rouge_recall": 0.19457910253543267,
+            "rouge1_recall": 0.25615324171872855,
+            "rouge2_recall": 0.14279364300266606,
+            "rougeL_recall": 0.1847904228849036
+        },
+        "k10": {
+            "ragas_metrics": "{'faithfulness': 0.9047, 'answer_relevancy': 0.7325}",
+            "bert_f1": 0.7275234669754186,
+            "rouge_recall": 0.1124899037681614,
+            "rouge1_recall": 0.1449609015164644,
+            "rouge2_recall": 0.08401022440799095,
+            "rougeL_recall": 0.10849858538002867
+        }
+    }
+}
