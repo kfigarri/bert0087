@@ -1,7 +1,0 @@
-{
-    "query_answer_human_tuned_privacyqa_gpt4omini_k10.json": {
-        "ragas_metrics": "{'faithfulness': 0.8868, 'answer_relevancy': 0.6790}",
-        "bert_f1": 0.7693674548999551,
-        "rouge_recall": 0.12617222611336523
-    }
-}
