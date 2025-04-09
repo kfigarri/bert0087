@@ -1,4 +1,6 @@
 ## Introduction
+Please access the main google drive of this repository: [Google Drive](https://drive.google.com/drive/folders/1yvVzbvs6SDaaMTz6GnGP3yhz17QLddjn?usp=drive_link)
+
 This repository presents an advanced **Retrieval-Augmented Generation (RAG) pipeline** designed for legal domain applications. The architecture enhances traditional LLM-based responses by integrating a structured **feature analysis** mechanism and a **vector-based information retrieval** system. 
 
 ![main_diagram](./readme/main_diagram.png)
