@@ -1,0 +1,5 @@
+{
+    "query_answer_baseline_contractnli_llama3_k1.json": {
+        "ragas_metrics": "{'answer_relevancy': 0.5608}"
+    }
+}

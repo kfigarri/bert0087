@@ -1,0 +1,2912 @@
+[
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause grant the Mentor any rights to the Confidential Information?",
+            "Does the NDA clause grant the Receiving Party any rights to the Confidential Information?",
+            "Does the NDA clause grant the Receiving Party any rights to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.89401838,
+            0.90099457,
+            0.90099457
+        ],
+        "cosine_sim_mean": 0.8986691717224412,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document state that Confidential Information shall only include technical information?",
+        "generated_questions": [
+            "What does the NDA clause state about Confidential Information?",
+            "What does the NDA clause say about the definition of Confidential Information?",
+            "What does the NDA clause state about Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.87578796,
+            0.87960188,
+            0.87578796
+        ],
+        "cosine_sim_mean": 0.8770592674136773,
+        "final_score": 0.8770592674136773
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "generated_questions": [
+            "What does the NDA clause say about obligations after the termination of the Agreement?",
+            "Does the NDA clause indicate that any obligations survive the termination of the Agreement?",
+            "What does the NDA clause say about obligations after the termination of the Agreement?"
+        ],
+        "cosine_sim": [
+            0.86363525,
+            0.89070435,
+            0.86363525
+        ],
+        "cosine_sim_mean": 0.8726582848252912,
+        "final_score": 0.8726582848252912
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "generated_questions": [
+            "What does the NDA clause require the Receiving Party to do with Confidential Information?",
+            "What does the NDA clause require the Receiving Party to do with Confidential Information?",
+            "What does the NDA clause require the Receiving Party to do with Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.88346777,
+            0.88346777,
+            0.88346777
+        ],
+        "cosine_sim_mean": 0.8834677724400359,
+        "final_score": 0.8834677724400359
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "generated_questions": [
+            "What does the NDA clause say about sharing Confidential Information?",
+            "What does the NDA clause say about the disclosure of Confidential Information by the Mentor?",
+            "What does the NDA clause say about the disclosure of Confidential Information by the Mentor?"
+        ],
+        "cosine_sim": [
+            0.8658981,
+            0.87534508,
+            0.87534508
+        ],
+        "cosine_sim_mean": 0.8721960826409183,
+        "final_score": 0.8721960826409183
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause require the Receiving Party to notify the Disclosing Party if compelled by law to disclose Confidential Information?",
+            "Does the NDA clause require the Receiving Party to notify the Disclosing Party if compelled by law to disclose Confidential Information?",
+            "Does the NDA clause require the Receiving Party to notify the Disclosing Party if compelled by law to disclose Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91335327,
+            0.91335327,
+            0.91335327
+        ],
+        "cosine_sim_mean": 0.9133532745299386,
+        "final_score": 0.9133532745299386
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "generated_questions": [
+            "Can the Mentor acquire information similar to the Confidential Information from a third party under the NDA?",
+            "Can the Receiving Party (Mentor) acquire information similar to the Confidential Information from a third party?",
+            "Can the Mentor acquire information similar to the Confidential Information from a third party under the NDA?"
+        ],
+        "cosine_sim": [
+            0.90403276,
+            0.92400074,
+            0.90403276
+        ],
+        "cosine_sim_mean": 0.9106887523716493,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "generated_questions": [
+            "What does the NDA clause say about sharing Confidential Information with employees?",
+            "What does the NDA clause say about sharing Confidential Information with employees?",
+            "What does the NDA clause say about sharing Confidential Information with employees?"
+        ],
+        "cosine_sim": [
+            0.88855057,
+            0.88855057,
+            0.88855057
+        ],
+        "cosine_sim_mean": 0.8885505735154894,
+        "final_score": 0.8885505735154894
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "generated_questions": [
+            "Does the NDA clause restrict the use of Confidential Information to specific purposes outlined in the Agreement?",
+            "Does the NDA clause restrict the use of Confidential Information to specific purposes outlined in the Agreement?",
+            "Does the NDA clause restrict the use of Confidential Information to specific purposes outlined in the Agreement?"
+        ],
+        "cosine_sim": [
+            0.9023303,
+            0.9023303,
+            0.9023303
+        ],
+        "cosine_sim_mean": 0.9023302974575071,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "generated_questions": [
+            "What does the NDA clause state about the rights to the Confidential Information?",
+            "What does the NDA clause state about the rights to the Confidential Information?",
+            "What does the NDA clause say about the rights to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.87479015,
+            0.87479015,
+            0.8775665
+        ],
+        "cosine_sim_mean": 0.8757156001307228,
+        "final_score": 0.8757156001307228
+    },
+    {
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+        "generated_questions": [
+            "What does the NDA clause say about disclosing business negotiations between the parties?",
+            "What does the NDA clause say about disclosing business negotiations between the parties?",
+            "What does the NDA clause say about disclosing business negotiations between the parties?"
+        ],
+        "cosine_sim": [
+            0.88444119,
+            0.88444119,
+            0.88444119
+        ],
+        "cosine_sim_mean": 0.8844411888163893,
+        "final_score": 0.8844411888163893
+    },
+    {
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "generated_questions": [
+            "Does the document state that Confidential Information shall only include technical information?",
+            "Does the document state that Confidential Information only includes technical information?",
+            "Does the document state that Confidential Information only includes technical information?"
+        ],
+        "cosine_sim": [
+            0.93682541,
+            0.93079967,
+            0.93079967
+        ],
+        "cosine_sim_mean": 0.9328082490958662,
+        "final_score": 0.9328082490958662
+    },
+    {
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "generated_questions": [
+            "Does the NDA clause require the Disclosing Party to explicitly identify all Confidential Information?",
+            "Does the NDA clause require the Disclosing Party to explicitly identify all Confidential Information?",
+            "Does the NDA clause require the Disclosing Party to explicitly identify all Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92347845,
+            0.92347845,
+            0.92347845
+        ],
+        "cosine_sim_mean": 0.9234784511036457,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause allow the Receiving Party to independently develop information similar to the Confidential Information?",
+            "Does the NDA clause allow the Receiving Party to independently develop information similar to the Confidential Information?",
+            "Does the NDA clause allow the Receiving Party to independently develop information similar to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.935591,
+            0.935591,
+            0.935591
+        ],
+        "cosine_sim_mean": 0.9355910036012259,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "generated_questions": [
+            "What does the NDA clause say about the retention of Confidential Information by the Receiving Party?",
+            "What does the NDA clause say about the retention of Confidential Information by the Receiving Party?",
+            "What does the NDA clause say about the retention of Confidential Information by the Receiving Party?"
+        ],
+        "cosine_sim": [
+            0.89863123,
+            0.89863123,
+            0.89863123
+        ],
+        "cosine_sim_mean": 0.8986312279845953,
+        "final_score": 0.8986312279845953
+    },
+    {
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause require the Receiving Party to notify the Disclosing Party if they must disclose Confidential Information due to legal obligations?",
+            "Does the NDA clause require the Receiving Party to notify the Disclosing Party if they must disclose Confidential Information due to legal obligations?",
+            "Does the NDA clause require the Receiving Party to notify the Disclosing Party if they must disclose Confidential Information due to legal obligations?"
+        ],
+        "cosine_sim": [
+            0.91521711,
+            0.91521711,
+            0.91521711
+        ],
+        "cosine_sim_mean": 0.9152171146708215,
+        "final_score": 0.9152171146708215
+    },
+    {
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "generated_questions": [
+            "Does the NDA clause allow the Receiving Party to acquire similar information from a third party?",
+            "Does the NDA clause allow the Receiving Party to acquire similar information from a third party?",
+            "Can the Receiving Party acquire information similar to the Confidential Information from a third party according to the NDA clause?"
+        ],
+        "cosine_sim": [
+            0.92157583,
+            0.92157583,
+            0.91976163
+        ],
+        "cosine_sim_mean": 0.9209710987276623,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "generated_questions": [
+            "Does the document allow the Receiving Party to share Confidential Information with employees?",
+            "Does the document allow the Receiving Party to share Confidential Information with employees?",
+            "Does the document allow the Receiving Party to share Confidential Information with their employees?"
+        ],
+        "cosine_sim": [
+            0.92426909,
+            0.92426909,
+            0.92571085
+        ],
+        "cosine_sim_mean": 0.9247496796413669,
+        "final_score": 0.9247496796413669
+    },
+    {
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "generated_questions": [
+            "What does the NDA clause say about the use of Confidential Information?",
+            "What does the NDA clause say about the use of Confidential Information?",
+            "What does the NDA clause say about the use of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.88546251,
+            0.88546251,
+            0.88546251
+        ],
+        "cosine_sim_mean": 0.8854625122667862,
+        "final_score": 0.8854625122667862
+    },
+    {
+        "user_input": "Consider the Data Use Agreement in New York City; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+        "generated_questions": [
+            "What does the document specify about the Data Recipient\"s obligations upon termination of the Agreement?",
+            "What does the document specify about the Data Recipient\"s obligations upon termination of the Agreement?",
+            "What does the document specify about the Data Recipient\"s obligations upon termination of the Agreement?"
+        ],
+        "cosine_sim": [
+            0.88962402,
+            0.88962402,
+            0.88962402
+        ],
+        "cosine_sim_mean": 0.8896240229373644,
+        "final_score": 0.8896240229373644
+    },
+    {
+        "user_input": "Consider the Data Use Agreement in New York City; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "generated_questions": [
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91560797,
+            0.91560797,
+            0.91560797
+        ],
+        "cosine_sim_mean": 0.9156079651273158,
+        "final_score": 0.9156079651273158
+    },
+    {
+        "user_input": "Consider the Data Use Agreement in New York City; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "generated_questions": [
+            "Does the NDA clause indicate that any obligations will survive after the Agreement is terminated?",
+            "Does the NDA clause indicate that any obligations will survive after the Agreement is terminated?",
+            "Does the NDA clause indicate that any obligations will survive after the Agreement is terminated?"
+        ],
+        "cosine_sim": [
+            0.89480626,
+            0.89480626,
+            0.89480626
+        ],
+        "cosine_sim_mean": 0.8948062569451137,
+        "final_score": 0.8948062569451137
+    },
+    {
+        "user_input": "Consider the Data Use Agreement in New York City; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "generated_questions": [
+            "What does the NDA clause say about the retention of Confidential Information by the Receiving Party after termination of the Agreement?",
+            "What does the NDA clause say about the retention of Confidential Information by the Receiving Party after termination of the Agreement?",
+            "What does the NDA clause say about the retention of Confidential Information by the Receiving Party?"
+        ],
+        "cosine_sim": [
+            0.90044413,
+            0.90044413,
+            0.89977116
+        ],
+        "cosine_sim_mean": 0.9002198049550391,
+        "final_score": 0.9002198049550391
+    },
+    {
+        "user_input": "Consider the Data Use Agreement in New York City; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "generated_questions": [
+            "What does the NDA clause say about sharing Confidential Information with third parties?",
+            "What does the NDA clause say about sharing Confidential Information with third parties?",
+            "What does the NDA clause say about sharing Confidential Information with third parties?"
+        ],
+        "cosine_sim": [
+            0.88133725,
+            0.88133725,
+            0.88133725
+        ],
+        "cosine_sim_mean": 0.8813372468929325,
+        "final_score": 0.8813372468929325
+    },
+    {
+        "user_input": "Consider the Data Use Agreement in New York City; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+        "generated_questions": [
+            "What does the NDA clause say about reproducing Confidential Information?",
+            "What does the NDA clause say about reproducing Confidential Information?",
+            "What does the NDA clause say about reproducing Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.87233656,
+            0.87233656,
+            0.87233656
+        ],
+        "cosine_sim_mean": 0.8723365560124582,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider the Data Use Agreement in New York City; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with their employees according to the NDA?",
+            "Can the Receiving Party share Confidential Information with their employees according to the NDA?",
+            "Can the Receiving Party share Confidential Information with their employees according to the NDA?"
+        ],
+        "cosine_sim": [
+            0.90778072,
+            0.90777124,
+            0.90777124
+        ],
+        "cosine_sim_mean": 0.9077743995011865,
+        "final_score": 0.9077743995011865
+    },
+    {
+        "user_input": "Consider the Data Use Agreement in New York City; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "generated_questions": [
+            "What does the NDA clause say about the use of Confidential Information?",
+            "What does the NDA clause say about the use of Confidential Information?",
+            "What does the NDA clause say about the use of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.88727405,
+            0.88727405,
+            0.88727405
+        ],
+        "cosine_sim_mean": 0.8872740533483796,
+        "final_score": 0.8872740533483796
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+        "generated_questions": [
+            "Does the NDA clause require the Receiving Party to destroy Confidential Information upon termination of the Agreement?",
+            "Does the NDA clause require the Receiving Party to destroy Confidential Information upon termination of the Agreement?",
+            "Does the NDA clause require the Receiving Party to destroy Confidential Information upon termination of the Agreement?"
+        ],
+        "cosine_sim": [
+            0.92447318,
+            0.92447318,
+            0.92447318
+        ],
+        "cosine_sim_mean": 0.9244731790866276,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause grant the Receiving Party any rights to the Confidential Information?",
+            "Does the NDA clause grant the Receiving Party any rights to the Confidential Information?",
+            "Does the NDA clause grant the Receiving Party any rights to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91012281,
+            0.91012281,
+            0.91012281
+        ],
+        "cosine_sim_mean": 0.9101228141383358,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document state that Confidential Information shall only include technical information?",
+        "generated_questions": [
+            "What does the NDA clause say about Confidential Information?",
+            "What does the NDA clause say about Confidential Information?",
+            "What does the NDA clause say about Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.88457465,
+            0.88457465,
+            0.88457465
+        ],
+        "cosine_sim_mean": 0.884574650678851,
+        "final_score": 0.884574650678851
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "generated_questions": [
+            "Do the obligations under this Agreement continue after termination?",
+            "Do the obligations under the Agreement continue after termination?",
+            "Do the obligations under this Agreement continue after termination?"
+        ],
+        "cosine_sim": [
+            0.87639683,
+            0.8752938,
+            0.87639683
+        ],
+        "cosine_sim_mean": 0.8760291540066554,
+        "final_score": 0.8760291540066554
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "generated_questions": [
+            "Can the Receiving Party (Vendor) independently develop information similar to the Confidential Information under the NDA?",
+            "Can the Receiving Party (Vendor) independently develop information similar to the Confidential Information under the NDA?",
+            "Can the Receiving Party (Vendor) independently develop information similar to the Confidential Information under the NDA?"
+        ],
+        "cosine_sim": [
+            0.91792674,
+            0.91792674,
+            0.91792674
+        ],
+        "cosine_sim_mean": 0.9179267425944694,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "generated_questions": [
+            "What does the NDA clause say about sharing Confidential Information with third parties?",
+            "What does the NDA clause say about sharing Confidential Information with third parties?",
+            "What does the NDA clause say about sharing Confidential Information with third parties?"
+        ],
+        "cosine_sim": [
+            0.88848711,
+            0.88848711,
+            0.88848711
+        ],
+        "cosine_sim_mean": 0.8884871137588677,
+        "final_score": 0.8884871137588677
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "generated_questions": [
+            "What does the NDA clause say about exceptions for the use or disclosure of CONFIDENTIAL INFORMATION?",
+            "What does the NDA clause say about exceptions for the use or disclosure of CONFIDENTIAL INFORMATION?",
+            "What does the NDA clause say about exceptions for the use or disclosure of CONFIDENTIAL INFORMATION?"
+        ],
+        "cosine_sim": [
+            0.85358478,
+            0.85358478,
+            0.85358478
+        ],
+        "cosine_sim_mean": 0.8535847771925577,
+        "final_score": 0.8535847771925577
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement (NDA) allow the Vendor to share Confidential Information with their employees?",
+            "Can the Vendor share Confidential Information with their employees under the Non-Disclosure Agreement?",
+            "Does the Non-Disclosure Agreement (NDA) allow the Vendor to share Confidential Information with employees?"
+        ],
+        "cosine_sim": [
+            0.90818123,
+            0.9043567,
+            0.90703483
+        ],
+        "cosine_sim_mean": 0.906524251550417,
+        "final_score": 0.906524251550417
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "generated_questions": [
+            "Does the NDA clause restrict the use of Confidential Information solely to the purposes outlined in the Agreement?",
+            "Does the NDA clause restrict the use of Confidential Information solely to the purposes outlined in the Agreement?",
+            "Does the NDA clause restrict the use of Confidential Information solely to the purposes outlined in the Agreement?"
+        ],
+        "cosine_sim": [
+            0.91668142,
+            0.91668142,
+            0.91668142
+        ],
+        "cosine_sim_mean": 0.9166814188121611,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "generated_questions": [
+            "What rights does the NDA clause grant to the Receiving Party regarding Confidential Information?",
+            "Does the NDA clause grant the Receiving Party any rights to the Confidential Information?",
+            "What does the NDA clause indicate about the rights of the Receiving Party regarding Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91264072,
+            0.92810872,
+            0.91225309
+        ],
+        "cosine_sim_mean": 0.9176675113469512,
+        "final_score": 0.9176675113469512
+    },
+    {
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+        "generated_questions": [
+            "Does the NDA include a confidentiality clause for the Receiving Party?",
+            "Does the NDA include a confidentiality clause for the Receiving Party?",
+            "Does the NDA include a confidentiality clause for the Receiving Party?"
+        ],
+        "cosine_sim": [
+            0.91079136,
+            0.9107632,
+            0.91079136
+        ],
+        "cosine_sim_mean": 0.9107819710666827,
+        "final_score": 0.9107819710666827
+    },
+    {
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "generated_questions": [
+            "Does the NDA clause specify that Confidential Information only includes technical information?",
+            "Does the NDA clause limit Confidential Information to only technical information?",
+            "Does the NDA clause specify that Confidential Information only includes technical information?"
+        ],
+        "cosine_sim": [
+            0.93917429,
+            0.92446313,
+            0.93917429
+        ],
+        "cosine_sim_mean": 0.934270572618838,
+        "final_score": 0.934270572618838
+    },
+    {
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "generated_questions": [
+            "Does the NDA clause indicate that any obligations will survive the termination of the Agreement?",
+            "Does the NDA clause indicate that any obligations will survive the termination of the Agreement?",
+            "Does the NDA clause indicate that any obligations will survive the termination of the Agreement?"
+        ],
+        "cosine_sim": [
+            0.91208389,
+            0.91208389,
+            0.91208389
+        ],
+        "cosine_sim_mean": 0.9120838859354056,
+        "final_score": 0.9120838859354056
+    },
+    {
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "generated_questions": [
+            "Does the NDA allow the Receiving Party to independently develop information similar to the Confidential Information?",
+            "Does the NDA allow the Receiving Party to independently develop information similar to the Confidential Information?",
+            "Does the NDA allow the Receiving Party to independently develop information similar to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.94483153,
+            0.94483153,
+            0.94483153
+        ],
+        "cosine_sim_mean": 0.9448315299981362,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "generated_questions": [
+            "What does the NDA clause say about the retention of Confidential Information by the Receiving Party?",
+            "What does the NDA clause state about the retention of Confidential Information by the Receiving Party?",
+            "What does the NDA clause state about the retention of Confidential Information by the Receiving Party?"
+        ],
+        "cosine_sim": [
+            0.91013473,
+            0.90703305,
+            0.90703305
+        ],
+        "cosine_sim_mean": 0.9080669413358553,
+        "final_score": 0.9080669413358553
+    },
+    {
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with third parties according to the NDA clause?",
+            "Can the Receiving Party share Confidential Information with third parties according to the NDA clause?",
+            "Can the Receiving Party (EFCA Pty Ltd) share Confidential Information with third parties according to the NDA clause?"
+        ],
+        "cosine_sim": [
+            0.90782228,
+            0.90782228,
+            0.9276006
+        ],
+        "cosine_sim_mean": 0.9144150534863091,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+        "generated_questions": [
+            "Does the NDA clause allow the Receiving Party to create copies of Confidential Information?",
+            "Does the NDA clause allow the Receiving Party to create copies of Confidential Information?",
+            "Does the NDA clause allow the Receiving Party to create copies of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92991359,
+            0.92991359,
+            0.92991359
+        ],
+        "cosine_sim_mean": 0.929913588250284,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause require the Receiving Party to notify the Disclosing Party if compelled by law to disclose Confidential Information?",
+            "Does the NDA clause require the Receiving Party to notify the Disclosing Party if compelled by law to disclose Confidential Information?",
+            "Does the NDA clause require the Receiving Party to notify the Disclosing Party if compelled by law to disclose Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.93321998,
+            0.93321998,
+            0.93321998
+        ],
+        "cosine_sim_mean": 0.9332199783767079,
+        "final_score": 0.9332199783767079
+    },
+    {
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with their employees according to the NDA clause?",
+            "Can the Receiving Party (EFCA Pty Ltd) share Confidential Information with their employees according to the NDA clause?",
+            "Can the Receiving Party (EFCA Pty Ltd) share Confidential Information with their employees according to the NDA clause?"
+        ],
+        "cosine_sim": [
+            0.92485542,
+            0.93714227,
+            0.93714227
+        ],
+        "cosine_sim_mean": 0.9330466546545688,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "generated_questions": [
+            "Does the document restrict the use of Confidential Information?",
+            "Does the document restrict the use of Confidential Information?",
+            "Does the document restrict the use of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91612153,
+            0.91612153,
+            0.91612153
+        ],
+        "cosine_sim_mean": 0.9161215303161954,
+        "final_score": 0.9161215303161954
+    },
+    {
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "generated_questions": [
+            "What rights does the Agreement grant to the Receiving Party regarding the Confidential Information?",
+            "What rights does the Agreement grant to the Receiving Party regarding the Confidential Information?",
+            "What does the document say about the rights of the Receiving Party to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.90030918,
+            0.90030918,
+            0.90953601
+        ],
+        "cosine_sim_mean": 0.9033847888686415,
+        "final_score": 0.9033847888686415
+    },
+    {
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+        "generated_questions": [
+            "Does the NDA include a confidentiality clause regarding its existence and negotiation?",
+            "Does the NDA include a confidentiality clause regarding the Agreement?",
+            "Does the NDA include a confidentiality clause regarding the Agreement?"
+        ],
+        "cosine_sim": [
+            0.89824616,
+            0.90248478,
+            0.90248478
+        ],
+        "cosine_sim_mean": 0.9010719068008416,
+        "final_score": 0.9010719068008416
+    },
+    {
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "generated_questions": [
+            "Does the NDA clause limit Confidential Information to only technical information?",
+            "Does the NDA clause limit Confidential Information to only technical information?",
+            "Does the NDA clause limit Confidential Information to only technical information?"
+        ],
+        "cosine_sim": [
+            0.90478455,
+            0.90478455,
+            0.90478455
+        ],
+        "cosine_sim_mean": 0.9047845492828444,
+        "final_score": 0.9047845492828444
+    },
+    {
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "generated_questions": [
+            "Does the NDA clause require the Disclosing Party to explicitly identify all Confidential Information?",
+            "Does the NDA clause require the Disclosing Party to explicitly identify all Confidential Information?",
+            "Does the NDA clause require the Disclosing Party to explicitly identify all Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91818367,
+            0.91818367,
+            0.91818367
+        ],
+        "cosine_sim_mean": 0.9181836661200902,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "generated_questions": [
+            "What does the NDA clause say about the obligations related to Confidential Information after termination?",
+            "What does the NDA clause say about the obligations related to Confidential Information after termination?",
+            "What does the NDA clause say about the obligations related to Confidential Information after termination?"
+        ],
+        "cosine_sim": [
+            0.87785351,
+            0.87785351,
+            0.87785351
+        ],
+        "cosine_sim_mean": 0.8778535073248855,
+        "final_score": 0.8778535073248855
+    },
+    {
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "generated_questions": [
+            "Can the Receiving Party independently develop information similar to the Confidential Information according to the NDA clause?",
+            "Can the Receiving Party independently develop information similar to the Confidential Information according to the NDA clause?",
+            "Can the Receiving Party independently develop information similar to the Confidential Information according to the NDA clause?"
+        ],
+        "cosine_sim": [
+            0.92302957,
+            0.92302957,
+            0.92302957
+        ],
+        "cosine_sim_mean": 0.9230295672859246,
+        "final_score": 0.9230295672859246
+    },
+    {
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "generated_questions": [
+            "What does the NDA clause say about the retention of Confidential Information by the Receiving Party?",
+            "What does the NDA clause say about the retention of Confidential Information by the Receiving Party?",
+            "What does the NDA clause say about the retention of Confidential Information by the Receiving Party?"
+        ],
+        "cosine_sim": [
+            0.90378012,
+            0.90378012,
+            0.90378012
+        ],
+        "cosine_sim_mean": 0.9037801177164195,
+        "final_score": 0.9037801177164195
+    },
+    {
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause specify if verbally conveyed information is considered Confidential Information?",
+            "Does the NDA clause specify if verbally conveyed information is considered Confidential Information?",
+            "Does the NDA clause specify if verbally conveyed information is considered Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.90968886,
+            0.90968886,
+            0.90968886
+        ],
+        "cosine_sim_mean": 0.909688856817608,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "generated_questions": [
+            "What does the NDA clause say about sharing Confidential Information with third parties?",
+            "What does the NDA clause say about sharing Confidential Information with third parties?",
+            "What does the NDA clause say about sharing Confidential Information with third parties?"
+        ],
+        "cosine_sim": [
+            0.88199099,
+            0.88199099,
+            0.88199099
+        ],
+        "cosine_sim_mean": 0.8819909922797476,
+        "final_score": 0.8819909922797476
+    },
+    {
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "generated_questions": [
+            "What does the NDA clause require the Receiving Party to do if they are legally required to disclose Confidential Information?",
+            "What does the NDA clause require the Receiving Party to do if they are legally required to disclose Confidential Information?",
+            "What does the NDA clause require the Receiving Party to do if they are legally required to disclose Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.90388885,
+            0.90392905,
+            0.90388885
+        ],
+        "cosine_sim_mean": 0.9039022540813266,
+        "final_score": 0.9039022540813266
+    },
+    {
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "generated_questions": [
+            "Can the Receiving Party acquire information similar to the Confidential Information from a third party according to the NDA clause?",
+            "Can the Receiving Party acquire information similar to the Confidential Information from a third party according to the NDA clause?",
+            "Can the Receiving Party acquire information similar to the Confidential Information from a third party according to the NDA clause?"
+        ],
+        "cosine_sim": [
+            0.91527688,
+            0.91527688,
+            0.91527688
+        ],
+        "cosine_sim_mean": 0.9152768834168268,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with their employees according to the NDA clause?",
+            "Can the Receiving Party share Confidential Information with their employees according to the NDA clause?",
+            "Can the Receiving Party share Confidential Information with their employees according to the NDA clause?"
+        ],
+        "cosine_sim": [
+            0.91564231,
+            0.91564231,
+            0.91564231
+        ],
+        "cosine_sim_mean": 0.9156423143922213,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "generated_questions": [
+            "What does the NDA clause say about the use of Confidential Information?",
+            "What does the NDA clause say about the use of Confidential Information?",
+            "What does the NDA clause say about the use of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.88502042,
+            0.88502042,
+            0.88502042
+        ],
+        "cosine_sim_mean": 0.8850204179704869,
+        "final_score": 0.8850204179704869
+    },
+    {
+        "user_input": "Consider Epsteen\"s Non-Disclosure Agreement; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+        "generated_questions": [
+            "What does the NDA clause say about the handling of Confidential Information if the Buyer decides not to pursue the Transaction?",
+            "What does the NDA clause say about the handling of Confidential Information if the Buyer decides not to pursue the Transaction?",
+            "What does the NDA clause say about the handling of Confidential Information if the Buyer decides not to pursue the Transaction?"
+        ],
+        "cosine_sim": [
+            0.86172891,
+            0.86172891,
+            0.86172891
+        ],
+        "cosine_sim_mean": 0.8617289061779942,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Epsteen\"s Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "generated_questions": [
+            "Does the NDA clause restrict Confidential Information to only technical information?",
+            "Does the NDA clause restrict Confidential Information to only technical information?",
+            "Does the NDA clause specify that Confidential Information is limited to technical information?"
+        ],
+        "cosine_sim": [
+            0.91070267,
+            0.91070267,
+            0.91601368
+        ],
+        "cosine_sim_mean": 0.9124730044135995,
+        "final_score": 0.9124730044135995
+    },
+    {
+        "user_input": "Consider Epsteen\"s Non-Disclosure Agreement; Does the document include a clause that prohibits the Receiving Party from soliciting some of the Disclosing Party\"s representatives?",
+        "generated_questions": [
+            "Does the NDA clause prohibit the Receiving Party from soliciting the Disclosing Party\"s representatives?",
+            "Does the NDA clause prohibit the Receiving Party from soliciting the Disclosing Party\"s representatives?",
+            "Does the NDA clause prohibit the Buyer from soliciting the Broker\"s representatives?"
+        ],
+        "cosine_sim": [
+            0.92462818,
+            0.92462818,
+            0.8829784
+        ],
+        "cosine_sim_mean": 0.9107449170416143,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Epsteen\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "generated_questions": [
+            "What does the NDA clause say about sharing Confidential Information with third parties?",
+            "What does the NDA clause say about sharing Confidential Information with third parties?",
+            "What does the NDA clause say about sharing Confidential Information with third parties?"
+        ],
+        "cosine_sim": [
+            0.88075161,
+            0.88075161,
+            0.88075161
+        ],
+        "cosine_sim_mean": 0.8807516051974389,
+        "final_score": 0.8807516051974389
+    },
+    {
+        "user_input": "Consider Epsteen\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with their employees according to the NDA clause?",
+            "Can the Receiving Party share Confidential Information with their employees according to the NDA clause?",
+            "Can the Receiving Party share Confidential Information with their employees according to the NDA clause?"
+        ],
+        "cosine_sim": [
+            0.91181811,
+            0.91181811,
+            0.91181811
+        ],
+        "cosine_sim_mean": 0.9118181069655443,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Epsteen\"s Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "generated_questions": [
+            "Does the document restrict the use of Confidential Information?",
+            "Does the document restrict the use of Confidential Information?",
+            "Does the document restrict the use of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.90821904,
+            0.90821904,
+            0.90821904
+        ],
+        "cosine_sim_mean": 0.9082190376573459,
+        "final_score": 0.9082190376573459
+    },
+    {
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "generated_questions": [
+            "What does the NDA clause indicate about the rights of the Receiving Party to the Confidential Information?",
+            "What does the NDA clause indicate about the rights to the Confidential Information?",
+            "What does the NDA clause say about the rights of the Receiving Party to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.90167599,
+            0.8730865,
+            0.90212559
+        ],
+        "cosine_sim_mean": 0.8922960261988857,
+        "final_score": 0.8922960261988857
+    },
+    {
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "generated_questions": [
+            "What does the NDA clause define as Confidential Information?",
+            "What does the NDA clause say about the definition of Confidential Information?",
+            "What does the NDA clause say about the definition of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.85917754,
+            0.87639291,
+            0.87639291
+        ],
+        "cosine_sim_mean": 0.8706544534094619,
+        "final_score": 0.8706544534094619
+    },
+    {
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "generated_questions": [
+            "Does the NDA clause require all Confidential Information to be expressly identified by the Disclosing Party?",
+            "Does the NDA clause require all Confidential Information to be expressly identified by the Disclosing Party?",
+            "Does the NDA clause require all Confidential Information to be expressly identified by the Disclosing Party?"
+        ],
+        "cosine_sim": [
+            0.92681404,
+            0.92681404,
+            0.92681404
+        ],
+        "cosine_sim_mean": 0.9268140405893855,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "generated_questions": [
+            "Does the NDA clause indicate that any obligations survive after the Agreement is terminated?",
+            "Does the NDA clause indicate that any obligations survive after the Agreement is terminated?",
+            "Does the NDA clause indicate that any obligations survive after the Agreement is terminated?"
+        ],
+        "cosine_sim": [
+            0.89717056,
+            0.89717056,
+            0.89717056
+        ],
+        "cosine_sim_mean": 0.8971705603150558,
+        "final_score": 0.8971705603150558
+    },
+    {
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "generated_questions": [
+            "Can the Receiving Party independently develop information similar to the Confidential Information under the NDA clause?",
+            "Can the Receiving Party independently develop information similar to the Confidential Information according to the NDA clause?",
+            "Can the Receiving Party independently develop information similar to the Confidential Information under the NDA clause?"
+        ],
+        "cosine_sim": [
+            0.92002712,
+            0.91840876,
+            0.92002712
+        ],
+        "cosine_sim_mean": 0.9194876631653958,
+        "final_score": 0.9194876631653958
+    },
+    {
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause include orally disclosed information as Confidential Information?",
+            "Does the NDA clause include orally disclosed information as Confidential Information?",
+            "Does the NDA clause include orally disclosed information as Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.89589151,
+            0.89589151,
+            0.89589151
+        ],
+        "cosine_sim_mean": 0.8958915091099618,
+        "final_score": 0.8958915091099618
+    },
+    {
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "generated_questions": [
+            "Does the NDA allow the Receiving Party to share Confidential Information with third parties?",
+            "Does the NDA allow the Receiving Party to share Confidential Information with third parties?",
+            "Does the NDA allow the Receiving Party to share Confidential Information with third parties?"
+        ],
+        "cosine_sim": [
+            0.90190233,
+            0.90190233,
+            0.90190233
+        ],
+        "cosine_sim_mean": 0.9019023321296755,
+        "final_score": 0.9019023321296755
+    },
+    {
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "generated_questions": [
+            "What does the NDA clause require the Receiving Party to do if they are required to disclose Confidential Information?",
+            "What does the NDA clause require the Receiving Party to do if they must disclose Confidential Information?",
+            "What does the NDA clause require the Receiving Party to do regarding Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.89244398,
+            0.8952841,
+            0.88876343
+        ],
+        "cosine_sim_mean": 0.8921638393034051,
+        "final_score": 0.8921638393034051
+    },
+    {
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "generated_questions": [
+            "Can the Receiving Party acquire information similar to the Confidential Information from a third party according to the NDA clause?",
+            "Does the NDA clause allow the Receiving Party to acquire similar information from a third party?",
+            "Can the Receiving Party acquire information similar to the Confidential Information from a third party according to the NDA clause?"
+        ],
+        "cosine_sim": [
+            0.91323178,
+            0.91975961,
+            0.91323178
+        ],
+        "cosine_sim_mean": 0.915407724840715,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "generated_questions": [
+            "Does the NDA permit the Receiving Party to share Confidential Information with its employees?",
+            "Does the NDA allow the Receiving Party to share Confidential Information with its employees?",
+            "Does the NDA allow the Receiving Party to share Confidential Information with its employees?"
+        ],
+        "cosine_sim": [
+            0.9213467,
+            0.92227037,
+            0.92227037
+        ],
+        "cosine_sim_mean": 0.9219624814896097,
+        "final_score": 0.9219624814896097
+    },
+    {
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "generated_questions": [
+            "Does the NDA allow the use of Confidential Information for purposes other than those stated in the Agreement?",
+            "Does the NDA allow the use of Confidential Information for purposes other than those stated in the Agreement?",
+            "Does the NDA allow the use of Confidential Information for purposes other than those stated in the Agreement?"
+        ],
+        "cosine_sim": [
+            0.89918715,
+            0.89918715,
+            0.89918715
+        ],
+        "cosine_sim_mean": 0.8991871491545984,
+        "final_score": 0.8991871491545984
+    },
+    {
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+        "generated_questions": [
+            "What does the NDA require the Receiving Party to do upon termination of the agreement?",
+            "What does the NDA require the Receiving Party to do upon termination of the agreement?",
+            "What does the NDA require the Receiving Party to do with Proprietary Information upon termination of the agreement?"
+        ],
+        "cosine_sim": [
+            0.89301206,
+            0.89301206,
+            0.89766382
+        ],
+        "cosine_sim_mean": 0.8945626501574679,
+        "final_score": 0.8945626501574679
+    },
+    {
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "generated_questions": [
+            "What rights does the Receiving Party have to the Confidential Information according to the document?",
+            "What rights does the Receiving Party have to the Confidential Information according to the document?",
+            "What rights does the Receiving Party have to the Confidential Information according to the document?"
+        ],
+        "cosine_sim": [
+            0.89492366,
+            0.89492366,
+            0.89492366
+        ],
+        "cosine_sim_mean": 0.894923657072851,
+        "final_score": 0.894923657072851
+    },
+    {
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "generated_questions": [
+            "Does the NDA clause limit Confidential Information to only technical information?",
+            "Does the NDA clause limit Confidential Information to only technical information?",
+            "Does the NDA clause limit Confidential Information to only technical information?"
+        ],
+        "cosine_sim": [
+            0.92422979,
+            0.92422979,
+            0.92422979
+        ],
+        "cosine_sim_mean": 0.9242297875993625,
+        "final_score": 0.9242297875993625
+    },
+    {
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "generated_questions": [
+            "Does the NDA clause require the Disclosing Party to explicitly identify all Confidential Information?",
+            "Does the NDA clause require the Disclosing Party to expressly identify all Confidential Information?",
+            "Does the NDA clause require the Disclosing Party to explicitly identify all Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.94044889,
+            0.94328957,
+            0.94044889
+        ],
+        "cosine_sim_mean": 0.9413957820570545,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "generated_questions": [
+            "Do any obligations of the Agreement survive its termination?",
+            "Do any obligations of the Agreement survive its termination?",
+            "Do any obligations of the Agreement survive its termination?"
+        ],
+        "cosine_sim": [
+            0.89534207,
+            0.89534207,
+            0.89534207
+        ],
+        "cosine_sim_mean": 0.8953420652650353,
+        "final_score": 0.8953420652650353
+    },
+    {
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "generated_questions": [
+            "Does the NDA allow the Receiving Party to independently develop information similar to the Confidential Information?",
+            "Does the NDA allow the Receiving Party to independently develop information similar to the Confidential Information?",
+            "Does the NDA allow the Receiving Party to independently develop information similar to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.94732586,
+            0.94732586,
+            0.94732586
+        ],
+        "cosine_sim_mean": 0.9473258602182874,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "generated_questions": [
+            "Does the NDA allow the Receiving Party to retain any Confidential Information after its return or destruction?",
+            "Does the NDA allow the Receiving Party to retain any Confidential Information after its return or destruction?",
+            "Does the NDA allow the Receiving Party to retain any Confidential Information after its return or destruction?"
+        ],
+        "cosine_sim": [
+            0.93920143,
+            0.93920143,
+            0.93920143
+        ],
+        "cosine_sim_mean": 0.9392014277292532,
+        "final_score": 0.9392014277292532
+    },
+    {
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause consider verbally conveyed information as Confidential Information?",
+            "Does the NDA clause consider verbally conveyed information as Confidential Information?",
+            "Does the NDA clause consider verbally conveyed information as Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.9283283,
+            0.9283283,
+            0.9283283
+        ],
+        "cosine_sim_mean": 0.9283282961174066,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "generated_questions": [
+            "Can the Receiving Party share Proprietary Information with third parties?",
+            "Can the Receiving Party share Proprietary Information with third parties?",
+            "Can the Receiving Party share Proprietary Information with third parties?"
+        ],
+        "cosine_sim": [
+            0.88270266,
+            0.88270266,
+            0.88270266
+        ],
+        "cosine_sim_mean": 0.882702664115908,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+        "generated_questions": [
+            "Does the NDA allow the Receiving Party to keep a copy of Confidential Information?",
+            "Does the NDA allow the Receiving Party to keep a copy of Confidential Information?",
+            "Does the NDA allow the Receiving Party to keep a copy of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91748016,
+            0.91748016,
+            0.9175163
+        ],
+        "cosine_sim_mean": 0.9174922090616032,
+        "final_score": 0.9174922090616032
+    },
+    {
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "generated_questions": [
+            "What does the NDA clause require the Receiving Party to do if they must disclose Confidential Information?",
+            "What does the NDA clause require the Receiving Party to do if they must disclose Confidential Information?",
+            "What does the NDA clause require the Receiving Party to do if they are required to disclose Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91139954,
+            0.91139954,
+            0.9094648
+        ],
+        "cosine_sim_mean": 0.9107546251278449,
+        "final_score": 0.9107546251278449
+    },
+    {
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "generated_questions": [
+            "Does the NDA clause allow the Receiving Party to acquire similar information from a third party?",
+            "What does the NDA clause say about acquiring information from a third party?",
+            "What does the NDA clause say about acquiring information from a third party?"
+        ],
+        "cosine_sim": [
+            0.933748,
+            0.88589685,
+            0.88589685
+        ],
+        "cosine_sim_mean": 0.9018472312928844,
+        "final_score": 0.9018472312928844
+    },
+    {
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with their employees according to the NDA clause?",
+            "Can the Receiving Party share Confidential Information with their employees according to the NDA clause?",
+            "Can the Receiving Party share Confidential Information with their employees according to the NDA clause?"
+        ],
+        "cosine_sim": [
+            0.92768364,
+            0.92768364,
+            0.92768364
+        ],
+        "cosine_sim_mean": 0.9276836357411612,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "generated_questions": [
+            "What does the NDA clause say about the use of Confidential Information?",
+            "What does the NDA clause say about the use of Confidential Information?",
+            "What does the NDA clause say about the use of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.89908601,
+            0.89908601,
+            0.89908601
+        ],
+        "cosine_sim_mean": 0.8990860147066385,
+        "final_score": 0.8990860147066385
+    },
+    {
+        "user_input": "Consider FNHA\"s Non-Disclosure Agreement; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+        "generated_questions": [
+            "What does the NDA say about the handling of Confidential Information after the RFP process?",
+            "What does the NDA say about the handling of Confidential Information after the RFP process?",
+            "What does the NDA say about the handling of Confidential Information after the RFP process?"
+        ],
+        "cosine_sim": [
+            0.86615009,
+            0.86615009,
+            0.86615009
+        ],
+        "cosine_sim_mean": 0.8661500949373592,
+        "final_score": 0.8661500949373592
+    },
+    {
+        "user_input": "Consider FNHA\"s Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "generated_questions": [
+            "What does the NDA clause state about the rights to Confidential Information?",
+            "What does the NDA clause say about rights to Confidential Information?",
+            "What does the NDA clause say about the rights to Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.88579654,
+            0.88852233,
+            0.88954703
+        ],
+        "cosine_sim_mean": 0.8879552975871481,
+        "final_score": 0.8879552975871481
+    },
+    {
+        "user_input": "Consider FNHA\"s Non-Disclosure Agreement; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+        "generated_questions": [
+            "Does the NDA clause restrict disclosing the fact that the Agreement was negotiated?",
+            "Does the NDA clause restrict disclosing the fact that the Agreement was agreed upon or negotiated?",
+            "Does the NDA clause restrict disclosing the fact that the Agreement was negotiated?"
+        ],
+        "cosine_sim": [
+            0.91044383,
+            0.91239236,
+            0.91044383
+        ],
+        "cosine_sim_mean": 0.9110933423836031,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider FNHA\"s Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "generated_questions": [
+            "What does the NDA clause say about identifying Confidential Information?",
+            "What does the NDA clause say about identifying Confidential Information?",
+            "What does the NDA clause say about identifying Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.89538745,
+            0.89538745,
+            0.89538745
+        ],
+        "cosine_sim_mean": 0.8953874512210448,
+        "final_score": 0.8953874512210448
+    },
+    {
+        "user_input": "Consider FNHA\"s Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause include verbally conveyed information as Confidential Information?",
+            "Does the NDA clause include verbally conveyed information as Confidential Information?",
+            "Does the NDA clause include verbally conveyed information as Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92182682,
+            0.92182682,
+            0.92182682
+        ],
+        "cosine_sim_mean": 0.9218268217465223,
+        "final_score": 0.9218268217465223
+    },
+    {
+        "user_input": "Consider FNHA\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "generated_questions": [
+            "Does the NDA clause permit the Receiving Party to share Confidential Information with third parties?",
+            "Does the NDA clause allow the Receiving Party to share Confidential Information with third parties?",
+            "Does the NDA clause permit the Receiving Party to share Confidential Information with third parties?"
+        ],
+        "cosine_sim": [
+            0.91695706,
+            0.91772609,
+            0.91695706
+        ],
+        "cosine_sim_mean": 0.9172134028804265,
+        "final_score": 0.9172134028804265
+    },
+    {
+        "user_input": "Consider FNHA\"s Non-Disclosure Agreement; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+        "generated_questions": [
+            "What does the NDA clause say about making copies of Confidential Information?",
+            "What does the NDA clause say about making copies of Confidential Information?",
+            "What does the NDA clause say about making copies of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.88770022,
+            0.88770022,
+            0.88770022
+        ],
+        "cosine_sim_mean": 0.8877002241377699,
+        "final_score": 0.8877002241377699
+    },
+    {
+        "user_input": "Consider FNHA\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "generated_questions": [
+            "Does the NDA clause allow the Company to share Confidential Information with their employees?",
+            "Does the NDA clause allow the Company to share Confidential Information with their employees?",
+            "Does the NDA clause allow the Company to share Confidential Information with their employees?"
+        ],
+        "cosine_sim": [
+            0.90861991,
+            0.90861991,
+            0.90861991
+        ],
+        "cosine_sim_mean": 0.9086199105885209,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider FNHA\"s Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "generated_questions": [
+            "What does the NDA say about the use of Confidential Information?",
+            "What does the NDA say about the use of Confidential Information?",
+            "What does the NDA say about the use of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.89730156,
+            0.89730156,
+            0.89730156
+        ],
+        "cosine_sim_mean": 0.8973015635561558,
+        "final_score": 0.8973015635561558
+    },
+    {
+        "user_input": "Consider APIC\"s Confidentiality Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "generated_questions": [
+            "What rights does the Receiving Party have regarding the Confidential Information according to the NDA clause?",
+            "What rights does the Receiving Party have regarding the Confidential Information according to the NDA clause?",
+            "What rights does the Receiving Party have regarding the Confidential Information according to the NDA clause?"
+        ],
+        "cosine_sim": [
+            0.87311299,
+            0.87311299,
+            0.87311299
+        ],
+        "cosine_sim_mean": 0.8731129881367862,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider APIC\"s Confidentiality Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "generated_questions": [
+            "What does the NDA clause say about Confidential Information?",
+            "What does the NDA clause say about Confidential Information?",
+            "What does the NDA clause say about Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.86672913,
+            0.86672913,
+            0.86672913
+        ],
+        "cosine_sim_mean": 0.8667291336464698,
+        "final_score": 0.8667291336464698
+    },
+    {
+        "user_input": "Consider APIC\"s Confidentiality Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "generated_questions": [
+            "What does the NDA clause say about sharing Confidential Information with third parties?",
+            "What does the NDA clause say about sharing Confidential Information with third parties?",
+            "What does the NDA clause say about sharing Confidential Information with third parties?"
+        ],
+        "cosine_sim": [
+            0.86261078,
+            0.86261078,
+            0.86261078
+        ],
+        "cosine_sim_mean": 0.8626107832470051,
+        "final_score": 0.8626107832470051
+    },
+    {
+        "user_input": "Consider APIC\"s Confidentiality Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "generated_questions": [
+            "Does the document restrict the use of Confidential Information?",
+            "Does the document restrict the use of Confidential Information?",
+            "Does the document restrict the use of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91198286,
+            0.91198286,
+            0.91198286
+        ],
+        "cosine_sim_mean": 0.9119828635269593,
+        "final_score": 0.9119828635269593
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "generated_questions": [
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the NDA clause grant the Receiving Party any rights to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.90543665,
+            0.90543665,
+            0.89963084
+        ],
+        "cosine_sim_mean": 0.903501382584044,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants; Does the document state that Confidential Information shall only include technical information?",
+        "generated_questions": [
+            "Does the NDA clause limit Confidential Information to only technical information?",
+            "What does the NDA clause say about the definition of Confidential Information?",
+            "Does the NDA clause limit Confidential Information to only technical information?"
+        ],
+        "cosine_sim": [
+            0.90697487,
+            0.88072005,
+            0.90697487
+        ],
+        "cosine_sim_mean": 0.8982232630051978,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "generated_questions": [
+            "Does the NDA allow the Receiving Party to independently develop information similar to the Confidential Information?",
+            "Does the NDA allow the Receiving Party to independently develop information similar to the Confidential Information?",
+            "Does the NDA allow the Receiving Party to independently develop information similar to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92090041,
+            0.92090041,
+            0.92090041
+        ],
+        "cosine_sim_mean": 0.9209004122230225,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with third parties according to the NDA clause?",
+            "Can the Receiving Party share Confidential Information with third parties according to the provided NDA clause?",
+            "Can the Receiving Party share Confidential Information with third parties according to the provided NDA clause?"
+        ],
+        "cosine_sim": [
+            0.89810097,
+            0.89755883,
+            0.89755883
+        ],
+        "cosine_sim_mean": 0.8977395457390992,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "generated_questions": [
+            "Does the NDA clause allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+            "Does the NDA clause allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+            "Does the NDA clause allow the Receiving Party to acquire information similar to the Confidential Information from a third party?"
+        ],
+        "cosine_sim": [
+            0.91980776,
+            0.91980776,
+            0.91980776
+        ],
+        "cosine_sim_mean": 0.91980775687579,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider GreenStorm\"s Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "generated_questions": [
+            "What does the NDA say about the rights of the Receiving Party to the Confidential Information?",
+            "Does the NDA grant the Receiving Party any rights to the Confidential Information?",
+            "What does the NDA say about the rights of the Receiving Party to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.90053557,
+            0.91702945,
+            0.90053557
+        ],
+        "cosine_sim_mean": 0.9060335284607945,
+        "final_score": 0.9060335284607945
+    },
+    {
+        "user_input": "Consider GreenStorm\"s Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "generated_questions": [
+            "Does the document state that Confidential Information only includes technical information?",
+            "Does the document state that Confidential Information only includes technical information?",
+            "Does the document state that Confidential Information only includes technical information?"
+        ],
+        "cosine_sim": [
+            0.93761509,
+            0.93761509,
+            0.93761509
+        ],
+        "cosine_sim_mean": 0.9376150855438108,
+        "final_score": 0.9376150855438108
+    },
+    {
+        "user_input": "Consider GreenStorm\"s Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "generated_questions": [
+            "What does the NDA clause require regarding the identification of Confidential Information?",
+            "What does the NDA clause require regarding the identification of Confidential Information?",
+            "What does the NDA clause require regarding the identification of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.89595606,
+            0.89595606,
+            0.89595606
+        ],
+        "cosine_sim_mean": 0.8959560581035523,
+        "final_score": 0.8959560581035523
+    },
+    {
+        "user_input": "Consider GreenStorm\"s Non-Disclosure Agreement; Does the document include a clause that prohibits the Receiving Party from soliciting some of the Disclosing Party\"s representatives?",
+        "generated_questions": [
+            "Does the NDA prohibit the Receiving Party from soliciting the Disclosing Party\"s representatives?",
+            "Does the NDA prohibit the Receiving Party from soliciting the Disclosing Party\"s representatives?",
+            "Does the NDA prohibit the Receiving Party from soliciting the Disclosing Party\"s representatives?"
+        ],
+        "cosine_sim": [
+            0.92179108,
+            0.92179108,
+            0.92179108
+        ],
+        "cosine_sim_mean": 0.9217910762290136,
+        "final_score": 0.9217910762290136
+    },
+    {
+        "user_input": "Consider GreenStorm\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with consultants, agents, or professional advisors according to the NDA clause?",
+            "Can the Receiving Party share Confidential Information with consultants, agents, or professional advisors according to the NDA clause?",
+            "Can the Receiving Party share Confidential Information with consultants, agents, or professional advisors according to the NDA clause?"
+        ],
+        "cosine_sim": [
+            0.91450916,
+            0.91450916,
+            0.91450916
+        ],
+        "cosine_sim_mean": 0.9145091590606246,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Grindrod SA\"s Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "generated_questions": [
+            "What does the NDA clause say about the definition of Confidential Information?",
+            "What does the NDA clause say about the definition of Confidential Information?",
+            "What does the NDA clause say about the definition of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.87958665,
+            0.87958665,
+            0.87958665
+        ],
+        "cosine_sim_mean": 0.8795866469032595,
+        "final_score": 0.8795866469032595
+    },
+    {
+        "user_input": "Consider Grindrod SA\"s Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "generated_questions": [
+            "Does the NDA clause require the Disclosing Party to expressly identify all Confidential Information?",
+            "Does the NDA clause require the Disclosing Party to expressly identify all Confidential Information?",
+            "Does the NDA clause require the Disclosing Party to expressly identify all Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92370949,
+            0.92370949,
+            0.92370949
+        ],
+        "cosine_sim_mean": 0.9237094868735457,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Grindrod SA\"s Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "generated_questions": [
+            "Does the Confidentiality and Non-Disclosure Undertaking continue after the Agreement ends?",
+            "Does the Confidentiality and Non-Disclosure Undertaking continue after the Agreement ends?",
+            "Does the Confidentiality and Non-Disclosure Undertaking continue after the Agreement ends?"
+        ],
+        "cosine_sim": [
+            0.89520121,
+            0.89520121,
+            0.89520121
+        ],
+        "cosine_sim_mean": 0.8952012122539373,
+        "final_score": 0.8952012122539373
+    },
+    {
+        "user_input": "Consider Grindrod SA\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause allow the Vendor to independently develop information similar to the Confidential Information?",
+            "Does the NDA clause allow the Vendor to independently develop information similar to the Confidential Information?",
+            "Does the NDA clause allow the Vendor to independently develop information similar to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.90531846,
+            0.90531846,
+            0.90531846
+        ],
+        "cosine_sim_mean": 0.9053184568198979,
+        "final_score": 0.9053184568198979
+    },
+    {
+        "user_input": "Consider Grindrod SA\"s Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause consider verbally conveyed information as Confidential Information?",
+            "Does the NDA clause consider verbally conveyed information as Confidential Information?",
+            "Does the NDA clause consider verbally conveyed information as Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.90768114,
+            0.90768114,
+            0.90768114
+        ],
+        "cosine_sim_mean": 0.9076811421324802,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Grindrod SA\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with third parties according to the NDA clause?",
+            "Can the Receiving Party share Confidential Information with third parties according to the NDA clause?",
+            "Can the Receiving Party share Confidential Information with third parties according to the NDA clause?"
+        ],
+        "cosine_sim": [
+            0.89858207,
+            0.89858207,
+            0.89858207
+        ],
+        "cosine_sim_mean": 0.8985820671172543,
+        "final_score": 0.8985820671172543
+    },
+    {
+        "user_input": "Consider Grindrod SA\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "generated_questions": [
+            "Can the Vendor share Confidential Information with their employees according to the NDA clause?",
+            "Can the Vendor share Confidential Information with their employees according to the NDA clause?",
+            "Can the Vendor share Confidential Information with their employees according to the NDA clause?"
+        ],
+        "cosine_sim": [
+            0.89091003,
+            0.89096876,
+            0.89096876
+        ],
+        "cosine_sim_mean": 0.8909491849993906,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Grindrod SA\"s Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "generated_questions": [
+            "What does the NDA clause say about the use of Confidential Information?",
+            "What does the NDA clause say about the use of Confidential Information?",
+            "What does the NDA clause say about the use of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.887872,
+            0.887872,
+            0.887872
+        ],
+        "cosine_sim_mean": 0.8878719990340666,
+        "final_score": 0.8878719990340666
+    },
+    {
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "generated_questions": [
+            "Does the Agreement grant Euler Hermes any rights to the Confidential Information?",
+            "Does the Agreement grant Euler Hermes any rights to the Confidential Information?",
+            "Does the Agreement grant Euler Hermes any rights to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.93347385,
+            0.93347385,
+            0.93347385
+        ],
+        "cosine_sim_mean": 0.933473853443879,
+        "final_score": 0.933473853443879
+    },
+    {
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "generated_questions": [
+            "What does the NDA clause say about the definition of Confidential Information?",
+            "What does the NDA clause say about the definition of Confidential Information?",
+            "What does the NDA clause say about the definition of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.87936649,
+            0.87936649,
+            0.87936649
+        ],
+        "cosine_sim_mean": 0.8793664886808523,
+        "final_score": 0.8793664886808523
+    },
+    {
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "generated_questions": [
+            "Does the NDA clause require the Disclosing Party to explicitly identify all Confidential Information?",
+            "Does the NDA clause require the Disclosing Party to explicitly identify all Confidential Information?",
+            "Does the NDA clause require the Disclosing Party to explicitly identify all Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92502865,
+            0.92502865,
+            0.92502865
+        ],
+        "cosine_sim_mean": 0.9250286529297593,
+        "final_score": 0.9250286529297593
+    },
+    {
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "generated_questions": [
+            "Does the document mention if any obligations of the Agreement survive its termination?",
+            "Does the document mention if any obligations of the Agreement survive its termination?",
+            "Does the document mention if any obligations of the Agreement survive its termination?"
+        ],
+        "cosine_sim": [
+            0.91636058,
+            0.91636058,
+            0.91636058
+        ],
+        "cosine_sim_mean": 0.9163605763705706,
+        "final_score": 0.9163605763705706
+    },
+    {
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause consider verbally conveyed information as Confidential Information?",
+            "Does the NDA clause consider verbally conveyed information as Confidential Information?",
+            "Does the NDA clause consider verbally conveyed information as Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91226295,
+            0.91226295,
+            0.91226295
+        ],
+        "cosine_sim_mean": 0.9122629528480434,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "generated_questions": [
+            "Does the NDA allow Euler Hermes to share Confidential Information with third parties?",
+            "Does the NDA allow Euler Hermes to share Confidential Information with third parties?",
+            "Does the NDA allow Euler Hermes to share Confidential Information with third parties?"
+        ],
+        "cosine_sim": [
+            0.92465,
+            0.92465,
+            0.92465
+        ],
+        "cosine_sim_mean": 0.9246499961779865,
+        "final_score": 0.9246499961779865
+    },
+    {
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "generated_questions": [
+            "What does the NDA require the Receiving Party to do if they are compelled by law to disclose Confidential Information?",
+            "What does the NDA require the Receiving Party to do if they are compelled by law to disclose Confidential Information?",
+            "What does the NDA require the Receiving Party to do if they are compelled by law to disclose Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.9000817,
+            0.9000817,
+            0.9000993
+        ],
+        "cosine_sim_mean": 0.9000875700211052,
+        "final_score": 0.9000875700211052
+    },
+    {
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "generated_questions": [
+            "Does the NDA clause allow the Receiving Party to acquire similar information from a third party?",
+            "Does the NDA clause allow the Receiving Party to acquire similar information from a third party?",
+            "Does the NDA clause allow the Receiving Party to acquire similar information from a third party?"
+        ],
+        "cosine_sim": [
+            0.91982919,
+            0.91982919,
+            0.91982919
+        ],
+        "cosine_sim_mean": 0.9198291887868164,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "generated_questions": [
+            "Does the NDA allow Euler Hermes to share Confidential Information with its employees?",
+            "Does the NDA allow Euler Hermes to share Confidential Information with its employees?",
+            "Does the NDA allow Euler Hermes to share Confidential Information with its employees?"
+        ],
+        "cosine_sim": [
+            0.93162603,
+            0.93162603,
+            0.93162603
+        ],
+        "cosine_sim_mean": 0.9316260335455441,
+        "final_score": 0.9316260335455441
+    },
+    {
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "generated_questions": [
+            "Does the document allow for the use of Confidential Information beyond the stated purposes in the Agreement?",
+            "Does the document allow for the use of Confidential Information beyond the stated purposes in the Agreement?",
+            "Does the document allow for the use of Confidential Information beyond the stated purposes in the Agreement?"
+        ],
+        "cosine_sim": [
+            0.91288763,
+            0.91281947,
+            0.91288763
+        ],
+        "cosine_sim_mean": 0.9128649094635629,
+        "final_score": 0.9128649094635629
+    },
+    {
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+        "generated_questions": [
+            "What does the NDA clause say about the destruction or return of Confidential Information upon termination of the Agreement?",
+            "What does the NDA clause say about the destruction or return of Confidential Information upon termination of the Agreement?",
+            "What does the NDA clause say about the destruction or return of Confidential Information upon termination of the Agreement?"
+        ],
+        "cosine_sim": [
+            0.90528871,
+            0.90528871,
+            0.90528871
+        ],
+        "cosine_sim_mean": 0.905288706483457,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "generated_questions": [
+            "What rights does the Receiving Party have regarding the Confidential Information according to the Agreement?",
+            "What rights does the Receiving Party have regarding the Confidential Information according to the Agreement?",
+            "What rights does the Receiving Party have regarding the Confidential Information according to the Agreement?"
+        ],
+        "cosine_sim": [
+            0.8862467,
+            0.8862467,
+            0.8862467
+        ],
+        "cosine_sim_mean": 0.8862466996852109,
+        "final_score": 0.8862466996852109
+    },
+    {
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "generated_questions": [
+            "What does the NDA clause say about Confidential Information?",
+            "What does the NDA clause say about Confidential Information?",
+            "What does the NDA clause say about Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.88971117,
+            0.88971117,
+            0.88971117
+        ],
+        "cosine_sim_mean": 0.8897111747588072,
+        "final_score": 0.8897111747588072
+    },
+    {
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "generated_questions": [
+            "What does the document require regarding the identification of Confidential Information by the Disclosing Party?",
+            "What does the document require regarding the identification of Confidential Information by the Disclosing Party?",
+            "What does the document require regarding the identification of Confidential Information by the Disclosing Party?"
+        ],
+        "cosine_sim": [
+            0.92169433,
+            0.92169433,
+            0.92169433
+        ],
+        "cosine_sim_mean": 0.9216943271297587,
+        "final_score": 0.9216943271297587
+    },
+    {
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "generated_questions": [
+            "Does the document mention if any obligations of the Agreement survive termination?",
+            "Do any obligations of the Agreement survive its termination?",
+            "Does the document mention if any obligations of the Agreement survive termination?"
+        ],
+        "cosine_sim": [
+            0.90509914,
+            0.88461636,
+            0.90509914
+        ],
+        "cosine_sim_mean": 0.8982715473478717,
+        "final_score": 0.8982715473478717
+    },
+    {
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "generated_questions": [
+            "Does the NDA allow the Receiving Party to independently develop information similar to the Confidential Information?",
+            "Does the NDA allow the Receiving Party to independently develop information similar to the Confidential Information?",
+            "Does the NDA allow the Receiving Party to independently develop information similar to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.93207075,
+            0.93207075,
+            0.93207075
+        ],
+        "cosine_sim_mean": 0.9320707491718515,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "generated_questions": [
+            "Does the NDA clause allow the Receiving Party to retain any Confidential Information after its return or destruction?",
+            "Does the NDA clause allow the Receiving Party to retain any Confidential Information after its return or destruction?",
+            "Does the NDA clause allow the Receiving Party to retain any Confidential Information after its return or destruction?"
+        ],
+        "cosine_sim": [
+            0.92810122,
+            0.92810122,
+            0.92810122
+        ],
+        "cosine_sim_mean": 0.9281012199606237,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "generated_questions": [
+            "Does the document allow verbally conveyed information to be considered as Confidential Information?",
+            "Does the document allow verbally conveyed information to be considered as Confidential Information?",
+            "Does the document allow verbally conveyed information to be considered as Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92917005,
+            0.92917005,
+            0.92917005
+        ],
+        "cosine_sim_mean": 0.9291700529993899,
+        "final_score": 0.9291700529993899
+    },
+    {
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with third parties according to the NDA clause?",
+            "Can the Receiving Party share Confidential Information with third parties according to the NDA clause?",
+            "Can the Receiving Party share Confidential Information with third parties according to the NDA clause?"
+        ],
+        "cosine_sim": [
+            0.90317875,
+            0.90317875,
+            0.90317875
+        ],
+        "cosine_sim_mean": 0.9031787543220359,
+        "final_score": 0.9031787543220359
+    },
+    {
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "generated_questions": [
+            "What does the document require the Receiving Party to do if they are legally required to disclose Confidential Information?",
+            "What does the document require the Receiving Party to do if they are legally required to disclose Confidential Information?",
+            "What does the document require the Receiving Party to do if they are legally required to disclose Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.90336716,
+            0.90336716,
+            0.90336716
+        ],
+        "cosine_sim_mean": 0.9033671558427406,
+        "final_score": 0.9033671558427406
+    },
+    {
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "generated_questions": [
+            "Does the NDA clause allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+            "Does the NDA clause allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+            "Does the NDA clause allow the Receiving Party to acquire information similar to the Confidential Information from a third party?"
+        ],
+        "cosine_sim": [
+            0.92811695,
+            0.92811695,
+            0.92811695
+        ],
+        "cosine_sim_mean": 0.9281169517735547,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with their employees according to the NDA clause?",
+            "Can the Receiving Party share Confidential Information with their employees according to the NDA clause?",
+            "Can the Receiving Party share Confidential Information with their employees according to the NDA clause?"
+        ],
+        "cosine_sim": [
+            0.91891848,
+            0.91891848,
+            0.91891848
+        ],
+        "cosine_sim_mean": 0.9189184836720367,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "generated_questions": [
+            "Does the NDA clause restrict the use of Confidential Information to the purposes stated in the Agreement?",
+            "Does the NDA clause restrict the use of Confidential Information to the purposes stated in the Agreement?",
+            "Does the NDA clause restrict the use of Confidential Information to the purposes stated in the Agreement?"
+        ],
+        "cosine_sim": [
+            0.91535876,
+            0.91535876,
+            0.91535876
+        ],
+        "cosine_sim_mean": 0.915358759338231,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document mention whether or not the Receiving Party is allowed to reverse engineer any objects which embody the Disclosing Party\"s Confidential Information?",
+        "generated_questions": [
+            "What does the NDA clause say about reverse engineering the PMS Software?",
+            "What does the NDA clause say about reverse engineering the PMS Software?",
+            "What does the NDA clause say about reverse engineering the PMS Software?"
+        ],
+        "cosine_sim": [
+            0.87959711,
+            0.87959711,
+            0.87960566
+        ],
+        "cosine_sim_mean": 0.8795999583282814,
+        "final_score": 0.8795999583282814
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "generated_questions": [
+            "What does the Non-Disclosure Agreement (NDA) say about the rights of the Receiving Party regarding Confidential Information?",
+            "What does the Non-Disclosure Agreement (NDA) say about the rights of the Receiving Party regarding Confidential Information?",
+            "What does the Non-Disclosure Agreement (NDA) say about the rights of the Receiving Party regarding Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.9116558,
+            0.9116558,
+            0.9116558
+        ],
+        "cosine_sim_mean": 0.9116557985134514,
+        "final_score": 0.9116557985134514
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document state that Confidential Information shall only include technical information?",
+        "generated_questions": [
+            "Does the document state that Confidential Information only includes technical information?",
+            "Does the document state that Confidential Information only includes technical information?",
+            "Does the document state that Confidential Information includes only technical information?"
+        ],
+        "cosine_sim": [
+            0.92849978,
+            0.92849978,
+            0.92962116
+        ],
+        "cosine_sim_mean": 0.9288735715678436,
+        "final_score": 0.9288735715678436
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "generated_questions": [
+            "Does the NDA clause indicate that any obligations will survive after the Agreement is terminated?",
+            "Does the NDA clause indicate that any obligations will survive after the Agreement is terminated?",
+            "Does the NDA clause indicate that any obligations will survive after the Agreement is terminated?"
+        ],
+        "cosine_sim": [
+            0.88889396,
+            0.88889396,
+            0.88889396
+        ],
+        "cosine_sim_mean": 0.8888939552770041,
+        "final_score": 0.8888939552770041
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "generated_questions": [
+            "Does the NDA allow the Receiving Party to independently develop information similar to the Confidential Information?",
+            "Does the NDA allow the Receiving Party to independently develop information similar to the Confidential Information?",
+            "Does the NDA allow the Receiving Party to independently develop information similar to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.93044473,
+            0.93044473,
+            0.93044473
+        ],
+        "cosine_sim_mean": 0.9304447258818246,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "generated_questions": [
+            "Does the NDA clause allow the Receiving Party to retain any Confidential Information after its return or destruction?",
+            "Does the NDA clause allow the Receiving Party to retain any Confidential Information after its return or destruction?",
+            "Does the NDA clause allow the Receiving Party to retain any Confidential Information after its return or destruction?"
+        ],
+        "cosine_sim": [
+            0.92445247,
+            0.92445247,
+            0.92445247
+        ],
+        "cosine_sim_mean": 0.9244524697954407,
+        "final_score": 0.9244524697954407
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause consider verbally conveyed information as Confidential Information?",
+            "Does the NDA clause consider verbally conveyed information as Confidential Information?",
+            "Does the NDA clause consider verbally conveyed information as Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.90655149,
+            0.90655149,
+            0.90655149
+        ],
+        "cosine_sim_mean": 0.9065514867739347,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "generated_questions": [
+            "Can the Vendor disclose Confidential Information to third parties according to the NDA clause?",
+            "Can the Vendor disclose Confidential Information to third parties according to the NDA clause?",
+            "Can the Vendor disclose Confidential Information to third parties according to the NDA clause?"
+        ],
+        "cosine_sim": [
+            0.86332368,
+            0.86332368,
+            0.86332368
+        ],
+        "cosine_sim_mean": 0.863323677486686,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+        "generated_questions": [
+            "Does the NDA permit the Receiving Party to create a copy of Confidential Information?",
+            "Does the NDA permit the Receiving Party to create a copy of Confidential Information?",
+            "Does the NDA permit the Receiving Party to create a copy of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91446609,
+            0.91446609,
+            0.91446609
+        ],
+        "cosine_sim_mean": 0.9144660915502766,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "generated_questions": [
+            "What does the NDA require the Receiving Party to do if they need to disclose Confidential Information?",
+            "What does the NDA require the Receiving Party to do if they need to disclose Confidential Information?",
+            "What does the NDA require the Receiving Party to do if they are required by law to disclose Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.88933215,
+            0.88933215,
+            0.89184507
+        ],
+        "cosine_sim_mean": 0.8901697881175759,
+        "final_score": 0.8901697881175759
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "generated_questions": [
+            "Does the NDA clause allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+            "Does the NDA clause allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+            "Does the NDA clause allow the Receiving Party to acquire information similar to the Confidential Information from a third party?"
+        ],
+        "cosine_sim": [
+            0.92369436,
+            0.92369436,
+            0.92369436
+        ],
+        "cosine_sim_mean": 0.9236943564560013,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement (NDA) allow the Vendor to share Confidential Information with employees?",
+            "Does the Non-Disclosure Agreement (NDA) allow the Vendor to share Confidential Information with employees?",
+            "Does the Non-Disclosure Agreement (NDA) allow the Vendor to share Confidential Information with employees?"
+        ],
+        "cosine_sim": [
+            0.89968933,
+            0.89968933,
+            0.89968933
+        ],
+        "cosine_sim_mean": 0.899689333922803,
+        "final_score": 0.899689333922803
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "generated_questions": [
+            "What does the Non-Disclosure Agreement (NDA) say about the use of Confidential Information?",
+            "What does the Non-Disclosure Agreement (NDA) say about the use of Confidential Information?",
+            "What does the Non-Disclosure Agreement (NDA) say about the use of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.90453891,
+            0.90453891,
+            0.90453891
+        ],
+        "cosine_sim_mean": 0.9045389079077549,
+        "final_score": 0.9045389079077549
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "generated_questions": [
+            "What does the NDA clause say about rights to Confidential Information?",
+            "What does the NDA clause say about rights to Confidential Information?",
+            "What does the NDA clause say about rights to Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.86942451,
+            0.86942451,
+            0.86942451
+        ],
+        "cosine_sim_mean": 0.8694245076682238,
+        "final_score": 0.8694245076682238
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+        "generated_questions": [
+            "Does the NDA clause prohibit the Receiving Party from disclosing the existence of the Agreement?",
+            "Does the NDA clause prohibit the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+            "Does the NDA clause prohibit the Receiving Party from disclosing the existence of the Agreement?"
+        ],
+        "cosine_sim": [
+            0.91562341,
+            0.92378693,
+            0.91562341
+        ],
+        "cosine_sim_mean": 0.9183445833705987,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document state that Confidential Information shall only include technical information?",
+        "generated_questions": [
+            "Does the NDA clause limit Confidential Information to only technical information?",
+            "Does the NDA clause limit Confidential Information to only technical information?",
+            "Does the NDA clause limit Confidential Information to only technical information?"
+        ],
+        "cosine_sim": [
+            0.90196397,
+            0.90196397,
+            0.90196397
+        ],
+        "cosine_sim_mean": 0.9019639711220356,
+        "final_score": 0.9019639711220356
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "generated_questions": [
+            "Does the NDA require all Confidential Information to be expressly identified by the Disclosing Party?",
+            "Does the NDA require all Confidential Information to be expressly identified by the Disclosing Party?",
+            "Does the NDA require all Confidential Information to be expressly identified by the Disclosing Party?"
+        ],
+        "cosine_sim": [
+            0.91919537,
+            0.91919537,
+            0.91919537
+        ],
+        "cosine_sim_mean": 0.9191953657978306,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "generated_questions": [
+            "Does the document mention if any obligations of the Agreement survive its termination?",
+            "Does the document mention if any obligations of the Agreement survive its termination?",
+            "Does the document mention if any obligations of the Agreement survive its termination?"
+        ],
+        "cosine_sim": [
+            0.90547149,
+            0.90547149,
+            0.90547149
+        ],
+        "cosine_sim_mean": 0.9054714939785171,
+        "final_score": 0.9054714939785171
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "generated_questions": [
+            "Does the NDA allow the Receiving Party to retain any Confidential Information after its return or destruction?",
+            "Does the NDA allow the Receiving Party to retain any Confidential Information after its return or destruction?",
+            "Does the NDA allow the Receiving Party to retain any Confidential Information after its return or destruction?"
+        ],
+        "cosine_sim": [
+            0.92048115,
+            0.92048115,
+            0.92048115
+        ],
+        "cosine_sim_mean": 0.9204811479104151,
+        "final_score": 0.9204811479104151
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause explicitly state if verbally conveyed information is considered Confidential Information?",
+            "Does the NDA clause specify if verbally conveyed information is considered Confidential Information?",
+            "Does the NDA clause specify if verbally conveyed information is considered Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.90119428,
+            0.90051245,
+            0.90051245
+        ],
+        "cosine_sim_mean": 0.9007397249779756,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "generated_questions": [
+            "What does the NDA clause say about sharing Confidential Information with third parties?",
+            "What does the NDA clause say about sharing Confidential Information with third parties?",
+            "What does the NDA clause say about sharing Confidential Information with third parties?"
+        ],
+        "cosine_sim": [
+            0.87756266,
+            0.87756266,
+            0.87756266
+        ],
+        "cosine_sim_mean": 0.8775626638814603,
+        "final_score": 0.8775626638814603
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+        "generated_questions": [
+            "Does the NDA allow the Receiving Party to create copies of Confidential Information?",
+            "Does the NDA allow the Receiving Party to create copies of Confidential Information?",
+            "Does the NDA allow the Receiving Party to create copies of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.90919779,
+            0.90919779,
+            0.90919779
+        ],
+        "cosine_sim_mean": 0.9091977933731196,
+        "final_score": 0.9091977933731196
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause require the Receiving Party to notify the Disclosing Party if they must disclose Confidential Information by law?",
+            "Does the NDA clause require the Receiving Party to notify the Disclosing Party if they must disclose Confidential Information by law?",
+            "Does the NDA clause require the Receiving Party to notify the Disclosing Party if they must disclose Confidential Information by law?"
+        ],
+        "cosine_sim": [
+            0.91150449,
+            0.91150449,
+            0.91150449
+        ],
+        "cosine_sim_mean": 0.9115044869701666,
+        "final_score": 0.9115044869701666
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement (NDA) allow the Receiving Party to share Confidential Information with their employees?",
+            "What does the Non-Disclosure Agreement (NDA) allow the Receiving Party to do with Confidential Information?",
+            "What does the Non-Disclosure Agreement (NDA) allow the Receiving Party to do with Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92549902,
+            0.89387407,
+            0.89387407
+        ],
+        "cosine_sim_mean": 0.9044157234056526,
+        "final_score": 0.9044157234056526
+    },
+    {
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "generated_questions": [
+            "What does the Non-Disclosure Agreement (NDA) say about the use of Confidential Information?",
+            "What does the Non-Disclosure Agreement (NDA) say about the use of Confidential Information?",
+            "What does the Non-Disclosure Agreement (NDA) say about the use of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.89996164,
+            0.89996164,
+            0.89996164
+        ],
+        "cosine_sim_mean": 0.8999616365352532,
+        "final_score": 0.8999616365352532
+    },
+    {
+        "user_input": "Consider INFOMAGNET\"s Non-Disclosure Agreement; Does the document mention whether or not the Receiving Party is allowed to reverse engineer any objects which embody the Disclosing Party\"s Confidential Information?",
+        "generated_questions": [
+            "What does the NDA state about the Receiving Party\"s ability to reverse engineer software?",
+            "What does the NDA state about the Receiving Party\"s ability to reverse engineer software?",
+            "What does the NDA state about the Receiving Party\"s ability to reverse engineer software?"
+        ],
+        "cosine_sim": [
+            0.89622335,
+            0.89622335,
+            0.89622335
+        ],
+        "cosine_sim_mean": 0.896223346835089,
+        "final_score": 0.896223346835089
+    },
+    {
+        "user_input": "Consider INFOMAGNET\"s Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "generated_questions": [
+            "What does the NDA clause say about the rights of the Receiving Party to the Confidential Information?",
+            "What does the NDA clause say about the rights of the Receiving Party to the Confidential Information?",
+            "Does the NDA clause grant the Receiving Party any rights to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.90752046,
+            0.90748617,
+            0.91816852
+        ],
+        "cosine_sim_mean": 0.9110583861375692,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider INFOMAGNET\"s Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "generated_questions": [
+            "What does the NDA clause say about Confidential Information?",
+            "What does the NDA clause define as Confidential Information?",
+            "What does the NDA clause define as Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.88851835,
+            0.86954804,
+            0.86954804
+        ],
+        "cosine_sim_mean": 0.8758714746751858,
+        "final_score": 0.8758714746751858
+    },
+    {
+        "user_input": "Consider INFOMAGNET\"s Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "generated_questions": [
+            "What does the document require regarding the identification of Confidential Information by the Disclosing Party?",
+            "Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+            "Does the document require that all Confidential Information be expressly identified by the Disclosing Party?"
+        ],
+        "cosine_sim": [
+            0.92086102,
+            0.94091014,
+            0.94091014
+        ],
+        "cosine_sim_mean": 0.9342270981321151,
+        "final_score": 0.9342270981321151
+    },
+    {
+        "user_input": "Consider INFOMAGNET\"s Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "generated_questions": [
+            "Does the document state that obligations continue after the Agreement is terminated?",
+            "Does the document state that obligations continue after the Agreement is terminated?",
+            "Do the obligations created by this Agreement continue after termination?"
+        ],
+        "cosine_sim": [
+            0.88333325,
+            0.88333325,
+            0.86907005
+        ],
+        "cosine_sim_mean": 0.8785788480509025,
+        "final_score": 0.8785788480509025
+    },
+    {
+        "user_input": "Consider INFOMAGNET\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause allow the Receiving Party to independently develop information similar to the Confidential Information?",
+            "Does the NDA clause allow the Receiving Party to independently develop information similar to the Confidential Information?",
+            "Does the NDA clause allow the Receiving Party to independently develop information similar to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.94275244,
+            0.94275244,
+            0.94275244
+        ],
+        "cosine_sim_mean": 0.9427524424982563,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider INFOMAGNET\"s Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "generated_questions": [
+            "What does the NDA clause say about the retention of Confidential Information by the Receiving Party?",
+            "What does the NDA clause say about the retention of Confidential Information by the Receiving Party?",
+            "What does the NDA clause say about the retention of Confidential Information by the Receiving Party?"
+        ],
+        "cosine_sim": [
+            0.90400608,
+            0.90400608,
+            0.90400608
+        ],
+        "cosine_sim_mean": 0.9040060789702399,
+        "final_score": 0.9040060789702399
+    },
+    {
+        "user_input": "Consider INFOMAGNET\"s Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause include verbally conveyed information as Confidential Information?",
+            "Does the NDA clause include verbally conveyed information as Confidential Information?",
+            "Does the NDA clause include verbally conveyed information as Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91864505,
+            0.91864505,
+            0.91864505
+        ],
+        "cosine_sim_mean": 0.9186450493958498,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider INFOMAGNET\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "generated_questions": [
+            "What does the NDA clause say about disclosing Confidential Information to third parties?",
+            "What does the NDA clause say about disclosing Confidential Information to third parties?",
+            "What does the NDA clause say about disclosing Confidential Information to third parties?"
+        ],
+        "cosine_sim": [
+            0.88414991,
+            0.88414991,
+            0.88414991
+        ],
+        "cosine_sim_mean": 0.8841499132624066,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider INFOMAGNET\"s Non-Disclosure Agreement; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+        "generated_questions": [
+            "Does the NDA allow the Receiving Party to create copies of Confidential Information?",
+            "Does the NDA allow the Receiving Party to create copies of Confidential Information?",
+            "Does the NDA allow the Receiving Party to create copies of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92206428,
+            0.92206428,
+            0.92206428
+        ],
+        "cosine_sim_mean": 0.9220642751920906,
+        "final_score": 0.9220642751920906
+    },
+    {
+        "user_input": "Consider INFOMAGNET\"s Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause require the Receiving Party to notify the Disclosing Party in all circumstances of disclosing Confidential Information?",
+            "Does the NDA clause require the Receiving Party to notify the Disclosing Party for all legal disclosures?",
+            "Does the NDA clause require the Receiving Party to notify the Disclosing Party in all circumstances of disclosing Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.90987614,
+            0.90982634,
+            0.90987614
+        ],
+        "cosine_sim_mean": 0.9098595396401649,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider INFOMAGNET\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "generated_questions": [
+            "Does the NDA allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+            "Does the NDA allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+            "Does the NDA allow the Receiving Party to acquire information similar to the Confidential Information from a third party?"
+        ],
+        "cosine_sim": [
+            0.93540063,
+            0.93540063,
+            0.93540063
+        ],
+        "cosine_sim_mean": 0.9354006251331463,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider INFOMAGNET\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with their employees according to the NDA clause?",
+            "Can the Receiving Party share Confidential Information with their employees according to the NDA clause?",
+            "Can the Receiving Party share Confidential Information with their employees according to the NDA clause?"
+        ],
+        "cosine_sim": [
+            0.91765075,
+            0.91765075,
+            0.91765075
+        ],
+        "cosine_sim_mean": 0.9176507468905863,
+        "final_score": 0.0
+    },
+    {
+        "user_input": "Consider INFOMAGNET\"s Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "generated_questions": [
+            "What does the NDA say about the use of Confidential Information?",
+            "What does the NDA say about the use of Confidential Information?",
+            "What does the NDA say about the use of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.88877757,
+            0.88877757,
+            0.88877757
+        ],
+        "cosine_sim_mean": 0.8887775676651147,
+        "final_score": 0.8887775676651147
+    },
+    {
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "generated_questions": [
+            "What rights does the Agreement grant to the Receiving Party regarding the Confidential Information?",
+            "What rights does the Receiving Party have to the Confidential Information according to the Agreement?",
+            "What rights does the Receiving Party have to the Confidential Information according to the Agreement?"
+        ],
+        "cosine_sim": [
+            0.89889768,
+            0.894196,
+            0.894196
+        ],
+        "cosine_sim_mean": 0.8957632234193712,
+        "final_score": 0.8957632234193712
+    },
+    {
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document state that Confidential Information shall only include technical information?",
+        "generated_questions": [
+            "Does the NDA clause limit Confidential Information to only technical information?",
+            "Does the NDA clause limit Confidential Information to only technical information?",
+            "Does the NDA clause limit Confidential Information to only technical information?"
+        ],
+        "cosine_sim": [
+            0.90426064,
+            0.90426064,
+            0.90426064
+        ],
+        "cosine_sim_mean": 0.9042606375114438,
+        "final_score": 0.9042606375114438
+    },
+    {
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "generated_questions": [
+            "What does the NDA clause require regarding the identification of Confidential Information?",
+            "What does the NDA clause require regarding the identification of Confidential Information?",
+            "What does the NDA clause require regarding the identification of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.88715254,
+            0.88715254,
+            0.88715254
+        ],
+        "cosine_sim_mean": 0.8871525380482321,
+        "final_score": 0.8871525380482321
+    },
+    {
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "generated_questions": [
+            "Does the document mention if any obligations of the Agreement survive termination?",
+            "Does the document mention if any obligations of the Agreement survive termination?",
+            "Does the document mention if any obligations of the Agreement survive termination?"
+        ],
+        "cosine_sim": [
+            0.91072949,
+            0.91072949,
+            0.91072949
+        ],
+        "cosine_sim_mean": 0.9107294944549041,
+        "final_score": 0.9107294944549041
+    },
+    {
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause allow the Receiving Party to develop similar information independently?",
+            "Does the NDA clause allow the Receiving Party to develop similar information independently?",
+            "Does the NDA clause allow the Receiving Party to develop similar information independently?"
+        ],
+        "cosine_sim": [
+            0.91436763,
+            0.91436763,
+            0.91436763
+        ],
+        "cosine_sim_mean": 0.9143676251567845,
+        "final_score": 0.9143676251567845
+    },
+    {
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "generated_questions": [
+            "Does the document allow the Receiving Party to retain any Confidential Information after its return or destruction?",
+            "Does the document allow the Receiving Party to retain any Confidential Information after its return or destruction?",
+            "Does the document allow the Receiving Party to retain any Confidential Information after its return or destruction?"
+        ],
+        "cosine_sim": [
+            0.93124004,
+            0.93124004,
+            0.93124004
+        ],
+        "cosine_sim_mean": 0.9312400402708105,
+        "final_score": 0.9312400402708105
+    },
+    {
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "generated_questions": [
+            "What does the NDA clause say about verbally conveyed information?",
+            "Does the NDA clause allow verbally conveyed information to be considered as Confidential Information?",
+            "Does the NDA clause allow verbally conveyed information to be considered as Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.87672239,
+            0.90994482,
+            0.90994482
+        ],
+        "cosine_sim_mean": 0.8988706763819861,
+        "final_score": 0.8988706763819861
+    },
+    {
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "generated_questions": [
+            "What does the NDA clause say about sharing Confidential Information with third parties?",
+            "What does the NDA clause say about sharing Confidential Information with third parties?",
+            "What does the NDA clause say about sharing Confidential Information with third parties?"
+        ],
+        "cosine_sim": [
+            0.87827183,
+            0.87827183,
+            0.87827183
+        ],
+        "cosine_sim_mean": 0.8782718344298641,
+        "final_score": 0.8782718344298641
+    },
+    {
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "generated_questions": [
+            "Does the NDA clause require the Receiving Party to notify the Disclosing Party if they must disclose Confidential Information by law?",
+            "Does the NDA clause require the Receiving Party to notify the Disclosing Party if they must disclose Confidential Information by law?",
+            "Does the NDA clause require the Receiving Party to notify the Disclosing Party if they must disclose Confidential Information by law?"
+        ],
+        "cosine_sim": [
+            0.91005784,
+            0.91005784,
+            0.91005784
+        ],
+        "cosine_sim_mean": 0.9100578384802072,
+        "final_score": 0.9100578384802072
+    },
+    {
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "generated_questions": [
+            "Can the Receiving Party acquire information similar to the Confidential Information from a third party according to the NDA clause?",
+            "Can the Receiving Party acquire information similar to the Confidential Information from a third party according to the NDA clause?",
+            "Can the Receiving Party acquire information similar to the Confidential Information from a third party according to the NDA clause?"
+        ],
+        "cosine_sim": [
+            0.91631969,
+            0.91631969,
+            0.91631969
+        ],
+        "cosine_sim_mean": 0.9163196880068867,
+        "final_score": 0.0
+    }
+]

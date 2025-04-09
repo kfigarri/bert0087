@@ -1,0 +1,26 @@
+[
+    {
+        "file_name": "verbose_AR_prompttune_gpt4omini_k1.json",
+        "cosine_sim_mean_avg": 0.90734572640861,
+        "final_score_avg": 0.44580927163817397,
+        "zero_score_count": 98
+    },
+    {
+        "file_name": "verbose_AR_prompttune_gpt4omini_k3.json",
+        "cosine_sim_mean_avg": 0.9054826013875189,
+        "final_score_avg": 0.5992423490342916,
+        "zero_score_count": 65
+    },
+    {
+        "file_name": "verbose_AR_prompttune_gpt4omini_k5.json",
+        "cosine_sim_mean_avg": 0.9068352483285678,
+        "final_score_avg": 0.621066935972278,
+        "zero_score_count": 61
+    },
+    {
+        "file_name": "verbose_AR_prompttune_gpt4omini_k10.json",
+        "cosine_sim_mean_avg": 0.9053828204453492,
+        "final_score_avg": 0.737461070865855,
+        "zero_score_count": 36
+    }
+]

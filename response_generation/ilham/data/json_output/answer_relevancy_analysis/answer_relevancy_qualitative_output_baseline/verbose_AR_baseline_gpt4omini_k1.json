@@ -1,0 +1,3300 @@
+[
+    {
+        "index": 0,
+        "user_input": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "response": "The context provided does not explicitly state whether the Non-Disclosure Agreement grants the Receiving Party any rights to the Confidential Information. Therefore, I cannot determine the answer based on the given information.",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Non-Disclosure Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Non-Disclosure Agreement grant the Receiving Party any rights to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92706196,
+            0.92706196,
+            0.92706196
+        ],
+        "cosine_sim_mean": 0.9270619619589775,
+        "final_score": 0.0
+    },
+    {
+        "index": 1,
+        "user_input": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document state that Confidential Information shall only include technical information?",
+        "response": "No, the document does not state that Confidential Information shall only include technical information. It encompasses a broader range of data and information, including business concepts and development projects.",
+        "generated_questions": [
+            "Does the document state that Confidential Information only includes technical information?",
+            "Does the document state that Confidential Information only includes technical information?",
+            "Does the document state that Confidential Information only includes technical information?"
+        ],
+        "cosine_sim": [
+            0.92791123,
+            0.92791123,
+            0.92791123
+        ],
+        "cosine_sim_mean": 0.927911225683733,
+        "final_score": 0.927911225683733
+    },
+    {
+        "index": 2,
+        "user_input": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "response": "Yes, the document mentions that obligations regarding Confidential Information must be kept confidential even after the termination of the Agreement.",
+        "generated_questions": [
+            "Does the document state that obligations regarding Confidential Information continue after the Agreement ends?",
+            "Does the document state that obligations regarding Confidential Information continue after the Agreement is terminated?",
+            "Does the document state that obligations regarding Confidential Information continue after the Agreement is terminated?"
+        ],
+        "cosine_sim": [
+            0.88385223,
+            0.89036916,
+            0.89036916
+        ],
+        "cosine_sim_mean": 0.8881968526388974,
+        "final_score": 0.8881968526388974
+    },
+    {
+        "index": 3,
+        "user_input": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "response": "The provided context does not specify whether the Receiving Party is permitted to retain any Confidential Information after its return or destruction. Therefore, I don't know the answer to the question.",
+        "generated_questions": [
+            "Is the Receiving Party allowed to retain any Confidential Information after its return or destruction?",
+            "Is the Receiving Party allowed to retain any Confidential Information after its return or destruction?",
+            "Is the Receiving Party allowed to retain any Confidential Information after its return or destruction?"
+        ],
+        "cosine_sim": [
+            0.91143506,
+            0.91143506,
+            0.91143506
+        ],
+        "cosine_sim_mean": 0.9114350634879805,
+        "final_score": 0.0
+    },
+    {
+        "index": 4,
+        "user_input": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "response": "No, the Non-Disclosure Agreement does not allow the Receiving Party to share Confidential Information with third parties, including consultants, agents, and professional advisors, without prior written consent from the Participants. The Mentor is also required to ensure that any employees with access to the Confidential Information commit to a similar non-disclosure agreement.",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with third parties under the Non-Disclosure Agreement?",
+            "Can the Receiving Party share Confidential Information with third parties under the Non-Disclosure Agreement?",
+            "Can the Receiving Party share Confidential Information with third parties under the Non-Disclosure Agreement?"
+        ],
+        "cosine_sim": [
+            0.91423754,
+            0.91423754,
+            0.91423754
+        ],
+        "cosine_sim_mean": 0.9142375408516212,
+        "final_score": 0.9142375408516212
+    },
+    {
+        "index": 5,
+        "user_input": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72375414,
+            0.72375414,
+            0.72375414
+        ],
+        "cosine_sim_mean": 0.7237541356081477,
+        "final_score": 0.0
+    },
+    {
+        "index": 6,
+        "user_input": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "response": "The context provided does not explicitly address whether the Receiving Party can acquire similar information from a third party. It only defines \"Confidential Information\" and mentions exceptions for information already known or independently developed. Therefore, I don't know the answer to the question.",
+        "generated_questions": [
+            "Can the Receiving Party acquire similar information from a third party?",
+            "Can the Receiving Party acquire similar information from a third party?",
+            "Can the Receiving Party acquire similar information from a third party?"
+        ],
+        "cosine_sim": [
+            0.89758844,
+            0.89758844,
+            0.89758844
+        ],
+        "cosine_sim_mean": 0.8975884417337552,
+        "final_score": 0.0
+    },
+    {
+        "index": 7,
+        "user_input": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "response": "No, the document does not allow the Receiving Party to share Confidential Information with their employees without prior written consent from the Participants. It explicitly states that disclosure to employees requires a non-disclosure agreement that offers similar protection.",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with their employees?",
+            "Can the Receiving Party share Confidential Information with their employees?",
+            "Can the Receiving Party share Confidential Information with their employees?"
+        ],
+        "cosine_sim": [
+            0.9126643,
+            0.9126643,
+            0.9126643
+        ],
+        "cosine_sim_mean": 0.9126643015123453,
+        "final_score": 0.9126643015123453
+    },
+    {
+        "index": 8,
+        "user_input": "Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.73937725,
+            0.73937725,
+            0.73937725
+        ],
+        "cosine_sim_mean": 0.7393772451793925,
+        "final_score": 0.0
+    },
+    {
+        "index": 9,
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "response": "Yes, the document indicates that the Agreement does not grant the Receiving Party any rights to the Confidential Information. It states that all Confidential Information remains the property of the Disclosing Party. Additionally, it clarifies that no rights are conferred except as specifically provided in the Agreement.",
+        "generated_questions": [
+            "What rights does the Agreement grant to the Receiving Party regarding the Confidential Information?",
+            "What rights does the Agreement grant to the Receiving Party regarding the Confidential Information?",
+            "What rights does the Agreement grant to the Receiving Party regarding Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.90110713,
+            0.90110713,
+            0.90141409
+        ],
+        "cosine_sim_mean": 0.9012094487630113,
+        "final_score": 0.9012094487630113
+    },
+    {
+        "index": 10,
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+        "response": "Yes, the Mutual Non-Disclosure Agreement includes a clause that prevents the Receiving Party from disclosing the existence of any business negotiations or agreements in progress between the parties without written consent.",
+        "generated_questions": [
+            "Does the Mutual Non-Disclosure Agreement include a clause about disclosing business negotiations?",
+            "Does the Mutual Non-Disclosure Agreement have a clause about disclosing business negotiations?",
+            "Does the Mutual Non-Disclosure Agreement include a clause about disclosing business negotiations?"
+        ],
+        "cosine_sim": [
+            0.9148036,
+            0.91385972,
+            0.9148036
+        ],
+        "cosine_sim_mean": 0.9144889755247023,
+        "final_score": 0.9144889755247023
+    },
+    {
+        "index": 11,
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.71665839,
+            0.71665839,
+            0.71665839
+        ],
+        "cosine_sim_mean": 0.7166583909218248,
+        "final_score": 0.0
+    },
+    {
+        "index": 12,
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "response": "The retrieved context does not specify whether all Confidential Information must be expressly identified by the Disclosing Party. Therefore, I don't know if that requirement exists in DBT's Mutual Non-Disclosure Agreement.",
+        "generated_questions": [
+            "Does DBT\"s Mutual Non-Disclosure Agreement require all Confidential Information to be expressly identified by the Disclosing Party?",
+            "Does DBT\"s Mutual Non-Disclosure Agreement require all Confidential Information to be expressly identified by the Disclosing Party?",
+            "Does DBT\"s Mutual Non-Disclosure Agreement require all Confidential Information to be expressly identified by the Disclosing Party?"
+        ],
+        "cosine_sim": [
+            0.97432366,
+            0.97432366,
+            0.97432366
+        ],
+        "cosine_sim_mean": 0.9743236621682946,
+        "final_score": 0.0
+    },
+    {
+        "index": 13,
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.71746877,
+            0.71746877,
+            0.71746877
+        ],
+        "cosine_sim_mean": 0.7174687662766702,
+        "final_score": 0.0
+    },
+    {
+        "index": 14,
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72009179,
+            0.72009179,
+            0.72009179
+        ],
+        "cosine_sim_mean": 0.7200917870108747,
+        "final_score": 0.0
+    },
+    {
+        "index": 15,
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.70962135,
+            0.70962135,
+            0.70962135
+        ],
+        "cosine_sim_mean": 0.7096213483384207,
+        "final_score": 0.0
+    },
+    {
+        "index": 16,
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "response": "The provided context does not specify whether the Receiving Party can acquire similar information from a third party. Therefore, I don't know the answer to that question.",
+        "generated_questions": [
+            "Can the Receiving Party acquire similar information from a third party?",
+            "Can the Receiving Party acquire similar information from a third party?",
+            "Can the Receiving Party acquire similar information from a third party?"
+        ],
+        "cosine_sim": [
+            0.90595203,
+            0.90595203,
+            0.90595203
+        ],
+        "cosine_sim_mean": 0.9059520303115384,
+        "final_score": 0.0
+    },
+    {
+        "index": 17,
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "response": "Yes, the document allows the Receiving Party to share Confidential Information with employees who need to know it. However, those employees must have agreed to be bound by similar terms and conditions. This ensures that the confidentiality is maintained.",
+        "generated_questions": [
+            "Does the document permit the Receiving Party to share Confidential Information with employees?",
+            "Does the document permit the Receiving Party to share Confidential Information with employees?",
+            "Does the document permit the Receiving Party to share Confidential Information with employees?"
+        ],
+        "cosine_sim": [
+            0.92151633,
+            0.92151633,
+            0.92151633
+        ],
+        "cosine_sim_mean": 0.9215163271764849,
+        "final_score": 0.9215163271764849
+    },
+    {
+        "index": 18,
+        "user_input": "Consider DBT\"s Mutual Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "response": "Yes, the document restricts the use of Confidential Information to the purposes stated in the Agreement. It specifies that all Confidential Information remains the property of the Disclosing Party and does not grant any rights beyond those explicitly provided.",
+        "generated_questions": [
+            "Does the document allow the use of Confidential Information for purposes other than those stated in the Agreement?",
+            "Does the document allow the use of Confidential Information for purposes other than those stated in the Agreement?",
+            "Does the document allow the use of Confidential Information for purposes other than those stated in the Agreement?"
+        ],
+        "cosine_sim": [
+            0.91037668,
+            0.91037668,
+            0.91037668
+        ],
+        "cosine_sim_mean": 0.9103766757513911,
+        "final_score": 0.9103766757513911
+    },
+    {
+        "index": 19,
+        "user_input": "Consider the Data Use Agreement in New York City; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+        "response": "Yes, the Data Use Agreement specifies that upon termination, the Receiving Party is required to return or destroy the Confidential Information provided by DOHMH. This includes all copies of the Data in any form. The confidentiality provisions will continue to apply even after termination.",
+        "generated_questions": [
+            "What does the Data Use Agreement require the Receiving Party to do upon termination?",
+            "What does the Data Use Agreement require the Receiving Party to do upon termination?",
+            "What does the Data Use Agreement require the Receiving Party to do upon termination?"
+        ],
+        "cosine_sim": [
+            0.90423474,
+            0.90423474,
+            0.90423474
+        ],
+        "cosine_sim_mean": 0.9042347364179916,
+        "final_score": 0.9042347364179916
+    },
+    {
+        "index": 20,
+        "user_input": "Consider the Data Use Agreement in New York City; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "response": "Yes, the Data Use Agreement indicates that the Receiving Party does not gain any rights to the Confidential Information, as it specifies that the Data Recipient shall not disclose or grant access to the Data.",
+        "generated_questions": [
+            "What does the Data Use Agreement say about the rights of the Receiving Party regarding Confidential Information?",
+            "What does the Data Use Agreement say about the rights of the Receiving Party regarding Confidential Information?",
+            "What does the Data Use Agreement say about the rights of the Receiving Party regarding Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92499307,
+            0.92499307,
+            0.92499307
+        ],
+        "cosine_sim_mean": 0.9249930654251378,
+        "final_score": 0.9249930654251378
+    },
+    {
+        "index": 21,
+        "user_input": "Consider the Data Use Agreement in New York City; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.74751867,
+            0.74751867,
+            0.74751867
+        ],
+        "cosine_sim_mean": 0.7475186722613687,
+        "final_score": 0.0
+    },
+    {
+        "index": 22,
+        "user_input": "Consider the Data Use Agreement in New York City; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "response": "The document does not permit the Receiving Party to retain any Confidential Information after its return or destruction, as it mandates the return or destruction of all data upon termination of the Agreement. The confidentiality provisions continue to apply, but retention is not allowed. Therefore, the Receiving Party must comply with the requirement to return or destroy the data.",
+        "generated_questions": [
+            "What does the document say about the retention of Confidential Information by the Receiving Party?",
+            "What does the document say about the retention of Confidential Information by the Receiving Party?",
+            "What does the document say about the retention of Confidential Information by the Receiving Party?"
+        ],
+        "cosine_sim": [
+            0.91032121,
+            0.91032121,
+            0.91032121
+        ],
+        "cosine_sim_mean": 0.9103212052894993,
+        "final_score": 0.9103212052894993
+    },
+    {
+        "index": 23,
+        "user_input": "Consider the Data Use Agreement in New York City; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "response": "No, the Data Use Agreement prohibits the Receiving Party from disclosing or sharing Confidential Information with any other person or organization, including third parties such as consultants, agents, and professional advisors.",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with third parties?",
+            "Can the Receiving Party share Confidential Information with third parties?",
+            "Can the Receiving Party share Confidential Information with third parties?"
+        ],
+        "cosine_sim": [
+            0.9008269,
+            0.9008269,
+            0.9008269
+        ],
+        "cosine_sim_mean": 0.9008269024580505,
+        "final_score": 0.9008269024580505
+    },
+    {
+        "index": 24,
+        "user_input": "Consider the Data Use Agreement in New York City; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+        "response": "The provided context does not specify whether the Receiving Party is permitted to create a copy of some Confidential Information under certain circumstances. Therefore, I don't know the answer to the question.",
+        "generated_questions": [
+            "Is the Receiving Party allowed to create a copy of some Confidential Information under certain circumstances?",
+            "Is the Receiving Party allowed to create a copy of some Confidential Information under certain circumstances?",
+            "Is the Receiving Party allowed to create a copy of some Confidential Information under certain circumstances?"
+        ],
+        "cosine_sim": [
+            0.91949901,
+            0.91949901,
+            0.91949901
+        ],
+        "cosine_sim_mean": 0.9194990078146944,
+        "final_score": 0.0
+    },
+    {
+        "index": 25,
+        "user_input": "Consider the Data Use Agreement in New York City; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "response": "The Data Use Agreement in New York City prohibits the Receiving Party from disclosing or sharing Confidential Information with any other person or organization, including their employees, unless otherwise specified in the Agreement. Therefore, the document does not allow sharing of Confidential Information with employees.",
+        "generated_questions": [
+            "What does the Data Use Agreement in New York City say about sharing Confidential Information?",
+            "What does the Data Use Agreement in New York City say about sharing Confidential Information?",
+            "What does the Data Use Agreement in New York City say about sharing Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.94972559,
+            0.94972559,
+            0.94972559
+        ],
+        "cosine_sim_mean": 0.9497255851343306,
+        "final_score": 0.9497255851343306
+    },
+    {
+        "index": 26,
+        "user_input": "Consider the Data Use Agreement in New York City; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "response": "Yes, the Data Use Agreement in New York City restricts the use of Confidential Information to the purposes stated in the Agreement. The Data Recipient is prohibited from disclosing or sharing the Data with others, except as allowed by the Agreement. This ensures that the use of Confidential Information is limited to the specified purposes.",
+        "generated_questions": [
+            "What does the Data Use Agreement in New York City say about the use of Confidential Information?",
+            "What does the Data Use Agreement in New York City say about the use of Confidential Information?",
+            "What does the Data Use Agreement in New York City say about the use of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.96455366,
+            0.96455366,
+            0.96455366
+        ],
+        "cosine_sim_mean": 0.9645536646191225,
+        "final_score": 0.9645536646191225
+    },
+    {
+        "index": 27,
+        "user_input": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+        "response": "The provided context does not specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement. It only mentions that certain obligations will survive termination. Therefore, I don't know the answer to the question.",
+        "generated_questions": [
+            "Is the Receiving Party required to destroy or return Confidential Information upon the termination of the Agreement?",
+            "Is the Receiving Party required to destroy or return Confidential Information upon the termination of the Agreement?",
+            "Is the Receiving Party required to destroy or return Confidential Information upon the termination of the Agreement?"
+        ],
+        "cosine_sim": [
+            0.92854594,
+            0.92854594,
+            0.92854594
+        ],
+        "cosine_sim_mean": 0.9285459365170259,
+        "final_score": 0.0
+    },
+    {
+        "index": 28,
+        "user_input": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "response": "The context does not explicitly state that the Agreement does not grant the Receiving Party any rights to the Confidential Information. However, it does outline restrictions on the use or disclosure of such information. Therefore, it implies that the Receiving Party does not have unrestricted rights to the Confidential Information.",
+        "generated_questions": [
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.9117008,
+            0.9117008,
+            0.9117008
+        ],
+        "cosine_sim_mean": 0.9117008005067423,
+        "final_score": 0.0
+    },
+    {
+        "index": 29,
+        "user_input": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document state that Confidential Information shall only include technical information?",
+        "response": "The document does not state that Confidential Information shall only include technical information. It outlines various conditions under which information may be considered confidential, but does not limit it to technical aspects. Therefore, other types of information may also be included as Confidential Information.",
+        "generated_questions": [
+            "Does the document specify that Confidential Information is limited to technical information?",
+            "Does the document specify that Confidential Information is limited to technical information?",
+            "Does the document specify that Confidential Information is limited to technical information?"
+        ],
+        "cosine_sim": [
+            0.92598497,
+            0.92598497,
+            0.92598497
+        ],
+        "cosine_sim_mean": 0.9259849670451169,
+        "final_score": 0.0
+    },
+    {
+        "index": 30,
+        "user_input": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "response": "Yes, the document states that the obligations under paragraphs 1 and 6 of the Agreement shall survive the termination of the Agreement. The parties are bound by these obligations even after termination.",
+        "generated_questions": [
+            "Do the obligations under the Agreement survive its termination?",
+            "Do the obligations under the Agreement survive its termination?",
+            "Do the obligations under the Agreement survive its termination?"
+        ],
+        "cosine_sim": [
+            0.88856374,
+            0.88856374,
+            0.88856374
+        ],
+        "cosine_sim_mean": 0.8885637357087196,
+        "final_score": 0.8885637357087196
+    },
+    {
+        "index": 31,
+        "user_input": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "response": "The provided context does not specify whether the Receiving Party is allowed to independently develop information similar to the Confidential Information. Therefore, I don't know the answer to the question.",
+        "generated_questions": [
+            "Is the Receiving Party allowed to independently develop information similar to the Confidential Information?",
+            "Is the Receiving Party allowed to independently develop information similar to the Confidential Information?",
+            "Is the Receiving Party allowed to independently develop information similar to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92608163,
+            0.92608163,
+            0.92608163
+        ],
+        "cosine_sim_mean": 0.9260816312910837,
+        "final_score": 0.0
+    },
+    {
+        "index": 32,
+        "user_input": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.7348036,
+            0.7348036,
+            0.7348036
+        ],
+        "cosine_sim_mean": 0.7348036019099035,
+        "final_score": 0.0
+    },
+    {
+        "index": 33,
+        "user_input": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "response": "Yes, the Non-Disclosure Agreement allows the Receiving Party to acquire information similar to the Confidential Information from a third party, provided that it is lawfully received free of restriction from a source that has the right to furnish it. This means that if the information is independently developed or obtained without violating the agreement, it is permissible.",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement allow the Receiving Party to acquire similar information from a third party?",
+            "Does the Non-Disclosure Agreement allow the Receiving Party to acquire similar information from a third party?",
+            "Does the Non-Disclosure Agreement allow the Receiving Party to acquire similar information from a third party?"
+        ],
+        "cosine_sim": [
+            0.9387609,
+            0.9387609,
+            0.9387609
+        ],
+        "cosine_sim_mean": 0.93876090192821,
+        "final_score": 0.93876090192821
+    },
+    {
+        "index": 34,
+        "user_input": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "response": "Yes, the Non-Disclosure Agreement allows the Receiving Party to share some Confidential Information with their employees who have a need to know, provided they inform those employees of their obligations. However, disclosure to any third party requires prior written approval from the State.",
+        "generated_questions": [
+            "What does the Non-Disclosure Agreement allow regarding the sharing of Confidential Information?",
+            "What does the Non-Disclosure Agreement allow regarding the sharing of Confidential Information?",
+            "What does the Non-Disclosure Agreement allow regarding the sharing of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.90756211,
+            0.90756211,
+            0.90756211
+        ],
+        "cosine_sim_mean": 0.9075621113788571,
+        "final_score": 0.9075621113788571
+    },
+    {
+        "index": 35,
+        "user_input": "Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "response": "Yes, the Non-Disclosure Agreement restricts the use of Confidential Information to the purposes stated in the Agreement. However, there are exceptions outlined for certain circumstances where these restrictions do not apply.",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement allow for the use of Confidential Information outside of its stated purposes?",
+            "Does the Non-Disclosure Agreement allow for the use of Confidential Information outside of its stated purposes?",
+            "Does the Non-Disclosure Agreement allow for the use of Confidential Information outside of its stated purposes?"
+        ],
+        "cosine_sim": [
+            0.9185741,
+            0.9185741,
+            0.9185741
+        ],
+        "cosine_sim_mean": 0.9185741020598069,
+        "final_score": 0.9185741020598069
+    },
+    {
+        "index": 36,
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "response": "Yes, the document indicates that the Agreement does not grant the Receiving Party any rights to the Confidential Information. The disclosing party reserves all rights in its Confidential Information, and no rights or obligations are implied beyond what is expressly stated.",
+        "generated_questions": [
+            "What rights does the Agreement grant to the Receiving Party regarding the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "What rights does the Receiving Party have regarding the Confidential Information according to the document?"
+        ],
+        "cosine_sim": [
+            0.90169262,
+            0.92496624,
+            0.89164797
+        ],
+        "cosine_sim_mean": 0.9061022774819124,
+        "final_score": 0.9061022774819124
+    },
+    {
+        "index": 37,
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.71415036,
+            0.71415036,
+            0.71415036
+        ],
+        "cosine_sim_mean": 0.7141503643598476,
+        "final_score": 0.0
+    },
+    {
+        "index": 38,
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "response": "No, the document does not state that Confidential Information shall only include technical information. It encompasses a wide range of information, including data, know-how, trade secrets, and market opportunities. Therefore, it is not limited to just technical information.",
+        "generated_questions": [
+            "Does the document state that Confidential Information only includes technical information?",
+            "Does the document state that Confidential Information only includes technical information?",
+            "Does the document state that Confidential Information only includes technical information?"
+        ],
+        "cosine_sim": [
+            0.93723081,
+            0.93723081,
+            0.93723081
+        ],
+        "cosine_sim_mean": 0.9372308135678256,
+        "final_score": 0.9372308135678256
+    },
+    {
+        "index": 39,
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "response": "The provided context does not mention whether any obligations of the EFCA's Non-Disclosure Agreement may survive its termination. Therefore, I don't know the answer to the question.",
+        "generated_questions": [
+            "Do any obligations of the EFCA\"s Non-Disclosure Agreement survive its termination?",
+            "Do any obligations of the EFCA\"s Non-Disclosure Agreement survive its termination?",
+            "Do any obligations of the EFCA\"s Non-Disclosure Agreement survive its termination?"
+        ],
+        "cosine_sim": [
+            0.96430591,
+            0.96430591,
+            0.96430591
+        ],
+        "cosine_sim_mean": 0.9643059054165874,
+        "final_score": 0.0
+    },
+    {
+        "index": 40,
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "response": "The provided context does not specify whether the Receiving Party is allowed to independently develop information similar to the Confidential Information. Therefore, I don't know the answer to the question.",
+        "generated_questions": [
+            "Is the Receiving Party allowed to independently develop information similar to the Confidential Information?",
+            "Is the Receiving Party allowed to independently develop information similar to the Confidential Information?",
+            "Is the Receiving Party allowed to independently develop information similar to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92879081,
+            0.92879081,
+            0.92879081
+        ],
+        "cosine_sim_mean": 0.9287908078100914,
+        "final_score": 0.0
+    },
+    {
+        "index": 41,
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.71510095,
+            0.71510095,
+            0.71510095
+        ],
+        "cosine_sim_mean": 0.7151009505915596,
+        "final_score": 0.0
+    },
+    {
+        "index": 42,
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "response": "The context does not provide specific details about whether the Receiving Party can share Confidential Information with third parties, including consultants, agents, and professional advisors. Therefore, I don't know the answer.",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with third parties?",
+            "Can the Receiving Party share Confidential Information with third parties?",
+            "Can the Receiving Party share Confidential Information with third parties?"
+        ],
+        "cosine_sim": [
+            0.90024868,
+            0.90024868,
+            0.90024868
+        ],
+        "cosine_sim_mean": 0.9002486830841434,
+        "final_score": 0.0
+    },
+    {
+        "index": 43,
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.71103409,
+            0.71103409,
+            0.71103409
+        ],
+        "cosine_sim_mean": 0.711034093724337,
+        "final_score": 0.0
+    },
+    {
+        "index": 44,
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.70771635,
+            0.70771635,
+            0.70771635
+        ],
+        "cosine_sim_mean": 0.707716353486551,
+        "final_score": 0.0
+    },
+    {
+        "index": 45,
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "response": "The provided context does not specify whether the Receiving Party can share Confidential Information with their employees. Therefore, I don't know if the document allows such sharing.",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with their employees?",
+            "Can the Receiving Party share Confidential Information with their employees?",
+            "Can the Receiving Party share Confidential Information with their employees?"
+        ],
+        "cosine_sim": [
+            0.91921307,
+            0.91921307,
+            0.91921307
+        ],
+        "cosine_sim_mean": 0.9192130727580157,
+        "final_score": 0.0
+    },
+    {
+        "index": 46,
+        "user_input": "Consider EFCA\"s Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "response": "The provided context does not explicitly mention whether the Non-Disclosure Agreement restricts the use of Confidential Information to the purposes stated in the Agreement. Therefore, I don't know the answer to that question.",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement restrict the use of Confidential Information to the purposes stated in the Agreement?",
+            "Does the Non-Disclosure Agreement restrict the use of Confidential Information to the purposes stated in the Agreement?",
+            "Does the Non-Disclosure Agreement restrict the use of Confidential Information to the purposes stated in the Agreement?"
+        ],
+        "cosine_sim": [
+            0.9486423,
+            0.9486423,
+            0.9486423
+        ],
+        "cosine_sim_mean": 0.9486422967110238,
+        "final_score": 0.0
+    },
+    {
+        "index": 47,
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "response": "The provided context does not explicitly state whether the Agreement grants the Receiving Party any rights to the Confidential Information. Therefore, I cannot determine the answer based on the given information.",
+        "generated_questions": [
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92031823,
+            0.92031823,
+            0.92031823
+        ],
+        "cosine_sim_mean": 0.9203182280151596,
+        "final_score": 0.0
+    },
+    {
+        "index": 48,
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+        "response": "The provided context does not specify whether the Agreement includes a clause preventing the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated. Therefore, I don't know if such a clause exists in Eskom's Confidentiality and Non-Disclosure Agreement.",
+        "generated_questions": [
+            "Does Eskom\"s Confidentiality and Non-Disclosure Agreement include a clause preventing the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+            "Does Eskom\"s Confidentiality and Non-Disclosure Agreement include a clause preventing the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+            "Does Eskom\"s Confidentiality and Non-Disclosure Agreement include a clause preventing the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?"
+        ],
+        "cosine_sim": [
+            0.98295926,
+            0.98295926,
+            0.98295926
+        ],
+        "cosine_sim_mean": 0.9829592615658637,
+        "final_score": 0.0
+    },
+    {
+        "index": 49,
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "response": "The document does not state that Confidential Information shall only include technical information. It specifies that Confidential Information includes, without limitation, any type of information. Therefore, it encompasses more than just technical information.",
+        "generated_questions": [
+            "What types of information are included in Confidential Information according to the document?",
+            "What types of information are included in Confidential Information according to the document?",
+            "What types of information are included in Confidential Information according to the document?"
+        ],
+        "cosine_sim": [
+            0.87400486,
+            0.87400486,
+            0.87400486
+        ],
+        "cosine_sim_mean": 0.8740048560249631,
+        "final_score": 0.8740048560249631
+    },
+    {
+        "index": 50,
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "response": "The provided context does not specify whether all Confidential Information must be expressly identified by the Disclosing Party. Therefore, I don't know the answer to that question.",
+        "generated_questions": [
+            "Does all Confidential Information need to be expressly identified by the Disclosing Party?",
+            "Does all Confidential Information need to be expressly identified by the Disclosing Party?",
+            "Does all Confidential Information need to be expressly identified by the Disclosing Party?"
+        ],
+        "cosine_sim": [
+            0.9174476,
+            0.9174476,
+            0.91740254
+        ],
+        "cosine_sim_mean": 0.9174325803244999,
+        "final_score": 0.0
+    },
+    {
+        "index": 51,
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "response": "The provided context does not mention whether some obligations of Eskom's Confidentiality and Non-Disclosure Agreement may survive its termination. Therefore, I don't know the answer to that question.",
+        "generated_questions": [
+            "Do any obligations of Eskom\"s Confidentiality and Non-Disclosure Agreement survive its termination?",
+            "Do any obligations of Eskom\"s Confidentiality and Non-Disclosure Agreement survive its termination?",
+            "Do any obligations of Eskom\"s Confidentiality and Non-Disclosure Agreement survive its termination?"
+        ],
+        "cosine_sim": [
+            0.96491554,
+            0.96491554,
+            0.96491554
+        ],
+        "cosine_sim_mean": 0.9649155428025421,
+        "final_score": 0.0
+    },
+    {
+        "index": 52,
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "response": "The provided context does not specify whether the Receiving Party is allowed to independently develop information similar to the Confidential Information. Therefore, I don't know the answer to that question.",
+        "generated_questions": [
+            "Is the Receiving Party allowed to independently develop information similar to the Confidential Information?",
+            "Is the Receiving Party allowed to independently develop information similar to the Confidential Information?",
+            "Is the Receiving Party allowed to independently develop information similar to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92128428,
+            0.92128428,
+            0.92128428
+        ],
+        "cosine_sim_mean": 0.9212842837880549,
+        "final_score": 0.0
+    },
+    {
+        "index": 53,
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "response": "Yes, the document permits the Receiving Party to retain some Confidential Information, such as other documents prepared by them and oral Confidential Information, even after its return or destruction. This retained information must still be kept subject to the terms of the Agreement.",
+        "generated_questions": [
+            "Does the document allow the Receiving Party to retain any Confidential Information after its return or destruction?",
+            "Does the document allow the Receiving Party to retain any Confidential Information after its return or destruction?",
+            "Does the document allow the Receiving Party to retain any Confidential Information after its return or destruction?"
+        ],
+        "cosine_sim": [
+            0.92676726,
+            0.92676726,
+            0.92676726
+        ],
+        "cosine_sim_mean": 0.9267672557945709,
+        "final_score": 0.9267672557945709
+    },
+    {
+        "index": 54,
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "response": "The provided context does not specify whether verbally conveyed information is considered Confidential Information under Eskom's Confidentiality and Non-Disclosure Agreement. Therefore, I don't know the answer.",
+        "generated_questions": [
+            "Is verbally conveyed information considered Confidential Information under Eskom\"s Confidentiality and Non-Disclosure Agreement?",
+            "Is verbally conveyed information considered Confidential Information under Eskom\"s Confidentiality and Non-Disclosure Agreement?",
+            "Is verbally conveyed information considered Confidential Information under Eskom\"s Confidentiality and Non-Disclosure Agreement?"
+        ],
+        "cosine_sim": [
+            0.96900945,
+            0.96900945,
+            0.96900945
+        ],
+        "cosine_sim_mean": 0.9690094455141561,
+        "final_score": 0.0
+    },
+    {
+        "index": 55,
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72966134,
+            0.72966134,
+            0.72966134
+        ],
+        "cosine_sim_mean": 0.7296613402672035,
+        "final_score": 0.0
+    },
+    {
+        "index": 56,
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "response": "Yes, the document requires the Receiving Party to notify the Disclosing Party if they are legally required to disclose any Confidential Information. The Receiving Party must advise the Disclosing Party to take necessary steps to protect its interests. Additionally, the Receiving Party is to disclose only the portion of information legally required and make efforts to maintain confidentiality.",
+        "generated_questions": [
+            "What are the obligations of the Receiving Party regarding Confidential Information?",
+            "What are the obligations of the Receiving Party regarding the disclosure of Confidential Information?",
+            "What are the obligations of the Receiving Party regarding the disclosure of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.88619191,
+            0.89387179,
+            0.89387179
+        ],
+        "cosine_sim_mean": 0.8913118276309374,
+        "final_score": 0.8913118276309374
+    },
+    {
+        "index": 57,
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "response": "The context does not explicitly state whether the Receiving Party can acquire similar information from a third party. It primarily focuses on preventing unauthorized disclosure of the Confidential Information. Therefore, I don't know if the document allows for such acquisition.",
+        "generated_questions": [
+            "Can the Receiving Party acquire similar information from a third party according to the document?",
+            "Can the Receiving Party acquire similar information from a third party according to the document?",
+            "Can the Receiving Party acquire similar information from a third party according to the document?"
+        ],
+        "cosine_sim": [
+            0.90399546,
+            0.90399546,
+            0.90399546
+        ],
+        "cosine_sim_mean": 0.9039954569031892,
+        "final_score": 0.0
+    },
+    {
+        "index": 58,
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "response": "The context does not explicitly state whether the Receiving Party can share Confidential Information with their employees. Therefore, I don't know if the document allows such sharing.",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with their employees?",
+            "Can the Receiving Party share Confidential Information with their employees?",
+            "Can the Receiving Party share Confidential Information with their employees according to the document?"
+        ],
+        "cosine_sim": [
+            0.91123538,
+            0.91123538,
+            0.91794707
+        ],
+        "cosine_sim_mean": 0.9134726096713094,
+        "final_score": 0.0
+    },
+    {
+        "index": 59,
+        "user_input": "Consider Eskom\"s Confidentiality and Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "response": "Yes, the document restricts the use of Confidential Information to the purposes stated in the Agreement. The Parties agree not to use the Confidential Information for any purpose other than the Project without prior written consent.",
+        "generated_questions": [
+            "Does the document allow the use of Confidential Information for purposes other than the Project?",
+            "Does the document allow the use of Confidential Information for purposes other than the Project?",
+            "Does the document allow the use of Confidential Information for purposes other than the Project?"
+        ],
+        "cosine_sim": [
+            0.88882181,
+            0.88882181,
+            0.88882181
+        ],
+        "cosine_sim_mean": 0.8888218133996183,
+        "final_score": 0.8888218133996183
+    },
+    {
+        "index": 60,
+        "user_input": "Consider Epsteen\"s Non-Disclosure Agreement; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+        "response": "The context indicates that all Confidential Information must be returned to the Broker if the Buyer decides not to pursue the Transaction. However, it does not explicitly mention whether the Receiving Party is required to destroy the Confidential Information upon termination of the Agreement. Therefore, based on the provided context, I cannot confirm the requirement for destruction.",
+        "generated_questions": [
+            "Is the Receiving Party required to destroy the Confidential Information upon termination of the Agreement?",
+            "Is the Receiving Party required to destroy the Confidential Information upon termination of the Agreement?",
+            "Is the Receiving Party required to destroy the Confidential Information upon termination of the Agreement?"
+        ],
+        "cosine_sim": [
+            0.92301086,
+            0.92301086,
+            0.92301086
+        ],
+        "cosine_sim_mean": 0.9230108625201585,
+        "final_score": 0.0
+    },
+    {
+        "index": 61,
+        "user_input": "Consider Epsteen\"s Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72220752,
+            0.72220752,
+            0.72220752
+        ],
+        "cosine_sim_mean": 0.7222075173753494,
+        "final_score": 0.0
+    },
+    {
+        "index": 62,
+        "user_input": "Consider Epsteen\"s Non-Disclosure Agreement; Does the document include a clause that prohibits the Receiving Party from soliciting some of the Disclosing Party\"s representatives?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72475665,
+            0.72475665,
+            0.72475665
+        ],
+        "cosine_sim_mean": 0.724756647719388,
+        "final_score": 0.0
+    },
+    {
+        "index": 63,
+        "user_input": "Consider Epsteen\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "response": "The context does not provide specific information about whether the Receiving Party can share Confidential Information with third parties, including consultants, agents, and professional advisors. Therefore, I don't know the answer to the question.",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with third parties?",
+            "Can the Receiving Party share Confidential Information with third parties?",
+            "Can the Receiving Party share Confidential Information with third parties?"
+        ],
+        "cosine_sim": [
+            0.89589379,
+            0.89589379,
+            0.89589379
+        ],
+        "cosine_sim_mean": 0.895893791075926,
+        "final_score": 0.0
+    },
+    {
+        "index": 64,
+        "user_input": "Consider Epsteen\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72420441,
+            0.72420441,
+            0.72420441
+        ],
+        "cosine_sim_mean": 0.7242044128733883,
+        "final_score": 0.0
+    },
+    {
+        "index": 65,
+        "user_input": "Consider Epsteen\"s Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.73071489,
+            0.73071489,
+            0.73071489
+        ],
+        "cosine_sim_mean": 0.7307148854252161,
+        "final_score": 0.0
+    },
+    {
+        "index": 66,
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "response": "The provided context does not explicitly state whether the Non-Disclosure Agreement grants the Receiving Party any rights to the Confidential Information. Therefore, I don't know the answer to that question.",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Non-Disclosure Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Non-Disclosure Agreement grant the Receiving Party any rights to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.93723428,
+            0.93723428,
+            0.93723428
+        ],
+        "cosine_sim_mean": 0.9372342847586963,
+        "final_score": 0.0
+    },
+    {
+        "index": 67,
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "response": "No, the document does not state that Confidential Information shall only include technical information. It encompasses a broader range of non-public information, including research, product plans, and other related aspects.",
+        "generated_questions": [
+            "Does the document state that Confidential Information only includes technical information?",
+            "Does the document state that Confidential Information only includes technical information?",
+            "Does the document state that Confidential Information only includes technical information?"
+        ],
+        "cosine_sim": [
+            0.93335867,
+            0.93335867,
+            0.93335867
+        ],
+        "cosine_sim_mean": 0.9333586686117147,
+        "final_score": 0.9333586686117147
+    },
+    {
+        "index": 68,
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.71958437,
+            0.71958437,
+            0.71958437
+        ],
+        "cosine_sim_mean": 0.7195843744905744,
+        "final_score": 0.0
+    },
+    {
+        "index": 69,
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.73866201,
+            0.73866201,
+            0.73866201
+        ],
+        "cosine_sim_mean": 0.7386620135038692,
+        "final_score": 0.0
+    },
+    {
+        "index": 70,
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "response": "The context does not explicitly state whether the Receiving Party can independently develop information similar to the Confidential Information. It emphasizes the obligation to hold the Confidential Information in strict confidence and use it only for the Permitted Use. Therefore, based on the provided context, I don't know if independent development is allowed.",
+        "generated_questions": [
+            "Can the Receiving Party independently develop information similar to the Confidential Information?",
+            "Can the Receiving Party independently develop information similar to the Confidential Information?",
+            "Can the Receiving Party independently develop information similar to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92239672,
+            0.92239672,
+            0.92239672
+        ],
+        "cosine_sim_mean": 0.9223967249963682,
+        "final_score": 0.0
+    },
+    {
+        "index": 71,
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "response": "Yes, Evelozcity's Non-Disclosure Agreement allows verbally conveyed information to be considered as Confidential Information. The definition includes information disclosed orally, visually, or through inspection.",
+        "generated_questions": [
+            "Does Evelozcity\"s Non-Disclosure Agreement consider verbally conveyed information as Confidential Information?",
+            "Does Evelozcity\"s Non-Disclosure Agreement consider verbally conveyed information as Confidential Information?",
+            "Does Evelozcity\"s Non-Disclosure Agreement cover verbally conveyed information as Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.97814469,
+            0.97814469,
+            0.9757459
+        ],
+        "cosine_sim_mean": 0.9773450946622445,
+        "final_score": 0.9773450946622445
+    },
+    {
+        "index": 72,
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "response": "Yes, the Non-Disclosure Agreement allows the Receiving Party to share Confidential Information with third parties, including consultants, agents, and professional advisors, as long as they have a need to know for evaluating or pursuing a potential business relationship.",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement permit the Receiving Party to share Confidential Information with third parties?",
+            "Does the Non-Disclosure Agreement permit the Receiving Party to share Confidential Information with third parties?",
+            "Does the Non-Disclosure Agreement permit the Receiving Party to share Confidential Information with third parties?"
+        ],
+        "cosine_sim": [
+            0.92666011,
+            0.92666011,
+            0.92666011
+        ],
+        "cosine_sim_mean": 0.9266601083968501,
+        "final_score": 0.9266601083968501
+    },
+    {
+        "index": 73,
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "response": "Yes, the document requires the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information. The Receiving Party must provide reasonable prior notice to allow the Disclosing Party to take protective actions. Additionally, the Receiving Party is expected to cooperate with any reasonable requests from the Disclosing Party.",
+        "generated_questions": [
+            "What are the obligations of the Receiving Party regarding the disclosure of Confidential Information?",
+            "What are the obligations of the Receiving Party regarding the disclosure of Confidential Information?",
+            "What are the obligations of the Receiving Party regarding the disclosure of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.89167818,
+            0.89167818,
+            0.89167818
+        ],
+        "cosine_sim_mean": 0.89167818298489,
+        "final_score": 0.89167818298489
+    },
+    {
+        "index": 74,
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "response": "The provided context does not specify whether the Receiving Party can acquire information similar to the Confidential Information from a third party. Therefore, I don't know the answer to that question.",
+        "generated_questions": [
+            "Can the Receiving Party acquire information similar to the Confidential Information from a third party?",
+            "Can the Receiving Party acquire information similar to the Confidential Information from a third party?",
+            "Can the Receiving Party acquire information similar to the Confidential Information from a third party?"
+        ],
+        "cosine_sim": [
+            0.9164065,
+            0.9164065,
+            0.9164065
+        ],
+        "cosine_sim_mean": 0.9164065031586653,
+        "final_score": 0.0
+    },
+    {
+        "index": 75,
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "response": "Yes, the Non-Disclosure Agreement allows the Receiving Party to share Confidential Information with their employees, provided they have a need to know for evaluating or pursuing a potential business relationship. This sharing is permitted as long as it is done in accordance with the terms outlined in the agreement.",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement allow the Receiving Party to share Confidential Information with employees?",
+            "Does the Non-Disclosure Agreement allow the Receiving Party to share Confidential Information with employees?",
+            "Does the Non-Disclosure Agreement allow the Receiving Party to share Confidential Information with employees?"
+        ],
+        "cosine_sim": [
+            0.9478218,
+            0.9478218,
+            0.9478218
+        ],
+        "cosine_sim_mean": 0.9478217988941443,
+        "final_score": 0.9478217988941443
+    },
+    {
+        "index": 76,
+        "user_input": "Consider Evelozcity\"s Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "response": "The provided context does not explicitly state that the Non-Disclosure Agreement restricts the use of Confidential Information to the purposes stated in the Agreement. Therefore, I cannot confirm whether such restrictions exist based on the given information.",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement restrict the use of Confidential Information to the purposes stated in the Agreement?",
+            "Does the Non-Disclosure Agreement restrict the use of Confidential Information to the purposes stated in the Agreement?",
+            "Does the Non-Disclosure Agreement restrict the use of Confidential Information to the purposes stated in the Agreement?"
+        ],
+        "cosine_sim": [
+            0.94372185,
+            0.94372185,
+            0.94372185
+        ],
+        "cosine_sim_mean": 0.9437218450629078,
+        "final_score": 0.0
+    },
+    {
+        "index": 77,
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+        "response": "Yes, the document specifies that the Receiving Party must return or destroy Confidential Information upon the termination of the Agreement. A certification of destruction must be provided to the other party, except for one copy retained by legal counsel. Additionally, the supplied data must be maintained and protected for three years following termination.",
+        "generated_questions": [
+            "What does the document say about the handling of Confidential Information after the termination of the Agreement?",
+            "What does the document say about the handling of Confidential Information after the termination of the Agreement?",
+            "What does the document say about the handling of Confidential Information after the termination of the Agreement?"
+        ],
+        "cosine_sim": [
+            0.88438451,
+            0.88438451,
+            0.88438451
+        ],
+        "cosine_sim_mean": 0.8843845120937605,
+        "final_score": 0.8843845120937605
+    },
+    {
+        "index": 78,
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "response": "The provided context does not explicitly state whether the Agreement grants the Receiving Party any rights to the Confidential Information. Therefore, I cannot confirm that information based on the context given.",
+        "generated_questions": [
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92673869,
+            0.92673869,
+            0.92673869
+        ],
+        "cosine_sim_mean": 0.9267386855256824,
+        "final_score": 0.0
+    },
+    {
+        "index": 79,
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "response": "The provided context does not specify that Confidential Information is limited to only technical information. It mentions Proprietary Information and its disclosure to employees and consultants, but does not define its scope. Therefore, I don't know if the document states that Confidential Information includes only technical information.",
+        "generated_questions": [
+            "Does the document state that Confidential Information is limited to only technical information?",
+            "Does the document state that Confidential Information is limited to only technical information?",
+            "Does the document state that Confidential Information is limited to only technical information?"
+        ],
+        "cosine_sim": [
+            0.93629194,
+            0.93629194,
+            0.93629194
+        ],
+        "cosine_sim_mean": 0.9362919419965373,
+        "final_score": 0.0
+    },
+    {
+        "index": 80,
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.70842621,
+            0.70842621,
+            0.70842621
+        ],
+        "cosine_sim_mean": 0.7084262091351697,
+        "final_score": 0.0
+    },
+    {
+        "index": 81,
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "response": "Yes, the document mentions that some obligations of the Agreement may survive the termination of the Agreement, specifically those outlined in Paragraph 4.",
+        "generated_questions": [
+            "Does the document state if any obligations of the Agreement survive its termination?",
+            "Does the document state if any obligations of the Agreement survive its termination?",
+            "Does the document state if any obligations of the Agreement survive its termination?"
+        ],
+        "cosine_sim": [
+            0.91162821,
+            0.91162821,
+            0.91162821
+        ],
+        "cosine_sim_mean": 0.9116282081936071,
+        "final_score": 0.9116282081936071
+    },
+    {
+        "index": 82,
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "response": "The provided context does not specify whether the Receiving Party is allowed to independently develop information similar to the Confidential Information. Therefore, I cannot determine the answer based on the given information. You may need to review the full Non-Disclosure Agreement for clarity on this matter.",
+        "generated_questions": [
+            "Is the Receiving Party allowed to independently develop information similar to the Confidential Information?",
+            "Is the Receiving Party allowed to independently develop information similar to the Confidential Information?",
+            "Is the Receiving Party allowed to independently develop information similar to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.93185745,
+            0.93185745,
+            0.93185745
+        ],
+        "cosine_sim_mean": 0.9318574524506781,
+        "final_score": 0.0
+    },
+    {
+        "index": 83,
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "response": "Yes, the Non-Disclosure Agreement allows the Receiving Party to retain one copy of the Confidential Information, specifically for legal counsel as evidence of what was disclosed. All other Proprietary Information must be returned or destroyed upon request.",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement allow the Receiving Party to keep a copy of the Confidential Information?",
+            "Does the Non-Disclosure Agreement allow the Receiving Party to keep a copy of the Confidential Information?",
+            "Does the Non-Disclosure Agreement allow the Receiving Party to keep a copy of the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.9349093,
+            0.9349093,
+            0.9349093
+        ],
+        "cosine_sim_mean": 0.93490929883247,
+        "final_score": 0.93490929883247
+    },
+    {
+        "index": 84,
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "response": "The provided context does not explicitly mention whether verbally conveyed information is considered Confidential Information under Excelerate's Non-Disclosure Agreement. Therefore, I don't know if verbally conveyed information is included.",
+        "generated_questions": [
+            "Is verbally conveyed information considered Confidential Information under Excelerate\"s Non-Disclosure Agreement?",
+            "Is verbally conveyed information considered Confidential Information under Excelerate\"s Non-Disclosure Agreement?",
+            "Is verbally conveyed information considered Confidential Information under Excelerate\"s Non-Disclosure Agreement?"
+        ],
+        "cosine_sim": [
+            0.96267488,
+            0.96267488,
+            0.96267488
+        ],
+        "cosine_sim_mean": 0.9626748754668979,
+        "final_score": 0.0
+    },
+    {
+        "index": 85,
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "response": "Yes, the document allows the Receiving Party to share Confidential Information with employees and consultants who need to know it for their duties, provided they are also obligated to keep it confidential. However, this sharing must be consistent with the Receiving Party's obligations under the Agreement.",
+        "generated_questions": [
+            "Does the document permit the Receiving Party to share Confidential Information with employees and consultants?",
+            "Does the document permit the Receiving Party to share Confidential Information with employees and consultants?",
+            "Does the document permit the Receiving Party to share Confidential Information with employees and consultants?"
+        ],
+        "cosine_sim": [
+            0.92028095,
+            0.92028095,
+            0.92028095
+        ],
+        "cosine_sim_mean": 0.9202809530871817,
+        "final_score": 0.9202809530871817
+    },
+    {
+        "index": 86,
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.70820994,
+            0.70820994,
+            0.70820994
+        ],
+        "cosine_sim_mean": 0.7082099432605995,
+        "final_score": 0.0
+    },
+    {
+        "index": 87,
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.70991852,
+            0.70991852,
+            0.70991852
+        ],
+        "cosine_sim_mean": 0.7099185188046205,
+        "final_score": 0.0
+    },
+    {
+        "index": 88,
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "response": "The provided context does not specify whether the Receiving Party can acquire information similar to the Confidential Information from a third party. Therefore, I don't know the answer to your question.",
+        "generated_questions": [
+            "Can the Receiving Party acquire information similar to the Confidential Information from a third party?",
+            "Can the Receiving Party acquire information similar to the Confidential Information from a third party?",
+            "Can the Receiving Party acquire information similar to the Confidential Information from a third party?"
+        ],
+        "cosine_sim": [
+            0.92141336,
+            0.92141336,
+            0.92141336
+        ],
+        "cosine_sim_mean": 0.9214133591894571,
+        "final_score": 0.0
+    },
+    {
+        "index": 89,
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "response": "The provided context does not specify whether the Receiving Party can share Confidential Information with their employees. Therefore, I don't know if the document allows such sharing.",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with their employees?",
+            "Can the Receiving Party share Confidential Information with their employees?",
+            "Can the Receiving Party share Confidential Information with their employees?"
+        ],
+        "cosine_sim": [
+            0.92433047,
+            0.92433047,
+            0.92433047
+        ],
+        "cosine_sim_mean": 0.9243304695618343,
+        "final_score": 0.0
+    },
+    {
+        "index": 90,
+        "user_input": "Consider Excelerate\"s Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "response": "Yes, the Non-Disclosure Agreement restricts the use of Confidential Information to the purposes stated in the Agreement. The terms and conditions outlined specify how the information can be used. Therefore, any use outside of those purposes would be a violation of the Agreement.",
+        "generated_questions": [
+            "What does the Non-Disclosure Agreement say about the use of Confidential Information?",
+            "What does the Non-Disclosure Agreement say about the use of Confidential Information?",
+            "What does the Non-Disclosure Agreement say about the use of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.93092672,
+            0.93090052,
+            0.93090052
+        ],
+        "cosine_sim_mean": 0.9309092540660501,
+        "final_score": 0.9309092540660501
+    },
+    {
+        "index": 91,
+        "user_input": "Consider FNHA\"s Non-Disclosure Agreement; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+        "response": "I don't know. The provided context does not specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement.",
+        "generated_questions": [
+            "Is the Receiving Party required to destroy or return Confidential Information upon the termination of the Agreement?",
+            "Is the Receiving Party required to destroy or return Confidential Information upon the termination of the Agreement?",
+            "Is the Receiving Party required to destroy or return Confidential Information upon the termination of the Agreement?"
+        ],
+        "cosine_sim": [
+            0.93003414,
+            0.93003414,
+            0.93003414
+        ],
+        "cosine_sim_mean": 0.9300341426151851,
+        "final_score": 0.0
+    },
+    {
+        "index": 92,
+        "user_input": "Consider FNHA\"s Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "response": "Yes, the document indicates that the Agreement does not grant the Receiving Party any rights to the Confidential Information. It explicitly states that nothing in the Agreement will be construed as granting rights to the Confidential Information.",
+        "generated_questions": [
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91744986,
+            0.91744986,
+            0.91744986
+        ],
+        "cosine_sim_mean": 0.9174498559650344,
+        "final_score": 0.9174498559650344
+    },
+    {
+        "index": 93,
+        "user_input": "Consider FNHA\"s Non-Disclosure Agreement; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+        "response": "I don't know. The provided context does not mention any clause regarding the disclosure of the fact that the Agreement was agreed upon or negotiated.",
+        "generated_questions": [
+            "What does the provided context say about the disclosure of the fact that the Agreement was agreed upon or negotiated?",
+            "What does the provided context say about the disclosure of the fact that the Agreement was agreed upon or negotiated?",
+            "What does the provided context say about the disclosure of the fact that the Agreement was agreed upon or negotiated?"
+        ],
+        "cosine_sim": [
+            0.86138983,
+            0.86138983,
+            0.86138983
+        ],
+        "cosine_sim_mean": 0.8613898329218843,
+        "final_score": 0.0
+    },
+    {
+        "index": 94,
+        "user_input": "Consider FNHA\"s Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "response": "The provided context does not specify whether all Confidential Information must be expressly identified by the Disclosing Party. Therefore, I don't know if that requirement exists in FNHA's Non-Disclosure Agreement.",
+        "generated_questions": [
+            "Does FNHA\"s Non-Disclosure Agreement require all Confidential Information to be expressly identified by the Disclosing Party?",
+            "Does FNHA\"s Non-Disclosure Agreement require all Confidential Information to be expressly identified by the Disclosing Party?",
+            "Does FNHA\"s Non-Disclosure Agreement require all Confidential Information to be expressly identified by the Disclosing Party?"
+        ],
+        "cosine_sim": [
+            0.98183165,
+            0.98183165,
+            0.98183165
+        ],
+        "cosine_sim_mean": 0.9818316460075724,
+        "final_score": 0.0
+    },
+    {
+        "index": 95,
+        "user_input": "Consider FNHA\"s Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "response": "The provided context does not explicitly mention whether verbally conveyed information is considered Confidential Information. Therefore, I don't know if FNHA's Non-Disclosure Agreement includes verbally conveyed information as confidential.",
+        "generated_questions": [
+            "Does FNHA\"s Non-Disclosure Agreement include verbally conveyed information as confidential?",
+            "Does FNHA\"s Non-Disclosure Agreement include verbally conveyed information as confidential?",
+            "Does FNHA\"s Non-Disclosure Agreement include verbally conveyed information as confidential?"
+        ],
+        "cosine_sim": [
+            0.97075466,
+            0.97075466,
+            0.97075466
+        ],
+        "cosine_sim_mean": 0.9707546628817635,
+        "final_score": 0.0
+    },
+    {
+        "index": 96,
+        "user_input": "Consider FNHA\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.71247995,
+            0.71247995,
+            0.71247004
+        ],
+        "cosine_sim_mean": 0.7124766499883947,
+        "final_score": 0.0
+    },
+    {
+        "index": 97,
+        "user_input": "Consider FNHA\"s Non-Disclosure Agreement; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+        "response": "The context does not indicate that the Receiving Party is permitted to create a copy of any Confidential Information. It emphasizes the obligation to return or destroy such information as directed by FNHA. Therefore, it suggests that copying is not allowed under the terms of the Non-Disclosure Agreement.",
+        "generated_questions": [
+            "Is the Receiving Party allowed to create a copy of any Confidential Information under the Non-Disclosure Agreement?",
+            "Is the Receiving Party allowed to create a copy of any Confidential Information under the Non-Disclosure Agreement?",
+            "Is the Receiving Party allowed to create a copy of any Confidential Information under the Non-Disclosure Agreement?"
+        ],
+        "cosine_sim": [
+            0.92938635,
+            0.92938635,
+            0.92938635
+        ],
+        "cosine_sim_mean": 0.9293863496690854,
+        "final_score": 0.9293863496690854
+    },
+    {
+        "index": 98,
+        "user_input": "Consider FNHA\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "response": "The provided context does not explicitly mention whether the Receiving Party can share Confidential Information with their employees. Therefore, I don't know if the Non-Disclosure Agreement allows such sharing.",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with their employees according to the Non-Disclosure Agreement?",
+            "Can the Receiving Party share Confidential Information with their employees according to the Non-Disclosure Agreement?",
+            "Can the Receiving Party share Confidential Information with their employees according to the Non-Disclosure Agreement?"
+        ],
+        "cosine_sim": [
+            0.93677094,
+            0.93677094,
+            0.93677094
+        ],
+        "cosine_sim_mean": 0.9367709417713108,
+        "final_score": 0.0
+    },
+    {
+        "index": 99,
+        "user_input": "Consider FNHA\"s Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "response": "The provided context does not explicitly mention whether the Non-Disclosure Agreement restricts the use of Confidential Information to the purposes stated in the Agreement. Therefore, I don't know the answer to your question.",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement restrict the use of Confidential Information to the purposes stated in the Agreement?",
+            "Does the Non-Disclosure Agreement restrict the use of Confidential Information to the purposes stated in the Agreement?",
+            "Does the Non-Disclosure Agreement restrict the use of Confidential Information to the purposes stated in the Agreement?"
+        ],
+        "cosine_sim": [
+            0.94746459,
+            0.94746459,
+            0.94746459
+        ],
+        "cosine_sim_mean": 0.947464585578513,
+        "final_score": 0.0
+    },
+    {
+        "index": 100,
+        "user_input": "Consider APIC\"s Confidentiality Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "response": "The retrieved context does not explicitly mention whether the Agreement grants the Receiving Party any rights to the Confidential Information. Therefore, I cannot confirm that information based on the provided context. I don't know.",
+        "generated_questions": [
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92085784,
+            0.92085784,
+            0.92085784
+        ],
+        "cosine_sim_mean": 0.9208578420990198,
+        "final_score": 0.0
+    },
+    {
+        "index": 101,
+        "user_input": "Consider APIC\"s Confidentiality Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "response": "The retrieved context does not specify whether Confidential Information is limited to technical information. Therefore, I cannot determine if the document states that Confidential Information includes only technical information. I don't know.",
+        "generated_questions": [
+            "Does the document state that Confidential Information is limited to technical information?",
+            "Does the document state that Confidential Information is limited to technical information?",
+            "Does the document state that Confidential Information is limited to technical information?"
+        ],
+        "cosine_sim": [
+            0.92267563,
+            0.92267563,
+            0.92267563
+        ],
+        "cosine_sim_mean": 0.9226756336048578,
+        "final_score": 0.0
+    },
+    {
+        "index": 102,
+        "user_input": "Consider APIC\"s Confidentiality Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.71780477,
+            0.71781965,
+            0.71779754
+        ],
+        "cosine_sim_mean": 0.7178073175863257,
+        "final_score": 0.0
+    },
+    {
+        "index": 103,
+        "user_input": "Consider APIC\"s Confidentiality Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "response": "The provided context does not explicitly mention whether the Confidential Information can only be used for the purposes stated in the Agreement. Therefore, I cannot confirm if the document restricts the use of Confidential Information in that manner. I don't know.",
+        "generated_questions": [
+            "Can the Confidential Information only be used for the purposes stated in the Agreement?",
+            "Can the Confidential Information only be used for the purposes stated in the Agreement?",
+            "Can the Confidential Information only be used for the purposes stated in the Agreement?"
+        ],
+        "cosine_sim": [
+            0.90131225,
+            0.90131225,
+            0.90131225
+        ],
+        "cosine_sim_mean": 0.9013122503444722,
+        "final_score": 0.0
+    },
+    {
+        "index": 104,
+        "user_input": "Consider the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.7290511,
+            0.7290511,
+            0.7290511
+        ],
+        "cosine_sim_mean": 0.7290511005270105,
+        "final_score": 0.0
+    },
+    {
+        "index": 105,
+        "user_input": "Consider the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants; Does the document state that Confidential Information shall only include technical information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72838251,
+            0.72838251,
+            0.72838251
+        ],
+        "cosine_sim_mean": 0.7283825107716697,
+        "final_score": 0.0
+    },
+    {
+        "index": 106,
+        "user_input": "Consider the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72982327,
+            0.72982327,
+            0.72982327
+        ],
+        "cosine_sim_mean": 0.7298232724355768,
+        "final_score": 0.0
+    },
+    {
+        "index": 107,
+        "user_input": "Consider the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.7298963,
+            0.7298963,
+            0.7298963
+        ],
+        "cosine_sim_mean": 0.7298962957813758,
+        "final_score": 0.0
+    },
+    {
+        "index": 108,
+        "user_input": "Consider the Non-Disclosure Agreement between Hochschule Furtwangen University and Thesis Participants; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72894458,
+            0.72894458,
+            0.72894458
+        ],
+        "cosine_sim_mean": 0.7289445788614061,
+        "final_score": 0.0
+    },
+    {
+        "index": 109,
+        "user_input": "Consider GreenStorm\"s Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "response": "The context provided does not explicitly state whether the Agreement grants the Receiving Party any rights to the Confidential Information. Therefore, I don't know the answer to your question.",
+        "generated_questions": [
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92335133,
+            0.92335133,
+            0.92335133
+        ],
+        "cosine_sim_mean": 0.9233513257747127,
+        "final_score": 0.0
+    },
+    {
+        "index": 110,
+        "user_input": "Consider GreenStorm\"s Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "response": "The document does not state that Confidential Information shall only include technical information. It defines Confidential Information as any information specifically identified as \"Confidential\" prior to disclosure, without limiting it to technical details. Therefore, it can encompass a broader range of information.",
+        "generated_questions": [
+            "What does the document say about the definition of Confidential Information?",
+            "What types of information are included in Confidential Information according to the document?",
+            "What types of information are included in Confidential Information according to the document?"
+        ],
+        "cosine_sim": [
+            0.8809333,
+            0.87440183,
+            0.87440183
+        ],
+        "cosine_sim_mean": 0.8765789875717177,
+        "final_score": 0.0
+    },
+    {
+        "index": 111,
+        "user_input": "Consider GreenStorm\"s Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "response": "Yes, the Non-Disclosure Agreement requires that all Confidential Information be expressly identified by the Disclosing Party prior to disclosure. This identification must be done through formal correspondence outlining the proposed information. Without this identification, the information may not be considered confidential under the agreement.",
+        "generated_questions": [
+            "What does the Non-Disclosure Agreement require regarding the identification of Confidential Information?",
+            "What does the Non-Disclosure Agreement require regarding the identification of Confidential Information?",
+            "What does the Non-Disclosure Agreement require regarding the identification of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92255236,
+            0.92255236,
+            0.92255236
+        ],
+        "cosine_sim_mean": 0.9225523564015136,
+        "final_score": 0.9225523564015136
+    },
+    {
+        "index": 112,
+        "user_input": "Consider GreenStorm\"s Non-Disclosure Agreement; Does the document include a clause that prohibits the Receiving Party from soliciting some of the Disclosing Party\"s representatives?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.71818093,
+            0.71818093,
+            0.71818093
+        ],
+        "cosine_sim_mean": 0.7181809323284606,
+        "final_score": 0.0
+    },
+    {
+        "index": 113,
+        "user_input": "Consider GreenStorm\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72586092,
+            0.72586092,
+            0.72586092
+        ],
+        "cosine_sim_mean": 0.7258609234262519,
+        "final_score": 0.0
+    },
+    {
+        "index": 114,
+        "user_input": "Consider Grindrod SA\"s Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72026321,
+            0.72026321,
+            0.72026321
+        ],
+        "cosine_sim_mean": 0.7202632149607459,
+        "final_score": 0.0
+    },
+    {
+        "index": 115,
+        "user_input": "Consider Grindrod SA\"s Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.71803843,
+            0.71803843,
+            0.71803843
+        ],
+        "cosine_sim_mean": 0.7180384256777268,
+        "final_score": 0.0
+    },
+    {
+        "index": 116,
+        "user_input": "Consider Grindrod SA\"s Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "response": "Yes, the document mentions that the provisions of the Confidentiality and Non-Disclosure Agreement shall survive the termination or expiration of any agreement or interaction with Grindrod SA.",
+        "generated_questions": [
+            "Does the Confidentiality and Non-Disclosure Agreement have provisions that survive termination or expiration?",
+            "Does the Confidentiality and Non-Disclosure Agreement have provisions that survive termination or expiration?",
+            "Does the Confidentiality and Non-Disclosure Agreement have provisions that survive termination or expiration?"
+        ],
+        "cosine_sim": [
+            0.91333566,
+            0.91333566,
+            0.91333566
+        ],
+        "cosine_sim_mean": 0.913335658098477,
+        "final_score": 0.913335658098477
+    },
+    {
+        "index": 117,
+        "user_input": "Consider Grindrod SA\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72213698,
+            0.72213698,
+            0.72213698
+        ],
+        "cosine_sim_mean": 0.7221369757990089,
+        "final_score": 0.0
+    },
+    {
+        "index": 118,
+        "user_input": "Consider Grindrod SA\"s Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72989591,
+            0.72989591,
+            0.72989591
+        ],
+        "cosine_sim_mean": 0.7298959108836472,
+        "final_score": 0.0
+    },
+    {
+        "index": 119,
+        "user_input": "Consider Grindrod SA\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "response": "The provided context does not explicitly mention whether the Receiving Party can share Confidential Information with third parties, including consultants, agents, and professional advisors. Therefore, I don't know if the Non-Disclosure Agreement allows such sharing.",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with third parties according to the Non-Disclosure Agreement?",
+            "Can the Receiving Party share Confidential Information with third parties according to the Non-Disclosure Agreement?",
+            "Can the Receiving Party share Confidential Information with third parties according to the Non-Disclosure Agreement?"
+        ],
+        "cosine_sim": [
+            0.91441847,
+            0.91441847,
+            0.91446078
+        ],
+        "cosine_sim_mean": 0.9144325739366165,
+        "final_score": 0.0
+    },
+    {
+        "index": 120,
+        "user_input": "Consider Grindrod SA\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "response": "The context does not explicitly mention whether the Receiving Party can share Confidential Information with their employees. Therefore, I don't know if the document allows such sharing.",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with their employees according to the document?",
+            "Can the Receiving Party share Confidential Information with their employees according to the document?",
+            "Can the Receiving Party share Confidential Information with their employees according to the document?"
+        ],
+        "cosine_sim": [
+            0.9090362,
+            0.9090362,
+            0.9090362
+        ],
+        "cosine_sim_mean": 0.909036196626439,
+        "final_score": 0.0
+    },
+    {
+        "index": 121,
+        "user_input": "Consider Grindrod SA\"s Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "response": "Yes, the Non-Disclosure Agreement restricts the use of Confidential Information to the purposes stated in the Agreement. It specifies that the information can only be used for performing obligations or duties arising from the Agreement and for no other purpose.",
+        "generated_questions": [
+            "What does the Non-Disclosure Agreement specify about the use of Confidential Information?",
+            "What does the Non-Disclosure Agreement specify about the use of Confidential Information?",
+            "What does the Non-Disclosure Agreement specify about the use of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91671228,
+            0.91671228,
+            0.91671228
+        ],
+        "cosine_sim_mean": 0.9167122847385457,
+        "final_score": 0.9167122847385457
+    },
+    {
+        "index": 122,
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "response": "The provided context does not explicitly state whether the Agreement grants the Receiving Party any rights to the Confidential Information. Therefore, I cannot determine if the document indicates that the Receiving Party has no rights to the Confidential Information.",
+        "generated_questions": [
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91855612,
+            0.91855612,
+            0.91855612
+        ],
+        "cosine_sim_mean": 0.9185561170248361,
+        "final_score": 0.0
+    },
+    {
+        "index": 123,
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "response": "The context does not specify that Confidential Information is limited to only technical information. It indicates that the Confidential Information is confidential in nature but does not define its scope. Therefore, I don't know if the document states that Confidential Information includes only technical information.",
+        "generated_questions": [
+            "Does the document state that Confidential Information is limited to only technical information?",
+            "Does the document state that Confidential Information is limited to only technical information?",
+            "Does the document state that Confidential Information is limited to only technical information?"
+        ],
+        "cosine_sim": [
+            0.92576519,
+            0.92576519,
+            0.92576519
+        ],
+        "cosine_sim_mean": 0.9257651911206587,
+        "final_score": 0.0
+    },
+    {
+        "index": 124,
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "response": "The provided context does not specify whether all Confidential Information must be expressly identified by the Disclosing Party. Therefore, I don't know if that requirement exists in Euler Hermes's Non-Disclosure Agreement.",
+        "generated_questions": [
+            "Does Euler Hermes\"s Non-Disclosure Agreement require all Confidential Information to be expressly identified by the Disclosing Party?",
+            "Does Euler Hermes\"s Non-Disclosure Agreement require all Confidential Information to be expressly identified by the Disclosing Party?",
+            "Does Euler Hermes\"s Non-Disclosure Agreement require all Confidential Information to be expressly identified by the Disclosing Party?"
+        ],
+        "cosine_sim": [
+            0.97375942,
+            0.97375942,
+            0.97375942
+        ],
+        "cosine_sim_mean": 0.973759418935642,
+        "final_score": 0.0
+    },
+    {
+        "index": 125,
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "response": "The retrieved context does not mention whether any obligations of the Agreement may survive its termination. Therefore, I don't know the answer to that question.",
+        "generated_questions": [
+            "Do any obligations of the Agreement survive its termination?",
+            "Do any obligations of the Agreement survive its termination?",
+            "Do any obligations of the Agreement survive its termination?"
+        ],
+        "cosine_sim": [
+            0.89251605,
+            0.89251605,
+            0.89251605
+        ],
+        "cosine_sim_mean": 0.8925160510632887,
+        "final_score": 0.0
+    },
+    {
+        "index": 126,
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "response": "The provided context does not specify whether verbally conveyed information is considered Confidential Information under Euler Hermes's Non-Disclosure Agreement. Therefore, I don't know the answer to that question.",
+        "generated_questions": [
+            "Is verbally conveyed information considered Confidential Information under Euler Hermes\"s Non-Disclosure Agreement?",
+            "Is verbally conveyed information considered Confidential Information under Euler Hermes\"s Non-Disclosure Agreement?",
+            "Is verbally conveyed information considered Confidential Information under Euler Hermes\"s Non-Disclosure Agreement?"
+        ],
+        "cosine_sim": [
+            0.95744224,
+            0.95744224,
+            0.95744224
+        ],
+        "cosine_sim_mean": 0.9574422435565156,
+        "final_score": 0.0
+    },
+    {
+        "index": 127,
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "response": "Yes, the document allows the Receiving Party to share Confidential Information with its Affiliates, employees, contractors, or consultants for the specified purpose. However, it does not mention sharing with third parties beyond these categories. Euler Hermes remains liable for any breaches of confidentiality by those parties.",
+        "generated_questions": [
+            "Does the document permit the Receiving Party to share Confidential Information with others?",
+            "Does the document permit the Receiving Party to share Confidential Information with others?",
+            "Does the document permit the Receiving Party to share Confidential Information with others?"
+        ],
+        "cosine_sim": [
+            0.90930402,
+            0.90930402,
+            0.90930402
+        ],
+        "cosine_sim_mean": 0.9093040170765719,
+        "final_score": 0.9093040170765719
+    },
+    {
+        "index": 128,
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72501402,
+            0.72501402,
+            0.72501402
+        ],
+        "cosine_sim_mean": 0.7250140153880915,
+        "final_score": 0.0
+    },
+    {
+        "index": 129,
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "response": "The provided context does not specify whether the Receiving Party can acquire similar information from a third party. Therefore, I don't know if the Non-Disclosure Agreement allows for that.",
+        "generated_questions": [
+            "Can the Receiving Party acquire similar information from a third party according to the Non-Disclosure Agreement?",
+            "Can the Receiving Party acquire similar information from a third party according to the Non-Disclosure Agreement?",
+            "Can the Receiving Party acquire similar information from a third party according to the Non-Disclosure Agreement?"
+        ],
+        "cosine_sim": [
+            0.93106443,
+            0.93106443,
+            0.93106443
+        ],
+        "cosine_sim_mean": 0.9310644298687447,
+        "final_score": 0.0
+    },
+    {
+        "index": 130,
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "response": "Yes, the document allows the Receiving Party to share Confidential Information with their employees, provided they instruct them to keep it confidential in compliance with the Agreement.",
+        "generated_questions": [
+            "Does the document permit the Receiving Party to share Confidential Information with their employees?",
+            "Does the document permit the Receiving Party to share Confidential Information with their employees?",
+            "Does the document permit the Receiving Party to share Confidential Information with their employees?"
+        ],
+        "cosine_sim": [
+            0.92762671,
+            0.92762671,
+            0.92762671
+        ],
+        "cosine_sim_mean": 0.9276267057068042,
+        "final_score": 0.9276267057068042
+    },
+    {
+        "index": 131,
+        "user_input": "Consider Euler Hermes\"s Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "response": "Yes, the document restricts the use of Confidential Information to the purposes stated in the Agreement, as it specifies that Euler Hermes and its Affiliates need to obtain, review, and examine the information for those particular purposes.",
+        "generated_questions": [
+            "Does the document restrict the use of Confidential Information?",
+            "Does the document restrict the use of Confidential Information?",
+            "Does the document restrict the use of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91228545,
+            0.91228545,
+            0.91228545
+        ],
+        "cosine_sim_mean": 0.9122854471335945,
+        "final_score": 0.9122854471335945
+    },
+    {
+        "index": 132,
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?",
+        "response": "The provided context does not specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement. Therefore, I don't know the answer to that question.",
+        "generated_questions": [
+            "Is the Receiving Party required to destroy or return Confidential Information upon the termination of the Agreement?",
+            "Is the Receiving Party required to destroy or return Confidential Information upon the termination of the Agreement?",
+            "Is the Receiving Party required to destroy or return Confidential Information upon the termination of the Agreement?"
+        ],
+        "cosine_sim": [
+            0.92939322,
+            0.92939322,
+            0.92939322
+        ],
+        "cosine_sim_mean": 0.9293932181470964,
+        "final_score": 0.0
+    },
+    {
+        "index": 133,
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "response": "Yes, the document indicates that the Agreement does not grant the Receiving Party any rights to the Confidential Information. It states that neither Party is bound by any conditions or representations regarding confidentiality other than those explicitly provided in the Agreement. Therefore, the Receiving Party does not obtain any rights to the Confidential Information.",
+        "generated_questions": [
+            "What rights does the Receiving Party have regarding the Confidential Information according to the Agreement?",
+            "What rights does the Receiving Party have regarding the Confidential Information according to the Agreement?",
+            "What rights does the Receiving Party have regarding the Confidential Information according to the document?"
+        ],
+        "cosine_sim": [
+            0.8862467,
+            0.8862467,
+            0.88780809
+        ],
+        "cosine_sim_mean": 0.8867671628833181,
+        "final_score": 0.8867671628833181
+    },
+    {
+        "index": 134,
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "response": "No, the document does not state that Confidential Information shall only include technical information. It also includes proprietary and novel features, as well as certain communications protected by legal privileges. Therefore, Confidential Information encompasses more than just technical information.",
+        "generated_questions": [
+            "What types of information are included in Confidential Information according to the document?",
+            "What types of information are included in Confidential Information according to the document?",
+            "What types of information are included in Confidential Information according to the document?"
+        ],
+        "cosine_sim": [
+            0.87814813,
+            0.87814813,
+            0.87814813
+        ],
+        "cosine_sim_mean": 0.8781481267814858,
+        "final_score": 0.8781481267814858
+    },
+    {
+        "index": 135,
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "response": "Yes, the document requires that Confidential Information be expressly identified by the Disclosing Party by marking it as \"confidential\" or \"proprietary.\"",
+        "generated_questions": [
+            "What does the document require for identifying Confidential Information?",
+            "Does the document specify how Confidential Information should be identified?",
+            "What does the document require for identifying Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.89281356,
+            0.9115456,
+            0.89281356
+        ],
+        "cosine_sim_mean": 0.8990575732394812,
+        "final_score": 0.8990575732394812
+    },
+    {
+        "index": 136,
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "response": "Yes, the document mentions that termination or expiration of the Agreement does not relieve the Board Member of any obligations regarding the Confidential Information disclosed or developed prior to termination. This implies that some obligations may indeed survive the termination of the Agreement.",
+        "generated_questions": [
+            "Do any obligations regarding Confidential Information survive the termination of the Agreement?",
+            "Do any obligations regarding Confidential Information survive the termination of the Agreement?",
+            "Do any obligations regarding Confidential Information survive the termination of the Agreement?"
+        ],
+        "cosine_sim": [
+            0.91141122,
+            0.91141122,
+            0.91141122
+        ],
+        "cosine_sim_mean": 0.9114112215430791,
+        "final_score": 0.0
+    },
+    {
+        "index": 137,
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "response": "The provided context does not explicitly address whether the Receiving Party can independently develop information similar to the Confidential Information. Therefore, I don't know if the Confidentiality Agreement allows for that.",
+        "generated_questions": [
+            "Can the Receiving Party independently develop information similar to the Confidential Information under the Confidentiality Agreement?",
+            "Can the Receiving Party independently develop information similar to the Confidential Information under the Confidentiality Agreement?",
+            "Can the Receiving Party independently develop information similar to the Confidential Information under the Confidentiality Agreement?"
+        ],
+        "cosine_sim": [
+            0.93397435,
+            0.93397435,
+            0.93397435
+        ],
+        "cosine_sim_mean": 0.933974345411122,
+        "final_score": 0.0
+    },
+    {
+        "index": 138,
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "response": "The provided context does not specify whether the Receiving Party is permitted to retain any Confidential Information after its return or destruction. Therefore, I don't know the answer to that question.",
+        "generated_questions": [
+            "Is the Receiving Party allowed to retain any Confidential Information after its return or destruction?",
+            "Is the Receiving Party allowed to retain any Confidential Information after its return or destruction?",
+            "Is the Receiving Party allowed to retain any Confidential Information after its return or destruction?"
+        ],
+        "cosine_sim": [
+            0.92003094,
+            0.92003094,
+            0.92003094
+        ],
+        "cosine_sim_mean": 0.9200309426590602,
+        "final_score": 0.0
+    },
+    {
+        "index": 139,
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "response": "The document specifies that \"Confidential Information\" includes information delivered in written, graphic, or electronic form that is marked as \"confidential\" or \"proprietary.\" It does not explicitly mention verbally conveyed information as being considered Confidential Information. Therefore, based on the provided context, verbally conveyed information may not be included.",
+        "generated_questions": [
+            "Does the document include verbally conveyed information as Confidential Information?",
+            "Does the document include verbally conveyed information as Confidential Information?",
+            "Does the document include verbally conveyed information as Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91928558,
+            0.91928558,
+            0.91928558
+        ],
+        "cosine_sim_mean": 0.9192855822667063,
+        "final_score": 0.0
+    },
+    {
+        "index": 140,
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "response": "The provided context does not specify whether the Receiving Party is allowed to share Confidential Information with third parties, including consultants, agents, and professional advisors. Therefore, I don't know the answer.",
+        "generated_questions": [
+            "Is the Receiving Party allowed to share Confidential Information with third parties?",
+            "Is the Receiving Party allowed to share Confidential Information with third parties?",
+            "Is the Receiving Party allowed to share Confidential Information with third parties?"
+        ],
+        "cosine_sim": [
+            0.90069221,
+            0.90069221,
+            0.90069221
+        ],
+        "cosine_sim_mean": 0.9006922096535667,
+        "final_score": 0.0
+    },
+    {
+        "index": 141,
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.71427956,
+            0.71427956,
+            0.71427956
+        ],
+        "cosine_sim_mean": 0.7142795623393144,
+        "final_score": 0.0
+    },
+    {
+        "index": 142,
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "response": "The context provided does not explicitly address whether the Receiving Party can acquire similar information from a third party. Therefore, I cannot determine if the Confidentiality Agreement allows for that. I don't know.",
+        "generated_questions": [
+            "Can the Receiving Party acquire similar information from a third party according to the Confidentiality Agreement?",
+            "Can the Receiving Party acquire similar information from a third party under the Confidentiality Agreement?",
+            "Can the Receiving Party acquire similar information from a third party according to the Confidentiality Agreement?"
+        ],
+        "cosine_sim": [
+            0.92498451,
+            0.92858036,
+            0.92498451
+        ],
+        "cosine_sim_mean": 0.9261831257852756,
+        "final_score": 0.0
+    },
+    {
+        "index": 143,
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.71941586,
+            0.71941586,
+            0.71941586
+        ],
+        "cosine_sim_mean": 0.7194158575781134,
+        "final_score": 0.0
+    },
+    {
+        "index": 144,
+        "user_input": "Consider HNBA\"s Confidentiality Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "response": "Yes, the HNBA's Confidentiality Agreement restricts the use of Confidential Information to the purposes stated in the Agreement. It specifies that neither party is bound by any conditions regarding confidentiality other than those explicitly outlined in the document. Therefore, the use of Confidential Information is limited to the agreed-upon purposes.",
+        "generated_questions": [
+            "What does the HNBA\"s Confidentiality Agreement say about the use of Confidential Information?",
+            "What does the HNBA\"s Confidentiality Agreement say about the use of Confidential Information?",
+            "What does the HNBA\"s Confidentiality Agreement say about the use of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.94548091,
+            0.94548091,
+            0.94548091
+        ],
+        "cosine_sim_mean": 0.945480906428961,
+        "final_score": 0.945480906428961
+    },
+    {
+        "index": 145,
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document mention whether or not the Receiving Party is allowed to reverse engineer any objects which embody the Disclosing Party\"s Confidential Information?",
+        "response": "Yes, the Non-Disclosure Agreement prohibits the Receiving Party from reverse engineering any components of the PMS Software that incorporate the Confidential Information. This includes a general prohibition on reverse engineering the entire PMS Software.",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement allow the Receiving Party to reverse engineer the PMS Software?",
+            "Does the Non-Disclosure Agreement allow the Receiving Party to reverse engineer the PMS Software?",
+            "Does the Non-Disclosure Agreement allow the Receiving Party to reverse engineer the PMS Software?"
+        ],
+        "cosine_sim": [
+            0.93641073,
+            0.93641073,
+            0.93641073
+        ],
+        "cosine_sim_mean": 0.9364107319859061,
+        "final_score": 0.9364107319859061
+    },
+    {
+        "index": 146,
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "response": "The provided context does not explicitly state whether the Agreement grants the Receiving Party any rights to the Confidential Information. Therefore, I cannot confirm that information based on the context given.",
+        "generated_questions": [
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91437551,
+            0.91437551,
+            0.91437551
+        ],
+        "cosine_sim_mean": 0.9143755128188681,
+        "final_score": 0.0
+    },
+    {
+        "index": 147,
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document state that Confidential Information shall only include technical information?",
+        "response": "The context provided does not specify that Confidential Information includes only technical information. It mentions that Confidential Information does not include any information other than Personal Information. Therefore, it is unclear if the document restricts Confidential Information solely to technical information.",
+        "generated_questions": [
+            "Does the document restrict Confidential Information solely to technical information?",
+            "Does the document restrict Confidential Information solely to technical information?",
+            "Does the document restrict Confidential Information solely to technical information?"
+        ],
+        "cosine_sim": [
+            0.919239,
+            0.919239,
+            0.919239
+        ],
+        "cosine_sim_mean": 0.9192389958357238,
+        "final_score": 0.0
+    },
+    {
+        "index": 148,
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "response": "The provided context does not mention whether any obligations of the Non-Disclosure Agreement may survive its termination. Therefore, I don't know the answer to your question.",
+        "generated_questions": [
+            "Do any obligations of the Non-Disclosure Agreement survive its termination?",
+            "Do any obligations of the Non-Disclosure Agreement survive its termination?",
+            "Do any obligations of the Non-Disclosure Agreement survive its termination?"
+        ],
+        "cosine_sim": [
+            0.91968175,
+            0.91968175,
+            0.91968175
+        ],
+        "cosine_sim_mean": 0.9196817500433078,
+        "final_score": 0.0
+    },
+    {
+        "index": 149,
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "response": "The provided context does not explicitly address whether the Receiving Party can independently develop information similar to the Confidential Information. Therefore, I don't know if the Non-Disclosure Agreement allows for that.",
+        "generated_questions": [
+            "Can the Receiving Party independently develop information similar to the Confidential Information under the Non-Disclosure Agreement?",
+            "Can the Receiving Party independently develop information similar to the Confidential Information under the Non-Disclosure Agreement?",
+            "Can the Receiving Party independently develop information similar to the Confidential Information under the Non-Disclosure Agreement?"
+        ],
+        "cosine_sim": [
+            0.94342716,
+            0.94342716,
+            0.94342716
+        ],
+        "cosine_sim_mean": 0.9434271582307892,
+        "final_score": 0.0
+    },
+    {
+        "index": 150,
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "response": "The context does not indicate that the Non-Disclosure Agreement permits the Receiving Party to retain any Confidential Information after its return or destruction. It specifies that all originals, copies, and reproductions must be returned or destroyed. Therefore, it appears that retention is not allowed.",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement allow the Receiving Party to retain any Confidential Information after its return or destruction?",
+            "Does the Non-Disclosure Agreement allow the Receiving Party to retain any Confidential Information after its return or destruction?",
+            "Does the Non-Disclosure Agreement allow the Receiving Party to retain any Confidential Information after its return or destruction?"
+        ],
+        "cosine_sim": [
+            0.94948154,
+            0.94948154,
+            0.94948154
+        ],
+        "cosine_sim_mean": 0.9494815374963474,
+        "final_score": 0.0
+    },
+    {
+        "index": 151,
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.73592608,
+            0.73592608,
+            0.73592608
+        ],
+        "cosine_sim_mean": 0.7359260842836205,
+        "final_score": 0.0
+    },
+    {
+        "index": 152,
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "response": "Yes, the Non-Disclosure Agreement allows the Receiving Party to share Confidential Information with consultants, agents, and professional advisors, but only on a need-to-know basis. However, this disclosure is contingent upon the Receiving Party having written agreements in place that impose similar confidentiality obligations. Additionally, the Receiving Party must inform these third parties of the confidential nature of the information.",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with third parties under the Non-Disclosure Agreement?",
+            "Can the Receiving Party share Confidential Information with third parties under the Non-Disclosure Agreement?",
+            "Can the Receiving Party share Confidential Information with third parties under the Non-Disclosure Agreement?"
+        ],
+        "cosine_sim": [
+            0.9199882,
+            0.9199882,
+            0.9199882
+        ],
+        "cosine_sim_mean": 0.9199882022398596,
+        "final_score": 0.9199882022398596
+    },
+    {
+        "index": 153,
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72439652,
+            0.72439652,
+            0.72439652
+        ],
+        "cosine_sim_mean": 0.7243965163713577,
+        "final_score": 0.0
+    },
+    {
+        "index": 154,
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72188851,
+            0.72188851,
+            0.72188851
+        ],
+        "cosine_sim_mean": 0.721888514386101,
+        "final_score": 0.0
+    },
+    {
+        "index": 155,
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "response": "The context does not explicitly state whether the Receiving Party can acquire similar information from a third party. It primarily focuses on the obligations regarding the disclosure and protection of Confidential Information. Therefore, I don't know the answer to the question.",
+        "generated_questions": [
+            "Can the Receiving Party acquire similar information from a third party?",
+            "Can the Receiving Party acquire similar information from a third party?",
+            "Can the Receiving Party acquire similar information from a third party?"
+        ],
+        "cosine_sim": [
+            0.90567894,
+            0.90567894,
+            0.90567894
+        ],
+        "cosine_sim_mean": 0.9056789426395425,
+        "final_score": 0.0
+    },
+    {
+        "index": 156,
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "response": "Yes, the Non-Disclosure Agreement allows the Receiving Party to share Confidential Information with their employees and consultants on a need-to-know basis. However, this is contingent upon having written agreements with those employees and consultants that impose similar restrictions as the NDA. Additionally, the Receiving Party must inform them of the confidential nature of the information.",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement allow the Receiving Party to share Confidential Information with employees and consultants?",
+            "Does the Non-Disclosure Agreement allow the Receiving Party to share Confidential Information with employees and consultants?",
+            "What does the Non-Disclosure Agreement allow the Receiving Party to do regarding Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.93559619,
+            0.93559619,
+            0.90810813
+        ],
+        "cosine_sim_mean": 0.9264335059607319,
+        "final_score": 0.9264335059607319
+    },
+    {
+        "index": 157,
+        "user_input": "Consider the Non-Disclosure Agreement between IBC and PMS; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.73495115,
+            0.73495115,
+            0.73495115
+        ],
+        "cosine_sim_mean": 0.7349511548380602,
+        "final_score": 0.0
+    },
+    {
+        "index": 158,
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "response": "Yes, the document indicates that the Agreement does not grant the Receiving Party any rights to the Confidential Information. All Confidential Information remains the property of the Disclosing Party, and no rights are granted to the other party.",
+        "generated_questions": [
+            "What rights does the Agreement grant to the Receiving Party regarding the Confidential Information?",
+            "What rights does the Agreement grant to the Receiving Party regarding the Confidential Information?",
+            "What rights does the Agreement grant to the Receiving Party regarding the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.89720961,
+            0.89720961,
+            0.89720961
+        ],
+        "cosine_sim_mean": 0.8972096099979489,
+        "final_score": 0.8972096099979489
+    },
+    {
+        "index": 159,
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72991115,
+            0.72991115,
+            0.72991115
+        ],
+        "cosine_sim_mean": 0.7299111513262598,
+        "final_score": 0.0
+    },
+    {
+        "index": 160,
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document state that Confidential Information shall only include technical information?",
+        "response": "The document does not state that Confidential Information shall only include technical information. It encompasses a broader range of information, including business affairs, customer relations, and operational processes. Therefore, it includes both technical and non-technical information.",
+        "generated_questions": [
+            "What types of information are included in Confidential Information according to the document?",
+            "What types of information are included in Confidential Information according to the document?",
+            "What types of information are included in Confidential Information according to the document?"
+        ],
+        "cosine_sim": [
+            0.86971516,
+            0.86971516,
+            0.86971516
+        ],
+        "cosine_sim_mean": 0.8697151649246693,
+        "final_score": 0.8697151649246693
+    },
+    {
+        "index": 161,
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "response": "The context does not explicitly state that all Confidential Information must be expressly identified by the Disclosing Party. It mentions that information regarded as confidential by a reasonable business person is included. Therefore, it is unclear if explicit identification is required.",
+        "generated_questions": [
+            "Is explicit identification of Confidential Information required by the Disclosing Party?",
+            "Is explicit identification of Confidential Information required by the Disclosing Party?",
+            "Is explicit identification of Confidential Information required by the Disclosing Party?"
+        ],
+        "cosine_sim": [
+            0.91918914,
+            0.91918914,
+            0.91918914
+        ],
+        "cosine_sim_mean": 0.9191891448281887,
+        "final_score": 0.0
+    },
+    {
+        "index": 162,
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "response": "The retrieved context does not explicitly mention that some obligations of the Agreement may survive its termination. Therefore, I don't know if such a provision exists in the Non-Disclosure Agreement between IGC and LSE.",
+        "generated_questions": [
+            "Do any obligations of the Agreement survive its termination?",
+            "Do any obligations of the Agreement survive its termination?",
+            "Do any obligations of the Agreement survive its termination?"
+        ],
+        "cosine_sim": [
+            0.88799465,
+            0.88799465,
+            0.88799465
+        ],
+        "cosine_sim_mean": 0.8879946460955533,
+        "final_score": 0.0
+    },
+    {
+        "index": 163,
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "response": "Yes, the Non-Disclosure Agreement permits the Receiving Party to retain some Confidential Information even after its return or destruction, as the provisions of the Agreement continue to apply to any documents and materials retained by the Recipient.",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement allow the Receiving Party to keep any Confidential Information after it is returned or destroyed?",
+            "Does the Non-Disclosure Agreement allow the Receiving Party to keep any Confidential Information after it is returned or destroyed?",
+            "Does the Non-Disclosure Agreement allow the Receiving Party to keep any Confidential Information after it is returned or destroyed?"
+        ],
+        "cosine_sim": [
+            0.93876351,
+            0.93876351,
+            0.93876351
+        ],
+        "cosine_sim_mean": 0.9387635125458074,
+        "final_score": 0.9387635125458074
+    },
+    {
+        "index": 164,
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "response": "The context does not explicitly mention whether verbally conveyed information is considered Confidential Information. It only states that the Recipient must inform its Representatives of the confidential nature of the information before disclosure. Therefore, it is unclear if verbally conveyed information is included as Confidential Information under the Non-Disclosure Agreement.",
+        "generated_questions": [
+            "Is verbally conveyed information considered Confidential Information under the Non-Disclosure Agreement?",
+            "Is verbally conveyed information considered Confidential Information under the Non-Disclosure Agreement?",
+            "Is verbally conveyed information considered Confidential Information under the Non-Disclosure Agreement?"
+        ],
+        "cosine_sim": [
+            0.91903983,
+            0.91903983,
+            0.91903983
+        ],
+        "cosine_sim_mean": 0.9190398287946292,
+        "final_score": 0.0
+    },
+    {
+        "index": 165,
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "response": "Yes, the Non-Disclosure Agreement allows the Receiving Party to share Confidential Information with its Representatives, which can include consultants, agents, and professional advisors, as long as they inform them of its confidential nature.",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement permit the Receiving Party to share Confidential Information with others?",
+            "Does the Non-Disclosure Agreement permit the Receiving Party to share Confidential Information with others?",
+            "Does the Non-Disclosure Agreement permit the Receiving Party to share Confidential Information with others?"
+        ],
+        "cosine_sim": [
+            0.91403606,
+            0.91403606,
+            0.91403606
+        ],
+        "cosine_sim_mean": 0.9140360596749805,
+        "final_score": 0.9140360596749805
+    },
+    {
+        "index": 166,
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+        "response": "Yes, the Non-Disclosure Agreement permits the Receiving Party to create a copy of some Confidential Information if required by law or applicable governmental authority, and to the extent necessary to keep evidence of compliance with the Agreement.",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement allow the Receiving Party to create copies of Confidential Information?",
+            "Does the Non-Disclosure Agreement allow the Receiving Party to create copies of Confidential Information?",
+            "Does the Non-Disclosure Agreement allow the Receiving Party to create copies of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.93360523,
+            0.93360523,
+            0.93360523
+        ],
+        "cosine_sim_mean": 0.9336052280706876,
+        "final_score": 0.9336052280706876
+    },
+    {
+        "index": 167,
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72569751,
+            0.72569751,
+            0.72569751
+        ],
+        "cosine_sim_mean": 0.7256975104036328,
+        "final_score": 0.0
+    },
+    {
+        "index": 168,
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "response": "Yes, the Non-Disclosure Agreement allows the Receiving Party to share Confidential Information with its employees, referred to as Representatives, who need to know it for the specified purpose. However, the Receiving Party must inform these Representatives about the confidential nature of the information before disclosing it.",
+        "generated_questions": [
+            "Does the Non-Disclosure Agreement allow the Receiving Party to share Confidential Information with its employees?",
+            "Does the Non-Disclosure Agreement allow the Receiving Party to share Confidential Information with its employees?",
+            "Does the Non-Disclosure Agreement allow the Receiving Party to share Confidential Information with its employees?"
+        ],
+        "cosine_sim": [
+            0.93813608,
+            0.93813608,
+            0.93813608
+        ],
+        "cosine_sim_mean": 0.9381360805151179,
+        "final_score": 0.9381360805151179
+    },
+    {
+        "index": 169,
+        "user_input": "Consider the Non-Disclosure Agreement between IGC and LSE; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "response": "Yes, the Non-Disclosure Agreement restricts the use of Confidential Information to the purposes stated in the Agreement. It specifies that the information cannot be disclosed to third parties and can only be recorded as strictly necessary for the stated Purpose.",
+        "generated_questions": [
+            "What does the Non-Disclosure Agreement say about the use of Confidential Information?",
+            "What does the Non-Disclosure Agreement say about the use of Confidential Information?",
+            "What does the Non-Disclosure Agreement say about the use of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91376758,
+            0.91376758,
+            0.91376758
+        ],
+        "cosine_sim_mean": 0.9137675781738436,
+        "final_score": 0.9137675781738436
+    },
+    {
+        "index": 170,
+        "user_input": "Consider infomagnets Non-Disclosure Agreement; Does the document mention whether or not the Receiving Party is allowed to reverse engineer any objects which embody the Disclosing Party\"s Confidential Information?",
+        "response": "Yes, the document states that the Receiving Party may not reverse engineer, decompile, or disassemble any software disclosed to them. This restriction applies to any objects embodying the Disclosing Party's Confidential Information.",
+        "generated_questions": [
+            "What restrictions does the document place on the Receiving Party regarding the software?",
+            "What restrictions does the document place on the Receiving Party regarding the software?",
+            "What does the document say about the Receiving Party\"s rights regarding the software?"
+        ],
+        "cosine_sim": [
+            0.85159366,
+            0.85161379,
+            0.85863505
+        ],
+        "cosine_sim_mean": 0.8539475006095328,
+        "final_score": 0.8539475006095328
+    },
+    {
+        "index": 171,
+        "user_input": "Consider infomagnets Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "response": "The context does not explicitly state whether the Agreement grants the Receiving Party any rights to the Confidential Information. Therefore, I don't know the answer to your question.",
+        "generated_questions": [
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?",
+            "Does the Agreement grant the Receiving Party any rights to the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92358876,
+            0.92358876,
+            0.92358876
+        ],
+        "cosine_sim_mean": 0.923588759608651,
+        "final_score": 0.0
+    },
+    {
+        "index": 172,
+        "user_input": "Consider infomagnets Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72053535,
+            0.72053535,
+            0.72053535
+        ],
+        "cosine_sim_mean": 0.7205353510348069,
+        "final_score": 0.0
+    },
+    {
+        "index": 173,
+        "user_input": "Consider infomagnets Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "response": "The provided context does not specify whether all Confidential Information must be expressly identified by the Disclosing Party. Therefore, I don't know if that requirement exists in INFOMAGNET's Non-Disclosure Agreement.",
+        "generated_questions": [
+            "Does infomagnets Non-Disclosure Agreement require all Confidential Information to be expressly identified by the Disclosing Party?",
+            "Does infomagnets Non-Disclosure Agreement require all Confidential Information to be expressly identified by the Disclosing Party?",
+            "Does infomagnets Non-Disclosure Agreement require all Confidential Information to be expressly identified by the Disclosing Party?"
+        ],
+        "cosine_sim": [
+            0.97952,
+            0.97952,
+            0.97952
+        ],
+        "cosine_sim_mean": 0.9795200035840214,
+        "final_score": 0.0
+    },
+    {
+        "index": 174,
+        "user_input": "Consider infomagnets Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "response": "Yes, the document states that all obligations created by the Agreement shall survive the change or termination of the parties' business relationship.",
+        "generated_questions": [
+            "Do the obligations created by the Agreement survive the change or termination of the parties business relationship?",
+            "Do the obligations created by the Agreement survive the change or termination of the parties business relationship?",
+            "Do the obligations created by the Agreement survive the change or termination of the parties business relationship?"
+        ],
+        "cosine_sim": [
+            0.88027867,
+            0.88027867,
+            0.88027867
+        ],
+        "cosine_sim_mean": 0.880278671618456,
+        "final_score": 0.880278671618456
+    },
+    {
+        "index": 175,
+        "user_input": "Consider infomagnets Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "response": "The context does not explicitly address whether the Receiving Party can independently develop information similar to the Confidential Information. Therefore, I don't know if the Non-Disclosure Agreement allows for that.",
+        "generated_questions": [
+            "Can the Receiving Party independently develop information similar to the Confidential Information under the Non-Disclosure Agreement?",
+            "Can the Receiving Party independently develop information similar to the Confidential Information under the Non-Disclosure Agreement?",
+            "Can the Receiving Party independently develop information similar to the Confidential Information under the Non-Disclosure Agreement?"
+        ],
+        "cosine_sim": [
+            0.94885885,
+            0.94885885,
+            0.94885885
+        ],
+        "cosine_sim_mean": 0.9488588469804574,
+        "final_score": 0.0
+    },
+    {
+        "index": 176,
+        "user_input": "Consider infomagnets Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "response": "The context does not indicate that the Receiving Party is permitted to retain any Confidential Information after its return or destruction. It specifies that all originals, copies, and summaries must be returned or destroyed. Therefore, the document does not allow retention of Confidential Information.",
+        "generated_questions": [
+            "Can the Receiving Party retain any Confidential Information after its return or destruction?",
+            "Is the Receiving Party allowed to retain any Confidential Information after its return or destruction?",
+            "Can the Receiving Party retain any Confidential Information after its return or destruction?"
+        ],
+        "cosine_sim": [
+            0.92287958,
+            0.92208694,
+            0.92287815
+        ],
+        "cosine_sim_mean": 0.9226148885323219,
+        "final_score": 0.9226148885323219
+    },
+    {
+        "index": 177,
+        "user_input": "Consider infomagnets Non-Disclosure Agreement; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "response": "The provided context does not explicitly mention whether verbally conveyed information is considered Confidential Information under INFOMAGNET's Non-Disclosure Agreement. Therefore, I cannot determine if such information is included.",
+        "generated_questions": [
+            "Is verbally conveyed information considered Confidential Information under infomagnets Non-Disclosure Agreement?",
+            "Is verbally conveyed information considered Confidential Information under infomagnets Non-Disclosure Agreement?",
+            "Is verbally conveyed information considered Confidential Information under infomagnets Non-Disclosure Agreement?"
+        ],
+        "cosine_sim": [
+            0.96332242,
+            0.96332242,
+            0.96332242
+        ],
+        "cosine_sim_mean": 0.963322420075559,
+        "final_score": 0.0
+    },
+    {
+        "index": 178,
+        "user_input": "Consider infomagnets Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "response": "The context does not explicitly state whether the Receiving Party can share Confidential Information with third parties, including consultants, agents, and professional advisors. Therefore, I don't know if such sharing is allowed under INFOMAGNET's Non-Disclosure Agreement.",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with third parties under infomagnets Non-Disclosure Agreement?",
+            "Can the Receiving Party share Confidential Information with third parties under infomagnets Non-Disclosure Agreement?",
+            "Can the Receiving Party share Confidential Information with third parties under infomagnets Non-Disclosure Agreement?"
+        ],
+        "cosine_sim": [
+            0.95165926,
+            0.95165926,
+            0.95165926
+        ],
+        "cosine_sim_mean": 0.9516592629898218,
+        "final_score": 0.0
+    },
+    {
+        "index": 179,
+        "user_input": "Consider infomagnets Non-Disclosure Agreement; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?",
+        "response": "The context does not indicate that the Receiving Party is permitted to create a copy of Confidential Information. Instead, it states that the Receiving Party must return or certify the destruction of all originals and copies. Therefore, it appears that creating copies is not allowed.",
+        "generated_questions": [
+            "Is the Receiving Party allowed to create a copy of Confidential Information?",
+            "Is the Receiving Party allowed to create a copy of Confidential Information?",
+            "Is the Receiving Party allowed to create copies of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.91048888,
+            0.91048888,
+            0.91094306
+        ],
+        "cosine_sim_mean": 0.9106402725788246,
+        "final_score": 0.0
+    },
+    {
+        "index": 180,
+        "user_input": "Consider infomagnets Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "response": "The provided context does not specifically mention the requirement for the Receiving Party to notify the Disclosing Party if they are compelled by law, regulation, or judicial process to disclose Confidential Information. Therefore, I don't know if that requirement is included in INFOMAGNET's Non-Disclosure Agreement.",
+        "generated_questions": [
+            "Does infomagnets Non-Disclosure Agreement require the Receiving Party to notify the Disclosing Party if compelled by law to disclose Confidential Information?",
+            "Does infomagnets Non-Disclosure Agreement require the Receiving Party to notify the Disclosing Party if compelled by law to disclose Confidential Information?",
+            "Is there a requirement for the Receiving Party to notify the Disclosing Party if compelled by law to disclose Confidential Information in infomagnets Non-Disclosure Agreement?"
+        ],
+        "cosine_sim": [
+            0.97174124,
+            0.97174124,
+            0.95959839
+        ],
+        "cosine_sim_mean": 0.9676936259289372,
+        "final_score": 0.0
+    },
+    {
+        "index": 181,
+        "user_input": "Consider infomagnets Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "response": "The provided context does not specify whether the Receiving Party can acquire similar information from a third party. Therefore, I don't know the answer to that question.",
+        "generated_questions": [
+            "Can the Receiving Party acquire similar information from a third party?",
+            "Can the Receiving Party acquire similar information from a third party?",
+            "Can the Receiving Party acquire similar information from a third party?"
+        ],
+        "cosine_sim": [
+            0.90813626,
+            0.90813626,
+            0.90813626
+        ],
+        "cosine_sim_mean": 0.9081362625496513,
+        "final_score": 0.0
+    },
+    {
+        "index": 182,
+        "user_input": "Consider infomagnets Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?",
+        "response": "The provided context does not specify whether the Receiving Party can share Confidential Information with their employees. Therefore, I don't know if the document allows such sharing.",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with their employees?",
+            "Can the Receiving Party share Confidential Information with their employees?",
+            "Can the Receiving Party share Confidential Information with their employees according to the document?"
+        ],
+        "cosine_sim": [
+            0.9176507,
+            0.9176507,
+            0.91954052
+        ],
+        "cosine_sim_mean": 0.9182806428344591,
+        "final_score": 0.0
+    },
+    {
+        "index": 183,
+        "user_input": "Consider infomagnets Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?",
+        "response": "Yes, the Non-Disclosure Agreement restricts the use of Confidential Information to the purposes stated in the Agreement. It defines \"Confidential Information\" broadly, including various types of sensitive information related to the Disclosing Party. Therefore, any use of such information must align with the specified purposes in the Agreement.",
+        "generated_questions": [
+            "What does the Non-Disclosure Agreement say about the use of Confidential Information?",
+            "What does the Non-Disclosure Agreement say about the use of Confidential Information?",
+            "What does the Non-Disclosure Agreement say about the use of Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92611008,
+            0.92611008,
+            0.92611008
+        ],
+        "cosine_sim_mean": 0.9261100770243992,
+        "final_score": 0.9261100770243992
+    },
+    {
+        "index": 184,
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+        "response": "Yes, the document indicates that the Agreement does not grant the Receiving Party any rights to the Confidential Information, as it specifies that the Recipient may only use the information for the stated Purpose and requires prior written consent for any other use.",
+        "generated_questions": [
+            "What rights does the Agreement grant to the Receiving Party regarding the Confidential Information?",
+            "What rights does the Agreement grant to the Receiving Party regarding the Confidential Information?",
+            "What rights does the Agreement grant to the Receiving Party regarding the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.89889768,
+            0.89889768,
+            0.89889768
+        ],
+        "cosine_sim_mean": 0.8988976754657027,
+        "final_score": 0.8988976754657027
+    },
+    {
+        "index": 185,
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document state that Confidential Information shall only include technical information?",
+        "response": "No, the document does not state that Confidential Information shall only include technical information. It defines Confidential Information broadly to include all confidential, proprietary, and trade secret information in various formats. This encompasses more than just technical information.",
+        "generated_questions": [
+            "Does the document state that Confidential Information only includes technical information?",
+            "Does the document state that Confidential Information only includes technical information?",
+            "Does the document state that Confidential Information only includes technical information?"
+        ],
+        "cosine_sim": [
+            0.93259053,
+            0.93259053,
+            0.93259053
+        ],
+        "cosine_sim_mean": 0.9325905329804614,
+        "final_score": 0.9325905329804614
+    },
+    {
+        "index": 186,
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?",
+        "response": "Yes, the document requires that information in oral or visual form must be identified as Confidential Information at the time of disclosure and confirmed in writing within fourteen days. Additionally, information that should reasonably be considered Confidential Information based on its nature or circumstances is also included. Therefore, not all Confidential Information needs to be expressly identified.",
+        "generated_questions": [
+            "What are the requirements for identifying Confidential Information according to the document?",
+            "What are the requirements for identifying Confidential Information in the document?",
+            "What are the requirements for identifying Confidential Information in the document?"
+        ],
+        "cosine_sim": [
+            0.87377494,
+            0.88065447,
+            0.88065447
+        ],
+        "cosine_sim_mean": 0.87836129409192,
+        "final_score": 0.87836129409192
+    },
+    {
+        "index": 187,
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?",
+        "response": "The provided context does not mention whether any obligations of the Mutual Non-Disclosure Agreement may survive its termination. Therefore, I don't know the answer to your question.",
+        "generated_questions": [
+            "Do any obligations of the Mutual Non-Disclosure Agreement survive its termination?",
+            "Do any obligations of the Mutual Non-Disclosure Agreement survive its termination?",
+            "Do any obligations of the Mutual Non-Disclosure Agreement survive its termination?"
+        ],
+        "cosine_sim": [
+            0.92355888,
+            0.92355888,
+            0.92355888
+        ],
+        "cosine_sim_mean": 0.9235588797640494,
+        "final_score": 0.0
+    },
+    {
+        "index": 188,
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?",
+        "response": "The context does not explicitly state whether the Receiving Party can independently develop similar information. It emphasizes that the Confidential Information must be used solely for the specified Purpose and requires prior written consent for any other use. Therefore, it is unclear if independent development is permitted.",
+        "generated_questions": [
+            "Can the Receiving Party independently develop similar information based on the context provided?",
+            "Can the Receiving Party independently develop similar information based on the context provided?",
+            "Can the Receiving Party independently develop similar information?"
+        ],
+        "cosine_sim": [
+            0.89076921,
+            0.890852,
+            0.90616281
+        ],
+        "cosine_sim_mean": 0.895928008943497,
+        "final_score": 0.0
+    },
+    {
+        "index": 189,
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+        "response": "Yes, the Mutual Non-Disclosure Agreement permits the Receiving Party to retain one copy of the Confidential Information for archival purposes after its return or destruction. This copy must be kept in a secure file. However, any copies forwarded in error must be destroyed entirely without retention.",
+        "generated_questions": [
+            "Does the Mutual Non-Disclosure Agreement allow the Receiving Party to keep a copy of the Confidential Information?",
+            "Does the Mutual Non-Disclosure Agreement allow the Receiving Party to retain a copy of the Confidential Information?",
+            "Does the Mutual Non-Disclosure Agreement allow the Receiving Party to retain a copy of the Confidential Information?"
+        ],
+        "cosine_sim": [
+            0.92045377,
+            0.92561809,
+            0.92561809
+        ],
+        "cosine_sim_mean": 0.9238966499439232,
+        "final_score": 0.9238966499439232
+    },
+    {
+        "index": 190,
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document allow verbally conveyed information to be considered as Confidential Information?",
+        "response": "Yes, the Mutual Non-Disclosure Agreement allows verbally conveyed information to be considered Confidential Information if it is identified as such at the time of disclosure and confirmed in writing within fourteen days. Additionally, information that should reasonably be considered confidential based on its nature or circumstances is also included.",
+        "generated_questions": [
+            "What does the Mutual Non-Disclosure Agreement say about verbally conveyed information?",
+            "What does the Mutual Non-Disclosure Agreement say about verbally conveyed information?",
+            "What does the Mutual Non-Disclosure Agreement say about verbally conveyed information?"
+        ],
+        "cosine_sim": [
+            0.91618737,
+            0.91618737,
+            0.91618737
+        ],
+        "cosine_sim_mean": 0.9161873674751423,
+        "final_score": 0.9161873674751423
+    },
+    {
+        "index": 191,
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+        "response": "The context does not explicitly state that the Receiving Party can share Confidential Information with third parties, including consultants, agents, and professional advisors. It emphasizes that the Recipient must use the Confidential Information solely for the specified Purpose and requires prior written consent from the Discloser for any other use. Therefore, without the Discloser's consent, sharing with third parties is not allowed.",
+        "generated_questions": [
+            "Can the Receiving Party share Confidential Information with third parties?",
+            "Can the Receiving Party share Confidential Information with third parties?",
+            "Can the Receiving Party share Confidential Information with third parties?"
+        ],
+        "cosine_sim": [
+            0.90766013,
+            0.90766013,
+            0.90766013
+        ],
+        "cosine_sim_mean": 0.9076601339018912,
+        "final_score": 0.9076601339018912
+    },
+    {
+        "index": 192,
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?",
+        "response": "I don't know.",
+        "generated_questions": [
+            "What do you think about the current situation?",
+            "What do you think about the current situation?",
+            "What do you think about the current situation?"
+        ],
+        "cosine_sim": [
+            0.72269692,
+            0.72269692,
+            0.72269692
+        ],
+        "cosine_sim_mean": 0.7226969237016152,
+        "final_score": 0.0
+    },
+    {
+        "index": 193,
+        "user_input": "Consider the Mutual Non-Disclosure Agreement between IPTK and CO; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?",
+        "response": "The context does not explicitly address whether the Receiving Party can acquire similar information from a third party. It only states that the Recipient must use the Confidential Information solely for the specified Purpose. Therefore, I don't know if the document allows for acquiring similar information from a third party.",
+        "generated_questions": [
+            "Can the Receiving Party acquire similar information from a third party according to the document?",
+            "Can the Receiving Party acquire similar information from a third party according to the document?",
+            "Can the Receiving Party acquire similar information from a third party according to the document?"
+        ],
+        "cosine_sim": [
+            0.9145905,
+            0.9145905,
+            0.9145905
+        ],
+        "cosine_sim_mean": 0.9145905017046992,
+        "final_score": 0.0
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "baseline": {},
+    "CoT": {},
+    "human_tuned": {
+        "k10": {
+            "ragas_metrics": "{'faithfulness': 0.8868, 'answer_relevancy': 0.6790}",
+            "bert_f1": 0.7693674548999551,
+            "rouge_recall": 0.12617222611336523
+        }
+    }
+}
